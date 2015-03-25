@@ -1,9 +1,16 @@
 #Network Geography
 
-March 25th
+For resources check out the [Resources](Resources.md) page in this repo
+##March 25th
+
+Intro and Submarine Cable Maps
 	
-April 1st
+##April 1st
 
-April 15th
+Wireless Networking and Scavenger Hunt
 
-April 22nd
+##April 15th
+Show and Tell
+
+##April 22nd
+TBD
