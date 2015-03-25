@@ -6,22 +6,14 @@ Work in progress...
 
 
 
-##References
+##References, Reading
 ---
-<!--[Critical Engineering](http://criticalengineering.org/)
-
+[Critical Engineering](http://criticalengineering.org/)
+<!--
 [Delivery For Mr. Assange](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/)
 
 [Newstweek](http://newstweek.com/)
 
-
-Ping Rudgoldberg machine
-Resources
-File structures
-Slides
-Example Code
-
-Setup parsers for NSHeyy logs 
 
 -->
 ##Tutorials, Software
