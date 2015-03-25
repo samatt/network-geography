@@ -57,6 +57,8 @@ Setup parsers for NSHeyy logs
 
 [geojson of the Telegeography data](/march25/submarine_cables.geojson) : converted from a Google Fusion Table, which, I can't even
 
+[*Private Line* Point Arena article from 1995](https://www.dropbox.com/s/ejdbrs9r4kf9mrq/private_line.pdf?dl=0)
+
 [FCC Submarine Cable Licenses 1994-2001)](/march25/fcc) : attempt to narrow documents to submarine cables only; if interested in full FCC license archive (which has other cool satellite and international network stuff) will add to the repo
 
 [Submarine Cable Taps](http://lifewinning.com/submarine-cable-taps)
