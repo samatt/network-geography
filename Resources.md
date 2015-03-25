@@ -9,6 +9,8 @@ Work in progress...
 ##References, Reading
 ---
 [Critical Engineering](http://criticalengineering.org/)
+[A Mathematical Theory Of Communication - Claude Shannon](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
+
 <!--
 [Delivery For Mr. Assange](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/)
 
@@ -56,6 +58,7 @@ Work in progress...
 [Submarine Cable Taps](http://lifewinning.com/submarine-cable-taps)
 
 ##Other Cable/Physical Infrastructure Resources
+[325 Hudson](https://gumroad.com/l/325Hudson)
 [Seeing Networks in New York](http://seeingnetworks.in/nyc)
 
 [Level 3 Cable Map](http://maps.level3.com)
