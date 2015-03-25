@@ -1,6 +1,6 @@
 #Network Geography
 
-For resources check out the [Resources](Resources.md) page in this repo
+Check out the [Resources](Resources.md) page in this repo.
 ##March 25th
 
 Intro and Submarine Cable Maps
