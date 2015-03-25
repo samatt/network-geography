@@ -59,6 +59,7 @@ Work in progress...
 
 ##Other Cable/Physical Infrastructure Resources
 [325 Hudson](https://gumroad.com/l/325Hudson)
+
 [Seeing Networks in New York](http://seeingnetworks.in/nyc)
 
 [Level 3 Cable Map](http://maps.level3.com)
