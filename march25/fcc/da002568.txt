@@ -1,0 +1,251 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+FLAG Pacific Limited
+
+Application for a License to Land and Operate in
+the United States a Digital Submarine Cable
+System Between the United States and Canada
+and Japan and Korea
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+File No. SCL-LIC-20000606-00023
+
+
+
+                     CABLE LANDING LICENSE
+
+   Adopted:  November 8, 2000           Released: November 9, 2000
+
+By the Chief, Telecommunications Division:
+
+                      I.introduction
+1.In this Order, we grant the application of FLAG Pacific Limited (FLAG Pacific) pursuant to
+the Cable Landing License Act and Executive Order No. 10530, for authority to land and operate a
+private fiber optic submarine cable system to be called "FLAG Pacific-1," extending between the United
+States and Canada, Japan, and Korea.  FLAG Pacific proposes to operate FLAG Pacific-1 on a non-
+common carrier basis.  We find that FLAG Pacific has provided sufficient information under our rules to
+comply with the Cable Landing License Act, and that it would serve the public interest to grant the cable
+    landing license subject to the conditions set out below.
+                      II.Application
+3.According to the Application, FLAG Pacific is a company organized and existing under the
+laws of Bermuda.  FLAG Pacific is more than 90 percent owned by FLAG Pacific Holdings Limited, a
+Bermuda intermediary holding company which in turn is a wholly-owned subsidiary of FLAG Telecom
+Holdings Limited (FLAG Telecom), a publicly-traded Bermuda holding company.
+4.The proposed FLAG Pacific-1 cable will be a loop system consisting of undersea segments
+extending from south of Tokyo, Japan to Pusan, Korea; the Aleutian Islands, Alaska; Vancouver Island,
+Canada; San Francisco, California (or, alternatively, Portland, Oregon); and the Hawaiian Islands.  As
+illustrated in Exhibit A, Segment N will extend north from the western coast of the United States, either
+from a point near Portland, Oregon or a point south of San Francisco, California, to Vancouver Island,
+Canada, to the Aleutian Islands in Alaska, and across the Pacific Ocean to Pusan, Korea, and on to a
+point south of Tokyo, Japan; Segment S will extend either from a point near Portland, Oregon or a point
+south of San Francisco, California to the Hawaiian Islands, and across the Pacific Ocean to a point south
+of Tokyo, Japan.  The exact landing sites and the exact locations of the landing stations, including
+whether FLAG Pacific-1 will land on the western shore of Oregon as opposed to south of San Francisco,
+            California, have not yet been finalized.
+5.FLAG Pacific-1 will use laser-generated light to transmit digital information over eight optical
+fiber pairs on Segments N and S of the system.  The system will be based on synchronous digital
+hierarchy and will use dense wave division multiplexing.  The system will be constructed in a self-
+healing ring architecture.  The system is designed to carry voice, high-speed data, and video traffic with
+capacity of 5.12 terabits per second on each of the trans-Pacific segments, which is approximately 25
+times the capacity of current trans-Pacific cable technology.  FLAG Pacific-1 is expected to begin service
+                 in the fourth quarter of 2001.
+                        VI.Comments
+7.We placed the Application on public notice on June 16, 2000.  We received no comments on
+the application.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act,
+and Executive Order No. 10530, we informed the Department of State of the Application.  The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to issuance of the cable
+                        landing license.
+                      VIII.Discussion
+           A.Private Submarine Cable Policy
+9.FLAG Pacific proposes to operate FLAG Pacific-1 as a non-common carrier submarine cable
+system in which capacity will not be offered indifferently to the user public.  FLAG Pacific requests a
+license under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non-common carrier cables where: (1) there is no legal compulsion to serve
+the public indifferently; and (2) there are no reasons implicit in the nature of the operations to expect an
+      indifferent holding-out to the eligible user public.
+10.In applying the first prong of the test to submarine cable authorizations, the Commission has
+stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+generally has focused on whether an applicant will be able to exercise market power because of the lack
+of alternative facilities.  Where there are sufficient alternatives, the Commission has found that the public
+interest does not require the licensee to offer capacity on the proposed cable on a common carrier basis,
+but rather, in those circumstances, the public interest would be served by allowing a submarine cable to
+           be offered on a non-common carrier basis.
+11.In the Application, FLAG Pacific states that it is not affiliated with any foreign carrier with
+market power in the markets where FLAG Pacific-1 will land.  In addition, FLAG Pacific asserts that
+there are sufficient existing and planned cables on the route to prevent FLAG Pacific-1 from becoming a
+bottleneck facility, including: (1) CANUS-1; (2) Japan-US; and (3) China-US. 
+12.No one has advocated that the public interest requires FLAG Pacific-1 to be operated on a
+common carrier basis.  Given the unopposed evidence on the availability of alternative cables and FLAG
+Pacific's representation that none of its affiliates has market power in any of the cable's landing
+countries, we find that it would not serve the public interest to impose common carrier regulation on the
+operations of FLAG Pacific-1 at this time.  We note, however, that we retain the ability to impose
+common carrier or common-carrier-like obligations on the operations of this or any other submarine
+cable system if the public interest so requires.  Furthermore, we maintain the authority to classify
+facilities as common carrier facilities subject to Title II of the Communications Act if the public interest
+requires that the facilities be offered to the public indifferently.
+13.Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  FLAG Pacific states
+that capacity will not be sold indifferently to the user public.  Instead, capacity will be assigned pursuant
+to "individualized decisions."  We therefore conclude that FLAG Pacific will operate FLAG Pacific-1
+                 on a non-common carrier basis.
+14.We conclude that FLAG Pacific will not offer capacity in FLAG Pacific-1 to the public on a
+common carrier basis and that the public interest does not require it to do so.  Accordingly, we conclude
+that it is appropriate to license FLAG Pacific-1 on a non-common carrier basis.  We also find that FLAG
+Pacific will not provide a telecommunications service for a fee to such a class of users as to be
+"effectively available directly to the public" and thus will not be a "telecommunications carrier" pursuant
+             to the Telecommunications Act of 1996.
+            A.Ownership and Landing Points
+15.FLAG Pacific has provided the ownership information required by Sections 1.767(a)(6) 63.18
+of the Commission's rules.  A wholly-owned subsidiary of FLAG Pacific, FLAG Pacific USA Ltd., will
+own the U.S. cable stations, including real property, buildings and terminal equipment, as well as the
+U.S. territorial portions of the submarine cable from the landing stations to the U.S. territorial limit.  In
+Japan, either a wholly-owned subsidiary of FLAG Pacific or a wholly-owned subsidiary of FLAG
+Pacific's parent FLAG Telecom, FLAG Telecom Japan Limited, will own or have the right to use the
+landing station south of Tokyo, Japan and the corresponding portions of the system in Japan.  The
+foreign cable stations and the portions of the submarine cable within Canadian and Korean territorial
+limits will be owned by wholly-owned subsidiaries of FLAG Pacific in each country.  FLAG Pacific
+itself will own the remaining portions of the FLAG Pacific-1 system.
+16.The application states that FLAG Pacific-1 will land either south of San Francisco, California
+or, alternatively, on the coast near Portland, Oregon, will have a system interface at the cable landing
+station on the Hawaiian Islands, a regeneration point/landing station on the Aleutian Islands in Alaska,
+and system interfaces at the landing stations in Canada, Japan, and Korea.  We find the applicant's
+description of the likely landing points to be sufficient to determine that the proposed system complies
+with the provisions of the Cable Landing License Act and Commission rules.  Section 1.767(a) of the
+Commission's rules permits applicants in an initial application to provide a general description of landing
+points.  The applicant, however, must file a specific description of the landing points, including a map,
+no later than 90 days prior to construction at that landing point.   The Commission will give public notice
+of the filing of the specific description, and grant of the license will be considered final with respect to
+that landing point unless the Commission notifies the applicant to the contrary no later than 60 days after
+   receipt of the specific description of the landing points.
+                A.Environmental Impact
+17.The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore should
+be expressly excluded from our procedures implementing the National Environmental Policy Act of
+1969.  Therefore, the Applicant is not required to submit an environmental assessment, and this
+application is categorically excluded from environmental processing.
+                     XVIII.Conclusion
+19.We grant FLAG Pacific's application for authority to land and operate a non-common carrier
+fiber optic submarine cable extending between the United States and Canada, Japan, and Korea, subject
+                to the conditions listed below.
+                    XX.Ordering Clauses
+21.Consistent with the foregoing, we hereby GRANT and ISSUE FLAG Pacific a license to land
+and operate a non-common carrier fiber optic submarine cable system (consisting of eight optical fiber
+pairs on Segments S and N, with capacity of 5.12 terabits per second) extending between landing points
+at cable stations in San Francisco, California (or, alternatively, Portland, Oregon); the Aleutian Islands,
+Alaska; the Hawaiian Islands; Vancouver Island, Canada; Tokyo, Japan; and Pusan, Korea, under the
+provisions of the Cable Landing License Act and Executive Order 10530.  This grant is subject to all
+rules and regulations of the Commission; any treaties or conventions relating to communications to
+which the United States is or may hereafter become a party; any action by the Commission or the
+Congress of the United States rescinding, changing, modifying, or amending any rights accruing to any
+       person hereunder; and the  following conditions:  
+(1)The location of the cable system within the territorial waters of the United States, its
+territories and possessions, and upon its shore shall be in conformity with plans approved
+by the Secretary of the Army, and the cable shall be moved or shifted by the Licensee at its
+expense upon the request of the Secretary of the Army whenever he or she considers such
+course necessary in the public interest, for reasons of national defense, or for the
+maintenance or improvement of harbors for navigational purposes;
+(2)The Licensee shall at all times comply with any requirements of U.S. government authorities
+regarding the location and concealment of the cable facilities, buildings, and apparatus for
+the purpose of protecting and safeguarding the cable from injury or destruction by enemies
+                 of the United States;
+(3)The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+indirect common control with it do not enjoy and shall not acquire any right to handle
+traffic on a common carrier basis to or from the United States, its territories, or its
+possessions unless such service be authorized by the Commission pursuant to Section 214
+         of the Communications Act, as amended;
+(4)The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+indirect common control with it shall not acquire or enjoy any right to land, connect, or
+operate submarine cables that is denied to any other United States company by reason of
+any concession, contract, understanding, or working arrangement to which the Licensee or
+any persons controlling it, controlled by it, or under direct or indirect common control with
+                    it are parties;
+(5)Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer
+of control of the Licensee to any persons, unless the Commission shall give prior consent in
+                        writing;
+(6)The Licensee shall notify the Commission in writing of the precise locations at which the
+cable will land.  Such notification with respect to any given landing location shall occur no
+later than 90 days prior to commencing construction at that landing location.  The
+Commission will give public notice of the filing of each description, and grant of this
+license will be considered final with respect to that landing location unless the Commission
+issues a notice to the contrary no later than 60 days after receipt of the specific description;
+(7)The Commission reserves the right to require the Licensee to file an environmental
+assessment or environmental impact statement should it determine that the landing of the
+cable at those locations and construction of necessary cable landing stations would
+significantly affect the environment within the meaning of Section 1.1307 of the
+Commission's procedures implementing the National Environmental Policy Act of 1969;
+this license is subject to modification by the Commission upon its review of any
+environmental assessment or environmental impact statement that it may require pursuant to
+                       its rules;
+(8)Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47
+U.S.C.  214, the Commission reserves the right to impose common carrier regulation or
+other regulation consistent with the Cable Landing License Act on the operations of the
+cable system if it finds that the public interest so requires;
+(9)The Licensee shall maintain de jure and de facto control of the U.S. portion of the cable
+system, including the cable landing stations in the United States, sufficient to comply with
+           the requirements of this license;
+(10)This license is revocable by the Commission after due notice and opportunity for hearing
+pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to
+         comply with the terms of this license;
+(11)The Licensee shall notify the Commission in writing of the date on which the cable is placed
+in service, and this license shall expire 25 years from such date, unless renewed or extended
+upon proper application, and, upon expiration of this license, all rights granted under it shall
+                   be terminated; and
+(12)The terms and conditions upon which this license is given shall be accepted by the Licensee
+by filing a letter with the Secretary, Federal Communications Commission, Washington,
+D.C. 20554, within 30 days of the release of the cable landing license.
+1    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the date
+of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+                              
+                              
+                              
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+                              

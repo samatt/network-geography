@@ -1,0 +1,152 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C.  20554
+
+In the Matter of                                  )
+        )
+TELEF NICA LARGA DISTANCIA DE                     )     File No. SCL-93-001(M)
+PUERTO RICO, INC.                                 )
+        )
+Application for a License to Land and Operate     )     
+in the United States a digital submarine system   )
+extending between the United States and Spain,    )
+the COLUMBUS II Cable System                      )
+
+
+                   MODIFICATION OF CABLE LANDING LICENSE
+
+        Adopted:  May 12, 1998                          Released:  May 15, 1998
+
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+ 
+  1.    In this Cable Landing License, we modify the cable landing license granted to several
+parties for authority to land and operate a digital submarine cable system, COLUMBUS II Cable
+System ("COLUMBUS II").  We grant the application of Telef¢nica Larga Distancia de Puerto Rico,
+Inc. ("TLD") under the Cable Landing License Act to add TLD as a licensee of  COLUMBUS II for
+the provision of service between the United States and Spain.  COLUMBUS II operates on a common
+carrier basis and extends between landing points in the United States, Mexico, Portugal, Spain, Italy. 
+We find that TLD has provided sufficient information under the Commission's rules to comply with
+the Cable Landing License Act and therefore grant the cable landing license modification subject to
+the conditions discussed below.
+
+                     II.  Application and Pleadings  
+
+  2.     TLD is a corporation organized under the laws of the Commonwealth of Puerto Rico. 
+The Puerto Rico Telephone Authority ("PRTA") owns 19% of TLD's stock.  Another 2% in TLD is
+held in an employee stock ownership plan.  The remaining 79% of TLD is owned by Telef¢nica
+International Holding, B.V. ("TI Holding").  TI Holding, a Netherlands corporation, is a wholly-owned
+subsidiary of Telef¢nica de Espa¤a, S.A. ("TI"), a corporation organized under the laws of Spain.  TI
+is 100% owned by Telef¢nica de Espa¤a, S.A. ("Telef¢nica de Espa¤a"), which provides domestic and
+international communications services in Spain.   
+
+  3.     TLD proposes to acquire 3 half-Minimum Investment Units ("MIU") in COLUMBUS
+II for service between the United States and Spain.  TLD will use the 3 half-MIUs to correspond with
+Telef¢nica de Espa¤a.  These interests together with TLD's other ownership interests in COLUMBUS
+II (which have already been approved by the Commission), will bring TLD's total ownership interest
+in COLUMBUS II to 1.47421 percent.  Carriers, including non-owners, may acquire capacity in
+COLUMBUS II by indefeasible rights of user ("IRUs"), lease, or other mutually agreed upon
+arrangements.  
+
+  4.     COLUMBUS II extends between landing points on the U.S. mainland (West Palm
+Beach, Florida), St. Thomas, U.S. Virgin Islands; Cancun, Mexico; Funchal, Portugal; Sardina, Spain;
+and Palermo, Italy.  COLUMBUS II consists of nine main segments: six cable stations and three
+cables connecting the stations.  
+
+                             III.  Background
+
+  5.     On November 10, 1992, eight U.S. carriers, including TLD's predecessor, LD, filed
+joint Section 214 and submarine cable landing license applications for authority to construct and
+operate the COLUMBUS II and AMERICAS-1 Cable Systems.  On July 26 and 28, 1993, the
+Common Carrier Bureau approved the Joint Applications for these cable systems for seven U.S.
+carriers but deferred action on TLD's application pending a determination by the full Commission. 
+On August 8, 1994, the Commission granted TLD's request for authority to participate in the
+construction, acquisition of capacity in, and operation of COLUMBUS II, but deferred ruling on
+TLD's request for a cable landing license until the views of the State Department were received.      
+
+
+  6.     On May 2, 1997, the Commission denied TLD's application to acquire ownership
+interests in COLUMBUS II.  The Commission found that U.S. carriers were denied effective
+competitive opportunities ("ECO") to have ownership interests in cable facilities landing in Spain.  
+
+  7.     On January 30, 1998, TLD filed the instant application to land and operate a digital
+submarine cable system between the United States and Spain.  We placed TLD's application on public
+notice on February 11, 1998.  On March 11, 1998 Sprint Communications Company, L.P. ("Sprint")
+filed comments requesting that the Commission condition any grant of TLD's application for a cable
+landing license upon compliance with the Commission's accounting rate benchmarks and other
+competitive safeguards.  The Commission addresses Sprint's comments in the order granting TLD's
+application for Section 214 authority to provide service to Spain via COLUMBUS II.
+
+                              IV.  Discussion
+
+  8.     Pursuant to Section 1.767(b) of the Commissions rules, the Cable Landing License
+Act, and Executive Order 10530, we informed the Department of State of the application.  The
+Department of State, after coordinating with the Department of Commerce's National
+Telecommunications and Information Administration and the Department of Defense, advised the
+Commission that it has no objection to the modification of the cable landing license.
+
+    9.     TLD certifies that it is affiliated with a foreign carrier in Spain.  Thus, we evaluate
+this application under the policies adopted by the Commission in its recent Foreign Participation
+Order.  In that Order, the Commission decided to apply its open entry policies to applications to land
+and operate submarine cables between the United States and World Trade Organization ("WTO")
+Member Countries.  Because Spain is a WTO Member Country, we do not apply our ECO analysis,
+and we presume that there is no competition-based reason to deny TLD's application.  No party has
+suggested that this presumption should be rebutted for this application.  Therefore, we find that TLD's
+foreign affiliation does not raise concerns that could persuade us to deny the application under Section
+2 of the Cable Landing License Act.
+
+  10.    Accordingly, we conclude that U.S. interests under the Cable Landing License Act will
+be served by grant of the modification to TLD to land and operate COLUMBUS II, subject to all of
+the terms and conditions in the original cable landing license.
+  
+                           V.  Ordering Clauses
+
+  11.     In consideration of the foregoing, IT IS ORDERED that the application, File No.
+SCL-93-001(M) is GRANTED.  The COLUMBUS II cable landing license, SCL-93-001, is
+MODIFIED to add Telef¢nica Larga Distancia de Puerto Rico, Inc., as a licensee.  This grant is
+subject to all rules and regulations of the Federal Communications Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party;
+any action by the Commission or the Congress of the United States rescinding, changing, modifying or
+amending any rights accruing to any person hereunder; and the conditions contained in the cable
+landing license, SCL-93-001.
+
+  12.    TLD shall accept the terms and conditions of this license by filing a letter with the
+Secretary, Federal Communications Commission, Washington, D.C. 20554 within 30 days of the
+release of this modification.
+
+  13.    This Order is issued under Section 0.261 of the Commissions rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within
+30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+  FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+  Diane J. Cornell
+  Chief, Telecommunications Division
+  International Bureau

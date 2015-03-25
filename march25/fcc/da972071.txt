@@ -1,0 +1,239 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+DA 97-2071
+                                    
+                               Before the
+                    FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, DC 20554
+
+
+In the Matter of                     )
+                                     )
+BT North America Inc.                )
+                                     )
+Application for Authority under      ) File No. ITC-96-439
+Section 214 of the Communications    )
+Act to Acquire and Operate Facilities)
+for the Provision of International   )
+Services between the United States   )
+and the United Kingdom; and          )
+                                     )
+Motion to be Reclassified as a       ) File No. ISP-96-007-ND
+Non-dominant Carrier for International)
+Services between the United States   )
+and the United Kingdom               )
+
+ORDER AND AUTHORIZATION
+
+     Adopted:   September 25, 1997     Released:  September 25, 1997
+
+By the Chief, Telecommunications Division, International Bureau
+
+                         I.  INTRODUCTION
+    
+     1.    In this Order, we grant BT North America Inc. (BTNA) authority, pursuant to
+Section 214 of the Communications Act of 1934, as amended, to provide facilities-based
+international service between the United States and the United Kingdom.  We deny, however,
+BTNA's request for reclassification as a non-dominant carrier for international services
+between the United States and the United Kingdom.  Instead, BTNA will continue to be
+regulated as a dominant carrier for all authorized services on the U.S.-U.K. route.
+
+II.  BAC KGROUND
+
+      2.     BTNA, a Delaware corporation, is a wholly-owned subsidiary of BT USA
+Holdings, Inc., (BT USA) a Delaware Corporation.  BT USA is a wholly-owned subsidiary of
+British Telecommunications plc (BT), a company organized under the laws of England and
+Wales.  BT is the largest telecommunications operator in the United Kingdom, providing,
+among other things, local, long-distance and international telephone service and
+telecommunications equipment for customers' premises.  BTNA is authorized to provide
+certain U.S. international switched, non-interconnected private line, interconnected private
+line, and facilities-based services pursuant to Section 214 of the Act.  
+
+      3.     On August 2, 1996, BTNA filed two applications with the Federal
+Communications Commission (Commission or FCC).  First, BTNA requests authority to
+acquire and operate up to the equivalent of 190 E-1 half-circuits on any and all U.S. common
+carrier and non-common carrier facilities authorized by the FCC, for international service,
+including common carrier and non-common carrier submarine cables landing in the United
+States, intergovernmental organization satellites (such as INTELSAT), U.S.-licensed satellites,
+and the earth stations used to communicate with these satellites.  BTNA also requests
+authority to acquire and use any necessary domestic and foreign connecting facilities.  BTNA
+seeks to provide international switched, private line, voice, video, data, television and business
+service on the U.S.-U.K. route on a one-half channel or end-to-end basis.  Second, BTNA
+requests that it be regulated as a non-dominant carrier for all authorized services on the U.S.-
+U.K. route.  Currently, BTNA is regulated as a dominant carrier for its authorized services on
+the U.S.-U.K. route.
+
+      4.     On December 2, 1996, BT and MCI Communications Corp. (MCI)
+(collectively, BT/MCI) filed applications requesting Commission approval of the transfer of
+control from MCI to BT of licenses and authorizations held by subsidiaries of MCI. 
+BT/MCI sought approval for this transfer in connection with the proposed merger of MCI and
+BT, under which MCI would be merged into a U.S. subsidiary of BT, and would become a
+subsidiary of a newly created U.K. company, Concert plc.  At the same time, BT's U.K.
+operations would be placed into a subsidiary of Concert.  On August 21, 1997, the
+Commission approved the merger of BT and MCI, subject to certain conditions and
+safeguards. 
+      
+      5.     We placed BTNA's U.S.-U.K. route applications on public notice on August 9,
+1996.  Frontier Communications Services Inc. (Frontier) filed comments concerning BTNA's
+Section 214 application.  MCI Telecommunications Corporation (MCI) filed comments in
+opposition to BTNA's motion for reclassification as a non-dominant carrier.  BTNA and the
+British Embassy filed reply comments in response to Frontier's and MCI's comments.
+
+III.  DISCUSSION
+                                      
+A.  BTNA Section 214 Application
+
+      6.     BTNA's affiliation with a foreign carrier requires us to review its Section 214
+application to the United Kingdom under the framework established in the Commission's
+Foreign Carrier Entry Order.  In that Order, the Commission stated that carriers seeking to
+provide international services to countries in which they have an affiliate with market power
+must demonstrate that the affiliated market offers effective competitive opportunities (ECO)
+for U.S. carriers seeking to offer like services.  The Foreign Carrier Entry Order defines
+market power as the ability of the carrier to act anticompetitively against unaffiliated U.S.
+carriers through the control of bottleneck services or facilities on the foreign end.  Bottleneck
+services or facilities are those that are necessary for the provision of international services,
+including inter-city or local access facilities on the foreign end.  Alternatively, if an
+applicant can demonstrate that its foreign affiliate does not have market power in the
+destination market, we do not conduct an ECO analysis.  The Commission also stated in the
+Foreign Carrier Entry Order that it will continue to consider other public interest factors that
+may weigh in favor of, or against, granting the application.  These factors include the general
+significance of the proposed entry to the promotion of competition in the U.S.
+communications market, any national security, law enforcement, foreign policy, or trade
+concerns raised by the Executive Branch, and the presence of cost-based accounting rates.
+      
+      7.     BTNA asserts that its foreign affiliate, BT, lacks the ability to discriminate
+against unaffiliated U.S. carriers through control of bottleneck facilities or services.  BTNA
+also asserts that the United Kingdom satisfies each of the four factors of the Commission's
+ECO test.  In addition, BTNA concludes that grant of its application is in the public
+interest.  
+
+      8.     Frontier does not oppose BTNA's application but raises questions about
+whether BT offers reasonable and nondiscriminatory charges, terms and conditions for
+interconnection to its domestic facilities as required by the Foreign Carrier Entry Order. 
+Frontier asserts that BT does not provide timely and reasonably priced access to BT's
+backhaul facilities and services.  The U.K. Government and BTNA respond that BT is
+required by OFTEL to offer international facilities-based competitors reasonably priced access
+to BT's backhaul facilities and services.  In addition, the U.K. Government and BTNA state
+that competitive alternatives to BT for backhaul will allow carriers such as Frontier's U.K.
+affiliate to bypass BT altogether.
+
+      9.     We disagree with BTNA that its affiliate lacks market power in the U.K.
+international services market.  In the BT/MCI merger decision, the Commission found, among
+other things, that BTNA's U.K. affiliate, BT, possessed market power in the U.K. market
+through its ownership of the only ubiquitous local access network in the United Kingdom.  As
+a result, the Commission applied the "effective competitive opportunities" analysis to the U.K.
+market.  
+
+      10.    In applying the ECO analysis under Section 214 to the U.K. market, the
+Commission found that the United Kingdom offers U.S. entities effective competitive
+opportunities to provide international facilities-based services in the United Kingdom.  The
+Commission concluded that, under the framework established in the Foreign Carrier Entry
+Order, BT's entry into the U.S. market was in the public interest.  Consistent with the
+Commission's decision in the BT/MCI Merger decision, we find that direct entry into the U.S.
+market by BT's U.S. affiliate, BTNA, is consistent with the public interest.
+
+      11.    With respect to Frontier's concerns, we note that in the BT/MCI Merger
+decision, the Commission found that BT offered reasonable and nondiscriminatory charges,
+terms and conditions for interconnection to BT's domestic facilities for termination and
+origination of international services.  We therefore find that Frontier's concerns regarding
+BT's interconnection obligations have been adequately addressed. 
+ 
+      12.    In addition to our ECO analysis, our Foreign Carrier Entry Order cites other
+factors that may be considered as part of our overall public interest analysis for foreign carrier
+entry.  These factors include cost-based accounting rates, and any national security or law
+enforcement issues, foreign policy, or trade concerns raised by the Executive Branch.
+
+      13.    In the BT/MCI Merger Order, we concluded that BT's settlement rate on the
+U.S.-U.K. route was a positive public interest factor in favor of BT's entry into the United
+States market.  Consistent with that finding, we also conclude that the U.S.-U.K. settlement
+rate is a positive public interest factor in favor of BTNA's entry into the United States market.
+
+      14.    Finally, we note that the Executive Branch did not raise any national security
+or law enforcement issues, foreign policy, or trade concerns.  We therefore conclude that
+BTNA's entry into the U.S. market is in the public interest.
+
+B.  BTNA Request for Non-dominant Regulatory Treatment
+
+      15.    Under the Commission's rules, a carrier that is affiliated with a foreign carrier
+that is not a monopoly in a destination market and that seeks to be regulated as a non-
+dominant carrier on that route bears the burden of demonstrating that its foreign affiliate lacks
+the ability to discriminate against unaffiliated U.S. international carriers through control of
+bottleneck services or facilities in the destination country.  In brief, the applicant must
+demonstrate that its foreign affiliate lacks market power.  
+
+      16.    BTNA asserts that BT does not have market power in the United Kingdom and
+that dominant carrier regulation of BTNA's services on the U.S.-U.K. route is no longer
+justifiable.  It argues that growing competition in the U.K. local, domestic long-distance, and
+international markets prevents BT from controlling bottleneck services or facilities.  Even if
+BT did maintain market power, BTNA states that BT would be prevented by OFTEL's
+effective regulation of BT from exercising such market power against unaffiliated carriers.
+  
+      17.      MCI opposes BTNA's request for non-dominant regulatory treatment on the
+grounds that nothing has changed with respect to BT's market power in the U.K.
+telecommunications market since the Commission decided to regulate BTNA as a dominant
+carrier.  MCI further argues that while BT may be subject to stringent regulation, regulation
+alone is not a substitute for effective competition.  BTNA responds that substantial changes
+have occurred in the U.K. telecommunications market since the Commission decided in 1995
+to regulate BTNA as dominant on the U.S.-U.K. route.  In particular, BTNA points to the
+U.K.'s Department of Trade and Industry (DTI) decision to end BT's and Mercury's duopoly
+on facilities-based international services and issue additional international facilities licenses to
+competing carriers.  In addition, BTNA reiterates that, because BT faces effective competition
+in all segments of the U.K. telecommunications market, and because it is subject to effective
+regulation by OFTEL, BT cannot discriminate against unaffiliated U.S. carriers.  In response
+to MCI's comments, the U.K. Government filed reply comments supporting BTNA's request
+for non-dominant regulatory treatment.
+
+      18.    As noted above, the Commission found in the BT/MCI merger decision that
+BTNA's U.K. affiliate, BT, retains market power in the United Kingdom through its
+ownership of the only ubiquitous local access network in the United Kingdom.  The
+Commission also found that, while OFTEL plays an active role in protecting against abuse of
+market power by BT, OFTEL's regulation of BT alone is not sufficient to justify non-
+dominant regulation on the U.S.-U.K. route.  Thus, consistent with the BT/MCI merger
+decision, we regulate BTNA as a dominant carrier.  
+
+IV.  ORDERING CLAUSES
+                  
+      19.    Accordingly, IT IS HEREBY CERTIFIED that the present and future public
+interest, convenience and necessity require a grant of the present application and IT IS
+ORDERED that application File No. ITC 96-439 is granted, and BTNA is authorized to
+provide international facilities-based switched and private line services between the United
+States and the United Kingdom.
+
+      20.    IT IS FURTHER ORDERED that BTNA shall be regulated as a dominant
+carrier for the provision of all its authorized international switched and private line services
+between the United States and the United Kingdom.  
+
+      21.    This order is issued under Section 0.261 of the Commission's Rules and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's Rules may be filed within 30 days of the
+public notice of this order (see Section 1.4(b)(2)).
+      
+      
+        FEDERAL COMMUNICATIONS COMMISSION
+
+
+        
+
+        Diane J. Cornell
+        Chief, Telecommunications Division
+        International Bureau    

@@ -1,0 +1,196 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+Williams Communications, Inc., 
+SBC Communications Inc., 
+SBCS Pacific Cable Holdings, Inc., and 
+SBCI-Pacific Networks, Inc.
+
+Application for authority for transfer of
+control of cable landing licenses
+
+Application for nunc pro tunc approval of a
+pro forma transfer of control
+
+and
+
+Williams  Communications, Inc., and
+SBCI-Pacific Networks, Inc.
+
+Application for nunc pro tunc approval of a
+pro forma assignment of submarine cable
+landing licenses
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+File No. SCL-T/C-20000510-00017
+
+
+
+
+
+
+
+
+
+
+
+File No. SCL-ASG-20000929-00032
+
+
+
+                                
+                 MEMORDANDUM OPINION AND ORDER
+
+
+Adopted:  October 4, 2000               Released: October 6, 2000
+
+By the Chief, Telecommunications Division:
+                                
+
+                II.Introduction and Background
+1.     In this Order, we grant the application of Williams Communications, Inc. (Williams),
+SBC Communications Inc. (SBC), SBCS Pacific Cable Holdings, Inc. (SBCS), and SBCI-Pacific
+Networks, Inc. (PNI) (together, "Applicants"), seeking authority for:  (1) the nunc pro tunc pro
+forma transfer of control of PNI from SBC to SBCS; and (2) the transfer of control to Williams
+of PNI's interests in two submarine cable landing licenses.  We also grant the application of
+Williams and PNI for the nunc pro tunc pro forma assignment to Williams of PNI's interests in
+the two submarine cable landing licenses.
+2.     On August 21, 1998, we granted the joint application of five entities, including PNI,
+pursuant to the Cable Landing License Act, and Executive Order No. 10530, for authority to
+land and operate, on a non-common carrier basis, the China-U.S. Cable Network, extending
+between the U.S. Mainland, China, Taiwan, Japan, South Korea, and Guam.  On July 8, 1999,
+the Commission granted the joint application of several entities, including PNI, pursuant to the
+Cable Landing License Act and Executive Order No. 10530, for authority to land and operate, on
+a non-common carrier basis, the Japan-U.S. Cable Network, extending between the U.S.
+Mainland, Hawaii, and Japan.
+3.     Prior to April 10, 2000, SBC International Operations, Inc. was the immediate parent
+of PNI. On that date, SBCS was inserted into the corporate chain of ownership between SBC, as
+ultimate parent, and PNI, as licensee.  SBCS became the immediate parent of PNI.  There was no
+change in the ultimate ownership or control of the licensee, which remained a wholly owned
+subsidiary of SBC.  The Application describes the transaction as pro forma in nature and seeks
+nunc pro tunc approval.
+4.     PNI is a corporation organized under the laws of Delaware.  SBCS is a corporation
+organized under the laws of Nevada.  Williams is a corporation organized under the laws of
+Delaware, and is wholly owned by Williams Communications Group, Inc., a U.S. company,
+which in turn is 86 percent owned by The Williams Companies, Inc., a U.S. company that is
+traded publicly on the New York Stock Exchange. 
+5.     Applicants assert that, under the proposed transaction, Williams would purchase PNI,
+which would become a direct wholly owned subsidiary of Williams, and that PNI is, and would
+remain, a licensee of the China-U.S. and Japan-U.S. cable systems.
+6.     Williams and PNI filed an additional application, stating that there was an inadvertent
+assignment of PNI's interests in the China-U.S. and Japan-U.S. cables to Williams prior to
+Williams and PNI receiving authority for these transactions.  Williams and PNI argue that the
+public interest has not been harmed by this inadvertent assignment.  They describe this
+assignment as pro forma in nature and ask for authority nunc pro tunc to assign the licenses to
+Williams.  
+                        II.Discussion
+7.     On May 10, 2000, the Applicants submitted the above-captioned Application seeking
+authority to transfer control of PNI's interests in the two submarine cable landing licenses from
+SBCS to Williams through the sale of PNI to Williams.  On May 19, 2000, we put the
+Application on public notice.  We received no comments.  
+8.     Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the Application. 
+After coordinating with the National Telecommunications and Information Administration and
+the Department of Defense, the Department of State stated that it has no objection to the
+proposed transfer of control of the two cable landing licenses held by PNI.
+9.     On May 23, 2000, the Applicants filed a Request for Special Temporary Authority
+(STA) to transfer to Williams control of the two submarine cable landing licenses held by PNI. 
+Applicants asserted that they needed the STA by June 14, 2000, to enable Williams to provide
+uninterrupted service to customers on the China-U.S. cable system.  On June 9, 2000, we
+granted the STA, by grant stamp, with an expiration date of December 6, 2000.  On July 21,
+2000, counsel for Williams advised the Commission that, on June 23, 2000, PNI was sold to
+Williams.
+10.    Pursuant to Section 1.767(a)(8) of the Commission's rules, Applicants disclose
+Williams' affiliations with foreign carriers.  Applicants certify that Williams is affiliated with
+foreign carriers in Australia, Brazil, Singapore, and the United Kingdom.  Therefore, as a result
+of the transfer of control to Williams, PNI will have affiliations with foreign carriers in each of
+these countries.  Each of these countries is a Member of the World Trade Organization. 
+Therefore, we presume that Applicants' affiliations with these carriers do not pose any concerns
+that would justify denying the applications.
+11.    Applicants have characterized as pro forma the transfer of control of PNI from SBC
+to SBCS and the assignment of licenses from PNI to Williams.  We agree with this
+characterization because both transactions are similar to categories of transactions that, in
+contexts other than submarine cable landing licenses, we have deemed to be pro forma.
+12.    Applicants have stated that approval of these transactions will serve the public interest
+because it will enhance international competition by allowing Williams to provide its carrier
+services as soon as possible. 
+13.    Upon consideration of the record in this proceeding, and in view of the foregoing, we
+conclude that grant of the transfer of control (including the pro forma transfer of control) sought
+in the Application and the pro forma assignment of licenses sought in the Assignment
+Application will serve the public interest and is consistent with the Cable Landing License Act. 
+We find it reasonable in this instance to grant the nunc pro tunc requests made in these
+applications.  We caution Applicants, however, that the Commission's rules require prior
+approval of such transfers of control and assignments of licenses and urge Applicants to plan
+accordingly in the future.
+14.    We modify the initial authorizations to reflect these transactions.  We do not modify
+the initial authorizations in any other respect.
+                     III.Ordering Clauses
+15.    Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, IT IS ORDERED that Applications Nos. SCL-T/C-20000510-00017 and
+SCL-ASG-20000929-00032 ARE GRANTED, the transactions listed herein are authorized, and
+the China-U.S. Cable Landing License (File No. SCL-98-002) and the Japan-U.S. Cable Landing
+License (File No. SCL-LIC-19981117-00025) ARE HEREBY MODIFIED to reflect these
+transactions.
+16.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order.
+                              
+                              
+                              FEDERAL COMMUNICATIONS COMMISSION
+                              
+                              
+                              
+                              Jacquelynn Ruff
+                              Associate Chief, Telecommunications Division
+                              International Bureau
+

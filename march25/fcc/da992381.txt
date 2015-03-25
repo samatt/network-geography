@@ -1,0 +1,164 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                      Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                    )
+                                     )
+TeleBermuda International,  L.L.C.           )         File No. SCL-T/C-19990210-00003
+                                     )
+Application for Consent to Transfer         )
+of Control of TeleBermuda International, L.L.C.       )
+to TeleBermuda International Limited         )
+                                     )
+
+                  MEMORANDUM OPINION AND ORDER
+
+   Adopted:  October 29, 1999           Released:  October 29, 1999
+
+By the Chief, Telecommunications Division
+
+                      I.INTRODUCTION
+
+          1.   TeleBermuda International, L.L.C. ("TBI LLC") and TeleBermuda
+          International Limited ("TBI Ltd.") filed an application to transfer control of TBI LLC to
+          TBI Ltd.  The application was placed on public notice on March 17, 1999, and we
+          received only one comment, which supported grant of the application.  For the reasons
+          discussed below, we grant the application.
+
+                       II.BACKGROUND
+
+          3.   In 1996, the Commission granted TBI LLC authorization to land and
+          operate the BUS-1 Cable between Tuckerton, New Jersey, and Lands End, Bermuda. 
+          TBI LLC holds the U.S. landing license and owns all the plant and equipment in the United
+          States.
+ 
+          4.   TBI LLC, a Delaware corporation, is 80% owned by Elbac Cable Co.
+          ("ECC") and 20% owned by TBI Ltd.  The David A. Bayer Trust ("the Trust") owns
+          100% of the stock in ECC.  TBI Ltd. is a Bermudan corporation.  At the time of the filing
+          of the initial application only 23.3% of TBI Ltd.'s stock was held by Bermudan interests. 
+          Slightly over 50% of the company was owned, directly or indirectly, by Canadians.  U.S.
+          citizens owned, directly or indirectly, 20.3% of the company's stock, and U.S. citizens held
+          one of TBI Ltd.'s six board seats. TBI Ltd. is licensed in Bermuda to provide international
+          telecommunications services between Bermuda and foreign points, but it is not licensed to
+          provide local or domestic service in Bermuda.  Although TBI Ltd. is indirectly majority-
+          owned by foreign investors, it is not affiliated with any other foreign carrier.
+ 
+          5.   Since filing its initial application in the current proceeding, TBI Ltd.
+          completed an equity financing arrangement that resulted in a number of changes in the
+          ownership structure of the company.  GlobeNet Communications Group Limited
+          ("GlobeNet") now has a 100% interest in TBI Ltd.  There are three investment companies
+          that hold a 10% or greater share in GlobeNet. 
+
+          6.   TBI LLC requests authority for TBI Ltd. to acquire all of ECC's
+          ownership interests in TBI LLC.  As a result, TBI Ltd. will obtain 100% ownership and
+          control of TBI LLC.  TBI Ltd. does not anticipate any change in service offerings to the
+          public as it will continue to hold the BUS-1 Cable landing license and will continue the
+          operations of the BUS-1 Cable.  Pursuant to Section 1.767(b) of the Commission's rules,
+          the Cable Landing Act, and Executive Order No. 10530, we informed the Department of
+          State of the application and amendment.  The Department of State, after coordinating with
+          the National Telecommunications and Information Administration and the Department of
+          Defense, approved the proposed ownership change.
+
+                      VII.DISCUSSION
+
+          8.   The Applicants state that consummation of the proposed transaction
+          would serve the public interest by streamlining the operation of the BUS-1 Cable system. 
+          In addition, the transaction will foster more efficient service offerings.  The Applicants
+          also state that granting the request would be consistent with previous Commission
+          decisions of similar cable landing licenses.  No party opposed the application, and one
+          party filed in support.  Upon review of the application, we find that a grant of this
+          application will serve the public interest and will be consistent with the Cable Landing
+          License Act.
+
+          9.   In our initial decision granting a cable landing license to TBI LLC, we
+          noted that TBI Ltd.'s 20% ownership of TBI LLC did not implicate the reciprocity
+          provisions of the Cable Landing License Act.  We reasoned that TBI Ltd.'s 20% stake in
+          TBI LLC did not exceed the 25% level for classifying a U.S. carrier as an "affiliate" for
+          purposes of applying an Effective Competitive Opportunities (ECO)  Accordingly, we
+          found that the interests of the Cable Landing License Act would be served by grant of the
+          cable landing license.
+
+          10.  Under the proposed transfer of control, TBI Ltd.'s ownership of TBI LLC
+          will increase from 20% to 100%, which would far exceed the 25% ownership threshold for
+          classifying a U.S. carrier as an affiliate of a foreign carrier.  In our Foreign
+          Participation Order, we explained that when considering an application to land and
+          operate a submarine cable that will connect to a non-WTO member country, we will
+          consider first whether the applicant is, or is affiliated with, a carrier that has market power
+          in the destination market of the cable.   If so, we will then consider whether that
+          destination market offers effective competitive opportunities for U.S. companies to land
+          and operate a submarine cable in that country.
+
+          11.  Under Section 63.10(a)(3) of our rules, a carrier is presumed to be non-
+          dominant and lack market power on a particular route if the foreign carrier lacks 50%
+          market share in the international transport and the local access markets on the foreign end
+          of the route.  The applicants state, unopposed, that TBI Ltd. lacks sufficient market
+          power in Bermuda to affect competition adversely in the U.S. market.   Specifically, TBI
+          Ltd. lacks 50 percent market share in the international transport and the local access
+          market in Bermuda.  The applicants also point out that while TBI Ltd. is licensed in
+          Bermuda to provide international telecommunications services between Bermuda and
+          foreign points, TBI Ltd. is not licensed to provide local or domestic services in Bermuda. 
+          Because TBI Ltd. lacks market power on the destination market of the relevant cable, we
+          need not apply the ECO test.
+ 
+          12.  In light of the foregoing, we conclude that grant of the application would
+          be consistent with the Cable Landing License Act.  We therefore authorize the transfer of
+          control of TBI LLC to TBI Ltd.  We modify the initial authorization to reflect this transfer
+          of control.  We do not modify any of the conditions of the authorization.
+
+                  XIII.ORDERLING CLAUSES
+
+          14.  Accordingly, IT IS ORDERED that the application, File No. SCL-T/C-
+          19990210-0003, IS GRANTED, and the Applicants are authorized to transfer control of
+          TBI LLC to TBI Ltd.  The cable landing license for the BUS-1 Cable, File No. SCL-95-
+          009, IS MODIFIED to reflect this transfer of control.
+
+          15.  IT IS FURTHER ORDERED that all the terms and conditions of any
+          Commission decisions granting authority to TBI LLC shall remain in effect.
+  
+          16.  IT IS FURTHER ORDERED that the Applicants shall notify the
+          Commission no later than thirty days after consummation of the transfer of control or in
+          the event a decision is made not to consummate the transfer of control. 
+          
+          17.  This Order is issued under Section 0.261 of the Commission's rules, 47
+          C.F.R.  0.261 and is effective upon release.  Petitions for reconsideration under Section
+          1.106 or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.
+           1.106, 1.115, may be filed within 30 days of the date of public notice of this Order (see
+          C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+                              
+                              
+                              
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau 
+     
+
+
+     
+     
+     
+

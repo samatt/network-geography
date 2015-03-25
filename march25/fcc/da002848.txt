@@ -1,0 +1,193 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+                                
+                                
+                                
+                        In the Matter of
+                                
+                      GLOBAL CROSSING LTD.
+                                
+                              and
+                                
+                    IPC COMMUNICATIONS, INC.
+                                
+                                
+     Joint Application for Authority to Transfer Control of
+       International Exchange Networks, Ltd., Holder of a
+                     Cable Landing License
+                                
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                                
+                                
+                                
+                                
+                                
+                             SCL-T/C-20000719-00029
+                                
+                                
+                                
+                                
+                                
+                                
+
+                  MEMORANDUM OPINION AND ORDER
+
+
+   Adopted:  December 18, 2000          Released: December 20, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.In this Order, we grant the Application of Global Crossing Ltd. ("Global Crossing") and IPC
+Communications, Inc. ("IPC") (collectively "Applicants") seeking authority, nunc pro tunc, to transfer
+control of International Exchange Networks, Ltd., ("IEXN"), a non-dominant common carrier with a Cable
+Landing License, from IPC to Global Crossing in connection with the acquisition of IPC by Global
+                          Crossing.  
+2.On July 9, 1999, the Commission authorized IEXN and numerous other carriers, pursuant to the
+Cable Landing License Act, and Executive Order No. 10530, to land and operate a non-common carrier
+submarine fiber optic cable system, called the Japan-U.S. Cable Network ("Japan-U.S. CN"), extending
+between three landing points in the United States and three landing points in Japan.  
+3.IEXN's original investment share and allocation of network capital in the Japan-U.S. CN was
+0.22630 percent; its capacity allocation, ownership interest in segments, and voting interest were each
+0.18692 percent; and its allocation of network operations and maintenance costs was 0.18692 percent.
+4.Global Crossing, the builder and operator of a global fiber optic network, is a Bermuda
+corporation, and is publicly traded on the NASDAQ National Market.  Pacific Capital Group, Inc.,
+("PCG") holds a 12.98 percent  interest in Global Crossing.  Gary Winnick, a U.S. citizen, is the sole
+shareholder, as owner and trustee, of PCG.  Global Crossing's worldwide network consists of seven
+undersea systems and terrestrial networks in the United States, Europe, Japan, and Hong Kong. 
+5.Prior to consummation of the transfer of control, IPC was a publicly traded Delaware holding
+corporation.  IPC, through its wholly-owned subsidiary IPC Information Systems, Inc. ("IPC Systems"), a
+Delaware corporation, was the parent of IXnet, Inc. ("IXnet"), a Delaware holding company, and IEXN, a
+Delaware corporation.  IEXN is the wholly-owned operating subsidiary of IXnet.
+6.Applicants assert that IPC Systems provides integrated telecommunications equipment and
+services that facilitate the execution of transactions by the worldwide financial services community.
+Applicants assert further that IXnet provides, through its wholly-owned operating subsidiary IEXN,
+interexchange and international private line and switched telecommunications services to the financial
+           community in the United States and abroad.
+7.IEXN is authorized to provide international telecommunications service pursuant to several
+Section 214 authorizations granted by the Commission.  Applicants assert that although IEXN is not itself
+authorized to provide telecommunications service in any foreign country, various subsidiaries of IEXN are
+authorized to provide telecommunications services in foreign countries including Canada, Japan, and the
+United Kingdom.  Applicants further assert that all of IEXN's foreign subsidiaries are located in World
+Trade Organization ("WTO") member countries and have substantially less than a 50 percent share of the
+international transport and local access markets in their respective countries.  As a result, Applicants
+assert that IEXN is regulated as a non-dominant carrier of international services to all of these countries.
+8.The Commission, on May 25, 2000, granted Applicants' request for approval under Section 214
+of the Communications Act of 1934, as amended, to transfer control of IEXN to Global Crossing.  
+However, Applicants state that, due to an oversight, they did not request such approval for the transfer of
+control of IEXN's ownership interest in the Japan-U.S. CN prior to consummation of the transfer of
+control of IEXN to Global Crossing on June 14, 2000.  Consequently, Applicants request approval of the
+              transfer of control, nunc pro tunc.
+                          II.Comments
+9.We placed the Application on public notice on August 11, 2000.   We received no comments. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the transfer of control request. The Department
+of State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to approving the Applicant's request to transfer
+control of IEXN's interest in the Japan-U.S. CN from IPC to Global Crossing.
+                         III.Discussion
+10.Under the terms of the transfer of control, Global Crossing and IPC entered into a series of
+transactions whereby Global Crossing acquired IPC and its intermediate subsidiaries, IPC Systems and
+IXnet, through an exchange of their respective stocks.  Specifically, on June 14, 2000, Global Crossing
+acquired both IXnet and its parent company, IPC Systems, through a series of transactions including:  (a)
+the merger of IPC and IPC Systems; (b) the merger of IPC Systems and Georgia Merger Sub Corporation,
+a wholly-owned subsidiary of Global Crossing formed specifically for the purposes of effectuating the
+transfer of control, whereby Global Crossing acquired IPC Systems in exchange for shares of Global
+Crossing; and (c) the merger of IXnet and Idaho Merger Sub Corporation, a wholly-owned subsidiary of
+IPC Systems formed specifically for the purposes of effectuating the transfer of control, whereby Global
+Crossing acquired IXnet, also in exchange for shares of Global Crossing.  As a result of the transactions,
+       IEXN is an indirect subsidiary of Global Crossing.
+11.Under Section 1.767(a)(8) of the Commission's rules, applicants are required to disclose their
+affiliations with foreign carriers.  Global Crossing has certified that it is not a foreign carrier within the
+meaning of Section 63.09(d) of the Commission's Rules,  but that it is affiliated with foreign carriers in
+the following countries:  Argentina, Belgium, Brazil, Canada, Chile, Denmark, France, Germany, Hong
+Kong, Ireland, Italy, Japan, Mexico, the Netherlands, Norway, Singapore, Spain, Sweden, Switzerland,
+and the United Kingdom.  According to the Application, Global Crossing is affiliated with the following
+foreign carriers in Japan:  Asia Global Crossing Japan Corporation, Global Crossing Japan K.K., Global
+Access Ltd., IXnet (Japan) K.K., and IXnet Telecommunications.  Japan is a WTO member country, and
+Global Crossing has asserted that the market share in the international transport and local access markets
+of each of its affiliated foreign carriers in Japan is significantly less than 50 percent.  We conclude,
+therefore, that Global Crossing's affiliated foreign carriers do not possess market power that would allow
+them to discriminate against unaffiliated U.S. carriers through control of bottleneck facilities in Japan, and
+we see no reason to deny the Applicants' request to transfer control of IEXN's interest in the Japan-U.S.
+CN to Global Crossing on the basis of Global Crossing's foreign affiliations.
+12.Although the Japan-U.S. CN competes with Global Crossing's cable between the United States
+and Japan, Applicants assert that Global Crossing's aggregate indirect share in the Japan-U.S. CN, through
+IEXN and Frontier Communications Services, Inc. ("Frontier") is only 0.45260 percent.  Applicants
+further assert that, given that 30 other carriers have a share of the ownership of the Global Crossing cable,
+there will be virtually no diminution of competition as a result of the indirect transfer of control of IEXN to
+                       Global Crossing. 
+13.Applicants assert that the approval of the transfer of control will serve the public interest
+because the acquisition of IEXN, IXnet, and IPC Systems enhances Global Crossing's ability to compete in
+the international services market.  Specifically, Applicants state that the acquisition of IXnet will enable
+Global Crossing to move from solely providing building-to-building connectivity in major cities to
+providing desktop-to-desktop connectivity to multinational corporations worldwide.  According to
+Applicants, IEXN and IXnet will be able to eliminate network costs by moving their services off leased
+lines onto the Global Crossing network, and IXnet will be able to take advantage of Global Crossing's
+advanced broadband network to provide enhanced and expanded service offerings to financial institutions.
+14.We conclude that the transfer of control of IEXN's interest to Global Crossing raises no
+competitive concerns, and does not provide a basis for altering the non-common carrier status of the cable. 
+Specifically, we conclude that Global Crossing's ownership of a 0.45260 percent interest in the Japan-U.S.
+CN will not cause competitive concerns.  A large number of cables have served the U.S.-Japan route for
+some time, and more are coming on line.  Moreover, the amount of Global Crossing's ownership interest
+in Japan-U.S. CN is insubstantial.  Accordingly, we find that grant of the Application is in the public
+                           interest.
+15.Upon consideration of the record in this proceeding, and in view of the foregoing, we conclude
+that grant of the transfer of control sought in the Application will serve the public interest and is consistent
+with the Cable Landing License Act.  We grant the nunc pro tunc request made in the Application. 
+However, we caution Applicants that the Commission's rules require prior approval of such transfers of
+ control and urge Applicants to plan accordingly in the future.
+16.We hereby modify the initial authorization to reflect these transactions.  We do not modify the
+          initial authorization in any other respect.
+                      III.Ordering Clauses
+17.Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the Application, File No. SCL-T/C-20000719-00029, IS GRANTED,
+the transactions listed herein are authorized, and the Japan-U.S. Cable Landing License (File No. SCL-
+LIC-19981117-00025) IS HEREBY MODIFIED to reflect those transactions.
+                                
+18.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+              date of public notice of this Order.
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+
+

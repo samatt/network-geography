@@ -1,0 +1,93 @@
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of
+                                   )
+SSI ATLANTIC CROSSING LLC               )
+and                                )
+GT LANDING CORP.                        )
+                                   )
+Application for authority to assign                    )    File No. SCL-ASG-19981207-00028
+the Cable Landing License for the  )
+Atlantic Crossing Cable System     )
+
+                    ORDER  AND AUTHORIZATION
+
+
+   Adopted: June 29, 1999               Released:  June 30, 1999
+
+By the Chief, Telecommunications Division:
+
+          1.   SSI Atlantic Crossing LLC (SSI Atlantic Crossing) and GT Landing Corp. (GT
+Landing), pursuant to the Cable Landing License Act and Executive Order No. 10530 submitted the
+above-captioned application requesting authority to assign the Cable Landing License for the Atlantic
+Crossing Cable System (AC-1) from SSI Atlantic Crossing to GT Landing.  The application was placed
+on public notice on December 23, 1998 (Report No. TEL-00047NS).  We received no comments.
+
+          2.   GT Landing, a Delaware corporation, is a wholly-owned subsidiary of Atlantic
+Crossing Ltd. (ACL), a Bermuda company which, through a series of intermediate holding companies, is
+an indirect wholly-owned subsidiary of Global Crossing Ltd. (Global Crossing).  ACL was formed to
+construct and operate AC-1.  Prior to construction, ACL entered into a contract with Tyco Submarine
+Systems Ltd. (TSSL), the indirect parent of SSI Atlantic Crossing, for the development, design,
+construction, and installation of AC-1.  Under that contract, as segments of the system were constructed,
+became ready for service, and accepted by ACL, the ownership of the segment assets, with the exception of
+the U.S. portion of the system, transferred to ACL and its subsidiaries.  Thus, ACL owns the portions of
+AC-1 from the landing stations in the United Kingdom, the Netherlands, and Germany to one-half mile
+beyond the territorial limits of those countries.  On the other hand, SSI Atlantic Crossing owns the
+corresponding portion of AC-1 within the United States. GT Landing, however, owns the land and the
+building which house the Brookhaven cable station.  SSI Atlantic Crossing leases space in that building and
+owns all cable station terminal equipment at the U.S. landing.  GT Landing now seeks to exercise a
+purchase option that allows it to acquire title to the U.S. portion of AC-1 from SSI Atlantic Crossing, in
+order to integrate ownership of the U.S. segment of AC-1 into ACL.  GT Landing proposes to acquire
+ownership of all plant and equipment at the U.S. landing and the U.S. territory portions of AC-1 from the
+landing station to the points that are one-half mile beyond the U.S. territorial limits.
+
+          3.   As required by Section 1.767(a)(6) of the Commission's rules, SSI Atlantic
+Crossing and GT Landing have listed their ownership information, including foreign affiliations. Based on
+their application, the foreign affiliates of GT Landing do not raise concerns that warrant denial of the
+application under the Cable Landing License Act. GT Landing states that because it is a wholly-owned
+subsidiary of Global Crossing, Ltd., it is affiliated with several overseas start-up companies owned by
+Global Crossing which are constructing a terrestrial fiber optic network in Europe, Pan European Crossing
+(PEC).  GT Landing also is affiliated with the landing parties for the AC-1 Cable because all of them are
+indirect wholly owned subsidiaries of Global Crossing.  Finally, GT Landing is affiliated with a Japanese
+start-up company, Global Access Ltd., which has recently been granted a Japanese Type-1
+telecommunications license.  Thus, GT Landing is affiliated with foreign carriers in the following countries: 
+Switzerland, Denmark, Germany, the Netherlands, France, Italy, the United Kingdom, Belgium, Ireland,
+and Japan.  In addition, GT Landing will soon become affiliated with a foreign carrier in Austria.  Because
+all of GT Landings' affiliates in the destination countries of the AC-1 Cable are start-up companies with no
+market power, we find that these affiliations do not affect the grant of the instant application. 
+
+          4.   Pursuant to Section 1.767(b) of the Commission's Rules, the Cable Landing
+License Act, and Executive Order No. 10530, we informed the Department of State of the application. 
+The Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to the proposed assignment
+of license.
+
+          5.   Upon consideration of the application and in view of the foregoing, we conclude
+that this assignment does not raise any of the concerns listed in the Cable Landing License Act,  and that
+consent to assignment of the AC-1 Cable Landing License from SSI Atlantic Crossing to GT Landing will
+serve the public interest, convenience and necessity. 
+
+          6.   Accordingly, IT IS ORDERED that the application of SSI Atlantic Crossing and
+GT landing, File No. SCL-ASG-19981207-00028 IS GRANTED, and the assignment of the AC-1 Cable
+Landing License from SSI Atlantic Crossing to GT Landing is authorized.  Applicants are required to
+notify the Commission within 30 days of the consummation of this assignment.
+
+          7.   IT IS FURTHER ORDERED that all terms and conditions imposed in the original
+License, Order on Reconsideration and the Modification to the License (see note 3) granted to SSI Atlantic
+Crossing remain in effect.
+
+          8.    This Order is issued under Section 0.261 of the Commission's Rules, 
+47 C.F.R.  0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's Rules, 47 C.F.R.  1.106, 1.115, may be
+filed within 30 days of the date of public notice of this Order (see 47 C.F.R. Section 1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+                                 

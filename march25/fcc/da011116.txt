@@ -1,0 +1,224 @@
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+
+
+In the Matter of
+
+AMERICATEL CORPORATION
+
+Joint Application of Empresa Nacional de 
+Telecomunicaciones S.A. and STET International 
+Netherlands N.V. for Authority to Transfer 
+Control of Americatel Corporation, Holder of a 
+Cable Landing License
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+SCL-T/C-20010119-00001
+
+
+MEMORANDUM OPINION AND ORDER
+
+Adopted:  April 30, 2001	Released: May 1, 2001
+
+By the Chief, Telecommunications Division, International Bureau:
+
+I.	Introduction
+1.	In this Order, we grant the application of Empresa Nacional de Telecomunicaciones S.A. 
+("ENTEL-Chile") and STET International Netherlands N.V. ("STET") (together, "Applicants") seeking 
+authority to transfer control of the cable landing license interests held by Americatel Corporation 
+("Americatel") in the PAN AMERICAN Cable System ("PAN AMERICAN") from ENTEL-Chile to 
+STET. 
+2.	On January 20, 1998, we granted a joint application by Americatel and numerous other 
+parties, pursuant to the Cable Landing License Act,  and Executive Order No. 10530,  to land and operate 
+a common carrier submarine fiber optic cable system, called PAN AMERICAN, extending between the 
+U.S. Virgin Islands, Aruba, Venezuela, Colombia, Panama, Ecuador, Peru and Chile. 
+3.	Americatel, a corporation organized under the laws of the State of Delaware, is authorized to 
+provide U.S. international service pursuant to its Section 214 authorization.  It provides domestic 
+interexchange service pursuant to blanket Section 214 authority and domestic intrastate service pursuant to 
+various state authorizations.  Americatel's ownership and voting interests in the PAN AMERICAN cable 
+are each 0.41633 percent.  
+4.	ENTEL-Chile, a corporation organized under the laws of Chile, is one of the largest domestic 
+and international long distance carriers in Chile.   We previously have found that ENTEL-Chile does not 
+control bottleneck services or facilities that can be used to discriminate against unaffiliated U.S. carriers 
+terminating traffic in Chile.   ENTEL-Chile holds a 100-percent ownership interest in ENTEL International 
+B.V.I. Corporation ("ENTEL B.V.I."), a company organized under the laws of the British Virgin Islands.  
+ENTEL B.V.I., in turn, holds an 80-percent ownership interest in Americatel.  
+5.	STET, a corporation organized under the laws of The Netherlands, is a wholly owned 
+subsidiary of Telecom Italia S.p.A. ("Telecom Italia"), one of the world's largest fixed telecommunications 
+operators that is incorporated as a joint stock company under the laws of Italy.  In addition to wireline 
+operations, Telecom Italia, through its subsidiary Telecom Italia Mobile S.p.A., is one of the largest mobile 
+telecommunications operators in Europe.  Through international investments in Europe and Latin America, 
+Telecom Italia and its subsidiaries also provide data services, satellite telecommunications services, and 
+information technology software and services.  Two subsidiaries of Telecom Italia – Telecom Italia of 
+North America and Telemedia International USA, Inc. – hold Section 214 authorizations.    
+6.	STET currently owns a 26.16 percent voting interest in ENTEL-Chile.  Through a stock 
+purchase agreement, STET will acquire an additional 25.63 percent voting interest in ENTEL-Chile from 
+Chilquinta Telecomunicaciones S.A. (10.62 percent) and Chilquinta S.A. (15.01 percent). STET will 
+acquire an additional 2.9789 percent voting interest in ENTEL-Chile from some of the minority 
+shareholders.  As a result of these transactions, STET will hold a controlling interest of 54.76 in ENTEL-
+Chile, and thus STET will acquire an indirect controlling interest in Americatel once the transactions are 
+consummated. 
+7.	On February 12, 2001, we granted the Applicants' request for Special Temporary Authority to 
+permit transfer of control of the PAN AMERICAN cable landing authorization held by Americatel from 
+ENTEL-Chile to STET.  
+II.	Comments
+8.	We placed the Application on public notice on January 26, 2001.   We received no comments. 
+ Pursuant to Section 1.767(b) of the Commission's rules,  the Cable Landing License Act, and Executive 
+Order No. 10530, we informed the Department of State of the transfer of control request.  The Department 
+of State, after coordinating with the National Telecommunications and Information Administration and the 
+Department of Defense, stated that it has no objection to approving the Applicants' request to transfer 
+control of the cable landing license of Americatel from ENTEL-Chile to STET. 
+III.	Discussion
+9.	Under Section 1.767(a)(8) of the Commission's rules, applicants are required to disclose their 
+affiliations with foreign carriers.   STET has certified that it is not a foreign carrier within the meaning of 
+Section 63.09(d) of the Commission's rules,  but that it is affiliated with foreign carriers in the following 
+countries:  Argentina, Austria, Brazil, Bolivia, Canada, Chile, China, Cuba, El Salvador, France, 
+Germany, Greece, Guatemala, Hong Kong, Hungary, India, Ireland, Israel, Italy, The Netherlands, Peru, 
+Russia, Romania, San Marino, Spain, Ukraine, the United Kingdom and the Federal Republic of 
+Yugoslavia.   According to the Application, STET is affiliated with the following foreign carriers in Peru 
+and Chile, landing points for PAN AMERICAN:  TIM Peru, S.A.C. and ENTEL-Chile.  Applicants 
+assert that all destination markets, including Peru and Chile, are WTO member countries.   Applicants 
+further assert that the market share in the international transport and local access markets of each of its 
+affiliated foreign carriers in Peru and Chile is significantly less than 50 percent.   We conclude, therefore, 
+that STET's affiliated foreign carriers do not possess market power that would allow them to discriminate 
+against unaffiliated U.S. carriers through control of bottleneck facilities in Peru or Chile, and we see no 
+reason to deny Applicants' request to transfer control of the cable landing license of Americatel to STET 
+on the basis of STET's foreign affiliations.
+10.	We also conclude that the transfer of control of ENTEL-Chile's interest to STET raises no 
+competitive concerns.   Specifically, we conclude that STET's ownership of a 0.41633 percent interest in 
+PAN AMERICAN will not cause competitive concerns.  Additional cables serve the route, and more are 
+coming on line.   Moreover, the amount of ownership interest that STET will acquire in PAN 
+AMERICAN as a result of this transfer of control is insubstantial. 
+11.	Applicants assert that the proposed transfer of control will serve the public interest because 
+Americatel will be backed by Telecom Italia, an entity with management experience, workforce and means 
+to strengthen Americatel's ability to bring competitive integrated telecommunications services to consumers 
+in the United States.  Applicants state that the transfer of control will allow Americatel to manage its 
+telecommunications operations more efficiently, thereby permitting greater investment in facilities, 
+customer service and technological innovation.  Therefore, Applicants state, the transfer of control will 
+result in a company better equipped to accelerate its growth as a competitive telecommunications service 
+provider.  Finally, Applicants contend that the transfer of control will be consummated in a seamless 
+fashion that will be transparent to customers and not in any way inconvenience or cause harm to 
+Americatel's customers. 
+12.	Upon consideration of the record in this proceeding, and in view of the foregoing, we conclude 
+that grant of the transfer of control sought in the Application will serve the public interest and is consistent 
+with the Cable Landing License Act.
+13.	We modify the initial authorization to reflect these transactions.  We do not modify the initial 
+authorization in any other respect.
+IV.	Ordering Clauses
+14.	Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive 
+Order 10530, IT IS ORDERED that the Application, File No. SCL-T/C-20010119-00001, IS GRANTED, 
+the transactions listed herein are authorized, and the PAN AMERICAN Cable Landing License (File. No. 
+SCL-LIC-19970421-00002, formerly File. No. SCL-97-001) IS HEREBY MODIFIED to reflect those 
+transactions.
+15.	This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. § 0.261, and is 
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under 
+Section 1.115 of the Commission's rules, 47 C.F.R. §§ 1.106, 1.115, may be filed within 30 days of the 
+date of public notice of this Order. 
+FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+Rebecca Arbogast
+Chief, Telecommunications Division
+International Bureau
+
+
+
+  See Application of Empresa Nacional de Telecomunicaciones S.A. and STET International 
+Netherlands N.V., Joint Application for Authority to Transfer Control of Americatel Corporation, Holder of a 
+Cable Landing License, File No. SCL-T/C-20010119-00001, filed January 19, 2001 ("Application").  Applicants 
+concurrently filed applications to transfer control of Americatel's international Section 214 authorization and 
+domestic Section 214 authorization, which have been granted.  See Americatel Corporation, File No. ITC-T/C-
+20010119-00047, Transfer of Control Grant of Authority, Public Notice No. TEL-00356 (TD/IB rel. Feb. 22, 
+2001).  See  also Common Carrier Bureau Grants Consent for STET International Netherlands N.V. to Acquire 
+Domestic Telecommunications Lines Held by Americatel Corporation, Public Notice, DA 01-842 (CCB rel. Feb. 
+22, 2001).  In addition, Applicants filed applications to transfer control of the international Section 214 
+authorization and earth station licenses held by Americatel's affiliate AmericaSky Corporation.  See Letter from 
+Troy F. Tanner and Maria L. Carrafesta, Counsel for STET International Netherlands N.V., to Magalie Roman 
+Salas, Secretary, Federal Communications Commission (filed Jan. 19, 2001).  See also AmericaSky Corporation, 
+File No. ITC-T/C-20010119-00048, Transfer of Control Grant of Authority, Public Notice No. TEL-00356 
+(TD/IB rel. Feb. 22, 2001); AmericaSky Corporation, File No. SES-T/C-20010119-00126, Application for 
+Consent to Transfer of Control, Report No. SES-00257 (SRD/IB rel. Jan. 31, 2001); AmericaSky Corporation, 
+File No. ISP-PDR-20010119-00002, Petition for Declaratory Ruling, Report No. TEL-00346NS (TD/IB rel. Jan 
+31, 2001).  The grant of this application, File No. SCL-T/C-20010119-00001, is without prejudice to 
+Commission action on related applications that may remain pending as of the date of this action.
+  An Act Relating to the Landing and Operation of Submarine Cables in the United States, 47 U.S.C. §§ 
+34-39 (Cable Landing License Act).
+  Exec. Ord. No. 10530 reprinted as amended in 3 U.S.C. § 301.
+  See Americatel Corp. et al., Joint Application for a License to Land and Operate a Submarine Cable 
+Network, the PAN AMERICAN Cable System, File No. SCL-LIC-19970421-00002, formerly File No. SCL-97-
+001, Cable Landing License, 13 FCC Rcd 850 (TD/IB 1998) ("Cable Landing Order").  See also Americatel 
+Corp. et al., Joint Application for Authorization Pursuant to Section 214 of the Communications Act of 1934, as 
+amended, to Construct, Acquire, and Operate Capacity in a Digital Submarine Cable System, the PAN 
+AMERICAN Cable System, File No. ITC-97-221, Memorandum Opinion, Order and Authorization, 13 FCC Rcd 
+857 (TD/IB 1998) ("Section 214 Order").
+  See Application at 2.
+  Id.
+  See Section 214 Order, at para. 6, and Cable Landing Order, at para. 10, citing Americatel Corp., 
+Petition for Expedited Modification of Regulatory Status from Dominant to Non-dominant for International 
+Communications Services with Chile, File Nos. ISP 96-002, ITC-96-263, 11 FCC Rcd 9995 (IB 1996), at para. 9.
+  See Application at 2.
+  See generally Application at 3.
+  See generally Application at 4.
+  See Request of Empresa Nacional de Telecomunicaciones S.A. and STET International Netherlands 
+N.V. for Special Temporary Authority for a Cable Landing License Transfer of Control Application, File No. 
+SCL-STA-20010202-00003 (granted Feb. 12, 2001).
+  See Non Streamlined International Applications Accepted for Filing, Report No. TEL-00345NS (rel. 
+Jan. 26, 2001).  In the Public Notice we inadvertently listed the Application as File No. SCL-MOD-20010119-
+00001 and have corrected the file number in this Memorandum Opinion and Order.
+  47 C.F.R. § 1.767(b).
+  Letter from George S. Li, Deputy Chief, Telecommunications Division, International Bureau, Federal 
+Communications Commission, to Steven Lett, Deputy U.S. Coordinator, Office of International Communications 
+and Information Policy, U.S. Department of State (Jan. 24, 2001).
+  Letter from Richard C. Beaird, Acting United States Coordinator, International Communications and 
+Information Policy, U.S. Department of State, to Donald Abelson, Chief, International Bureau, Federal 
+Communications Commission (April 27, 2001).
+  See 47 C.F.R. § 1.767(a)(8).
+  See 47 C.F.R. § 63.09(d).
+  See Application at 9-10.
+  Id. at 10.
+  Id.
+  Id. 
+  Existing cables, in addition to PAN AMERICAN, include:  360Americas (authorized on a non-
+common carrier basis to serve, among other destinations, the United States and Venezuela); Americas-I 
+(authorized on a common carrier basis to serve, among other destinations, the U.S. Mainland, U.S. Virgin 
+Islands, and Venezuela); Americas-II (authorized on a common carrier basis to serve, among other destinations, 
+Florida, Puerto Rico, the U.S. Virgin Islands, and Venezuela); Maya-1 (authorized on a common carrier basis to 
+serve, among other destinations, the United States, Colombia, and Panama); PAC (authorized on a non-common 
+carrier basis to serve, among other destinations, the United States, Panama, and Venezuela); SAC (authorized on 
+a non-common carrier basis to serve, among other destinations, the United States, Chile, Colombia, Panama, and 
+Peru); SAM-1 (authorized on a non-common carrier basis to serve, among other destinations, the United States, 
+Chile, and Peru); and TCS-1 (authorized on a common carrier basis to serve, among other destinations, the U.S. 
+Mainland, Puerto Rico, and Colombia).  Planned cables include:  ARCOS-1 (authorized on a non-common 
+carrier basis to serve, among other destinations, the U.S. Mainland, Puerto Rico, Colombia, Panama, and 
+Venezuela). 
+  See generally Application at 4.
+  See 47 C.F.R. § 1.4(b)(2).
+ 
+(Continued from previous page)   
+(continued….)
+
+ 
+ 
+		DA 01-1116
+
+
+
+
+1
+
+
+
+	Federal Communications Commission	-[Click to enter order number] 
+

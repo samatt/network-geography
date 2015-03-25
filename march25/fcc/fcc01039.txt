@@ -1,0 +1,203 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+                                             
+                         
+In the Matter of                        )
+                              )
+General Communication, Inc.                  )
+                              )    File No. SCL-LIC-19980602-00008
+Application for a License to Land and Operate     )      (Old File No. SCL-97-003)
+in the United States a Digital Submarine          )
+Cable System Extending Between the           )
+Pacific Northwest United States and Alaska        )
+
+                                
+                        ORDER ON REVIEW
+
+Adopted:  February 1, 2001                   Released: February 8, 2001
+
+By the Commission:  Commissioner Furchtgott-Roth approving in part, dissenting in part, and issuing a
+statement. 
+
+                         I.Introduction
+     
+ 1.  The Commission has before it three applications for review of an order of the International
+Bureau's Telecommunications Division (Division) granting authority to General Communications, Inc.
+(GCI) to land and operate the Alaska United Cable System (Alaska United).  The Applications for
+Review raise both substantive and procedural arguments. With respect to the substantive
+arguments, we have considered the arguments raised in the Applications for Review and find that
+the Division staff properly decided the matters before it. Moreover, for the reasons discussed
+below, we conclude that none of the Applicants' procedural arguments warrant revisiting the
+Division's decision.  We therefore deny the Applications for Review and affirm the Division's
+decision for the reasons stated therein.
+
+                         II.Background
+
+ 2.  The Division authorized Alaska United as a non-common carrier submarine fiber
+optic cable system, to extend between the Pacific Northwest United States and Alaska.  The
+Division authorized Alaska United to operate a fiber optic cable system consisting of three
+undersea cable segments, with each segment consisting of a pair of fibers in the following manner:
+segment 1 extending between south central Alaska and the Pacific Northwest United States;
+segment 2 extending between south central Alaska and Juneau, Alaska; and segment 3 extending
+between Juneau, Alaska and the Pacific Northwest United States.
+
+ 3.  ATU-Long Distance, Inc. (ATU-LD), TelAlaska Long Distance (TelAlaska-
+LD)/ASTAC Long Distance, Inc. (ASTAC-LD), and Alaska Network Systems, Inc. (ANS)
+(Applicants) each filed Applications for Review of the Division Order.  GCI filed an Opposition
+to the Applications for Review, and ATU-LD, TelAlaska-LD/ASTAC-LD, and ANS each filed
+replies to GCI's Opposition. 
+
+                         III.Discussion
+
+  1. Substantive Argument/Non-Common Carrier Status.  Applicants' principal substantive
+argument before the Division (and one that they repeat here) is that GCI should have been
+required to operate the cable on a common carrier basis in order to prevent certain alleged
+competitive harms.  We agree with the Division's analysis and conclusion that the availability of
+other telecommunications facilities/service capacity on the route, along with the recordkeeping
+requirement imposed on the license and the Commission's ability to change the regulatory status
+of the cable to common carrier, reasonably obviates concerns about the alleged harms raised by
+Applicants. These factors make it unnecessary for the Commission to require that periodic
+reporting be made available for public inspection, and not merely upon request by the
+Commission, as some parties request.  We also note that the primary economic argument relied
+upon in pleadings before the Bureau in opposing the initial grant of the cable landing license on a
+non-common carrier basis (and what Applicants repeat here) was that there was not, and would
+not be, sufficient facility/service capacity on the route to allay competitive harms.  This key
+allegation has been proven wrong.  Significantly, the Northstar Cable System was, in fact, built
+and placed into operation, contrary to arguments raised below that the cable would not be placed
+into service and could not be relied upon in a competitive assessment.  The Commission can rely
+upon both existing and planned facilities/services in making competitive assessments as was done
+here for the purpose of reviewing whether the applicable law justified a grant of the application. 
+As the Supreme Court has stated:   "[a] forecast of the direction in which the future public interest
+lies necessarily involves deductions based on the expert knowledge of the agency."  We also find
+that the Division correctly applied the Commission's longstanding private submarine cable policy,
+and the court's decision in NARUC I in analyzing GCI's initial application. 
+
+ 1.  Procedural Arguments/Sufficiency of Record.  Applicants also raise issues
+regarding the sufficiency of the record on which the Division based its decision to grant GCI's
+license, which, for the reasons discussed below, we find to be without merit.
+
+ 2.  We disagree with ATU-LD's argument that the Division erred in denying its
+request for a 30 day extension to submit economic evidence to supplement its legal analysis, and
+in setting the comment cycle for the period it did.  Specifically, ATU-LD argues that that the
+Division committed prejudicial error under Section 1.115(b)(2)(v) of the Commission's rules by
+failing to grant ATU-LD time to present an economist's report on Alaska market conditions. 
+ATU-LD attaches to its application for review the economist's report it had hoped to file prior to
+the Commission issuing an Order on GCI's application.  In addition, ANS argues that the
+comment cycle was too short and the ex parte process was insufficient, particularly in light of
+alleged misrepresentations by GCI.  As the Division noted in denying ATU-LD's request for an
+extension, the main concern raised in this proceeding is that GCI will have an incentive and ability
+to engage in anticompetitive conduct by denying competing carriers access to capacity on Alaska
+United.  The Division properly addressed this concern in the Order below, and we agree with the
+Division's determination that an extension was not necessary.  In addition, the Commission's
+ability to reclassify the cable from non-common carrier to common carrier status, if necessary, will
+help ensure that GCI does not engage in anticompetitive behavior.
+
+ 3.  We also find no merit in ANS's argument that the record upon which the Division
+based its decision did not contain the substance of all of GCI's ex parte presentations to
+Commission staff, and that the Division failed to address the serious issue of misrepresentation by
+GCI.  Specifically, ANS asserts that there was no ex parte filing in the record memorializing
+GCI's conversation with International Bureau staff in which it corrected a misrepresentation about
+the public notice of GCI's application.  In response to ANS's argument that there was no public
+record of an ex parte presentation in which GCI corrected the misrepresentation, GCI asserts that
+no such ex parte notification was required because, at the time, GCI was the only party to the
+proceeding.  We agree with GCI that no ex parte notification of GCI's correction of the
+misrepresentation (which, in any event, dealt with a fact that was in the Commission staff's own
+knowledge) was required because, at the time, GCI was the only party to this proceeding. The
+record does not reflect the exact date on which GCI communicated with Commission staff to
+correct GCI's misstatement concerning the issuance of a public notice announcing the filing of its
+application.  Nevertheless, GCI's communication preceded the issuance of the public notice
+announcing the filing of its application and, in turn, the filing of Alascom's and ATU-LD's
+comments in this proceeding on October 3, 1997.  With the filing of these comments, GCI was
+required to comply with the disclosure requirements of Section 1.1206.
+
+ 4.  We also find no merit in ANS's allegation that there is no documentation in the
+public record regarding meetings between GCI and International Bureau staff at which proposed
+reporting conditions were discussed. ANS generally argues that GCI failed to file summaries of ex
+parte presentations with the Commission for inclusion in the public record, and specifically asserts
+that there is no documentation in the public record regarding meetings between GCI and Division
+staff at which proposed reporting conditions were discussed.  GCI responds that it indeed served
+all parties to the proceeding with copies of each of its written submissions to the Division and
+filed memoranda summarizing the substance of all oral ex parte meetings that were not already
+reflected in its written filings. We conclude that GCI did not violate the Commission's ex parte
+rules.  The filed reports of that meeting at which ANS and other interested parties were present
+indicate that possible conditions had been previously discussed.  Indeed, possible conditions had
+been an issue raised by ATU-LD at the outset, in its comments on GCI's application, and they
+had also been addressed in GCI's reply comments.  Thereafter, GCI made an oral ex parte
+presentation concerning this matter and filed the necessary summary of its presentation.  In that
+filing, GCI summarized arguments delivered in its oral presentation and stated that "[a]ll other
+points raised by counsel to GCI are reflected in GCI's written filings in this proceeding." The ex
+parte rules require disclosure of an oral presentation only to the extent that it contains data or
+arguments not already reflected in a party's written filings.  Because ANS has made no showing
+of any new information concerning the imposition of conditions in this proceeding, and because
+GCI otherwise has complied in all respects with the ex parte rules, these contentions warrant no
+further consideration.
+
+                         IV.Conclusion
+ 5.  For the reasons discussed above, we deny Applicants' Applications for Review and
+affirm the Division's decision below.
+
+                       V.Ordering Clauses
+
+ 6.  Accordingly, IT IS ORDERED, pursuant to sections 4(i) and 4(j) of the Act, 47
+U.S.C.  154(i), 154(j), and Section 1.115(g) of the Commission's rules, 47 C.F.R.  1.115(g),
+that the Applications for Review filed by ATU-Long Distance, Inc., TelAlaska Long
+Distance/ASTAC Long Distance, Inc., and Alaska Network Systems, Inc. Corporation ARE
+DENIED.
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Magalie Roman Salas
+                         Secretary     STATEMENT OF COMMISSIONER HAROLD FURCHTGOTT-ROTH
+            APPROVING IN PART AND DISSENTING IN PART
+
+Re:  General Communications, Inc. Application for a License to Land and Operate in the United
+States a Digital Submarine Cable System Extending Between the Pacific Northwest United States
+and Alaska, Order on Review, File No. SCL-LIC-19980602-00008 (rel. February 2, 2001).
+
+     Perhaps the most troubling aspect of today's decision is that it took three years for
+the Commission to reach it.   Parties are entitled to the expectation that their Commission
+business will be resolved in a prompt manner.  By any measure, today's order fails that test.
+Indeed I wish to apologize personally to GCI, ATU-Long Distance, Inc., TelAlaska Long
+Distance/ASTAC Long Distance, Inc., and Alaska Network Systems, Inc.  They deserved better
+treatment from their government.   Going forward, it is my hope that the Commission will move
+aggressively to devote the resources necessary to insure that parties have their claims handled in a
+reasonable time. 
+
+As for the merits, I respectfully dissent in part from today's item.  It has been my
+longstanding view that the Commission lacks authority over undersea cable landing licenses.  The
+Cable Landing License Act (CLLA) provides that "[n]o person shall land or operate in the United
+States any submarine cable directly or indirectly . . . connecting one portion of the United States
+with any other portion thereof, unless a written license to land or operate such cable has been
+issued by the President of the United States."   As I have stated before, I do not believe the
+president is permitted to delegate this authority to an independent agency, such as the FCC. 
+Nevertheless, I concur with today's decision to the extent that it concludes that GCI did not
+violate the ex parte rules.
+
+      
+     
+

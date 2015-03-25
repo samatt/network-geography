@@ -1,0 +1,2496 @@
+                            Before the
+                FEDERAL COMMUNICATIONS COMMISSION
+                      Washington, D.C. 20554
+
+In the Matter of                        )
+                                   )
+AT&T Corp., British Telecommunications, plc, )
+VLT Co. L.L.C., Violet License Co. LLC, and  )
+TNV [Bahamas] Limited Applications      )    IB Docket No. 98-212
+For Grant of Section 214 Authority, Modification  )    SES-ASG-19981110-01654 (30)
+of Authorizations and Assignment of Licenses in   )    SES-ASG-19981110-01655 (2)
+Connection With the Proposed Joint Venture Between        )
+AT&T Corp.and British Telecommunications, plc     )
+
+                   MEMORANDUM OPINION AND ORDER
+
+     Adopted:  October 22, 1999                        Released:  October 29, 1999 
+
+By the Commission:  Commissioner Furchtgott-Roth issuing a separate statement.
+
+                        Table of Contents
+                                                        Paragraph
+   I.  Introduction   . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      1
+
+   II. Background   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+       A.  The applicants  . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+       B.  The merger transaction and the application to transfer licenses . . . . . .                   8
+
+   III.   Public Interest Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      13
+       A.  Legal standards    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      13
+       B.  Analytical framework for assessing competitive effects . . . . . . . . . . .                  16
+
+   IV.    Public Interest Analysis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+       A.  Global seamless services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      22
+          1.  Definition of global seamless services    . . . . . . . . . . . . . . . . . . .            23
+          2.  Significant providers of global seamless services   . . . . . . . . . . . .                29
+          3.  Competitive analysis   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       40
+       B. U.S.-U.K. route     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      62
+       C. Third country routes     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71   
+       D. Transit market      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                73
+       E. Public interest benefits    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    76
+       F. National security issues   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     77
+
+   V.  Competitive Safeguards      .   . . . . . . . . . . . . . . . . . . . . . . .                          81
+       A. Dominant carrier regulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        82
+       B. No Special Concessions rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          92
+       C. Equal access in the United Kingdom . . . . . . . . . . . . . . . . . . . . . . . .             96
+       D. Unbundling the local loop in the United Kingdom . . . . . . . . . . . . . . .                  99
+       
+   VI. Miscellaneous Issues  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . .    100
+       A. U.S. submarine cable stations . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        100
+       B. AT&T's current global alliances . . . . . . . . . . . . . . . . . . . . . . . . . . .          101
+
+   VII.   Conclusion      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  102
+
+   VIII.  Ordering Clauses    . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . .       103
+
+
+   Appendix A:  List of commenters
+
+   Appendix B:  Agreement on national security issues 
+
+                         I.  INTRODUCTION
+
+     1.   AT&T Corp. (AT&T), British Telecommunications (BT), VLT Co. L.L.C. (VLT),
+TNV [Bahamas] Limited (TLTD), and Violet License Co. LLC (License Co.), collectively
+"AT&T/BT," have applied for the Commission's consent, under Sections 214 and 310(d) of the
+Communications Act of 1934, as amended, and the Submarine Cable Landing Act, to obtain or
+transfer certain licenses and authorizations in connection with the proposed joint venture (JV)
+between AT&T and BT to provide international telecommunications services.
+     
+     2.   Because we find that AT&T/BT have demonstrated that the joint venture is in the
+public interest, we approve, subject to certain conditions: (a) the grant of Section 214 authority to
+VLT and TLTD to provide facilities-based and resold international common carrier services; (b)
+the assignment to VLT of submarine cable licenses held by AT&T or its subsidiaries; (c) the
+assignment to License Co. of certain earth station licenses held by AT&T or its subsidiaries, and
+(d) the modification of certain Section 214 authorizations held by AT&T or its subsidiaries.
+
+                         II.  BACKGROUND
+
+     A.   The Applicants
+
+     3.   AT&T, a corporation organized under the laws of Delaware, is the largest long-
+distance and international telecommunications services carrier in the United States.  It provides
+voice and data communications services to residential, business, and government customers, and
+provides service to over 200 countries and territories around the world.  AT&T holds Section 214
+authorizations and certificates to provide international services and maintain ownership interests
+in international cable facilities.  AT&T also holds radio licenses for earth stations used to provide
+international services.
+
+     4.   BT, a company organized under the laws of England and Wales, is the largest
+telecommunications operator in the United Kingdom, providing local, long-distance, and
+international telecommunications services and telecommunications equipment to customers'
+premises.  BT also offers a range of other telecommunications services, including private line
+circuits, mobile telecommunications services, and paging services.  BT provides service to over
+200 countries around the world.  BT's wholly-owned affiliate, BT North America, Inc. (BTNA),
+is authorized pursuant to Section 214 to provide certain U.S. international telecommunications
+services. 
+
+     5.   VLT, a Delaware limited liability corporation, is a subsidiary of a holding
+company based in the Netherlands that will be equally owned by AT&T and BT.  AT&T
+proposes to assign to VLT its ownership interests in cable landing stations in the United States
+and international submarine cable facilities within the U.S. territorial limits.  VLT seeks new
+Section 214 authorization to provide facilities-based and resold international basic switched,
+private line, data, television, and business services.  
+
+     6.   TLTD, a Bahamas-based corporation, is also a subsidiary of a holding company
+based in the Netherlands that will be equally owned by AT&T and BT.  AT&T proposes to
+assign to TLTD its ownership interests in international submarine cable facilities outside the U.S.
+territorial limits.  TLTD's assets will also include BT's ownership interests in international
+submarine cable facilities outside the U.K. territorial limits and AT&T's and BT's operating
+agreements to provide international telecommunications services to various countries.  TLTD
+seeks new Section 214 authorization to provide facilities-based and resold international basic
+switched, private line, data, television, and business services.
+ 
+     7.   License Co., a Delaware limited liability corporation, will be a wholly-owned
+subsidiary of VLT.  AT&T proposes to assign to License Co. its earth station licenses. 
+     
+     B.   The Application 
+
+     8.   The proposed joint venture.  On November 10, 1998, AT&T/BT filed an
+application seeking the Commission's consent for the grant, transfer, and modification of certain
+licenses and authorizations in connection with the proposed joint venture between AT&T and BT
+to provide international telecommunications services.  Under the proposed joint venture, AT&T
+will continue to offer international services to its customers on a common carrier basis pursuant
+to its Section 214 authorization.  However, AT&T will no longer own any international facilities. 
+Rather, the JV will provision to AT&T the underlying international services components, except
+for backhaul facilities and domestic switching services.  The JV will also provide wholesale, or
+carriers' carrier, services to international service providers on a common carrier basis.  In
+addition, the JV will develop and offer new services to meet the telecommunications needs of
+multinational corporations (MNCs).  AT&T and BT also propose to make substantial capital
+investments to enable the JV to replace AT&T's and BT's existing circuit-switched international
+facilities with a state-of-the-art Internet Protocol-based (IP) global network.  AT&T and BT state
+that the proposed IP network will have a global architecture, based on open standards, to ensure
+that it is fully compatible with the networks of AT&T, BT, and foreign carriers that will operate
+in conjunction with the JV outside the United States and United Kingdom.
+
+     9.   AT&T/BT assert that the JV will promote the public interest by: (a) promoting
+competition in the market for the provision of "global seamless services" to MNCs; (b)
+promoting competition in the provision of packet-switched international services by enabling
+AT&T and BT to accelerate the design, construction, and deployment of an advanced IP
+network; and (c) reducing settlement rates and hastening the demise of the traditional
+correspondent system through effective exploitation of efficient arrangements for the routing of
+traffic, such as hubbing and reorigination.  
+
+     10.  Regulatory action.  In addition to the Commission, the Department of Justice
+(DOJ), Oftel (the U.K. telecommunications regulator), and the European Commission (EC) also
+reviewed this proposed joint venture.  On March 30, 1999, the EC cleared the joint venture
+subject to the condition that AT&T sell off certain cable assets, and adopt structural separation
+safeguards between AT&T and other cable assets, in the United Kingdom.  The EC found that
+AT&T/BT would have a combined market share of 30-50 percent of the global
+telecommunications services market, 18 percent of international bilateral carrier services traffic,
+and 50 percent of the traffic and 20 percent of the capacity on the U.S.-U.K. route.  The EC
+concluded that there were several actual and potential competitors in all the markets and
+"plentiful additional capacity" at declining prices.  Thus, the EC determined that the proposed
+joint venture would not have an anticompetitive effect.  The EC authorized the JV to self-
+correspond on the U.S.-U.K. route.   
+     
+     11.  Oftel states that it has considered the effect of the joint venture on the current
+regulatory regime for international services.  On June 1, 1999, Oftel issued a proposed license for
+the joint venture in which Oftel proposes to transpose a number of special conditions currently
+applied to BT to the joint venture.  The specific conditions relate to BT's obligations to provide
+universal service, interconnection, non-discriminatory treatment, and to maintain accounting
+separations.  
+          
+     12.  On June 28, 1999, after conducting a review pursuant to the Hart-Scott-Rodino
+amendment to the Clayton Act, DOJ concluded that the proposed joint venture may proceed. 
+In this Order, we independently review the proposed joint venture based on our statutory public
+interest standard, as described below.
+
+                 III.  PUBLIC INTEREST FRAMEWORK
+
+     A.   Legal Standards
+
+     13.  Pursuant to Sections 214(a) and 310(d) of the Communications Act (the Act), the
+Commission must determine whether AT&T/BT has demonstrated that granting, amending, or
+transferring control of the requested licenses and authorizations in connection with the proposed
+joint venture between AT&T and BT would serve the "public interest."  More specifically,
+under Section 214(a) of the Act, the Commission must find that the "present or future public
+convenience and necessity require or will require" approving AT&T/BTs' applications to modify
+AT&T's Section 214 authorization to allow it to transfer ownership of certain facilities to VLT
+and TLTD and to authorize VLT and TLTD to operate the acquired telecommunications lines. 
+Under Section 310(d) of the Act, the Commission must determine that the proposed transfer of
+earth station licenses "serves the public interest, convenience, and necessity" before it can
+approve the transaction.      
+     
+     14.  The public interest standard of Sections 214(a) and 310(d) of the Act is a flexible
+one that encompasses the "broad aims of the Communications Act."  These broad aims include,
+among other things, implementing Congress's "pro-competitive, de-regulatory national policy
+framework designed to . . . open[] all telecommunications markets to competition" and
+"accelerat[ing] rapidly private sector deployment of advanced telecommunications and
+information technologies and services."  The public interest analysis may also consider whether
+the proposed transaction will affect the quality of telecommunications services provided to
+consumers or will result in the provision of new or additional services to consumers.  In
+evaluating whether the proposed transaction furthers the aims of the Act, the Commission may
+consider the trends within, and needs of, the telecommunications industry, the factors that
+influenced Congress to enact specific provisions of the Act, and the nature, complexity, and
+rapidity of change in the telecommunications industry.  
+
+     15.  The statutory standard that the Commission must apply in this case requires a
+balancing of the potential public interest harms against the potential public interest benefits, and
+AT&T/BT bear the burden of proof of showing that the benefits outweigh the harms.  Our
+public interest analysis is not limited by traditional antitrust principles.  In the
+telecommunications industry for which we have statutory responsibility, as in most others,
+competition is shaped not only by antitrust rules but by the regulatory policies that govern
+interaction of firms inside the industries.  An antitrust analysis -- such as that undertaken by the
+Department of Justice in this case -- focusses solely on whether a proposed merger will harm
+competition.  Our public interest analysis also encompasses the broad aims of the
+Communications Act.  To apply our public interest test, then, we must determine whether the
+proposed transaction violates our rules, or would otherwise frustrate our implementation or
+enforcement of the Communications Act and federal communications policy.  That policy is, of
+course, shaped by Congress and deeply rooted in a preference for competitive processes and
+outcomes.  Ultimately, we must determine whether AT&T/BT has demonstrated that the
+proposed transaction, on balance, serves the public interest, considering both its competitive
+effects and other public interest benefits and harms.  Where necessary, the Commission may
+attach conditions to the approval of a transfer of licenses in order to ensure that the public
+interest is served by the transaction.  Section 214(c) of the Act also authorizes the Commission to
+attach to the certificate "such terms and conditions as in its judgment the public convenience and
+necessity may require."  Similarly, Section 303(r) of the Act authorizes the Commission to
+prescribe such restrictions or conditions, not inconsistent with law, as may be necessary to carry
+out the provisions of the Act.  In addition, the Submarine Cable Landing Act and Executive
+Order No. 10530 authorize the Commission to grant, withhold, or condition cable landing
+licenses, inter alia, "upon such terms as shall be necessary to assure just and reasonable rates and
+service in the operation and use of cables so licensed."  In assessing the potential public interest
+effects of this transaction between AT&T and BT, we limit our analysis to those issues that have
+been raised by the parties to the proceeding and those additional issues that may significantly
+affect the public interest.  
+
+     B.   Analytical Framework for Assessing Competitive Effects
+
+     16.  Although the proposed transaction before us is a joint venture and not a merger,
+we generally follow the analytical framework adopted by the Commission in the Bell
+Atlantic/NYNEX Order and the BT/MCI Order in conducting our public interest analysis of the
+competitive effects of the proposed joint venture.  As the Commission noted in the BT/MCI
+Order, this analytical framework is based not only on prior Commission analyses of market
+power, but is also embodied in the antitrust laws, including the DOJ and Federal Trade
+Commission 1992 Horizontal Merger Guidelines and the April 8, 1997 revisions of those
+guidelines.
+
+     17.  Consistent with the 1992 Horizontal Merger Guidelines, the Commission, as part
+of  its competitive effects analysis, seeks to define the relevant markets and those firms
+participating in those markets.  The Commission then analyzes whether the proposed merger
+will increase the likelihood that firms participating in those markets could exercise market power
+through either unilateral or coordinated anticompetitive behavior.  Finally, if the Commission
+concludes that the merger will increase the potential for the exercise of market power (through
+either unilateral or coordinated activity), the Commission attempts to determine if entry of new
+firms or construction of new capacity by existing firms in response to price increases will
+constrain any attempted exercise of market power.
+
+     18.  The 1992 Horizontal Merger Guidelines suggest that, in assessing whether a
+merger involving firms currently competing in a market will result in anticompetitive effects,
+market shares should be assigned to each firm currently participating in the market.  Then the
+pre-merger and post-merger levels of concentration should be calculated, using the Herfindahl-
+Hirschman Index (HHI).  The merger guidelines also explicitly recognize, however, that "recent
+or ongoing changes in the market may indicate that the current market share of a particular firm
+either understates or overstates the firm's future competitive significance."  
+
+     19.  The Commission also seeks to determine if market entry is unconstrained so that
+an attempted exercise of market power can be prevented, i.e., if rivals and new entrants have the
+capabilities and incentives to expand output in response to any anticompetitive practices by the
+merging entities.  
+
+     20.  Finally, we must balance against the potential public interest harms the extent to
+which the joint venture may enhance efficiency.  As we noted in the MCI WorldCom Order, the
+Commission defined these efficiency benefits as "the pro-competitive benefits of a merger that
+improve market performance," thereby benefiting consumers through, for example, "lower
+prices, improved quality, enhanced service or new products."  In addition, we explained that
+only merger-specific efficiencies, i.e., those that would not occur but for the merger or are
+unlikely to be achieved through less competitively-harmful means than the merger, are relevant
+to the public interest analysis.  
+          
+         IV.  ANALYSIS OF POTENTIAL PUBLIC INTEREST HARMS
+
+     21.  We consider in this section the competitive effects of the proposed joint venture in
+the global seamless services market, the U.S.-U.K route, third country routes, and in the transit
+market.  We also analyze the possible public interest benefits, including potential efficiencies,
+and national security concerns.
+
+     A.   Global Seamless Services 
+      
+     22.  Based on our review of the evidence, we find it is unlikely that the proposed joint
+venture will have an anticompetitive effect in the market for global seamless services.  We find
+that the global seamless services market has several significant participants, including large
+global alliances and numerous smaller carriers with a global or regional presence that have
+emerged as potentially significant rivals.  We find that, given the changing alliances among
+carriers, the proposed joint venture will not eliminate a significant competitor.  We also find that,
+although the proposed joint venture may increase concentration in the global seamless services
+market, the JV will not be able to exercise market power because there are no barriers to entry in
+this market.  
+
+     1.   Definition of Global Seamless Services
+
+     23.  In 1996, the Commission defined global seamless services as: 
+
+                    a combination of voice, data, video, and other telecommunications
+          services that are offered by a single source over an integrated international
+          network of owned or leased facilities, and that have the same quality,
+          characteristics, features and capabilities wherever they are provided.
+
+     24.  The Commission noted that end-to-end seamless service offers the advantage to
+customers of "one-stop shopping" and "single-source billing."  The Commission also noted that
+global seamless services include global virtual private networks, high-speed data offerings,
+packet-switched networks, bandwidth management products, store-and-forward fax, and e-mail. 
+Depending on the needs of users, the services may employ advanced technologies such as frame
+relay, asynchronous transfer mode (ATM) and synchronous digital hierarchy technologies, and
+may be classified as telecommunications or information services.  Of course, today an IP
+network is a critical feature for many global seamless services customers.
+
+     25.  We believe that this definition should be updated to reflect current market
+conditions.  We conclude that three modifications are necessary.  First, global MNCs often
+"multi-source" (i.e., seek multiple providers) rather than rely on a single source to provide global
+seamless services.  Global MNCs have in-house communications experts or hire consultants to
+advise them about their multi-million dollar telecommunications purchases, and are often willing
+to change their suppliers when they can obtain better terms or to ensure they get the services that
+best meet their needs.  Multi-sourcing is also attractive to these global MNCs because it offers
+them a benchmark against which to measure their suppliers' performance and enables them to
+switch their traffic to other suppliers if one supplier experiences technical problems on its
+network.  Thus, for example, as AT&T/BT note: (1) Boeing purchases some global network
+services from AT&T, but uses SITA (now Equant) and Sprint as its primary international
+services providers; (2) Compaq buys some global network services from AT&T and C&W, but
+uses MCI as its major supplier; and (3) Exxon purchases global network services from AT&T,
+but uses Global One as its primary international carrier.  Thus, we clarify that global seamless
+services can be offered by a single source or multiple sources.  
+     
+     26.  Second, we clarify that an "integrated international network," as that phrase is
+used in the definition of global seamless services, includes a network with either global or
+regional coverage.  We make this modification because global MNCs are increasingly using
+multiple vendors, with each providing service in a particular geographic region, when purchasing
+telecommunications services.  We reject C&W's argument that we should define global
+seamless services more narrowly.  C&W argues that global MNCs have no financial incentive to
+purchase global seamless services from any carrier that does not have a global facilities-based
+network or offer "one stop shopping."  We find there is no evidence in the record to support this
+view.  In fact, the record shows that, contrary to C&W's claim, several large global MNCs are
+purchasing global seamless services from carriers that do not own facilities-based global
+networks or offer "one stop shopping."  Thus, we conclude that a carrier may be a provider of
+global seamless services even if it does not own a facilities-based global network or offer "one
+stop shopping" on a global scale.  
+
+     27.  Third, because not every carrier that offers seamless service in fact has the
+capability to offer such services without network to network interfacing, we amend the definition
+of global seamless services to require that the international network have equivalent (though not
+necessarily identical) quality, characteristics, features, and capabilities.    
+
+     28.  In analyzing the global seamless services market, therefore, we define global
+seamless services as: 
+
+                    a combination of voice, data, video, and other telecommunications
+          services that are offered by a single source or multiple sources over an
+          integrated global or regional international network of owned or leased
+          facilities, and that have equivalent (though not identical) quality,
+          characteristics, features and capabilities wherever they are provided.
+
+     2.   Significant Providers of Global Seamless Services 
+
+     29.  We find that the significant providers of global seamless services include the
+largest carriers with global networks and established customer bases, emerging providers who are
+building advanced IP-based networks and forming alliances with smaller carriers, regional
+providers who serve particular geographic regions, and the in-house self-provisioning operations
+of numerous global MNCs.  We briefly describe each of these significant providers of global
+seamless services.     
+
+     30.  Global alliances: Several of the world's largest telecommunications carriers have
+formed global alliances to provide global seamless services.  We describe below the most
+significant global alliances, as they are constituted at present.  We note, however, that there have
+been, and will continue to be, changes in the membership of these global alliances as they review
+their strategic options and as new investment opportunities arise.  The major alliances are:     
+
+     31.  AT&T and its global partners: AT&T provides global seamless services through
+its AT&T-Unisource Communications Services (AUCS) joint venture with Unisource (which is
+owned by PTT Telecom Netherlands (KPN), Telia, and Swisscom) and WorldPartners
+(consisting of Unisource, KDD, Telstra, and Singapore Telecom).  AT&T is the exclusive
+distributor of AUCS and Worldpartners services in the United States.  AT&T also acquired
+IBM's global data networks in December 1998.  AT&T states that approximately two-thirds of
+the assets it acquired from IBM relate to switching and related facilities located in the United
+States.  AT&T also states that, in contrast to the large global MNC accounts that it serves
+through Unisource and WorldPartners, IBM's customers are primarily small and mid-sized
+corporate customers that purchase on average only tens of thousands of dollars of service
+annually.   
+
+     32.  BT and its global partners: BT is a significant provider of global seamless
+services in Europe and the rest of the world and, through its Concert alliance, in the United
+States.  From January 1995 to September 1998, MCI was BT's partner in Concert and the
+exclusive distributor of Concert services in the United States.  Concert also developed global
+seamless services products which BT, MCI, and their global partners distributed throughout the
+world.  After September 1998, when BT bought MCI's shares in Concert and WorldCom bought
+BT's shares in MCI, MCI continued to distribute Concert services as a non-exclusive distributor.  
+
+     33.  MCI WorldCom: The combined MCI WorldCom owns and operates a global
+platform that enables business customers to combine voice and data traffic from local and
+international locations onto one seamless end-to-end network that serves 81 major markets and
+over 50 countries.  MCI WorldCom claims that it offers the first and only communications
+platform that eliminates boundaries between local and long-distance, voice and data, and Internet
+services.  MCI WorldCom offers frame relay and ATM global services, and states that its
+seamless network eliminates the need for network to network interfaces that may create
+bottlenecks, traffic delays, and reduced efficiencies. 
+
+     34.  Global One: This alliance among Sprint, Deutsche Telecom, and France Telecom
+has 1,400 points of presence in over 65 countries.  Global One claims to have one of the world's
+largest and most advanced ATM-based networks, which delivers a high speed service -- 1.5
+Mbps to 155 Mbps -- that simultaneously supports voice, data, Internet, and multimedia in a self-
+healing network.
+
+     35.  Cable and Wireless: C&W states that it operates in over 70 countries and is
+building an IP-based global network that includes an Internet backbone in Europe and the Asia-
+Pacific region.  With the purchase of MCI's Internet backbones, C&W states that it now offers
+integrated voice, data, and Internet services in the United States and throughout the world.
+
+     36.  Equant: Formerly known as SITA, the global data network for major airlines,
+Equant states that it operates an advanced IP-based network that offers global wide area network
+(WAN)-to-local area network (LAN)-to-Desktop connectivity over the world's largest
+commercial data network, which extends to over 220 countries and territories.  Equant claims
+that it offers commercial customers fully managed end-to-end services over an integrated global
+network.  
+
+     37.  Potential emerging providers: We also find that several new carriers and alliances
+are emerging as potentially significant providers of global seamless services.  Many of these
+carriers are fast-growing due to their ability to provide global services over "state-of-the-art" IP-
+based global networks.  For instance, Teleglobe, the largest Canadian international services
+carrier, announced plans to build an IP-protocol network that will reach 400,000 route miles on
+several continents.  Qwest and KPN, a Dutch carrier, recently completed the first of six fiber
+optic rings across Europe that will provide IP-based services to large corporate customers. 
+Global Crossing, which recently acquired Frontier, is building a global IP network that may be
+the first to be completed.  GTS, which merged with Esprit to provide service over its pan-
+European network in 12 countries and 20 cities, also is building a global IP-based network to
+carry traffic at speeds up to 1.28 terabits per second.   Level 3, which is building a global IP
+network with transatlantic and transpacific undersea cables joining the continental networks,
+plans to offer an innovative bandwidth package to corporate customers that includes free voice
+services.  Viatel is a facilities-based international services provider building the Circe network
+in Europe and has operations in the United States, Latin America, and the Pacific Rim.   
+
+     38.  Regional providers: In addition, we find that several carriers that provide only
+limited services or serve only limited geographic regions could become significant participants in
+this market.  These regional providers offer global seamless services using a variety of different
+strategies.   IDT, a U.S. carrier, is serving South America, the Caribbean, and Asia; Primus
+operates a global network with digital gateway switches in the U.S., Canada, Australia, the U.K.,
+and Mexico; Star has a proprietary network that extends to 40 countries; Pacific Gateway
+Exchange has gateway facilities in the U.S., U.K., Russia, and New Zealand; and COLT is a
+London-based carrier that owns networks throughout Europe.  
+
+     39.  Self-provisioning:  As an alternative to purchasing a package of global corporate
+communications from a global seamless service provider, corporate customers can (and do)
+purchase and manage, through their own telecommunications departments, the component piece-
+parts of those services from various facilities-based providers.  In-house provisioning continues
+to be a significant source of supply of global seamless services for MNCs.  One study found that
+80 percent of Fortune 500 companies, for instance, spent up-to half their total
+telecommunications budgets for in-house provisioning, although the companies expected to
+reduce these expenditures in the future in favor of outsourcing (i.e., retaining carriers to provide
+managed voice and data services).
+
+     3.   Competitive Analysis of the Global Seamless Services Market 
+
+     40.  A merger can have an anticompetitive effect in a given market if it increases
+concentration in the market to such an extent that the exercise of market power becomes more
+likely and the ability of competitors to enter the market and constrain the exercise of market
+power is impeded by barriers to entry.  As noted above, concerns that arise in a merger context
+are also applicable in reviewing a proposed joint venture.  Thus, we need to evaluate whether
+the proposed transaction (1) increases significantly concentration in the market, and, if so (2)
+whether there are significant barriers to entry into the market.  Even if the proposed transaction
+increases significantly concentration in a market, free entry into the market will prevent the
+ability of the newly-formed entities to act anti-competitively.  
+
+     a.   Market Concentration Analysis
+     
+     41.  We first examine the extent to which the joint venture between AT&T and BT
+will increase concentration in the market for global seamless services and whether the joint
+venture will facilitate the exercise of market power.  Although we typically examine market
+share data as the starting point of our analysis, we find that accurate and reliable market share
+data are not available for this market.  Neither C&W nor GTE, both of whom assert that the
+proposed JV will have market power in the global seamless services market, provide any market
+share data to support their claims.  AT&T/BT estimate that the combined market share of AT&T
+and BT in the global seamless services market is less than 10 percent.  AT&T/BT further state
+that their combined market share rises to no more than 13.5 percent if IBM's global assets that
+AT&T acquired are included.  We also note that the European Commission estimates that
+AT&T's and BT's combined market share for global telecommunications services is between 30
+percent and 50 percent.  As discussed below, however, we find that all these estimates have
+limitations for purposes of determining market share in the global seamless services market.  
+
+     42.  AT&T/BTs' estimate is derived from two reports that probably overstate the size
+of the market and understate AT&T/BTs' market share.  We note that AT&T acknowledges that
+its own records show that the CIT report understates its earnings from providing global seamless
+services.  In addition, the CIT study further understates AT&T/BTs' market share by excluding
+"the MN&S [managed network and support services] revenues of the parent companies from
+their respective home countries."  The CIT report, thus, does not include AT&T's revenues from
+providing global network services to U.S.-based MNCs and BT's revenues from providing global
+network services to U.K.-based MNCs.  In addition, we note that these reports define two
+different markets (i.e., "network management & support services" and "global VANS") that do
+not correspond exactly with the market for global seamless services.  Both reports probably
+overstate the size of the market, and understate the combined AT&T/BT share, by including
+revenues from companies that provide various network support, facilities management and
+VSAT management services that are beyond the scope of global seamless services.  Finally,
+even on the basis of the two reports AT&T/BT identified, AT&T/BT have understated the
+market share contribution from AT&T's acquisition of IBM's global networks.  While AT&T/BT
+cite the CIT report to support their claim that the IBM network will increase the combined
+AT&T/BT share from 10 percent to 13.5 percent of the global seamless services market, we
+find that the McGraw Hill report states that, in each year from 1994-1999, IBM's market share
+alone is approximately 10 percent, AT&T's share is 6-7 percent, and BT/MCI's share is 3-4
+percent.  For these reasons, we conclude that the two reports do not support AT&T/BTs'
+contention that the combined AT&T/BT market share is less than 10 percent without including
+IBM's global network or 13.5 percent including IBM's global network.  
+
+     43.  We also note that, although the EC stated in a press release that it estimated that
+AT&T/BT had a combined market share of 30 percent to 50 percent.  AT&T/BT argue that the
+EC's estimate is a "worst-case" estimate based on two sources of information: revenue data
+submitted by six carriers (AT&T, BT, MCI WorldCom, Global One, Equant, and C&W) and a
+third-party analysis of the expenditures of 200 global MNCs.  AT&T/BT assert that the EC
+significantly understated the size of the market, and overstated the AT&T/BT share, by including
+revenues from only six carriers.  As noted above, we believe that several emerging carriers,
+regional providers, and global MNC self-provisioning operations should also be included in our
+analysis as significant providers of global seamless services.  Thus, to the extent that the EC
+based its estimate on only six carriers, we conclude that for purposes of our analysis the EC
+estimate may overstate the combined AT&T/BT share of the market. 
+
+     44.  Despite the lack of accurate market share data, however, we find there is
+substantial evidence that the joint venture will combine the international assets of two significant
+providers of global seamless services.  For instance, GTE states, and AT&T/BT do not dispute,
+that AT&T and BT will contribute assets worth billions to the JV, including: services to, and
+facilities in, 237 countries; operating agreements with over 400 carriers; traffic amounting to 25
+billion minutes; 200,000 private line circuits; more than 6,000 nodes in 52 countries, covering
+1,000 cities; undersea cable systems throughout the world; and customer service and network
+management operations on four continents.  We also note that AT&T/BT estimate that the JV
+will have 6,500 large global MNC and carrier 
+accounts and earn over $10 billion in annual revenues.  Thus, we conclude that the proposed
+joint venture is likely to increase concentration in the global seamless services market.  
+
+     45.  We are not persuaded, however, by C&W's argument that the proposed joint
+venture will eliminate a significant provider of global seamless services in the United States. 
+C&W claims that, based on its own experience in bidding for contracts with global MNCs, BT
+and AT&T are always included among the top three to five potential suppliers and "one or the
+other will usually win the bid."  C&W claims that the proposed JV will eliminate competition
+between AT&T and BT.  C&W, however, offers no evidence to support these claims and
+AT&T/BT deny them.  AT&T/BT argue that, for the most part, AT&T is a U.S distributor, and
+BT is a European distributor, of global seamless services.  AT&T/BT also state that Concert,
+which BT and MCI jointly owned from January 1995 to September 1998, always had a strong
+U.S. distributor:  MCI was the exclusive distributor until it was acquired by WorldCom and
+AT&T and MCI then became non-exclusive distributors.  BT did not market Concert services in
+the U.S. except to customers who contacted BT directly.  BT's U.S. revenue from these walk-in
+customers since September 1998, which amounts to less than 5 percent of Concert's new U.S.-
+based customers, is not sufficient to make BT a significant competitor in this market.  Thus, we
+find that, in fact, AT&T and BT do not provide "head to head competition" to provide global
+seamless services to U.S.-based MNCs.  Accordingly, we conclude that a joint venture between
+AT&T and BT would not result in the loss of a significant competitor in the United States. 
+Instead, because AT&T is replacing MCI as BT's U.S. partner and MCI has merged with
+WorldCom, AT&T and MCI WorldCom will continue to compete in this market.  There is
+insufficient information in the record to find that the joint venture will not result in the loss of a
+significant competitor in non-U.S. markets.  However, we note that, even if the joint venture
+results in the loss of a significant competitor in those markets, the joint venture will not have an
+anticompetitive effect because there are no significant barriers to entry.  
+
+     46.  We further note that there is no certainty whether the AT&T/BT JV will be able to
+"migrate" their current customers onto their planned IP platform.  An IP platform differs
+fundamentally from the circuit-switched technology by which global seamless services are
+currently provided by AT&T and BT.  The services provided by the JV over the IP platform will
+likely differ substantially in quality, price, and kind from the status quo.  MNC customers will
+doubtlessly evaluate carefully whether to take service under the new terms and conditions that
+the JV offers or whether to acquire service elsewhere.  
+
+     b.   Barriers to Entry
+                    
+     47.  As noted above, a transaction that increases concentration in a market will not
+have an anti-competitive impact if the ability of competitors to enter that market is
+unconstrained.  The ability of competitors to enter freely depends on their ability to obtain, at
+reasonable terms and prices, inputs, as well as firm-specific assets and capabilities, necessary for
+the provision of service in that market.  Further, as we stated in MCI WorldCom, the provision of
+services to larger business customers depends in large part on the ability to obtain critical inputs
+such as international transport capacity and operating agreements with carriers on the foreign
+end, as well as the technical ability to provide the services demanded by larger business
+customers.  Although we concluded that the proposed joint venture will increase concentration
+in the global seamless services market, we now find that, because competitors can freely obtain
+the necessary inputs and they have the technical assets and capabilities to provide global
+seamless services, the JV is unlikely to have the ability to act anticompetitively in this market.    
+
+     48.  First, we must determine if AT&T/BT has the ability to act anticompetitively in
+the international transport capacity market.  In the MCI WorldCom Order, we examined in great
+detail the international transport capacity market, reviewing the Atlantic, Pacific, and Latin
+American/Caribbean markets.  On the trans-Atlantic route, we found that, by the end of 1999,
+AT&T and BT would own 7.8 percent, and 3.7 percent, respectively, of international transport
+capacity.  By contrast, we found that Global Crossing (with 40 percent), MCI WorldCom (with
+23.3 percent) and C&W (with 15.9 percent) would have larger market shares for capacity on this
+route.  We note that there have been no changes in the ownership of existing cables since
+September 1998.  Thus, we find that the numbers quoted above are reasonably accurate market
+share descriptions of U.S.-U.K. international transport capacity at present.  Using these numbers,
+we calculate that AT&T/BTs' combined ownership of U.S.-U.K. international transport capacity
+is 11.5 percent.  We also determine that the proposed joint venture would increase the HHI
+concentration, calculated on the basis of ownership of cable capacity, by 60 points, from 2,480 to
+2,560.  As we noted in MCI WorldCom, however, "using only ownership shares is likely to
+increase the level of concentration in the transport market compared to the level if  IRU's were
+taken into account."  Thus, we also calculate market shares and HHI based on IRU leasehold
+interests.  By this measure, we find the market share distribution of the largest IRU leaseholders
+is as follows: MCI WorldCom 26.6 percent; C&W 12.2 percent; AT&T 8.1 percent; Teleglobe
+5.6 percent; Level 3 5.0 percent, DT 4.6 percent, and BT 3.8 percent.  In addition, Global
+Crossing holds 16.4 percent of IRUs.  We also determine that the proposed joint venture would
+increase the HHI concentration, calculated on the basis of IRU leaseholds of U.S.-U.K. cable
+capacity, by 60 points, from 1,290 to 1,350.  We note that according to the 1992 Horizontal
+
+Merger Guidelines, a transaction that increases HHI concentration by 60 points on the U.S.-U.K
+route would not raise significant competitive concerns.  Although we do not include them in our
+analysis of market concentration, we also note that several additional transatlantic cables are in
+the planning stages and are scheduled to be in service between late 1999 and late 2001.  Thus,
+we conclude that AT&T/BT does not have the ability to act anticompetitively in the U.S.-U.K.
+international transport capacity market.
+
+     49.  We also find that AT&T/BT do not have the ability to act anticompetitively on the
+Pacific and Latin/American/Caribbean routes.  In the Pacific, AT&T owns 12.1 percent and BT
+owns 0.4 percent, for a combined share of 12.5 percent of capacity.  Other owners of capacity on
+the Pacific route include: MCI WorldCom 9.6 percent, KDD 7.4 percent, Sprint 6.0 percent, and
+10 other carriers each with 5 percent.  Similarly, in the Caribbean, AT&T owns 20.8 percent, BT
+owns 0.1 percent, MCI WorldCom (including Embratel) owns 42.3 percent and Sprint owns 14.4
+percent.  Because BT's ownership of cable capacity amounts to 0.4 percent on the Pacific route
+and 0.1 percent on the Latin American/Caribbean route, and there is no evidence that BT's share
+of cable capacity will be significantly greater if measured on an IRU basis, we do not further
+analyze AT&T/BTs' ability to act anticompetitively on these routes.  Thus, we conclude that
+the JV will not have sufficient capacity on any route to exercise market power over international
+transport capacity.  Accordingly, we do not agree with Equant that we should require the JV
+provide unbundled access to international transmission circuits.
+     
+     50.  Second, we also conclude that the JV's competitors have the ability to obtain
+operating agreements from foreign carriers.  As we have noted previously, carriers are generally
+able to obtain operating agreements to terminate traffic or use alternative arrangements to
+provide international services.    Furthermore, as countries implement their market access
+commitments made as part of the WTO Basic Telecom Agreement, U.S. carriers will be able to
+obtain operating agreements from new entrants as well as incumbent carriers in these countries. 
+In addition, carriers have been successful in providing international service through alternative
+arrangements such as switched hubbing through a third country.  Thus, we conclude that the
+ability to obtain operating agreements is not a barrier to entry into the global seamless services
+market for the JV's competitors.  
+
+     51.  Finally, we conclude that many carriers have the technical know-how to provide
+global seamless services.  As we stated in the MCI WorldCom Order, the special assets and
+capabilities that are important attributes in serving residential customers are less important in the
+larger business market.  Particularly for sophisticated customers like global MNCs, retail assets
+and capabilities are far less important than price and service factors.  Thus, we do not agree with
+C&W that barriers to entry to this market are high or that the JV will have the ability to lock-in
+its customers.  C&W does not submit any evidence to support this claim.  To the contrary,
+global MNC customers are increasingly using multiple vendors to supply their global seamless
+services needs.  Furthermore, we note that global MNCs have multimillion-dollar budgets for
+purchasing global seamless services and are staffed by in-house experts able aggressively to seek
+out competing providers.  Thus, we conclude that the possession of technical assets and
+capabilities is not a barrier to entry into the global seamless services market for the JV's
+competitors. 
+
+     c.   Application Program Interfaces
+     
+     52.  We consider in this section GTE's and Equant's allegations that the JV will be able
+to monopolize the global seamless services market through the adoption of proprietary
+application program interfaces (APIs), described below.  GTE claims that AT&T/BT have an
+initial advantage in the global seamless services market and, because of this, will be able to
+establish their proprietary APIs as the industry standard, allowing the JV to dominate the global
+seamless services market.  We find that AT&T/BT do not have an initial advantage in the
+global seamless services market that would allow them to establish their APIs as the industry
+standard.  Distinguishing between API calls and API programs, as described below, we find that
+the JV is unlikely to adopt proprietary API calls and would be unable to use proprietary API calls
+to lessen competition even if it did adopt them.  We also find that, although the JV is likely to
+adopt proprietary API programs, such programs will not enable the JV to lessen competition.  As
+a result of these findings, we are not persuaded by GTE's and Equant's allegations.
+
+     53.  An IP telecommunications network can be conceived of as having three layers:
+applications programs, APIs, and an IP platform.  The top layer consists of applications
+programs, which are software packages that provide desired telecommunications services to
+customers.  The middle layer consists of APIs, which generally consist of software providing a
+set of functions necessary for the operation of applications programs on the IP platform.  The
+bottom layer is the IP platform, which consists of software and hardware that support the higher
+layers and provides transmission and routing of messages.
+
+     54.  GTE claims that AT&T/BT will adopt proprietary APIs.  By the term
+"proprietary," GTE means that AT&T/BT will not develop APIs that are operable on rival
+networks or that AT&T/BT will not make their APIs available to rival carriers on reasonable
+terms and prices or at all.  According to GTE, AT&T/BT's large actual and potential base of
+customers will motivate software developers to write application programs specially tailored to
+AT&T/BTs' proprietary APIs and incompatible with the IP systems of competitors.  According
+to GTE, the existence of a "rich array" of application programs compatible only with the JV's
+system will draw ever more customers to the JV's system, ultimately leading to a phenomenon
+called "tipping."  "Tipping" is defined as the tendency for a system with an initial edge over
+incompatible, rival systems to become an industry standard and thus achieve market
+dominance. The end result, according to GTE, will be that the JV will attain a monopoly
+position, with their rivals relegated to a fringe position."
+
+     55.  Because APIs permit the application programs to interact with the network, APIs
+are a crucial input in the provision of communications services over an IP platform.  In essence,
+GTE argues that AT&T/BTs' initial advantage in the global seamless services market will allow
+them to establish their proprietary APIs as the industry standard, thus giving AT&T/BT control
+over this input market and allowing AT&T/BT to extend their market power into the global
+seamless services market, which relies on APIs as an input.
+
+     56.   We are not persuaded by GTE that AT&T/BT have an initial advantage that will
+allow them to tip the global seamless services market through the use of proprietary APIs. 
+AT&T/BT are not alone in developing a global IP telecommunications network and there is no
+evidence in the record that they are the current leaders.  Also, although AT&T and BT are
+significant competitors in the global seamless services market, it is not at all clear that the JV
+will be able to "migrate" customers onto its planned IP telecommunications network or that it has
+more favorable access to important MNC accounts than that afforded to other major market
+participants.   Even though the JV will have considerable size and resources, this is no
+guarantee of success in the rapidly changing global seamless services market.  
+
+     57.  Neither are we persuaded by GTE that AT&T/BT will use proprietary APIs to
+lessen competition, as we explain in detail below.  Although there is no industry consensus on
+terminology regarding APIs, it is useful to distinguish between API calls and API programs. 
+An API call is a request by the applications program for a needed task to be performed over the
+IP platform.  An API program is a computer program that actually performs the requested task
+over the IP platform.  Different API programs can support the same API call.  GTE does not
+distinguish between API calls and programs.  AT&T/BT distinguish between APIs (what we
+describe here as API calls) and API source code or interface programs (what we describe here as
+API programs).  AT&T/BT claim that their API calls will not be proprietary but acknowledge
+that their API programs may be proprietary.  We consider first the issue of proprietary API
+calls and then proprietary API programs.
+
+     58.  AT&T/BT indicate that they will use non-proprietary API calls, i.e., that they will
+use API calls developed by open industry standards-setting bodies in so far as possible and that
+they will not limit access to the API calls supported by their IP platform.  AT&T/BT state that
+they will adopt open standards that will "facilitate interoperability between the Global Venture's
+network and the networks of others, including both distributors and competitors."  
+Furthermore, AT&T/BT give a number of persuasive reasons why adoption of proprietary API
+calls would be counterproductive to their efforts to compete in the global seamless services
+market.  According to AT&T/BT, use of proprietary API calls would delay the roll-out of the
+JV's services; drive away MNCs that fear being locked into a system reliant on proprietary API
+calls; limit the JV's ability to attract partners and distributors; limit the JV's ability to access
+the industry-wide pool of innovations; and incur significant risk that JV's proprietary API calls
+will be forced out by open standards.  Based on these considerations, we are convinced that
+AT&T/BT are not likely to use proprietary APIs in an anti-competitive manner successfully.
+     
+     59.  AT&T/BT acknowledge that, due to rapidly developing and highly competitive
+markets, they may choose to deploy a new service or feature even before the industry standards-
+setting process has concluded and that they wish to "shape the competitive landscape" by getting
+industry standards-setting bodies to adopt innovative API calls originated by AT&T/BT. 
+AT&T/BT state, however, that such non-standard API calls will be published and so will be no
+less open than those endorsed by a standards-setting body.  Prior to adoption by an industry
+standards-setting body, API calls may be open in the sense of freely accessible yet not open in
+the sense of widely accepted and operable on rival networks.  It is conceivable that if AT&T/BT
+enjoy early technological and commercial success with their IP network, they may be able to
+dominate the standards-setting process, making the standards-setting process a ratification of
+their own corporate decisions and guaranteeing, for example, that they are first-to-market with
+new services.  However, there is no evidence in the record to support the likelihood of such an
+eventuality.  Also, as discussed above, AT&T/BT do not have an initial advantage over their
+rivals in the provision of global seamless services over an IP network.  Therefore,  abuse of the
+standards-setting process is as likely to be caused by any significant competitor in the global
+seamless service market as by AT&T/BT.  We could not guard against such potential abuse by
+rejecting the proposed transaction, as suggested by GTE, or imposing non-discrimination and
+disclosure requirements regarding APIs solely on the JV, as suggested by Equant.
+
+     60.  As mentioned above, AT&T/BT acknowledge that their API programs may be
+proprietary.  We are, however, unpersuaded by GTE's argument that the use of proprietary API
+programs by AT&T/BT poses a risk to competition in the global seamless services market.  In
+the theory of dynamic competition, the profit motive impels entrepreneurs to develop
+innovations, such as proprietary API programs, which in turn increase consumer welfare.  As
+long as applications programs rely on non-proprietary API calls, rivals have the option of
+supporting those API calls on their IP platform by obtaining API programs in the marketplace or
+developing their own API programs.  Thus, along with contributing to technical progress,
+proprietary API programs create no insurmountable barriers to entry that could lessen or
+significantly postpone competition in the global seamless services market.
+     
+     61.  In summary, we are not persuaded by GTE's arguments.  We find that AT&T/BT
+do not have an initial advantage in the global seamless services market which would enable them
+to use APIs to compete unfairly; that AT&T/BT will be unable to use proprietary API calls to
+exclude competitors from access to desirable applications programs; and that the development of
+proprietary API programs by AT&T/BT will not create barriers to entry or otherwise impede
+competition in the global seamless services market.  We believe that precluding the proposed
+transaction, as GTE suggests, or imposing conditions on the development and use of API calls or
+programs by the JV, as Equant suggests, could interfere with the ability of global seamless
+services customers to obtain desired services and could reduce innovation, because it would
+eliminate or handicap a significant market participant.  We find, therefore, no basis in GTE's
+arguments for rejecting the merger or imposing non-discrimination and disclosure requirements
+on the JV regarding APIs.
+     
+     B.   U.S.-U.K. Route
+
+     62.  We consider in this section the competitive effects of the proposed joint venture
+on the U.S.-U.K. route.  In particular, we consider C&W's claim that AT&T and BT will raise
+rivals' costs on the U.S.-U.K. route by using the joint venture to self-correspond.  As the
+Commission stated in the BT/MCI Order, a merger can have an anticompetitive effect if it
+increases either the incentives or the ability of the integrated firm to raise the costs of its rivals to
+the detriment of consumer welfare.  We are not persuaded here by C&W's claim, however, that
+AT&T and BT will be able successfully to raise their rivals' costs on the U.S.-U.K. route by
+using the joint venture to self-correspond.  We further find that the joint venture is consistent
+with Commission policy to encourage the movement away from the traditional accounting rate
+regime and toward competitive alternatives, including end-to-end provisioning, for the
+termination of international traffic.
+     
+     63.  C&W argues that, if the proposed joint venture is approved, AT&T and BT would
+engage in a strategy to raise rivals' costs in order to insulate themselves from accounting rate
+reductions and to maintain supra-competitive prices in the retail market.  C&W contends that
+AT&T and BT could execute such a strategy by terminating all of AT&T's traffic on the U.S.-
+U.K. route with BT rather than terminating some AT&T traffic with rivals of BT, including
+C&W.  According to C&W, an exclusive AT&T/BT arrangement would force C&W to incur
+higher settlement outpayment because its U.K.-U.S. traffic flows would not be offset by AT&T
+return minutes from the United States.  In order for such a strategy to be successful, AT&T and
+BT would have to ensure that C&W and other rivals could not terminate their traffic in the
+United States at low rates or offset lost revenues in the U.K. termination market by replacing
+AT&T inbound-minutes with minutes from other U.S. carriers.  Market conditions on the U.S.-
+U.K. route, however, make it highly unlikely that AT&T and BT could successfully engage in a
+strategy to raise rivals' costs.
+     
+     64.  The U.S.-U.K. route is one of the most competitive in the world, and there are
+many alternatives to AT&T for termination of traffic in the United States.  C&W may terminate
+traffic with many facilities-based carriers in the U.S.; it may terminate traffic via ISR at very low
+rates; and it may build its own facilities in the U.S. and self-correspond.  Given the level of
+competition on the U.S.-U.K. route and the availability of ISR, it is highly unlikely that the joint
+venture could successfully maintain prices to terminate traffic in the United States that are above-
+cost, as C&W argues.  Contrary to C&W's claim, we expect that AT&T's competitors in the
+U.S. market for termination of international traffic would respond to any strategy to raise rivals'
+costs by undercutting AT&T's price to terminate traffic in the United States.
+     
+     65.  On the U.K. end of the route, there are buyers of U.K. termination service other
+than AT&T.  We are not convinced, however, by C&W's argument that "the ability of C&W to
+make up the shortfall in return traffic by dealing with other carriers is fatally limited by AT&T's
+dominant share of the U.S.-U.K. market and the lack of sufficient non-AT&T traffic."  Given
+the level of competition on the U.S.-U.K. route, we expect that U.S. carriers will seek the lowest
+cost alternative for terminating traffic in the United Kingdom.  Thus, if C&W offers low cost
+termination, it should be able to attract traffic from U.S. carriers.  Moreover, we note that the
+U.S.-U.K. market has been growing at a rapid pace, approximately 14 percent annually, since
+1991.  As a result, there is increasing opportunity for C&W and other rivals of BT to terminate
+non-AT&T minutes in the United Kingdom.
+     
+     66.  C&W urges the Commission to impose the proportionate return requirement of
+the International Settlement Policy (ISP) between AT&T and the joint venture in their dealings
+with BT for some period of time in order to prevent AT&T and BT from engaging in a strategy
+to raise rivals' costs.  In light of our conclusion that C&W has not shown that AT&T and BT will
+be able successfully to engage in a strategy to raise rivals' costs on the U.S.-U.K. route through
+self-correspondence, we decline to impose a proportionate return requirement that would limit
+the ability of AT&T and the joint venture to self-correspond.
+     
+     67.  We also note that the proportionate return condition urged by C&W would be
+contrary to recent Commission policies lifting regulations on U.S. carrier accounting rate
+negotiations.  The Commission recently concluded in its ISP Reform Order that, on routes
+where there are competitive alternatives to terminate traffic, the Commission should not impose
+regulatory burdens on the settlement of international traffic and instead should let market forces
+dictate what arrangements U.S. carriers enter into with their foreign correspondents. 
+Specifically, the Commission found that there is no reason to require continued compliance by
+U.S. carriers with the ISP, including the proportionate return requirement, on routes where rates
+to terminate international traffic are at least 25 percent below the benchmark rates adopted by the
+Commission.  The Commission concluded that the ISP is not necessary to prevent
+anticompetitive behavior on routes where there are competitive alternatives to terminate traffic
+and, in fact, the ISP could hinder the further development of competition on such routes.  In
+addition, the Commission has found that competition is best promoted by breaking the link
+between the markets for outbound and inbound calls that is required by the ISP's proportionate
+return requirement.  To that end, Commission policy has sought to foster separate competitive
+markets for termination and origination of international minutes in the United States.
+
+     68.  C&W has provided no reason to question the application of these policies to the
+U.S.-U.K. route, where there are many alternatives to AT&T for termination of traffic in the
+United States and to BT for termination of traffic in the United Kingdom.  As noted above, there
+are several facilities-based carriers to terminate traffic on both ends of the U.S.-U.K. route and,
+in both the United States and the United Kingdom, carriers may provide end-to-end service by
+purchasing or leasing facilities to terminate their own traffic.  In addition, both the United
+States and United Kingdom permit carriers to terminate international traffic via International
+Simple Resale (ISR) arrangements.
+
+     69.  C&W also urges the Commission to require AT&T and BT to divest, at cost, the
+half-circuits they maintain with other correspondent carriers, upon election of the correspondent
+carriers.  C&W states that divestiture is necessary because, if AT&T and BT self-correspond on
+the U.S.-U.K. route, they can force their other correspondents to strand the half-circuits that
+currently are used to carry AT&T and BT traffic.  In a subsequent ex parte filing, C&W modified
+its request, urging the Commission to require divestiture, "at market prices," "to the extent that
+actual stranding (or significant idling) of half-circuits occurs."
+
+     70.  We are not convinced that a condition mandating divestiture, either at cost or
+"reasonable rates," is necessary.  AT&T has committed to "divest, at prevailing market rates and
+terms . . . [its] existing US-end half circuits with a competitor's UK-end half circuits that the
+global venture determines . . . are unlikely to be used to deliver significant volumes of traffic." 
+Moreover, C&W has not shown that AT&T and BT would be willing to incur the costs of
+stranding their own half of the circuits they maintain with other correspondents.  As noted above,
+C&W may still compete to terminate AT&T traffic in the United Kingdom.  There is thus no
+basis to conclude that C&W's half circuits with AT&T will be idle.  Given these considerations,
+we decline to condition approval of the joint venture on divestiture by AT&T and BT of the half-
+circuits they maintain with other correspondent carriers.  We do note, however, that Commission
+policy disfavors allowing capacity to remain idle.  Therefore, if C&W or any other
+correspondent that maintains half-circuits with AT&T can demonstrate that AT&T has idled
+matched half-circuits on the U.S.-U.K. route, without a valid business reason, the Commission
+will entertain a petition to require the sale of those idled half-circuits at market rates.
+
+     C.   Third Country Routes
+
+     71.  C&W asserts that the proposed joint venture will enable AT&T and BT to raise
+rivals' costs on third country routes by routing foreign-originated minutes destined for a third
+country through AT&T in the United States.  According to C&W, this strategy would earn
+AT&T return traffic at the expense of its competitors on the third country route.  C&W alleges
+that, for example, BT could send to a third country only the volume of minutes that matches the
+volume that country sends to the U.K., leaving BT with no settlement outpayment.  BT could
+then send any additional traffic to the third country through AT&T's network in the United
+States, thereby earning AT&T return traffic.
+     
+     72.  Consistent with the Commission's holding in the BT/MCI Order, we conclude that
+there is no reason to restrict the ability of AT&T and BT to reoriginate BT third country traffic
+via AT&T's U.S. network.  Least-cost routing mechanisms such as reorigination are an
+economically rational response to inflated settlement rates and, as such, the Commission has not
+found that they should be prohibited or limited generally.  In fact, the Commission has
+encouraged the development of least-cost routing mechanisms as a way to put pressure on above-
+cost accounting rates.  Moreover, as the Commission noted in the BT/MCI Order, all carriers
+have an equal incentive and ability to reoriginate traffic through the United States in order to
+reduce settlement payments.
+
+     D.   Transit Market
+     
+     73.  We consider here the competitive effects of the proposed joint venture on the
+transit market.  In particular, we consider C&W's allegation that the joint venture will result in
+an increase in concentration on many of what C&W refers to as "thin routes," or routes on which
+BT and AT&T are the only carriers or on which they control more than 60 percent of traffic. 
+C&W argues that this level of concentration will allow the joint venture to charge above-cost
+rates to carriers for transit services.  To remedy these alleged anticompetitive effects of the
+joint venture, C&W urges the Commission to require AT&T and BT to divest capacity on
+individual routes on which they are the only two, or two of the only three, facilities-based
+carriers.  C&W also proposes that the joint venture's contracts to supply international carriage
+services to other carriers must not have a term of more than 12 months or include onerous
+termination notice requirements or penalties.
+
+     74.  We conclude that C&W has not provided sufficient evidence for the Commission
+to conclude that the joint venture will harm competition in the transit market.  While C&W
+charges that the joint venture will control more than 60 percent of traffic on so-called thin routes,
+C&W provides no evidence concerning the identity of such routes or the market shares of rivals
+on those routes.  The Commission does not regulate the transit market and does not have
+information about foreign carriers' transit routes.  Without this information, the Commission can
+make no determination as to the ability of the joint venture to exercise market power on a
+particular route.  We therefore decline at this time to require the joint venture to divest capacity
+on certain transit routes or to impose any restrictions on the joint venture's offering of transit
+services.
+
+     75.  It is the Commission's understanding that, as a general matter, the global transit
+market is highly competitive.  As AT&T/BT note, there are thousands of routes to the 240
+countries of the world.  In addition, it is the Commission's understanding that there is no dearth
+of capacity on most transit routes and that there are no barriers to entry for firms with excess
+capacity to provide transit services in competition with the joint venture.  The Commission is
+also aware, however, that there are concerns that transit rates are excessive on some routes. 
+There is no agreement, though, on the causes of high transit rates on certain routes.  High rates
+could be caused by a number of factors, including inadequate competition, high underlying
+accounting rates, low traffic volumes, and inadequate information in the marketplace.  Because
+we have no basis to conclude that the proposed joint venture would exacerbate the concern about
+high transit rates on some routes, we decline at this time to impose any restrictions on the joint
+venture.  We will, however, continue to monitor the transit market to ensure that the joint
+venture, as well as other transit providers, are not acting in an anticompetitive manner. 
+
+     E.   Public Interest Benefits 
+
+     76.  We find that the proposed joint venture is likely to have several possible pro-
+competitive effects.  First, the joint venture will give BT a strong U.S. partner to replace MCI as
+a provider of global seamless services to U.S.-based MNCs.  As we noted, BT has been unable to
+generate significant revenues by selling Concert services in the United States after the break-up
+of its proposed merger with MCI in September 1998.  However, a combined AT&T/BT
+operation, such as the JV, is more likely to be able to offer U.S. customers increased choices and
+services by competing with the other alliances and carriers in this market.  Second, AT&T, too,
+may become a more effective competitor in the global seamless services market by replacing its
+former loosely-formed global alliance with the proposed joint venture with BT.  AT&T/BT, for
+instance, argue that AT&T's former global alliance was "less than maximally effective" in
+serving global MNCs because it did not offer them a single point of contact or comparable
+technologies and architectures worldwide. The JV, by contrast, proposes to offer services
+tailored to the needs of global MNCs and to build an IP-based global network that uses open
+standards.  Third, by building an IP-based global network that will offer high-speed transport
+capacity to the world's largest cities, the JV will further the development of packet-switched
+international networks and facilitate the migration from the circuit switched network.  The result
+will be to benefit users of voice, data, and video services who demand increased bandwidth. 
+Finally, the joint venture is likely to benefit consumers by encouraging the movement away from
+the traditional accounting rate regime and toward competitive alternatives, including end-to-end
+provisioning, for the termination of international traffic.
+
+     F.   National Security Issues 
+     
+     77.  The Executive Branch has raised concerns regarding national security and law
+enforcement in this proceeding, which, pursuant to the public interest analysis articulated in the
+Commission's Foreign Participation Order we must consider.  In comments filed with the
+Commission, the Department of Defense (DOD) requests that the parties undertake negotiations
+to ensure that national security and law enforcement issues will be protected should the proposed
+JV take place.  Similarly, in its comments on the proposed JV, the Federal Bureau of
+Investigation (FBI), through the Department of Justice (DOJ), voices concern regarding national
+security, public safety, and law enforcement.
+
+     78.  DOD, DOJ, FBI, and AT&T/BT have informed the Commission that they have
+reached an agreement that resolves the national security, law enforcement, and public safety
+issues raised in the DOD, DOJ, and FBI comments.  The parties have submitted a copy of the
+executed agreement (DOD/DOJ/FBI Agreement) which conditions the grant of the application to
+obtain or transfer licenses and authorizations on compliance with the agreement.  In brief, the
+DOD/DOJ/FBI Agreement provides that all domestic telecommunications infrastructure owned
+directly or indirectly by AT&T/BT will be owned and controlled by VLT and License Co.
+(collectively, the Company) and will at all times be located in the United States.  Further, all
+telecommunications of United States JV subscribers carried over the Company's facilities shall
+pass through a facility, from which surveillance can be conducted, that is physically located in
+the United States and under the control of either the Company or a licensed United States carrier. 
+The Company agrees to take reasonable and appropriate measures to prevent improper use of
+facilities used in the domestic telecommunications infrastructure, specifically with respect to
+personnel holding sensitive positions, information storage and access, and disclosure to foreign
+entities. The parties have also agreed to adopt and maintain certain policies with regard to
+confidentiality and security of electronic surveillance orders and authorizations, orders, legal
+process, and statutory authorizations and certifications related to subscriber records and
+information.  Finally, the parties have also agreed to implement certain measures requiring
+personnel security clearances, secure storage facilities, and the prevention of access by
+unauthorized personnel to secure or sensitive network facilities and offices.
+
+     79.  We note that the Agreement, the negotiation of which delayed significantly
+resolution of this proceeding, reflects a unique situation and contains certain provisions that, if
+broadly applied, would have significant consequences for the telecommunications industry. 
+These provisions, if viewed as precedent for other service providers and potential investors,
+would warrant further inquiry on our part.  Therefore, this agreement does not establish
+precedent for future cases.  However, notwithstanding these concerns about the broader
+implications of some provisions of this Agreement, we see no reason to modify or disturb the
+Agreement of the parties on this matter.
+
+     80.  In accordance with the request of the DOD/DOJ/FBI and the discussion above, we
+condition our grant of the application to obtain or transfer certain licenses and authorizations in
+connection with the proposed JV on compliance with the DOD/DOJ/FBI Agreement, a copy of
+which is attached hereto as Appendix B.
+     
+                   V.  COMPETITIVE SAFEGUARDS 
+     
+     81   In this section, we review whether, as a result of the proposed transaction, our
+dominant carrier safeguards should apply to AT&T and the JV entities and whether there is a
+need for additional regulatory safeguards to prevent anticompetitive harms.
+     
+     A.   Dominant Carrier Status of AT&T and the JV Entities
+     
+     82   Under Section 63.10 of our rules, we classify a U.S. carrier as dominant on a U.S.
+international services route if it is "affiliated" with a foreign carrier that has sufficient market
+power on the foreign end to affect competition adversely in the U.S. market.  The rule further
+states that, if the U.S. carrier demonstrates that its foreign affiliate possesses less than 50 percent
+market share in the international transport and local access markets on the foreign end of the
+route, the U.S. carrier shall presumptively be classified as non-dominant.  In addition, in the
+Foreign Carrier Entry Order, the Commission stated that dominant carrier regulation may be
+warranted if a non-equity alliance such as the proposed joint venture posed a "substantial risk of
+anticompetitive effects" on a particular route.
+
+     83.  We clarified the definition of "affiliation" in our recent biennial review of
+international common carrier regulations.  As currently defined, a U.S. carrier is affiliated with
+a foreign carrier if:  (1) the U.S. carrier owns more than 25 percent of, or controls, the foreign
+carrier; (2) the foreign carrier owns more than 25 percent of, or controls, the U.S. carrier; or (3)
+the foreign carrier has entered into an alliance or joint venture with a second foreign carrier to
+provide telecommunications services and the two foreign carriers together own more than 25
+percent of, or control, the U.S. carrier.
+
+     84.  VLT and TLTD.  In this case, we find that the JV entities VLT and TLT are U.S.
+carriers affiliated with BT within the meaning of our rules because BT owns more than 25
+percent of both VLT and TLTD.  We also find that, because AT&T/BT did not attempt to
+demonstrate that BT has less than 50 percent of the U.K. local exchange market, under our rules
+we presume that BT has market power in the U.K.  Thus, we conclude that VLT and TLTD
+will be regulated as dominant carriers on the U.S.-U.K. route under Section 63.10 of our rules.  
+
+     85   We note that, as dominant carriers, VLT and TLTD will be required to file
+quarterly reports on traffic and revenues, provisioning and maintenance of basic services and
+facilities procured from BT, and circuit status on the U.S.-U.K. route.  In addition, VLT and
+TLTD must maintain limited structural separation from BT, including a prohibition on jointly
+owning transmission or switching facilities.  AT&T/BT state that VLT and TLTD will report,
+on a quarterly basis, provisioning and maintenance of basic services and facilities procured from
+BT directly or indirectly.  Consistent with our rules, VLT and TLTD must file quarterly reports
+on provisioning and maintenance procured from BT directly or indirectly, including through
+Concert.  We make AT&T/BTs' compliance with our rules a condition of this order. 
+     
+     86   Although we conclude that VLT and TLTD are dominant because they are
+affiliated with BT, we also find that neither VLT, TLTD nor Concert, the JV's U.K.-licensed
+affiliate, has market power with regard to any of the input markets in which they own or control
+assets, i.e., the markets for international transport and U.K. cable landing stations.  As noted
+above, no carrier has market power in the U.S.-U.K. transport capacity market.   In addition, a
+number of international facilities operators, in addition to Concert, provide access to cable
+landing stations in the United Kingdom.  For instance, C&W operates the cable landing stations
+for Gemini, and Global Crossing operates the cable landing station for AC-1.  In 1999, 30
+percent of U.S.-U.K. self-healing submarine cable capacity will land at BT cable landing stations
+and 70 percent at cable landing stations operated by C&W and Global Crossing.  Also, as we
+have previously noted, there are no significant barriers to entry by new firms in this market.  
+
+     87   C&W asserts that our dominant carrier requirements "will not adequately
+constrain the ability of the JV to misuse its market power" and urges us to impose a set of "more
+stringent reporting requirements" on the JV entities than for other carriers affiliated with foreign
+carriers with market power.  However, as discussed above, we find that the JV entities do not
+have market power on the U.S.-U.K. route.  Thus, we conclude that the additional reporting
+requirements C&W urges us to adopt are not necessary to prevent VLT and TLTD from acting
+anticompetitively.  
+
+     88.  We are not persuaded by C&W's claim that the JV would be able to identify
+potential customers, and thereby gain an anticompetitive advantage over its U.S. competitors, by
+using customer and carrier information that BT derives from its local exchange operations in the
+United Kingdom.  Section 63.21(e) of our rules prohibits U.S. carriers from accessing or using
+specific U.S. customer proprietary network information that is derived from a foreign network,
+unless the carrier obtains approval from the U.S. customer.  Section 63.21(f) prohibits U.S.
+carriers from receiving from a foreign carrier any proprietary or confidential information
+pertaining to a competing U.S. carrier, unless the competing U.S. carrier provides written
+permission.  Thus, our rules prohibit AT&T, VLT, and TLTD, all of which are licensed U.S.
+carriers, from accepting or using any confidential U.S. customer or carrier information without
+prior approval from the customer or carrier.  We also note that, in the BT/MCI Order, the
+Commission concluded that Conditions 38 and 38A of BT's license prohibit BT from using
+confidential customer information to gain an unfair competitive advantage, and Condition 41A of
+BT's license prohibits the disclosure of confidential carrier information.  C&W states that Oftel
+has not included similar conditions in the JV's proposed U.K. license and, therefore, urges us to
+prohibit AT&T/BT from using confidential customer and carrier proprietary information that
+they obtain from BT.  We find, however, that such conditions are not necessary because Oftel's
+proposed licenses for BT includes prohibitions against the unauthorized disclosure of
+confidential customer and carrier information.  Thus, we reiterate the finding in the BT/MCI
+Order that U.K. regulations protect U.K. customer and carrier proprietary information against
+unauthorized disclosure.  Therefore, we conclude that it is not necessary to adopt a condition
+prohibiting AT&T, VLT, and TLTD from using in their own marketing efforts customer
+information that BT derives from its customers or other carriers as a result of providing
+interconnection in the United Kingdom.   
+
+     89   AT&T.  We also examine whether AT&T should be classified as a dominant
+carrier on the U.S.-U.K. route under Section 63.10 of our rules.  Concert, the JV's U.K.-licensed
+affiliate, is a foreign carrier on the U.S.-U.K. route and, because AT&T holds more than 25
+percent of its ownership shares, we find that Concert is affiliated with AT&T under our rules. 
+For the reasons stated above, however, we conclude that Concert does not have market power in
+any of the input markets in which it owns or control assets, i.e., the markets for international
+transport and U.K. cable landing stations.  We also address whether Concert, because of its
+affiliation with BT, may derive market power as a result of BT's market power over U.K. local
+access and termination.  We conclude that, while BT has market power that could enable it to
+favor the JV, our competitive safeguards prevent the U.S.-licensed JV entities from accepting
+any preferential treatment from BT.  However, to ensure that there is no loophole that would
+permit the JV to accept a special concession from BT through Concert, we adopt as a condition
+of this order AT&T/BTs' compliance with Section 63.14 of our rules.  Accordingly, we
+conclude that Concert does not have market power on the U.S.-U.K. route, and, therefore, AT&T
+should not be regulated as dominant on the U.S.-U.K. route by virtue of its affiliation with
+Concert.   In addition, we conclude that AT&T is not affiliated with BT because: (1) AT&T does
+not own more than 25 percent of, or control, BT; (2) BT does not own more than 25 percent of,
+or control, AT&T; and (3) BT and Concert together do not own more than 25 percent of, or
+control, AT&T.  Thus, we do not agree with MCI WorldCom's argument that AT&T should be
+regulated as dominant on the U.S.-U.K. route because it is affiliated with a foreign carrier with
+market power in the United Kingdom.
+
+     90.  We are also not persuaded by MCI WorldCom's argument that, even if we find
+that AT&T is not affiliated with BT, we should regulate AT&T as dominant on the U.S.-U.K
+route because "the interests of AT&T and BT are so intertwined.  As the Commission stated in
+the Foreign Carrier Entry Order, dominant carrier regulation may be warranted if a non-equity
+alliance such as the proposed joint venture posed a "substantial risk of anticompetitive effects"
+on a particular route.  We find there is no such risk in this case.  Under the terms of their
+agreement to form a joint venture, AT&T will not buy any services directly from BT, but will
+buy services from the JV.  Under the "no special concessions rule," as described below, neither
+VLT nor TLTD can accept any exclusive arrangements from BT.  Further, because VLT and
+TLTD are regulated as dominant, we will be able to monitor their dealings with BT to ensure that
+they do not receive any anticompetitive benefits from BT that they in turn could pass on to
+AT&T.  Thus, BT, either directly with AT&T or through the JV, will not have the opportunity to
+engage in anticompetitive conduct by discriminating in favor of AT&T.  Thus, we conclude
+that the JV does not pose a substantial risk of anticompetitive harm on the U.S.-U.K. route and
+dominant carrier regulation for AT&T is not warranted. 
+
+     91.  Finally, we disagree with Star that the JV will violate the Commission's rules
+against joint ownership of facilities by a U.S. carrier and its foreign carrier affiliate in
+circumstances where the U.S. carrier is regulated as dominant on the affiliated route.  As we
+have found, AT&T is not affiliated with BT or otherwise subject to dominant carrier regulation
+by virtue of its joint venture with BT.  Thus, AT&T is not prohibited from jointly owning
+facilities with BT through the JV.  In addition, we find that VLT or TLTD, because they do not
+jointly own any facilities with BT, will not violate the rule.  Indeed, BT, by transferring its
+ownership in facilities to a separate subsidiary, i.e., the JV, is complying with our structural
+separation requirement.  Thus, we conclude that the JV will not violate the Commission's rules
+against joint ownership of facilities by a U.S. carrier and its foreign carrier affiliate deemed to
+have market power.  
+     
+     B.   No Special Concessions Rule
+
+     92.  In the Foreign Participation Order, the Commission adopted certain safeguards to
+prevent foreign carriers from leveraging their foreign market power into the U.S. international
+services market.  One of these safeguards, the no special concessions rule prohibits U.S.
+carriers from agreeing to accept a special concession from any foreign carrier with market power
+on the foreign end of a U.S. international route.  Such arrangements, we noted, "could limit rival
+U.S. carriers' ability to provide international services, raise these carriers' costs of termination, or
+degrade the quality of their service offerings, to the ultimate harm of U.S. consumers.  We also
+noted, however,  that "it is unlikely that an exclusive deal involving a foreign carrier that lacks
+market power would result in harm to competition and consumers in the U.S. market.  In
+addition, in connection with the ISP Reform Order, the Commission issued a Public Notice
+containing a list of foreign carriers that are presumed to have market power for purposes of
+applying the Commission's No Special Concessions rule.  The Commission stated that a carrier
+will be presumed to have market power if it controls, is controlled by, or is under common
+control with a carrier identified in the Notice.
+
+     93.  In this case, we conclude that, because BT is a "foreign carrier" that has market
+power, the no special concessions rule prohibits AT&T, VLT, and TLTD from accepting any
+exclusive arrangements, as defined in Section 63.14(b), from BT.  We agree with commenters
+that an exclusive arrangement between AT&T and BT, or between VLT or TLTD and BT, could
+raise competing carriers' termination costs in the United Kingdom and impair their ability to
+compete on the U.S.-U.K. route.  MCI WorldCom urges us to adopt a specific condition
+prohibiting AT&T and the JV from accepting preferential arrangements from BT with respect to
+Home Country Direct, 1-800, and ISDN.  We conclude that our no special concessions rule
+prohibits AT&T, VLT, and TLTD from accepting any exclusive arrangements from BT with
+respect to these and any other basic services and, therefore, we find that specific conditions are
+not necessary.  AT&T/BT state that AT&T, VLT, and TLTD, either directly or indirectly through
+the joint venture's U.K. subsidiary, Concert, will not accept any special concession from BT that
+would violate Section 63.14.  Consistent with our rules, AT&T, VLT, and TLTD, either
+directly or indirectly through the joint venture's U.K. subsidiary, Concert, cannot accept any
+special concession from BT.  We make AT&T/BTs' compliance with our rules a condition of this
+order. 
+          
+     94.  In addition, we agree with Equant that the no special concessions rule also
+prohibits AT&T and VLT and TLTD from accepting any special concessions from other
+dominant foreign carriers, in addition to BT.  Equant identifies several exclusive arrangements
+between BT and the JV entities that it urges us to specify are prohibited by the no special
+concessions rule.  We conclude that our no special concessions rule prohibits VLT and TLTD
+from accepting exclusive operating agreements for provision of basic services from any foreign
+carrier with market power as well as other exclusive arrangements of the nature described by
+Equant, with two exceptions: as the Commission stated in the Foreign Participation Order, the
+no special concessions rule by its terms does not prohibit exclusive marketing or transiting
+arrangements.  The Commission previously has declined to apply the rule to marketing
+arrangements because to do so "would be unduly burdensome and could impede unnecessarily
+the provision of one-stop shopping by injecting uncertainty with respect to the scope of
+permissible joint activities.  For the reasons stated above, we decline to extend the rule to
+prohibit exclusive transiting arrangements as well.
+
+     95.  We note that, under the Public Notice released in connection with the ISP Reform
+Order, the JV entities (VLT, TLTD, and Concert) are presumed to have market power for
+purposes of the no special concessions rule because they are controlled by BT, a dominant
+carrier.  We find, however, that AT&T/BT are able to overcome the presumption that the JV
+entities have market power for purposes of applying the no special concessions rule.  As
+discussed above, VLT, TLTD, and Concert do not have market power in any of the input markets
+in which they own or control assets, i.e., international transport and U.K. cable landing
+stations.  Moreover, under the no special concessions rule, VLT and TLTD, either directly or
+indirectly through the joint venture's U.K. subsidiary, Concert, cannot accept any exclusive
+arrangements from BT.  Thus, the JV will be unable to gain any exclusive arrangement from BT
+that it can convey to AT&T without also offering the same arrangement to AT&T's U.S.
+competitors.  Accordingly, we conclude that the no special concessions rule does not prohibit
+AT&T from accepting provisioning of international network facilities and services from VLT
+and TLTD at preferential rates, i.e., at or below cost, rather than at tariffed rates.  
+
+     C.   Equal Access in the United Kingdom
+
+     96.  Equal access refers to a policy of requiring an exchange carrier (such as BT) to
+offer its competitors access to its local exchange customers to provide interexchange and
+international calls on the same basis as the exchange carrier affords to itself.  We find that the
+United Kingdom does not at present offer equal access either through "dialing parity" or
+"carrier pre-selection. Instead, U.K. customers who wish to switch to competing providers must
+now dial extra digits, use automatic dial-around equipment, or specially program PBXs.  We
+find that these extra measures are likely to raise the costs of the JV's competitors thereby
+potentially resulting in higher prices for global seamless services.  We also note that the EC's
+"Carrier Pre-Selection" directive, which became effective in September 1998, requires the United
+Kingdom to adopt carrier pre-selection by January 1, 2000.
+     
+     97.  We are not persuaded by AT&T/BTs' argument that the U.K.'s lack of equal
+access is irrelevant to this proceeding because "BT's local offerings will not be a component of
+the [Joint] Venture.  The issue is not whether BT can restrict its competitors' ability to provide
+local exchange services but whether BT, as a result of forming a joint venture with AT&T to
+provide international services, has the ability and incentive to discriminate against the JV's
+competitors in the market to provide global seamless services.  We find that BT can engage in
+a form of non-price discrimination by denying equal access to its competitors, and that BT has a
+greater incentive to engage in that form of discrimination as a result of forming the joint venture
+with AT&T to provide international services.  Thus, we conclude that implementation of equal
+access in the United Kingdom is necessary to restrict BT's ability to leverage its market power
+over U.K. local access and impede competition in the global seamless services market. 
+
+     98.  We, therefore, require as a condition of approval of this joint venture that VLT
+and TLTD not accept BT traffic originated in the United Kingdom to the extent that BT does not
+comply with Oftel regulations implementing the EC's carrier pre-selection directive.  Level 3
+and Sprint urge us to require BT to provide equal access in the U.K. and Esprit proposes
+several interim options as conditions of approving the JV.  We decline to impose these
+proposed conditions because, consistent with our findings in BT/MCI, we conclude that Oftel
+and the EC will fully enforce the equal access requirement in the United Kingdom.         
+     D.   Unbundling the Local Loop in the United Kingdom
+     
+     99.  BT controls nearly 90 percent of local loops in the United Kingdom and is not
+required by U.K. regulations to make the "last mile" available to competitors on an unbundled
+basis.  We find, as we did in BT/MCI, that requiring BT to unbundle the local loop would foster
+local competition and, therefore, limit BT's ability to leverage control of its local access
+bottleneck to discriminate against its competitors in the global seamless services market.  We
+are also concerned that, unless Oftel requires BT to unbundle the local loop, Oftel may not be
+able to prevent some potential discrimination against the JV's competitors in providing end-to-
+end broadband services.  For instance, it is not clear that Oftel's non-discrimination policy is
+sufficient to prevent BT from manipulating the deployment of particular technologies (e.g.,
+xDSL) that are tailored to the demands of the JV's customers or only in locations that will
+primarily benefit the JV.  We note that Oftel has an ongoing proceeding to determine if new
+regulations, including unbundling of local loops, are needed to promote delivery of broadband
+services in the U.K.  Thus, while we reaffirm that the lack of unbundling in the U.K. local
+access market is relevant to determining if BT has the ability to impede competition in the global
+seamless services market, we do not agree with MCI WorldCom and Level 3 that we should
+require BT to unbundle the local loop in the United Kingdom as a condition of approving the
+proposed joint venture.
+
+                     VI. MISCELLANEOUS ISSUES
+
+     A.   U.S. Submarine Cable Landing Stations
+
+     100.      We are not persuaded by Sprint's argument that AT&T has leveraged its
+bottleneck control over cable landing stations in the United States to raise the costs of rival U.S.
+international carriers.  Although AT&T owns a majority of the U.S. cable landing stations.
+AT&T does not have market power in this market.  In fact, MCI WorldCom owns the cable
+landing stations at Manasquan, NJ, and Charleston, RI, and Global Crossing owns the cable
+landing station at Brookhaven, NY, and these cable landing stations land as much as 70 percent
+of self-healing transatlantic cable capacity.  By contrast, AT&T's cable landing stations at
+Green Hill, RI, and Shirley, NY, carry approximately 30 percent of self-healing transatlantic
+cable capacity.  Because we find that, contrary to Sprint's allegations, AT&T does not have
+bottleneck control over cable landing stations, we do not further address the merits of Sprint's
+allegations that AT&T abused its position as a cable station owner to benefit itself at the expense
+of other consortia co-owners.  We, thus, will not require, as Sprint urges, that the JV disclose to
+all cable consortia owners any and all documents concerning the JV's use of consortia assets in
+each of the JV's cable stations.  We conclude that any dispute between Sprint and other co-
+owners of consortia cables is a contractual dispute to be resolved in accordance with procedures
+established in the consortia cables' Construction and Maintenance Agreement.  
+     
+     B.   Withdrawal of AT&T from its Global Alliances
+
+     101.      AT&T states that on June 7, 1999, it agreed to withdraw from its global alliances
+immediately, subject to approval of the European Commission.  Thus, we take no further
+action in response to the commenters suggestion that we require AT&T to withdraw from its
+global alliances.
+     
+                                 
+                        VII.  CONCLUSION 
+     
+     102.      For the reasons discussed above, we grant AT&T/BTs' requests for the grant of
+Section 214 authority to VLT and TLTD to provide facilities-based and resold international
+common carrier services; (b) the assignment to VLT of submarine cable licenses held by AT&T
+or its subsidiaries; (c) the assignment to License Co. of certain earth station licenses held by
+AT&T or its subsidiaries, and (d) the modification of certain Section 214 authorizations held by
+AT&T or its subsidiaries.
+
+                     VIII.  ORDERING CLAUSES
+
+     103. Accordingly, IT IS ORDERED that, subject to the conditions below, the
+application for grant of Section 214 authority to VLT and TLTD to provide facilities-based and
+resold international common carrier services IS GRANTED;
+
+     104.      IT IS FURTHER ORDERED that application for the assignment to VLT of
+submarine cable licenses held by AT&T or its subsidiaries IS GRANTED;
+
+     105. IT IS FURTHER ORDERED that the application for assignment to License Co.
+of certain earth station licenses held by AT&T or its subsidiaries IS GRANTED;
+
+     106. IT IS FURTHER ORDERED that the applications to modify certain Section 214
+authorizations held by AT&T or its subsidiaries to the extent necessary to assign to VLT
+ownership interests of AT&T in international cable facilities within United States territorial
+limits and to assign to TLTD the ownership interests of AT&T in international cable facilities
+outside of the U.S. territorial limit IS GRANTED;
+
+     107. IT IS FURTHER ORDERED that VLT and TLTD shall be regulated as dominant
+carriers, pursuant to Section 214 of the Act, 47 U.S.C.  214, and Section 63.10 of the
+Commission's Rules, 47 C.F.R.  63.10, on the U.S.-U.K. route; and that VLT and TLTD will
+report, on a quarterly basis, provisioning and maintenance of basic services and facilities
+procured from BT directly or indirectly, including through the JV's U.K. subsidiary, Concert.
+
+     108. IT IS FURTHER ORDERED that AT&T, VLT and TLTD, either directly or
+indirectly, including through the JV's U.K. subsidiary, Concert, will not accept any special
+concession from BT that would violate Section 63.14;
+
+     109. IT IS FURTHER ORDERED that grant of Section 214 authority to VLT and
+TLTD is conditioned upon VLT's and TLTD's non-acceptance of BT traffic originated in the
+United Kingdom to the extent BT is found to be in non-compliance with U.K. regulations
+implementing the European Commission's equal access requirements;
+
+     110. IT IS FURTHER ORDERED, that the authorization and licenses granted herein
+are subject to compliance with the provisions of the Agreement attached hereto between AT&T
+Corp., British Telecommunications PLC, TNV (NETHERLANDS) BV, VLT CO. LLC, and
+Violet License Co. LLC on the one hand and the Department of Defense (the DOD), Department
+of Justice (the DOJ) and the Federal Bureau of Investigation (the FBI) on the other, dated
+October 7, 1999, which Agreement is designed to address national security, law enforcement,
+and public safety concerns of the DOD, DOJ and the FBI regarding the licenses granted herein. 
+Nothing in this Agreement is intended to limit any obligation imposed by Federal law or
+regulation including, but not limited to, 47 U.S.C.  222(a) and (c)(1) and the FCC's
+implementing regulations.
+
+     111. IT IS FURTHER ORDERED this Order is effective upon release.  Petitions for
+reconsideration under Section 1.106 of the Commission's Rules may be filed within 30 days of
+the date of public notice of this Order (see Section 1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Magalie Roman Salas
+                         Secretary
+                            APPENDIX A
+
+     The following parties filed comments:
+     
+     Federal Bureau of Investigation
+     Department of Defense
+     MCI WorldCom
+     Sprint
+     GTE
+     Star
+     Esprit
+     AT&T
+     Level 3
+     Cable and Wireless
+     Equant
+                            APPENDIX B
+
+     This AGREEMENT is made this 7th day of October, 1999, by and between:
+AT&T CORP., BRITISH TELECOMMUNICATIONS PLC, TNV (NETHERLANDS)
+BV, VLT CO. LLC, VIOLET LICENSE CO. LLC, THE UNITED
+STATES DEPARTMENT OF DEFENSE (the "DoD"), the UNITED STATES
+DEPARTMENT OF JUSTICE (the "DoJ") and the FEDERAL BUREAU OF
+INVESTIGATION (the "FBI") (collectively "the Parties").
+
+                             RECITALS
+
+     WHEREAS, the U.S. telecommunications system is essential to U.S. national security,
+law enforcement, and public safety;
+
+     WHEREAS, the U.S. Government considers it critical to maintain the viability, integrity,
+and security of that system (see e.g., Presidential Decision Directive 63 on Critical Infrastructure
+Protection);
+
+     WHEREAS, protection of Classified, Controlled Unclassified, and Sensitive Information
+is critical to U.S. national security;
+
+     WHEREAS, AT&T Corp. ("AT&T") operates a major U.S. telecommunications network
+under licenses granted to it and its subsidiaries by the Federal Communications Commission
+("FCC");
+
+     WHEREAS, British Telecommunications plc ("BT"), a major telecommunications
+company registered under the laws of England and Wales, and AT&T intend to establish a joint
+venture, (the "Parent Corporation" as defined in Section 8.1.14, below), to provide international
+telecommunications services;
+
+     WHEREAS, AT&T and BT will each own 50% of the outstanding shares of the Parent
+Corporation;
+
+     WHEREAS, certain license applications related to the formation of the joint venture
+have been filed with the FCC in Docket No. 98-212 on 11/10/1998 and will require approval by
+the FCC, and such approval may be made subject to conditions relating to national security, law
+enforcement, and public safety;
+
+     WHEREAS, on January 8, 1999, the Federal Bureau of Investigation ("FBI") filed
+comments with the FCC expressing national security, law enforcement and public safety
+concerns about the approval of such license applications; 
+
+     WHEREAS, on January 19, 1999, the Department of Defense ("DoD") filed comments
+with the FCC expressing national security concerns about the approval of such license
+applications; 
+
+     WHEREAS, the Parent Corporation will establish direct or indirect United States
+subsidiaries (collectively, the "Company," as defined in Section 8.1.3 of this Agreement),
+including VLT Co. LLC and Violet License Co. LLC, which will be located in the United States
+and which will own and operate the Domestic Telecommunications Infrastructure (as defined in
+Section 8.1.7 of this Agreement) directly or indirectly owned by the Parent Corporation;
+
+     WHEREAS, the Parent Corporation will directly or indirectly own all of the outstanding
+shares of the Company;
+
+     WHEREAS, the Parties agree that the Company will be required to obtain facility
+security clearances issued under the National Industrial Security Program ("NISP") (Executive
+Order 12829, January 6, 1993) in order to conduct any of its business that requires access to
+Classified Information;
+
+     WHEREAS, the NISP requires that in order to maintain a facility security clearance a
+corporation must be effectively insulated from foreign ownership, control or influence ("FOCI");
+
+     WHEREAS, the DoD intends to grant, in accordance with the National Industrial
+Security Program Operating Manual ("NISPOM"), a facility security clearance to the Company
+in consideration of the Parties' execution and compliance with the provisions of this Agreement;
+and
+
+     WHEREAS, because it is difficult to predict exactly how AT&T and BT may wish to
+conduct their business in the future, the Parties intend to work closely together and to share
+information to permit the Government to monitor the implementation of this Agreement over
+time;
+
+     NOW THEREFORE, the Parties are entering into this Agreement to address all
+objections that the DoD, the DoJ and the FBI might otherwise have to the grant of FCC licenses
+to the Company and transfer of ultimate control of FCC licenses to the Parent Corporation.
+
+                                
+                   ARTICLE I  - ORGANIZATION
+
+     1.1  Members and Principal Managers of the Company
+
+     Except as specifically provided herein, the Member or Members of the Company shall
+have all of the rights, powers, and responsibilities conferred or imposed upon Members of the
+Company by the applicable statutes and regulations, and by the Company's charter documents.
+The Company's Principal Managers shall be resident citizens of the United States who have
+personnel security clearances at the level of the Company's facility security clearance.  The
+Defense Security Service ("DSS") or the designated security component for the FBI (hereinafter,
+"FBISC") may authorize temporary appointment of a Principal Manager for whom a personnel
+security clearance is under consideration.  Further, all officers (including but not limited to
+Principal Managers) and employees of the Company having access to Classified or Sensitive
+Information shall be resident citizens of the United States cleared to the level of the Classified or
+Sensitive Information to which they have access.
+
+     1.2  Within 90 days after the Effective Date (as defined in Section 7.1) of this
+Agreement, the Company shall promulgate written policies and procedures establishing a formal
+organizational structure, further described in Article III hereof, to ensure the protection of
+Classified, Controlled Unclassified, and Sensitive Information entrusted to it and to place the
+responsibility therefor with a committee of its Principal Managers to be known as the
+Government Security Committee ("GSC"), as hereinafter provided.  The GSC shall be
+established no later than 30 days after the last of its members has received the appropriate
+security clearance.  Until that time, oversight of the Company's protection of Classified,
+Controlled Unclassified, and Sensitive Information shall be the responsibility of the Company's
+designated representative identified in Section 7.3 of this Agreement.
+
+     1.3  Departure and Replacement of Principal Managers
+
+          1.3.1     The Company shall provide written notification to the DSS and the FBISC
+in advance, to the extent feasible, of the departure of a Principal Manager of the Company, and
+of any replacement for the departed Principal Manager. Any replacement for any departed
+Principal Manager shall meet the qualifications set forth in this Agreement.
+
+          1.3.2     The obligation of a Principal Manager to enforce this Agreement shall
+terminate when the Principal Manager leaves his/her position. Nothing herein shall relieve the
+departing Principal Manager of the responsibility not to disclose Classified, Controlled
+Unclassified, and Sensitive Information obtained while a Principal Manager of the Company.
+Such responsibility shall not terminate by virtue of leaving a position of Principal Manager. The
+Company shall advise the departing Principal Manager of such responsibility, but failure of the
+Company to so advise shall not relieve the Principal Manager of such responsibility.
+
+               ARTICLE II - FACILITIES AND RECORDS
+
+     2.1  Except to the extent and under conditions concurred in by the DoD, the DoJ and
+the FBI in writing:  (1) all Domestic Telecommunications Infrastructure owned directly or
+indirectly by the Parent Corporation will be owned and controlled by the Company and shall at
+all times be located in the United States, and (2) all telecommunications of U.S. Joint Venture
+Subscribers carried over the Company's facilities shall pass through a facility, from which
+Electronic Surveillance can be conducted, that is physically located in the U.S. and under the
+control of either the Company or a licensed U.S. carrier.
+
+     2.2  The Company's Domestic Telecommunications Infrastructure shall, to the extent
+required under U.S. law, be capable of complying and configured to comply, and the Company's
+officials in the United States will have unconstrained authority to comply, in an effective,
+efficient, and unimpeded fashion, with:
+                         (1)  the orders of the President in the exercise of his/her authority under  706
+               of the Communications Act of 1934, as amended, (47 U.S.C.  606), and
+               under  302(e) of the Aviation Act of 1958 (49 U.S.C.  40107(b)) and
+               Executive Order 11161 (as amended by Executive Order 11382),
+
+                         (2)  National Security and Emergency Preparedness rules, regulations and
+               orders issued by the FCC pursuant to the Communications Act of 1934, as
+               amended (47 U.S.C.  151 et seq.), and
+
+                         (3)  lawful requests by U.S. federal, state or local law enforcement agencies or
+               U.S. intelligence agencies, certifications, and court orders regarding
+               Electronic Surveillance and the acquisition of Subscriber Information.
+
+     2.3  The Company shall maintain within the United States its principal business office
+and security office. If the Parent Corporation or the Company stores Subscriber Information
+concerning U.S. Joint Venture Subscribers for any reason:
+
+               a.   the Company shall maintain a current copy of such information in an office in the
+          United States, and
+
+               b.   other copies of such information may be stored, and databases concerning same
+          may be maintained, outside of the United States.
+
+     2.4  The Company shall store exclusively in the United States if stored by the
+Company  for any reason:
+
+               a.   all Classified and Sensitive Information; and  
+
+               b.   the copy of any Wire Communication or Electronic Communication Intercepted
+          by U.S. federal, state or local government agents within the United States to
+          which the Company may have access.
+
+               2.5  Content of Wire and Electronic Communications     
+          
+          2.5.1     The Company shall maintain within its Domestic Telecommunications
+Infrastructure the technical ability to access, and shall make available technical access to or
+provide the stored Electronic Communications and Wire Communications of U.S. Joint Venture
+Subscribers pursuant to Lawful U.S. Process. 
+
+          2.5.2     In the event that the Parent Corporation, the Company or any of their
+subsidiaries proposes to store Electronic Communications or Wire Communications of U.S. Joint
+Venture Subscribers at locations outside of the United States, the Company will give prior notice
+of not less than 90 days to the DoJ.  Within 30 days after receipt of such notice, the DoJ may
+request that the Company consider the DoJ's views or concerns regarding the potential impact on
+the DoJ's authorities.  Upon receipt of such request, the Company will consider both the
+availability and suitability, from a cost, technical and business perspective, of any reasonable
+alternatives, including retaining storage in the U.S.  Notwithstanding this process or any other
+provision of this Agreement, at the end of the 90-day period the Parent or subsidiary may
+proceed with any action not prohibited by law.  The foregoing prior notice and consultative
+process shall not apply to:   (1) situations where Electronic Communications or Wire
+Communications of U.S. Joint Venture Subscribers are already stored outside of the United
+States; or (2) situations where an individual customer's requirements result in the storage of that
+customer's Electronic Communications or Wire Communications outside of the United States.  
+
+          2.5.3     AT&T, BT and the Company shall participate in an industry forum that is
+sponsored by the DoJ, and that includes representatives from telecommunications carriers,
+equipment suppliers and Internet service providers, to examine law enforcement policy in the
+context of global communications.  AT&T, BT and the Company also will encourage the
+participation of other domestic and international industry members in such discussions.   
+
+          2.5.4     Nothing in this Agreement shall require the Company to store any
+information or data for a longer period than such information and data are stored in the ordinary
+course of the Company's business.  Nothing in this Agreement shall exempt the Company from
+compliance with U.S. legal requirements for the retention or preservation of such information or
+data.
+
+     2.6  Except as provided below, the Company shall not provide access to the Wire
+Communications, Electronic Communications, or Subscriber Information of U.S. Joint Venture
+Subscribers maintained by the Company to any person if the purpose of such access is to respond
+to legal process or a request of a foreign government or a component or subdivision thereof.
+
+     2.7  The Company shall not, directly or indirectly, disclose or permit disclosure of, or
+provide access to any of the following:
+
+               (a)  Classified or Sensitive Information,
+
+               (b)  the copy of any Wire Communication or Electronic Communication Intercepted
+          by U.S. federal, state or local government agents within the United States, or
+     
+               (c)  Subscriber Information of U.S. Joint Venture Subscribers maintained by the
+          Company under Section 2.3
+
+to any foreign government or a component or subdivision thereof without the express written
+consent of the U.S. Department of Justice or the authorization of a court of competent
+jurisdiction in the United States. Notwithstanding anything contained in the preceding sentence,
+the Company shall not disclose Classified Information to any person not having the requisite
+U.S. Government security clearance. Any requests or any legal process submitted by a foreign
+government or a component or subdivision thereof to the Company or an Affiliate for the
+information identified in (a) through (c) above that is maintained by the Company shall be
+referred to the U.S. Department of Justice as soon as possible and in no event later than five (5)
+business days after such request. At least every 3 months, the Company shall notify the U.S.
+Department of Justice in writing of requests by foreign non-governmental entities for access to or
+disclosure of either the content of a Wire Communication or Electronic Communication, whether
+or not stored, or Subscriber Information maintained by the Company.
+
+     2.8  The Company shall establish and comply with policies and practices to ensure the
+safeguarding of Classified, Controlled Unclassified and Sensitive Information, as provided in
+Article III of this Agreement, and designed to prevent any network, electronic, or other access
+from outside the United States or from facilities not specifically designated within the United
+States, to Classified and Sensitive Information, and Controlled Unclassified Information
+requiring a U.S. export license, entrusted to the Company. In addition, as provided in Article III,
+or in policies and practices to be established as a result of this Agreement, such safeguarding
+shall include, but is not limited to, technical security protection, personnel security clearances,
+and the execution of nondisclosure agreements.
+
+     2.9  Except to the extent and under conditions concurred in by the DoD, the DOJ and
+the FBI in writing, the Company shall have no technological capability, including any
+technological interface or connection, direct or indirect, that would enable the Company to
+control any part of the Domestic Telecommunications Infrastructure of AT&T or any other
+telecommunications company. In addition, the Company shall have no technological capability
+that would enable it to learn (1) of Lawful U.S. Process regarding AT&T's, or any other
+telecommunications company's, domestic or international networks or (2) about Classified or
+Sensitive Information maintained by AT&T or any other telecommunications company.
+
+     2.10 Sensitive Network Monitoring Personnel
+
+          2.10.1    The Company shall verify the recent employment and residence history of
+persons who assume positions in the category of Sensitive Network Monitoring Personnel
+working in any part of its Domestic Telecommunications Infrastructure.  The Company shall
+provide this information, as well as personal identifying information for such persons (including
+name(s), alias(es), date and place of birth, social security number, visa and passport numbers) to
+the FBI.  The purpose of this provision is to ensure the trustworthiness of Sensitive Network
+Monitoring Personnel.
+
+          2.10.2    Following the receipt of this information, if the FBI reasonably believes
+that a person is not sufficiently trustworthy to occupy a position in the category of Sensitive
+Network Monitoring Personnel and so notifies the Company, the person shall not be permitted to
+hold a position in such a category; provided, however, that after fourteen (14) days shall have
+passed after the provision of required information to the FBI by the Company, and no adverse
+notice shall have been received from the FBI, that person shall be deemed suitable to begin work
+as Sensitive Network Monitoring Personnel.
+
+          2.10.3    If the DoD or the FBI provides information to the Company regarding any
+person occupying a position in the category of Sensitive Network Monitoring Personnel that
+reasonably would have precluded that person's occupying a position in the category of Sensitive
+Network Monitoring Personnel at the outset, then the FBI and the Company shall promptly
+review this information and promptly make a determination concerning that person's
+trustworthiness and the appropriateness of such person's continuing to occupy such position in
+the category of Sensitive Network Monitoring Personnel.  If adverse information material to the
+trustworthiness of a person within the category of Sensitive Network Monitoring Personnel
+comes to the attention of the Company, then the Company shall either remove the person from
+such position or promptly provide information about the matter to the FBI.  The Company may
+provide such information to the FBI in a manner that maintains the anonymity of such person, to
+the extent feasible and proper.
+
+                                 
+            ARTICLE Ill - OPERATION OF THIS AGREEMENT
+
+     3.1  Policies and Practices
+
+          3.1.1     This Agreement establishes the basis for a facility clearance, which shall
+be issued to the Company upon satisfaction of the NISPOM review and approval process. The
+Company shall maintain practices and written policies designed to prevent unauthorized
+disclosure of or access to the Classified, Controlled Unclassified, and Sensitive Information
+entrusted to it.
+
+          3.1.2     The Company's policies and practices shall provide that the Company
+shall exclude any person who does not have the requisite U.S. government clearance, whether or
+not such person is an officer, employee, agent or other representative of an Affiliate, from access
+to Classified and Sensitive Information. Within 90 days from the Effective Date of this
+Agreement, the Company shall establish these policies and practices which shall be subject to the
+review and approval of the DSS and the FBISC. Such policies and practices shall not be repealed
+or amended without prior written notice to, and agreement of, the DSS and the FBISC.
+
+          3.1.3     AT&T agrees not to reveal or transfer Classified or Sensitive Information
+to the Company or to any other person except with prior written authorization by the DoD or the
+FBI. Where such authorization is granted, the information will be protected in the same manner
+as it was by AT&T.
+
+     3.2  Government Security Committee Compliance Programs
+
+          3.2.1     There shall be established within the Company a permanent Government
+Security Committee ("GSC") consisting of no fewer than three Principal Managers and at least
+one other cleared manager (other than a Principal Manager of the Company). The members of
+the GSC shall ensure that the Company complies with the policies and practices established
+pursuant to section 3.1, and shall establish policies and procedures for oversight and monitoring
+of the Company's compliance with this Agreement.
+
+          3.2.2     The Chairman of the GSC shall be a Principal Manager of the Company.
+The chairman shall designate a GSC member to serve as secretary of the GSC. The secretary
+shall be responsible for ensuring that all records, journals and minutes of GSC meetings and
+other documents sent to or received by the GSC are prepared and retained for inspection by the
+DSS and the FBISC.
+
+          3.2.3     A Facility Security Officer ("FSO") shall be appointed by the Company
+and shall be the principal advisor to the GSC concerning the safeguarding of Classified and
+Sensitive Information. The FSO shall be responsible for the oversight of the Company's
+compliance with the requirements of the NISP and this Agreement.
+
+          3.2.4     The Company shall develop and implement a Technology Control Plan
+("TCP"), which shall be subject to review by the DSS and shall prescribe measures to prevent the
+unauthorized disclosure or export of Controlled Unclassified Information consistent with
+applicable United States laws and this Agreement.
+
+          3.2.5     A Technology Control Officer ("TCO"), who may be the same person as
+the FSO, shall be appointed by the Company and shall be the principal advisor to the GSC
+concerning the protection of Controlled Unclassified Information. The TCO shall be responsible
+for the establishment and administration of all intra-company procedures, including employee
+training and oversight programs, to prevent the unauthorized disclosure or export of Controlled
+Unclassified Information and to ensure that the Company complies with the requirements of
+United States export control laws and this Agreement.
+
+          3.2.6     Upon taking office, the GSC members, the FSO and the TCO shall be
+briefed by a DSS and a FBISC representative on: (1) their responsibilities under the NISP; (2)
+the laws related to Electronic Surveillance and the acquisition of Subscriber Information; (3)
+United States export control laws; and (4) this Agreement.
+
+          3.2.7     A member of the GSC shall advise the DSS and the FBISC telephonically
+as soon as possible after any member of the GSC is aware of or otherwise believes there has been
+a violation of, or an attempt to violate: (1) any provision of this Agreement; (2) contract
+provisions regarding security; (3) United States export control laws; (4) the laws relating to
+Electronic Surveillance and the acquisition of Subscriber Information; or (5) the NISP. Such
+GSC member shall provide a written report of any such violation to the FBISC, and if
+appropriate, also to the DSS within 5 business days of the date upon which the GSC becomes
+aware of the violation.
+
+          3.2.8     Upon accepting his or her appointment and thereafter at each annual
+meeting of the Company with the DSS and the FBISC as provided in subsection 3.3.1, each
+member of the GSC shall execute and deliver to the DSS and the FBISC an acknowledgment of
+the obligations imposed by this Agreement and his or her obligations to enforce this Agreement,
+and a certification regarding the Member's best efforts to ensure compliance by the Company
+with this Agreement.
+
+     3.3  Annual Review and Certification
+
+          3.3.1     Representatives of the DSS, the FBISC, the GSC, the FSO and the TCO
+shall meet annually to review this Agreement and to establish a common understanding of the
+obligations of this Agreement and the manner in which the Agreement is being implemented.
+
+          3.3.2     One year from the effective date of this Agreement and annually
+thereafter, the Chairman of the GSC shall submit to the DSS and the FBISC an implementation
+and compliance report. The report shall include the following information:
+
+                                   a.   a detailed description of the manner in which the Company is
+                    carrying out its obligations under this Agreement;
+
+                                   b.   a detailed description of changes to the Company's security
+                    procedures, implemented or proposed, relating to the Affiliates and
+                    the reasons for those changes;
+
+                                   c.   a summary of any acts of noncompliance with the terms of this
+                    Agreement, whether inadvertent or intentional, which have
+                    occurred in the previous year, whether previously reported or not,
+                    with a discussion of any steps taken by the Company to prevent
+                    such acts;
+
+                                   d.   a detailed chronological summary of all disclosures or transfers, if
+                    any, of Classified and Sensitive Information, and Controlled
+                    Unclassified Information requiring a U.S. export license, from the
+                    Company to the Affiliates, with an explanation of the United States
+                    governmental authorization relied upon for such disclosures or
+                    transfers. Copies of any approved export licenses covering the
+                    reporting period shall be appended to the report; and
+
+                                   e.   a discussion of any other issues that could have a bearing on the
+                    effectiveness or implementation of this Agreement.
+
+     3.4  Access to Facilities and Information
+
+          3.4.1     Upon reasonable notice, the DoD, the DoJ or the FBI may visit any facility
+of the Company or its subsidiaries in the United States and may inspect any part of such facility
+for the purpose of verifying compliance with the terms of this Agreement.
+
+          3.4.2     Upon reasonable request from the DoD, the DoJ or the FBI, the Company,
+on behalf of itself and the other Parties shall be authorized to and shall,
+
+                                   a.   provide access to information, and
+
+                                   b.   make available for interview any officer or employee located in the
+                    United States who may be able to provide information
+
+to assist the DoD, the DoJ and the FBI in assessing and verifying the other Parties' compliance
+with their obligations under this Agreement and in determining whether additional measures are
+needed.
+
+     3.5  Forms, Reports, Certifications
+
+          The GSC shall prepare and submit any form, report, or certification required by
+the DSS or the FBISC.
+
+     3.6  Cooperation in Investigations
+
+          The Company shall, under this Agreement, cooperate with the DoD, the DoJ and
+the FBI in investigating, inter alia: (i) breaches of this Agreement; (ii) Electronic Surveillance
+conducted in violation of Federal or state law or regulation; (iii) access to or disclosure of
+Subscriber Information in violation of Federal or state law or regulation or this Agreement; or
+(iv) improper access to or disclosure of Classified Information or Sensitive Information by the
+Company or any Affiliate.
+
+                            ARTICLE IV
+       DISPUTES AND NON-IMPACT ON OTHER GOVERNMENT ACTIONS
+
+     4.1  Dispute Resolution
+
+          The Parties shall use their best efforts to resolve any disagreements that may arise
+under this Agreement. Disagreements will be addressed, in the first instance, at the staff level by
+the Parties' designated representatives. Any disagreement that has not been resolved at that level
+shall be submitted promptly to higher authorized officials, unless the DoD, the DoJ or the FBI
+believes that important national interests can be protected, or the Company believes that
+paramount commercial interests can be resolved, only by resorting to the measures set forth in
+section 4.3.1 below.  If, after meeting with higher authorized officials, either party determines
+that further negotiation would be fruitless, then either party may resort to the remedies set forth
+in Section 4.3.1 below.  If resolution of a disagreement requires access to Classified Information,
+the designees of all Parties shall possess the appropriate security clearances.
+
+     4.2  Denial of Access to Information
+          Nothing contained in this Agreement shall limit or affect the authority of the head
+of a United States Government agency to deny, limit or revoke the Company's access to
+Classified, Controlled Unclassified, and Sensitive Information under its jurisdiction.
+
+     4.3  Enforcement of Agreement
+
+          4.3.1.    Remedies for Breach.  Subject to section 4.1 of this Agreement, if any
+Party believes that any other Party has breached or is about to breach this Agreement, that Party
+may bring an action against the other Party for appropriate judicial relief.  Alternatively, (1) the
+DoJ, the FBI or the DoD may bring an action for relief (including equitable relief) before the
+FCC, and (2) the Affiliates and the Company may petition the FCC for a declaratory ruling with
+respect to the Affiliates' or the Company's obligations under this Agreement. Nothing in this
+Agreement shall waive any defenses to or immunities from suit that a Party may otherwise have.
+Nothing in this Agreement shall limit or affect the right of the head of a U.S. Government agency
+to seek revocation by the FCC of any license, permit or other authorization granted or given by
+the FCC to the Parent Corporation or the Company, or any other sanction by the FCC against the
+Parent Corporation or the Company, or the right to seek civil sanctions from a U.S. Federal
+District Court Judge or Magistrate, for any violation by the Parent Corporation or the Company
+of any U. S. law or regulation or term of this Agreement.
+
+          4.3.2     No Waiver of Other Remedies.  Subject to section 4.3.3 of this
+Agreement, the availability of any civil remedy under this Agreement shall not preclude the
+exercise of any other civil remedy under this Agreement or under any provision of law, nor shall
+any action taken by a Party in the exercise of any remedy be considered a waiver by that Party of
+any other rights or remedies. The failure of the DoD, the DoJ, or the FBI to insist on strict
+performance of any of the provisions of this Agreement, or to exercise any right they grant, shall
+not be construed as a relinquishment or future waiver, rather, the provision or right shall continue
+in full force.  No waiver by the DoD, the DoJ or the FBI of any provision or right shall be valid
+unless it is in writing and signed by the DoD, the DoJ or the FBI.
+
+          4.3.3     Forum Selection.  It is agreed by and between the Parties that a civil action
+for judicial relief with respect to any dispute or matter whatsoever arising under, in connection
+with, or incident to, this Agreement that is not resolved under section 4.1 of this Agreement shall
+be brought, if at all, in and before a Federal court of competent jurisdiction in the United States,
+to the exclusion of the courts of any state, territory, or other nation.
+
+     4.4  Criminal Sanctions.  
+
+          Nothing in this Agreement limits the right of the United States Government to
+pursue criminal sanctions against the Company or any Affiliate, or any director, Member, officer,
+employee, representative, or agent of any of these companies, for violations of the criminal laws
+of the United States.
+
+                     ARTICLE V - TERMINATION
+
+     5.1  Terminations by the DoD,  the DoJ, and the FBI
+
+          This Agreement may be terminated only by the DoD, the DoJ, and the FBI. The
+circumstances in which termination may be considered are:
+
+                                   a.   when the DoD, the DoJ, and the FBI determine that:
+
+                                             i).  existence of this Agreement is no longer necessary to
+                         maintain a facility security clearance for the Company;
+
+                                             ii). continuation of a facility security clearance for the
+                         Company is no longer necessary;
+
+                                             iii).     there has been a material breach of this Agreement that
+                         requires it to be terminated;
+
+                         b.   in the event of a sale of the Company to a company or person not
+          under FOCI;
+
+                         c.   when the DoD, the DoJ, and the FBI otherwise determine that
+          termination is in the national interest; or
+
+                         d.   when the Company petitions the DSS and the FBISC to terminate.
+          A petition shall contain the reason termination is requested. The DoD, the DoJ,
+          and the FBI will determine, in their sole discretion, whether termination is in the
+          interests of the United States.
+
+     5.2  Notice of Termination by the DoD, the DoJ, and the FBI
+
+          If the DoD, the DoJ, and the FBI elect to terminate this Agreement, the DoD, the
+DoJ, and the FBI shall provide the Company with thirty (30) calendar days written advance
+notice stating the reason for termination.
+
+                                 
+
+
+   ARTICLE VI - NON-OBJECTION BY DoD, DoJ AND FBI TO THE GRANT
+                          OF FCC LICENSES
+
+     6.1  Non-Objection
+
+          6.1.1     Upon the execution of this Agreement, the DoD, the DoJ and the FBI will
+notify the FCC that, provided the FCC approves this Agreement and adopts the Condition to
+FCC Licenses attached hereto as Exhibit A, the DoD, the DoJ and the FBI have no objection to
+the grant of licenses that are the subject of the application filed with the FCC in Docket Number
+98-212 on 11/10/1998.
+
+          6.1.2     Provided that the FCC approves this Agreement and adopts the Condition
+to FCC Licenses, neither the DoD nor the DoJ shall make any objection they otherwise would
+have made concerning the formation of the Parent Corporation to the Committee on Foreign
+Investment in the United States or the President.
+
+                      ARTICLE VII -- GENERAL
+
+     7.1  Effective Date. 
+
+     The Effective Date of this Agreement shall be the date of the closing of the transaction
+establishing the Parent Corporation or the date upon which the Parent Corporation, the Company
+or any of their subsidiaries begin operations pursuant to the authorities granted by the FCC in
+Docket No. 98-212, whichever is sooner. 
+
+     7.2  Right to Make and Perform Agreement. 
+
+     AT&T and BT represent that, to the best of their knowledge, they have and will continue
+to have throughout the term of this Agreement the full right to enter into this Agreement and
+perform their obligations hereunder and that this Agreement is a legal, valid, and binding
+obligation of AT&T, BT, the Parent Corporation and the Company enforceable in accordance
+with its terms.
+
+     7.3  Notices. 
+
+     With the exception of service of Lawful U.S. Process, all requests for information, visits,
+interviews and all reports, notices, and proposed modifications provided under this Agreement
+shall be made to the parties' designated representatives. All reports, notices and proposed
+modifications under this Agreement shall be delivered by (1) registered or certified U.S. mail; (2)
+overnight courier (receipt requested); or (3) facsimile (confirmed by mail) addressed to the
+addresses shown below, or to such other addresses as the Parties may designate by agreement.
+The representatives shall be:
+
+               For AT&T:           Steven W. DeGeorge
+                                   c/o AT&T Corp.
+                                   2020 K Street, N.W.
+                                   Suite 712
+                                   Washington, D.C.  20006
+
+               For BT:             Alan Whitfield
+                                   British Telecommunications plc
+                                   BT Centre (BTC-EC)
+                                   81 Newgate Street
+                                   London EC1A7AJ ENGLAND
+
+               For the Parent Corporation:   Walter Desocio
+                                   General Counsel
+                                   AT&T- BT Global Venture
+                                   Room 6110
+                                   1200 Peachtree Street, N.E.
+                                   Atlanta, GA  30309
+
+               For the Company:         Steven W. DeGeorge
+                                   c/o AT&T Corp.
+                                   2020 K Street, N.W.
+                                   Suite 712
+                                   Washington, D.C.  20006
+
+               For DSS:            Defense Security Service
+                                   1340 Braddock Place
+                                   Alexandria, Virginia 22314-1651
+
+                                   with a copy to:
+
+                                   General Counsel 
+                                   Department of Defense
+                                   The Pentagon
+                                   Washington, D.C. 20301 - 1600
+
+               For FBISC:               National Security Division
+                                   Attn: Unit Chief, NSU, NS-5A
+                                   Room 1B045
+                                   FBI Headquarters
+                                   935 Pennsylvania Ave., N.W.
+                                   Washington, D.C.  20535
+                                   with a copy to:  
+
+                                   FBI General Counsel
+                                   935 Pennsylvania Avenue, N.W.
+                                   Washington, D.C.  20535
+
+               For the DoJ:             Assistant Attorney General
+                                   Criminal Division
+                                   Main Justice Building
+                                   950 Pennsylvania Ave., N.W.
+                                   Washington, D.C. 20530
+               
+     7.4. Other Laws.  
+
+     Nothing in this Agreement is intended to limit or constitute a waiver of (i) any obligation
+imposed by Federal or state law or regulation on Affiliates and the Company; (ii) any obligation
+imposed by Federal law or regulation on the DoD, the DoJ, or the FBI; (iii) any enforcement
+authority available under Federal or state law or regulation; (iv) the sovereign immunity of the
+United States; or (v) any authority over Affiliates' activities or facilities that the U.S.
+Government may possess. Nothing in this Agreement is intended to benefit or confer a right
+upon any person other than a Party to this Agreement or other U.S. federal, state or local
+government entities entitled to conduct Electronic Surveillance.  Nothing in this agreement shall
+require, expressly or by implication, the violation of any domestic or foreign law.
+
+     7.5. Statutory References.  
+
+     All references to statutory provisions or to Executive Orders shall include any future
+amendments to such authorities.
+
+     7.6. Precedence of Agreement.  
+
+     In the event that any resolution, regulation or provision of the charter documents of the
+Company is inconsistent with any provision of this Agreement, this Agreement shall control.
+
+     7.7. Amendment and Modification of Agreement. 
+
+          7.7.1     Amendment.     This Agreement may be modified only by a written
+agreement signed by all of the Parties. Any substantial modification to this Agreement shall be
+reported to the FCC within thirty (30) days after approval by the Parties.
+
+          7.7.2     Modification. Beginning on the date which is eighteen months after
+execution of this Agreement, the Parties agree to consider in good faith possible modifications to
+this Agreement as may be required for the consistent application of U.S. national security, law
+enforcement and public safety laws and policies to the Company vis-a-vis other international
+communications services in like circumstances.
+     
+     7.8  Headings. 
+
+     The headings contained in this Agreement are for reference purposes only, and do not in
+any way affect the meaning or interpretation of the provisions.
+
+     7.9  Location of Agreement. 
+
+     Until the termination of this Agreement, one original counterpart shall be kept at the
+principal office of the Company.
+
+     7.10 Freedom of Information Act.   
+
+          7.10.1   Marking of Information.  The DoD, DoJ and the FBI shall take reasonable
+precautions to protect from improper public disclosure all information submitted by the Affiliates
+and the Company to the DoD, DoJ and the FBI in connection with or in furtherance of this
+Agreement and clearly marked with the legend "Company Confidential" or similar designation. 
+Such marking shall represent to the DoD, DoJ and the FBI that the information so marked
+constitutes "trade secrets" and/or "commercial or financial information obtained from a person
+and privileged or confidential," or otherwise warrant its protection within the meaning of 5
+U.S.C.  552(b)(4).  For purposes of 5 U.S.C.  552(b)(4), the parties agree that such information
+is voluntarily submitted.  In the event of a request under 5 U.S.C.  552(a)(3) for information so
+marked, the DoD, DoJ or the FBI, as appropriate, shall notify the Company of such request and
+consult with it as to any contemplated release (including release in redacted form) of such
+information.  The DoD, DoJ or the FBI, as appropriate, shall notify the Company five (5)
+business days in advance of any release of such information under 5 U.S.C.  552(a)(3).
+
+          7.10.2   Use of Information for Government Purposes.  Nothing in this Agreement
+shall prevent the DoD, DoJ or the FBI from lawfully disseminating information as appropriate to
+seek enforcement of this Agreement, or as otherwise necessary in furtherance of the missions,
+responsibilities, or obligations of the DoD, DoJ or the FBI, provided that the DoD, DoJ or the
+FBI shall take reasonable precautions to protect from improper public disclosure information
+marked as described in the preceding section.  Where feasible, the DoD, DoJ and the FBI will
+make information available for inspection rather than providing copies thereof.
+     
+     7.11  Partial Invalidity. 
+
+     If any provision of this Agreement is declared invalid or unenforceable by a court of
+competent jurisdiction, this Agreement shall be construed as if such provision were reformed or
+deleted, and the remaining provisions of this Agreement shall remain in full force and effect,
+unless this construction would constitute a substantial deviation from the Parties's intent as
+reflected in this Agreement.
+
+     7.12   Execution in Counterpart. 
+
+     This Agreement may be executed in several counterparts, each of which shall be an
+original.
+
+               ARTICLE VIII -- DEFINITION OF TERMS
+
+     8.1  Definitions:   As used in this Agreement:
+
+          8.1.1     "Affiliates" means AT&T, BT, (as described in the Recitals), and the
+Parent Corporation, individually or collectively, all entities (other than the Company) that
+Control or are Controlled by the Parent Corporation and all successors and assigns of such
+parties and entities.
+
+          8.1.2     "Classified Information" means any information that has been determined
+pursuant to Executive Order 12958, or any predecessor or successor order, or the Atomic Energy
+Act of 1954, or any statute that succeeds or amends the Atomic Energy Act, to require protection
+against unauthorized disclosure.
+
+          8.1.3     "Company" means VLT Co. LLC and Violet License Co. LLC, as
+described in the Recitals, and any other direct or indirect subsidiaries of the Parent Corporation
+that own or control any part or portion of the Domestic Telecommunications Infrastructure, and
+any successor(s) or assigns.
+
+          8.1.4     "Control" or "Controlled" as used in Section 8.1.1 of this Agreement, 
+mean the power, direct or indirect, whether or not exercised, and whether or not exercised or
+exercisable through the ownership of a majority or a dominant minority of the total outstanding
+voting securities of an entity, or by proxy voting, contractual arrangements, or other means, to
+determine, direct, or decide matters affecting an entity, in particular, but without limitation, to
+determine, direct, take, reach, or cause decisions regarding:
+
+                                   (1)  The sale, lease, mortgage, pledge, or other transfer of any or all of
+                    the principal assets of the entity, whether or not in the ordinary
+                    course of business;
+     
+                                   (2)  The dissolution of the entity;
+
+                                   (3)  The closing and/or relocation of the production or research and
+                    development facilities of the entity;
+
+               (4)  The termination or non-fulfillment of contracts of the entity;
+
+                                   (5)  The amendment of the articles of incorporation or constituent
+                    agreement of the entity with respect to the matters described in
+                    paragraphs (1) through (4) above; or
+
+               (6)  The matters covered by this Agreement.
+
+The terms "control" or "controlled" as used  in Sections 2.1, 2.9, 8.1.3 and 8.1.7 means the ability
+to direct, supervise or otherwise manage, shut down, interfere with or modify the capabilities of,
+but does not include routine service maintenance, provisioning or service monitoring.
+
+          8.1.5     "Controlled Unclassified Information" means unclassified information, the
+export of which is controlled by the International Traffic in Arms Regulations (ITAR), 22 C.F.R.
+Chapter I, Subchapter M, or the Export Administration Regulations (EAR), 15 C.F.R., Chapter
+VII, Subchapter C.
+
+          8.1.6     "Domestic Telecommunications" means telecommunications from one
+U.S. location to another U.S. location.
+
+          8.1.7     "Domestic Telecommunications Infrastructure" means the transmission
+and switching equipment (including software) that is used to provide Domestic
+Telecommunications or physically located in the United States and any facility that is used to
+control such equipment.
+
+          8.1.8     "Electronic Communication" has the meaning given it in 18 U.S.C.  25
+10(12).
+
+          8.1.9     "Electronic Surveillance" means (i) the interception of wire, oral, or
+electronic communications as defined in 18 U.S.C.  25 10(1), (2), (4) and (12), respectively,
+and electronic surveillance as defined in 50 U.S.C.  1801(f); (ii) access to stored wire or
+electronic communications, as referred to in 18 U.S.C.  2701 et seq.; (iii) acquisition of dialing
+or signaling information through pen register or trap and trace devices or other devices or
+features capable of acquiring such information pursuant to law as defined in 18 U.S.C.  3121 et
+seq. and 50 U.S.C.  1841 et seq.; (iv) acquisition of location-related information concerning a
+telecommunications service subscriber; (v) preservation of any of the above information pursuant
+to 18 U.S.C.  2703(f); and (vi) including access to, or acquisition or interception of,
+communications or information as described in (i) through (v) above and comparable State laws.
+
+          8.1.10    "FCC" has the meaning given it in the Recitals. It includes any agency or
+instrumentality of the United States to which, in the future, all or any part of the functions or
+responsibilities of the FCC may be transferred or assigned.
+
+          8.1.11    "Intercept" or "Intercepted" has the meaning defined in 18 U.S.C. 
+2510(4).
+
+          8.1.12    "Lawful U.S. Process" means Electronic Surveillance orders or
+authorizations, and other orders, legal process, statutory authorizations, and certifications for
+access to Subscriber Information.
+
+          8.1.13    "Member" has the meaning given in Section 18-101(11) of Title 6 of the
+Delaware Code.
+
+          8.1.14    "Parent Corporation" means TNV (Netherlands) BV, as described in the
+Recitals.
+
+          8.1.15    "Parties" has the meaning given it in the Preamble.
+
+          8.1.16    "Principal Managers" means those persons occupying positions of
+director, president, senior vice president, secretary, treasurer and those persons occupying similar
+positions.
+
+          8.1.17    "Sensitive Information" means unclassified information regarding (i) the
+persons or facilities that are the subjects of Lawful U.S. Process, (ii) the identity of the
+government agency or agencies serving such Lawful U.S. Process, (iii) the location or identity of
+the line, circuit, transmission path, or other facilities or equipment used to conduct Electronic
+Surveillance, (iv) the means of carrying out Electronic Surveillance, (v) the type(s) of service,
+telephone number(s), records, communications, or facilities subjected to Lawful U.S. Process,
+and (vi) other unclassified information designated in writing by an authorized official of a
+federal, state or local law enforcement agency or a U.S. intelligence agency as "Sensitive
+Information."
+
+          8.1.18    "Sensitive Network Monitoring Personnel" means personnel responsible
+for performing network management, operations, maintenance, or security functions who have
+regular access to facilities, systems, or equipment which enable monitoring of subscribers' wire
+or electronic communications, including any such communications that are in electronic storage. 
+This term excludes personnel who (i) perform outside plant operations and maintenance
+functions, (ii) perform network-level monitoring without the responsibility to monitor the content
+of a subscriber's communications, or (iii) monitor telemarketing calls by Company personnel or
+customer-originated calls to the Company.
+
+          8.1.19  "Subscriber Information" means information of the type referred to and
+accessible subject to procedures specified in 18 U.S.C.  2703(c) or (d) or 18 U.S.C.  2709, or
+other legal process established by state law.  Subscriber Information does not include the content
+of any communication.
+
+          8.1.20  "United States" means the United States of America including all of its
+States, districts, territories, possessions, commonwealths, and the special maritime jurisdiction of
+the United States.
+
+          8.1.21 "U.S. Joint Venture Subscriber" means a subscriber, including an employee
+or similar authorized user of the services provided to a subscriber, of the Parent Corporation or
+any of its subsidiaries to the extent that such subscriber (i) is regularly provided services at a U.S.
+location by the Parent Corporation or any of its subsidiaries, and (ii) uses such services at a U.S.
+location.  A customer of a subscriber of the Parent Corporation shall not, by reason of that
+relationship, be considered a U.S. Joint Venture Subscriber.  Neither the Company, nor the
+subsidiaries of the Parent Corporation or the Company, shall be considered a subscriber of the
+Parent Corporation.
+
+          8.1.22  "Wire Communication" has the meaning given it in 18 U.S.C.  25 10(1).
+
+This Agreement shall inure to the benefit of, and shall be binding upon, the Parties, and their
+respective successors and assigns.
+
+This Agreement is executed on behalf of the Parties:
+
+                              
+
+                              VLT CO. LLC
+
+
+
+Date:  October 1, 1999   By:       ____________________________________
+                                   /s/                           
+          
+                              Rick D. Bailey
+
+                              VIOLET LICENSE CO. LLC
+
+
+
+Date:  October 1, 1999   By:       ____________________________________
+                              /s/  
+                              Rick D. Bailey
+
+                              
+                              TNV (NETHERLANDS) BV
+
+
+
+Date:  October 1, 1999   By:       ____________________________________
+                              /s/
+                              James E. Graf II                              AT&T CORP.
+
+
+
+Date:  October 1, 1999   By:       ____________________________________
+                              /s/
+                              Mary Jane McKeever
+                              Vice President
+
+
+                              BRITISH TELECOMMUNICATIONS plc
+
+
+
+Date:  October 1, 1999   By:       ____________________________________
+                              /s/
+                              James E. Graf II
+                              President, BT North America Inc.
+
+
+                              THE UNITED STATES DEPARTMENT
+                               OF DEFENSE
+
+
+Date:  October 7, 1999   By:       ____________________________________
+                              /s/
+                              Arthur Money
+                              Assistant Secretary of Defense for Command,
+                              Control, Communications and Intelligence
+
+                              THE FEDERAL BUREAU OF
+                              INVESTIGATION
+
+Date:  October 7, 1999   By:       __________________________________
+                              /s/
+                              Larry R. Parkinson
+                              
+
+
+
+
+
+
+                              THE UNITED STATES DEPARTMENT
+                              OF JUSTICE
+
+
+
+Date:  October 7, 1999   By:       _____________________________
+                              /s/
+                              Eric Holder Jr.                           EXHIBIT A
+                   CONDITION TO FCC LICENSES
+                                
+IT IS FURTHER ORDERED, that the authorization and the license related thereto are subject  
+to compliance with the provisions of the Agreement attached hereto between AT&T Corp.,
+British Telecommunications PLC, TNV (NETHERLANDS) BV, VLT CO. LLC, and Violet
+License Co. LLC on the one hand and the Department of Defense (the "DoD"), Department of
+Justice (the "DoJ") and the Federal Bureau of Investigation (the "FBI") on the other, dated
+October 7, 1999, which Agreement is designed to address national security, law enforcement,
+and public safety concerns of the DoD, DoJ and the FBI regarding the licenses granted herein. 
+Nothing in this Agreement is intended to limit any obligation imposed by Federal law or
+regulation including, but not limited to, 47 U.S.C.  222(a) and (c)(1) and the FCC's
+implementing regulations.     
+SEPARATE STATEMENT OF COMMISSIONER HAROLD FURCHTGOTT-ROTH
+                           
+  Re: AT&T Corp., British Telecommunications, plc, VLT Co. L.L.C., Violet License Co.
+  LLC, and TNV [Bahamas] Limited Applications for Grant of Section 214 Authority,
+  Modification of Authorizations and Assignment of Licenses in Connection with the
+  Proposed Joint Venture Between AT&T Corp. and British Telecommunications, plc, IB
+  Docket No. 98-212.  
+     
+     I wholeheartedly endorse the Commission's ultimate decision to permit the
+  AT&T/BT joint venture to go forward.  It has been almost a year since the parties filed
+  their applications, and our regulatory approval was long overdue.  Nonetheless, I write
+  separately to express my continuing concern about the nature of the Commission's
+  approach to mergers, and now sadly, joint ventures as well.  
+     
+  I.   The Commission's License Transfer Review Process
+  
+     As detailed elsewhere, I believe the Commission's license transfer review
+  process is broken.  With each transaction, the dangerous legacy of our policies
+  becomes more clearly visible:
+  
+     often our "conditions" are not even remotely tethered to our statutory authority to
+     review license transfers; 
+  
+     there is no apparent method to the madness by which some transfers receive
+     heightened scrutiny, while others do not;  
+  
+     at times the Bureau reviews transactions, other times the full Commission acts; 
+  
+     the Commission continues to assert jurisdiction over submarine cable license transfers
+     that would be more properly left to the Executive Branch; and  
+  
+     the Commission continues to characterize the arm twisting associated with these
+     transactions as part of some mythical voluntary process.
+  
+  
+       Today's decision unfortunately adds a few more straws to the strained camel's
+  back.  
+  
+       Once again the Commission has strayed from the issues raised by the actual
+  transfer of these licenses.  The Commission simply does not possess statutory authority
+  under the Communications Act to review, writ large, the joint venture of AT&T and
+  BT.  Rather, "we are required to determine whether the transfer of station licenses
+  serves the public interest, convenience and necessity and whether the transfer of
+  authorizations for international resale serves the public convenience and necessity."  
+  Nothing more is desirable or permissible.  Issues unrelated to the transfer itself such as
+  the API calls and programs described in this Order are simply, in my view, beyond the
+  scope of our review.  
+  
+       I also continue to be concerned that much of our review process is duplicative
+  of the work of the Justice Department's Antitrust Division.  The experience and
+  expertise of the Justice Department are best suited to addressing any antitrust issues
+  that may arise in these transactions.  Moreover, DOJ uniformly enforces the antitrust
+  laws across all sectors of the economy.  Ultimately, I fear that our "heightened"
+  antitrust review may actually penalize the communications industry based purely on
+  their unfortunate fate of being subject to our license transfer jurisdiction.  
+  
+       It also seems, at best, odd that the agency must condition a license transfer on
+  compliance with our existing rules   as if they were somehow discretionary for other
+  licensees.  For example, in its Order the Commission notes that: "Consistent with our
+  rules, VLT and TLTD must file quarterly reports on provisioning and maintenance
+  procured from BT directly or indirectly, including through Concert."  This is a
+  reasonable enough conclusion, and well within our legitimate authority to review
+  transactions to ensure compliance with our rules.  Such authority justifiably extends
+  to clarifying whether our rules apply in the given circumstances of a transaction. 
+  However, today's Order does not stop there.   Instead the Order adds a curious
+  conclusion:  "We nonetheless adopt AT&T/BTs' voluntary commitment to do so as a
+  condition of this Order."  Our rules are binding on all licensees with equal force.   Yet
+  the Commission's transfer review process has now elevated the sanctity of a voluntary
+  commitment above the requirements of our rules   even when each leads to an
+  identical result. This process seems to place a discriminatory and heightened burden
+  on AT&T/BT.  This is particularly disconcerting when the "voluntary commitment" is
+  potentially insulated from judicial review. 
+       
+       Once again, I urge my fellow Commissioners to back away from the use of
+  specific review proceedings to achieve general public policy goals.  We have extensive
+  authority to regulate telecommunications, there is no basis or need to expand that
+  authority by using the ad hoc license transfer process to achieve our goals through the
+  back door.  
+       
+  II.  The Role of Other Governmental Agencies
+       
+       To the Commission's credit, much of the delay involved in reaching today's
+  decision was directly attributable to negotiations between the private parties (AT&T,
+  BT, TNV, VLT and Violet) and the Department of Defense, the Department of Justice
+  and the Federal Bureau of Investigation.   Today's decision incorporates by reference
+  the agreement between the private parties and these government agencies.  A number
+  of elements of this process are troubling.  
+       
+       First, under Section 214(b), the Commission is instructed to notify "the
+  Secretary of Defense, the Secretary of State (with respect to such applications involving
+  service to foreign points) and the Governor of each State in which such line is
+  proposed to be. . . acquired. . . with the right of those notified to be heard. . . . "  Thus
+  the Commission must take into account the views of these parties in assessing any
+  proposed licensing action.  This approach is consistent with the GATS, which provides
+  for national security exceptions under Articles XIV bis.  Similarly, in our Foreign
+  Participation Order we assured the parties that we would "consider any such legitimate
+  concerns [regarding national security or law enforcement] as we undertake our own
+  independent analyses of whether grant of a particular authorization is in the public
+  interest."   Thus our sole obligation is to consider these parties' input in our
+  independent assessment of the transfer.  
+       
+       Yet here we have gone far beyond that.  While we do have comments from these
+  parties on file, we delayed today's Order as we awaited the conclusion of private
+  negotiations between the parties and these governmental agencies.  Their ultimate
+  agreement has now been incorporated into our Order.  I am concerned that other
+  federal agencies not add insult to the injury that our current "review" process imposes
+  on licensees.  The Commission's sanctioning of this agreement with other agencies
+  creates another set of "voluntary" conditions that licensees have little choice but to
+  accept, if they wish to transfer their licenses in any reasonable period of time.  As I
+  have noted elsewhere, the involuntary nature of these obligations is compounded by the
+  practical inability of the parties to obtain meaningful judicial review of our
+  determinations in a timeframe that preserves the viability of the underlying
+  transaction.  These are not voluntary conditions, they are the Commission's (and now
+  other government agencies') price for doing business through license modifications. 
+  Such a process vastly exceeds the role of these other agencies as envisioned by Section
+  214.  
+       
+       Second, I am disturbed by the seeming arbitrariness of this side agreement
+  between the private parties and the Department of Defense, the Department of Justice
+  and the Federal Bureau of Investigation.   While I do not question the underlying
+  merits of the side agreement   they may well be necessary and wholly justified   it
+  seems difficult to tie these requirements to the license transfers at issue here.  Most
+  significantly, why is this joint venture singled out for these requirements?  Would it not
+  be equally desirable to have all similarly situated carriers subject to these mandates? 
+  Does not this process elevate the relative happenstance of this joint venture into the
+  sole variable that determines which carriers are subject to these significant law
+  enforcement and security obligations set forth in the agreement?  In other words, it
+  seems unfair that a large international carrier -- that built its business through means
+  other than mergers or joint ventures involving FCC licenses --  would never face these
+  requirements.  This side agreement ultimately penalizes a business development plan.  
+       
+       The Order seems to recognize this peril:  
+       
+            We note that the Agreement reflects a unique situation, and contains certain
+       provisions that, if broadly applied, would have significant consequences for the
+       telecommunications industry.  These provisions, if viewed as precedent for
+       other service providers and potential investors, would warrant further inquiry
+       on our part.  Therefore, this agreement does not establish precedent for future
+       cases.
+        
+            
+  The Order does not identify what is "unique" about this "situation," except that
+  AT&T and BT had the misfortune to have a joint venture pending at this agency in late
+  1999.   But the general observation of the passage is, at best, distressing.  The majority
+  opinion essentially concedes that the application of the terms of the "voluntary
+  agreement" to the industry as a whole may have significant adverse consequences that
+  would warrant our review.  We cannot have it both ways   we use our authority to
+  impose these onerous obligations, while distancing ourselves from the outcome.  
+  
+       In the end, if the parties want to negotiate a true voluntary agreement, they can
+  do so on their own time without the cloud of our review process hanging over their
+  heads.  Indeed, I would applaud such a voluntary industry-wide effort to address
+  national security and law enforcement issues without Commission involvement.  The
+  troubling part of this "deal" is not the substance, but the Commission's role in
+  sanctioning it.  Despite the Order's caveats, the Commission's actions speak louder
+  than its words.  The agency has held up this transaction pending the agreement and
+  incorporated its terms without so much as a change in punctuation.      
+       
+       Third, I note that our statutory notice obligation does not run to all of the
+  governmental parties to this agreement   but only to the Secretary of Defense.  Thus, it
+  seems possible, if not likely, that the other governmental parties to whom notice is
+  required (the Governors and the State Department) will soon understand that our
+  merger review process is an opportunity for them to achieve their policy wish lists
+  through "voluntary agreements" similar to the one we sanction here.  Which
+  Executive Branch objections or policy concerns would form the basis for a decision to
+  delay our approval?  Which governmental entities warrant such deference and which
+  do not?  Is there any limit on the germaneness of such side agreements?  Could a state
+  governor reach a voluntary agreement with a joint venture party to construct a new
+  cable landing station in her state in exchange for the removal of her objections to the
+  transfer?  Would we delay the transaction pending such an agreement?  My concern is
+  that there seems to be no legally compelling way to distinguish the wishful Governor
+  from the governmental parties in this case.  
+       
+       Finally, as I have discussed elsewhere, this agency is on dangerous ground
+  when it purports not only to enforce our decision, but also potentially to play a role in
+  the enforcement of other agency's regulatory determinations. Here the side agreement
+  calls for the parties to seek judicial enforcement of the agreement or "(1) the DOJ, the
+  FBI or the DOD may bring an action for relief (including equitable relief) before the
+  FCC, and (2) the Affiliates and the Company may petition the FCC for a declaratory
+  ruling with respect to the Affiliates' or the Company's obligations under this
+  agreement."  As I stated in AT&T/TCI, "we have no jurisdiction to enforce rules not
+  promulgated under the Communications Act. . . and we cannot and should not do the
+  enforcement work of others."  Ultimately, this agency runs far afield when it
+  conditions a license transfer on compliance with another's agency's agreement,
+  putting ourselves in the position of potential enforcer of non-FCC requirements. 
+  Instead of this approach, it would seem far more manageable if we were to note in our
+  decision that the initial objections of these other governmental parties had been
+  withdrawn based on a private side agreement.  It seems unnecessary to incorporate that
+  agreement into our approval or to condition the license on compliance with the third
+  party contract.  Only when the Commission itself passed on these national security
+  issues would any type of condition be appropriate.  
+       
+                           *****
+       
+       I understand and truly believe that the Commission and the other government
+  agencies involved act on these transactions based on a sincere desire to serve the public
+  interest.  Many of the ends achieved by merger conditions and voluntary agreements
+  are worthwhile.  But the ease and largely standardless nature of the current license
+  transfer process simply cannot be an appropriate vehicle.  It denies parties their rights
+  to judicial review; hides the ball from the public during the "negotiations" process;
+  applies these "good" rules to only certain companies; subverts the rulemaking process
+  by removing obligations from the code and placing them in a bevy of adjudicatory
+  determinations; delays business transactions; and consumes immense resources from
+  all parties.  As my parents used to say: "There are no shortcuts in life."  We all
+  undermine the process and ultimately many of our common goals when we attempt to
+  achieve our goals via shortcuts.  I urge other agencies and my colleagues to join me in
+  taking the necessarily more difficult and longer path to achieving these goals.    
+  
+  

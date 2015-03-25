@@ -1,0 +1,210 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                         
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION
+                           Washington D.C. 20554
+
+
+In the Matter of 
+
+AT&T SUBMARINE SYSTEMS, INC.    )
+                        )       File No. S-C-L-94-006
+Application for a License to Land and            )
+Operate a Digital Submarine Cable System         )
+Between St. Thomas and St. Croix in the          )
+U.S. Virgin Islands             )
+
+MEMORANDUM OPINION AND ORDER 
+
+Adopted:        October 5, 1998 Released:        October 9, 1998 
+
+By the Commission:
+
+                               INTRODUCTION
+
+        1.      In this decision, we deny the Virgin Islands Telephone Corporation's ("Vitelco")
+application for review of the International Bureau's grant of a license to AT&T Submarine Systems,
+Inc. ("AT&T-SSI") to land and operate, on a non-common carrier basis, a digital submarine cable
+system extending between St. Thomas and St. Croix in the U.S. Virgin Islands.  We find that the
+Telecommunications Act of 1996 ("1996 Act") does not require us to regulate AT&T-SSI as a
+common carrier and that there are no other public interest reasons for doing so.  Therefore, we
+uphold the Bureau's decision to regulate AT&T-SSI as a non-common carrier in its provision of
+capacity on the St. Thomas-St. Croix cable system.
+
+                                BACKGROUND
+
+        2.      AT&T-SSI, a wholly-owned subsidiary of AT&T Corp. (AT&T), operates a
+submarine cable station in St. Thomas that serves several cable systems, including Americas-1 and
+Columbus II.  In its application for a cable landing license in 1994, AT&T-SSI stated that the St.
+Thomas cable station was operating at capacity and would not be able to accommodate future growth. 
+Accordingly, AT&T-SSI applied for a license to land and operate the St. Thomas-St. Croix cable
+system on a non-common carrier basis in which bulk capacity would be sold outright to purchasers on
+an indefeasible right of use (IRU) basis.  The St. Thomas-St. Croix system would consist of three
+segments:  (1) a cable station at St. Thomas; (2) a submarine cable and system interfaces at the cable
+stations at St. Thomas and St. Croix; and (3) a cable station at St. Croix.  AT&T-SSI stated that the
+St. Thomas-St. Croix cable system would also provide a "virtual node" in St. Croix that would, in
+effect, expand the capacity of the existing St. Thomas cable station by providing a viable alternative
+interconnection point for current and future international cable systems in the Caribbean region.  The
+system could also be used by authorized carriers to provide alternate routing of inter-island traffic
+within the U.S. Virgin Islands.  AT&T-SSI stated that it would offer IRU capacity to all carriers at
+market prices, and on the same terms and conditions.  AT&T-SSI stated that its common carrier
+affiliate did not have any plans to use the proposed system.  AT&T-SSI stated that, as a non-common
+carrier, it did not want to own and operate common carrier cables.   
+
+        3.      The Bureau issued AT&T-SSI a cable landing license on May 8, 1996.  The Bureau
+recently approved the pro forma assignment of this license from AT&T-SSI to Transoceanic
+Communications, which is also a wholly-owned subsidiary of AT&T-SSI.  For purposes of this
+Order, we will continue to refer to AT&T-SSI as the licensee. 
+
+
+                                DISCUSSION
+
+        4.      The issues before us on review are whether the Bureau erred in concluding that: (1)
+AT&T-SSI is not a "telecommunications carrier," as defined in the 1996 Act, and (2) the public
+interest does not require AT&T-SSI to operate its cable on a common carrier basis. The petitioner,
+Vitelco, is the incumbent provider of local exchange services in the U.S. Virgin Islands.  Vitelco,
+along with Telefonica Larga Distancia de Puerto Rico (TLD), an interexchange services provider in
+the U.S. Virgin Islands-Puerto Rico market, had previously filed petitions to deny AT&T-SSI's
+application because they believed AT&T-SSI should be required to operate the St. Thomas cable
+station on a common carrier basis.  For the following reasons, we reject Vitelco's application for
+review and find that the Bureau did not err in allowing AT&T-SSI to operate the St. Thomas-St.
+Croix cable system on a non-common carrier basis.
+
+        5.      We first address Vitelco's argument that the 1996 Act includes a new statutory
+definition of telecommunications carrier which, as applied to the AT&T-SSI cable, requires that the
+proposed cable system be operated on a common carrier basis.  As defined in the 1996 Act:
+
+        "The term 'telecommunications carrier' means any provider of telecommunications
+        services, except that such term does not include aggregators of telecommunications
+        services (as defined in section 226).  A telecommunications carrier shall be treated as
+        a common carrier under this Act only to the extent that it is engaged in providing
+        telecommunications services, except that the Commission shall determine whether the
+        provision of fixed and mobile satellite service shall be treated as common carriage."  
+
+        The Act further defines "telecommunications services" as "the offering of telecommunications
+for a fee directly to the public, or to such classes of users as to be effectively available directly to the
+public, regardless of the facilities used."  Vitelco argues that, because AT&T-SSI sells cable
+capacity to common carriers or consortia of common carriers who sell telecommunications services
+directly to the public, AT&T-SSI provides a telecommunications service that is "effectively available
+directly to the public."  Vitelco also avers that, because AT&T-SSI's customers are not restricted
+from offering telecommunications services to the public, AT&T-SSI is a "telecommunications carrier"
+as defined in the 1996 Act.  
+        
+        6.      We disagree with Vitelco that the activities of AT&T-SSI's customers are relevant to a
+determination of whether AT&T-SSI is a telecommunications carrier or a common carrier.  As the
+Commission has previously held, the term "telecommunications carrier" means essentially the same as
+common carrier.  It does not, as Vitelco suggests, introduce a new concept whereby we must look to
+the customers' customers to determine the status of a carrier.  
+
+        7.      The Communications Act of 1934, as amended, defines "common carrier" as "any
+person engaged as a common carrier for hire, in interstate or foreign communication by wire ..." 
+The Commission's rules define a "communication common carrier" as "any person engaged in
+rendering communications for hire to the public."  The courts, in the NARUC I decision, established
+a two-part test to determine if common carriage is required:
+
+        "[W]e must inquire, first, whether there will be any legal compulsion ... to serve [the
+        public] indifferently, and if not, second, whether there are reasons, implicit in the
+        nature of ... [the] operations to expect an indifferent holding out to the eligible user
+        public."
+
+      Accordingly, the Commission concluded in Cable & Wireless that, applying the NARUC I
+test, a carrier does not have to be regulated as a common carrier if (1) it intends to make
+"individualized decisions, whether and on what terms to serve" or (2) the public interest does not
+require the carrier to be legally compelled to serve the public indifferently.
+
+      8.    In this case, the Bureau found that, even though AT&T-SSI stated it would provide
+cable capacity at market prices, AT&T-SSI would have to engage in negotiations with each of its
+customers on the price and other terms which would vary depending on the customers' capacity
+needs, duration of the contract, and technical specifications (e.g., transmission speeds, maintenance
+levels, reliability criteria, restoration ability, and warranty coverage).  The Bureau thus concluded
+that AT&T-SSI would not be providing cable capacity indiscriminately.  On August 14, 1998,
+AT&T-SSI informed the Commission that, in light of the difficulty it faced in selling capacity on the
+cable, it: (1) requested the Commission to relieve it of the commitment to make its initial offers on
+non-discriminatory terms and conditions; (2) would like the flexibility to tailor its initial offers to
+what it perceives are an offeree's needs; and (3) would like to clarify that it has the sole discretion to
+make individualized decisions on offering bulk capacity to restricted classes of users and the terms of
+such offers, and to tailor its capacity offerings to the special requirements of individual customers. 
+Since 1998, when the cable was completed, AT&T-SSI has sold only 2 of the 12 optical fiber pairs on
+this route.  For the reasons stated by the Bureau, and because of AT&T-SSI's recent statements
+concerning its individualized negotiations with potential customers, we conclude that AT&T-SSI will
+not sell capacity in the proposed cable indifferently to the public and that, therefore, we are not
+required to classify AT&T-SSI as a common carrier on this route under the 1996 Act and the second
+part of the NARUC I test.
+                                     
+      9.    We next consider under the first part of the NARUC I decision whether the public
+interest requires common carrier operation of the facility.  We agree with the Bureau that the public
+interest does not require AT&T-SSI to operate the cable on a common carrier basis.  In ascertaining
+the public interest, the focus of our inquiry here is whether the license applicant has sufficient market
+power to warrant regulatory treatment as a common carrier.  In particular, in the past we have
+found that if sufficient alternative facilities, including common carrier facilities, are available an
+applicant would be unable to charge monopoly rents and hence would not have market power.  
+
+      10.     The two relevant markets we analyze are (1) facilities providing access to the St.
+Thomas cable station; and (2) facilities operating between St. Thomas and St. Croix.  There are
+three cable systems that interconnect at the St. Thomas station: the Taino-Carib cable which provides
+service in the U.S. Virgin Islands; Americas-1, which carries traffic to the U.S. mainland, Trinidad,
+and points in South America; and Columbus-II, which connects to the U.S. mainland and Europe. 
+The record shows that each of these cables has ample capacity.  Thus, even if AT&T-SSI denies
+carriers access to the St.Thomas-St. Croix system, there is an ample supply of alternate cable capacity
+that is available to gain access to the St. Thomas cable station.  Moreover, we find that it is not in
+AT&T-SSI's economic interests to charge monopoly rents here because the system is a high-capacity
+cable which AT&T-SSI is seeking to utilize fully by offering capacity at competitive prices. 
+      
+      11.   We also conclude that AT&T's cable is not dominating the St. Thomas-to-St. Croix
+route and, hence, should not be regulated as a common carrier.  Vitelco's argument has two facets:
+(1) Vitelco's microwave facility was the only facility serving this route at that time and was already
+operating at capacity, so that the AT&T-SSI cable would have become the only fiber optic facility
+available to carriers; and (2) AT&T-SSI's high sunk costs and enormous capacity would prevent
+Vitelco or any other carrier from building a cable.  We are not persuaded that either of these
+arguments establishes that AT&T-SSI has market power on this route.  First, as the Bureau found,
+Vitelco, the incumbent local exchange carrier, currently has its own microwave facilities between St.
+Thomas and St. Croix and does not depend on the AT&T-SSI cable to transport its local exchange
+traffic between those two points.  If Vitelco's own facilities are inadequate to meet its needs, Vitelco
+has several options: it can upgrade its microwave facility, build a new fiber optic cable, or lease space
+on the AT&T-SSI cable.  Thus, the AT&T-SSI cable, rather than being a bottleneck facility, in fact
+serves as an alternative to Vitelco's own microwave facilities for carrying local traffic on the St.
+Thomas-St. Croix route.  In addition, AT&T-SSI notes that the Pan American Cable, which will
+operate on a common carrier basis, is scheduled to begin providing service between several
+Caribbean points, including St. Thomas and St. Croix, beginning in November 1998.  Second,
+Vitelco retains the option of building its own fiber optic cable, and, in fact, stated its intention to do
+so.  Although this option may have become less cost-effective because of AT&T-SSI's investment in
+its own cable, it nevertheless remains an option that would become more viable if AT&T-SSI engages
+in anticompetitive conduct, as Vitelco fears.  The possibility that Vitelco could build such a facility
+should also serve as a further incentive to AT&T-SSI to provide competitively-priced offerings. 
+Thus, we conclude that sufficient alternative facilities (including common carrier facilities that will
+provide service beginning in November 1998) are available, that AT&T-SSI does not have market
+power, and that, therefore, we are not required to classify AT&T-SSI as a common carrier on this
+route under the 1996 Act and the first part of the NARUC I test.
+ 
+                              ORDERING CLAUSE
+
+      12.   Accordingly, IT IS ORDERED, pursuant to Section 1.115(g) of our rules, 47 C.F.R.
+1.115(g), the above-captioned application for review is DENIED.
+      
+                  FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                  Magalie Roman Salas
+                  Secretary   

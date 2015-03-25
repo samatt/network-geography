@@ -1,0 +1,171 @@
+  ********************************************************    
+                                         NOTICE
+    ********************************************************
+                                
+                This document was converted from
+           WordPerfect or Word to ASCII Text format.
+                                
+   Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+             will not show up in this text version.
+                                
+All text attributes such as bold, italic, underlining, etc. from the
+    original document will not show up in this text version.
+                                
+        Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+           will not be preserved in the text version.
+                                
+        If you need the complete document, download the
+  WordPerfect version or Adobe Acrobat version, if available.
+                                
+*****************************************************************
+                           Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+AMERICATEL CORPORATION
+
+Application for Authority for the Potential
+Transfer Control of Americatel Corporation,
+Holder of a Cable Landing License from Bell S.A.
+to Pirelli S.p.A. 
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+SCL-T/C-20010817-00017
+
+
+
+                  MEMORANDUM OPINION AND ORDER
+
+Adopted:  October 9, 2001               Released: October 10, 2001
+
+By the Associate Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.     In this Order, we grant the application of Bell S.A. ("Bell") and Pirelli S.p.A. ("Pirelli")
+(together, "Applicants") seeking authority to transfer control of the cable landing license interests
+held by Americatel Corporation ("Americatel") in the PAN AMERICAN Cable System ("PAN
+AMERICAN") from Bell to Pirelli.
+                         II.Background
+1.     On January 20, 1998, we granted a joint application by Americatel and numerous other
+parties, pursuant to the Cable Landing License Act, and Executive Order No. 10530, to land and
+operate a common carrier submarine fiber optic cable system, called PAN AMERICAN, extending
+between the U.S. Virgin Islands, Aruba, Venezuela, Colombia, Panama, Ecuador, Peru and Chile.
+2.     Americatel, a corporation organized under the laws of the State of Delaware, is
+authorized to provide U.S. international service pursuant to its Section 214 authorization.  It
+provides domestic interexchange service pursuant to blanket Section 214 authority and domestic
+intrastate service pursuant to various state authorizations.  Americatel's ownership and voting
+interests in the PAN AMERICAN cable are each 0.41633 percent. 
+3.     Bell, a corporation organized under the laws of Luxembourg, is not a
+telecommunications carrier.  Bell currently holds a de facto controlling 21.32 percent ownership
+interest in Olivetti S.p.A. ("Olivetti"), which, in turn owns a 54.94 percent ownership interest in
+Telecom Italia S.p.A. ("Telecom Italia").  Telecom Italia holds a 100 percent ownership interest in
+STET International Netherlands N.V. ("STET"), which in turn holds a 54.76 percent ownership
+interest in Empresa Nacional de Telecommunicaciones S.A. ("ENTEL-Chile").  ENTEL-Chile owns
+a 100 percent ownership interest in ENTEL International B.V.I. Corporation ("ENTEL BVI"),
+which in turn holds an 80 percent ownership interest in Americatel. 
+4.     Pirelli, a corporation organized under the laws of the Republic of Italy, is principally
+engaged in the manufacture and distribution of tires and of cables and systems for the
+telecommunications and energy sectors.  Pirelli, through its subsidiaries and affiliates, is a leading
+manufacturer of fiber optic cables.  Applicants assert that Pirelli does not provide
+telecommunications services and does not own or control any providers of telecommunications
+services.  Applicants state that the purpose of Pirelli's proposed acquisition is to refocus Pirelli's
+strategy on telecommunications.   
+5.     On July 30, 2001, Pirelli and Edizione Holding S.p.A. ("Edizione Holding") entered into
+an agreement with Bell in which they agreed to purchase from Bell, Olivetti's shares and warrants
+either directly or indirectly through a company jointly owned by Pirelli and Edizione Holding.  To
+accomplish this transaction, on August 3, Olimpia S.r.l. ("Olimpia") was formed under the laws of
+the Republic of Italy for the purpose of acquiring the Olivetti shares and warrants.  Pirelli has an
+80 percent ownership interest in Olimpia, with Edizione Holding owning the remaining 20 percent.
+6.     Pirelli and Edizione Holding agreed to acquire from Bell, through Olimpia, a
+combination of Olivetti shares and warrants representing approximately 21.32 percent of the total
+number of ordinary shares of Olivetti ("Olivetti Shares") reported outstanding as of August 9,
+2001.  Pirelli and Edizione Holding also intend to transfer to Olimpia, Olivetti Shares presently
+owned by them representing 3.82 percent and 1.84 percent, respectively, of the total number
+Olivetti Shares reported outstanding as of August 9, 2001. 
+7.     Applicants state that although Pirelli's proposed indirect ownership interest in Olivetti is
+approximately 27 percent and will not result in a de jure transfer of control, Olimpia may be able to exercise
+de facto control of Olivetti, of Telecom Italia and thus, of Americatel.   According to applicants, Olimpia
+could exercise de facto control pursuant to a reshuffling of the Board of Directors of Olivetti, at
+which time, Olimpia would place its nominees on Olivetti's Board of Directors. Applicants explain
+that once Olimpia's nominees are elected to the Olivetti Board of Directors, it is anticipated that
+Olivetti will take the necessary action to elect its nominees to the Telecom Italia Board of Directors. 
+As a result of the transaction, assuming the election of Olimpia's nominees to the Board of
+Directors of each of Olivetti and Telecom Italia as described above and subject to the provisions of
+a shareholders agreement, Pirelli could potentially be considered as de facto controlling Olivetti,
+Telecom Italia, and thus Americatel.  Thus, this application is being treated as an application for
+transfer of control.
+                        1.III.Comments
+1.     We placed the Application on public notice on August 26, 2001.  We received no
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the potential transfer
+of control request. The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that it
+has no objection to approving the Applicants' request to transfer control of the cable-landing
+license of Americatel from Bell to Pirelli.  
+                       1.IV.Discussion
+1.     Under Section 1.767(a)(8) of the Commission's rules, applicants are required to disclose
+their affiliations with foreign carriers.  Pirelli has certified that it is not a foreign carrier within
+the meaning of Section 63.09(d) of the Commission's rules, and that it is not affiliated within the
+meaning of Section 63.09(e) with any foreign carriers.  According to the Application, Americatel is
+affiliated with the following foreign carriers in Peru and Chile, landing points for PAN
+AMERICAN:  TIM Peru, S.A.C. and ENTEL-Chile. Applicants assert that all destination
+markets, including Peru and Chile, are WTO member countries.  Applicants further assert that
+the market share in the international transport and local access markets of each of its affiliated
+foreign carriers in Peru and Chile is significantly less than 50 percent.  We conclude, therefore,
+that Americatel's affiliated foreign carriers do not possess market power that would allow them to
+discriminate against unaffiliated U.S. carriers through control of bottleneck facilities in Peru or
+Chile, and we see no reason to deny Applicants' request to transfer control of the cable landing
+license of Americatel to Pirelli.
+2.     We also conclude that the transfer of control of Bell's interest to Pirelli raises no
+competitive concerns.   Specifically, we conclude that Pirelli's ownership of a 0.41633 percent
+interest in PAN AMERICAN will not cause competitive concerns.  Additional cables serve the
+route, and more are coming on line.  Moreover, the amount of ownership interest that Pirelli will
+acquire in PAN AMERICAN as a result of this transfer of control is insubstantial. 
+3.     Applicants assert that the proposed transfer of control will serve the public interest
+because Americatel will be affiliated with an entity (Pirelli) that has the management experience,
+workforce and means that will strengthen Americatel's ability to bring competitive integrated
+telecommunications services to consumers in the United States.  Applicants maintain that the
+proposed transfer will allow Americatel to manage its telecommunications operations more
+efficiently, thereby permitting greater investment in facilities, customer service and technological
+innovation.  
+4.     Upon consideration of the record in this proceeding, and in view of the foregoing, we
+conclude that grant of the transfer of control sought in the Application will serve the public interest
+and is consistent with the Cable Landing License Act.
+5.     We modify the initial authorization to reflect these transactions.  We do not modify the
+initial authorization in any other respect.
+                    5.Ordering Clauses
+1.     Consistent with the foregoing and pursuant to the Cable Landing License
+Act and Executive Order 10530, IT IS ORDERED that the Application, File No. SCL-T/C-
+20010817-00017, IS GRANTED, the transactions listed herein are authorized, and the PAN
+AMERICAN Cable Landing License (File. No. SCL-LIC-19970421-00002, formerly File. No.
+SCL-97-001) IS HEREBY MODIFIED to reflect those transactions.
+2.     This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106
+or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R. 
+1.106, 1.115, may be filed within 30 days of the date of public notice of this Order.
+   FEDERAL COMMUNICATIONS COMMISSION
+                   
+                   
+                   
+            Jacquelynn Ruff
+Associate Chief, Telecommunications Division
+         International Bureau
+                                
+                                
+                                

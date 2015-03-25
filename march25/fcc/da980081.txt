@@ -1,0 +1,259 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the 
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of        )
+                        )
+AMERICATEL CORP.        )       File No. SCL-97-001
+                        )
+AT&T CORP.              )       
+                        )
+COMMUNICATIONS TELESYSTEMS      )
+INTERNATIONAL DBA WORLD X CHANGE)
+                        )
+DOMTEL COMMUNICATIONS, INC.     )
+                        )
+MCI INTERNATIONAL, INC. )
+                        )
+PACIFIC GATEWAY EXCHANGE)
+                        )
+SPRINT COMMUNICATIONS COMPANY,  )
+LIMITED PARTNERSHIP     )
+                        )
+THE ST. THOMAS AND SAN JUAN     )
+TELEPHONE COMPANY, INC. )
+                        )
+WORLDCOM, INC.          )
+                        )
+Joint application for a license to land and operate      )
+a digital submarine cable system between the             )
+U.S. Virgin Islands, Chile, Peru, Ecuador,               )
+Panama, Colombia, Venezuela, and Aruba,          )
+the PAN AMERICAN Cable System   )
+
+
+                           CABLE LANDING LICENSE
+
+Adopted:  January 15, 1998                             Released:  January 20, 1998
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+        1.  In this Order, we grant the joint application of Americatel Corp. (Americatel), AT&T
+Corp. (AT&T), Communications Telesystems International dba World X Change (CTS), DOMTEL
+Communications, Inc. (DOMTEL), MCI International Inc. (MCII), Pacific Gateway Exchange (PGE),
+Sprint Communications Company, Limited Partnership (Sprint), the St. Thomas and San Juan
+Telephone Company, Inc. (STSJ), and WorldCom, Inc. (WorldCom) under the Cable Landing
+License Act for authority to land and operate a digital submarine cable system to be called the PAN
+AMERICAN Cable System (PAN AMERICAN) extending between the U.S. Virgin Islands, Aruba,
+Venezuela, Colombia, Panama, Ecuador, Peru and Chile.  The cable will be operated on a common
+carrier basis.  We find that the Joint Applicants have provided sufficient information under our rules
+to comply with the Cable Landing License Act and therefore grant the cable landing license subject to
+the conditions listed below.
+
+                             II.  Application
+
+        2.   Americatel, DOMTEL, MCII, PGE and WorldCom are corporations organized under the
+laws of Delaware.  AT&T is a corporation organized under the laws of New York. CTS is a
+corporation organized under the laws of California.  STSJ is a corporation organized under the laws
+of the U.S. Virgin Islands.  Sprint is a limited partnership organized under the laws of Delaware. 
+Each of the Joint Applicants is a common carrier subject to the Communications Act of 1934, as
+amended.
+
+        3.  The Joint Applicants propose to land and operate PAN AMERICAN as a common carrier
+system owned by the Joint Applicants and by entities authorized to land and operate an international
+submarine fiber optic cable system in Aruba, Venezuela, Colombia, Panama, Ecuador, Peru and
+Chile. The proposed PAN AMERICAN system will extend between landing points at cable stations in
+St. Thomas, U.S. Virgin Islands; St. Croix, U.S. Virgin Islands; Baby Beach, Aruba; Punto Fijo,
+Venezuela; Barranquilla, Colombia; Colon, Panama; Panama City, Panama; Punta Carnero, Ecuador;
+Lurin, Peru; and Arica, Chile and will be connected with the domestic networks in those countries or
+territories.  The Joint Applicants expect to activate PAN AMERICAN by August 31, 1998.
+
+        4.  PAN AMERICAN will consist of two working optical fiber pairs operating at 2.5 gigabits
+per second (Gbps) per pair.  Each fiber pair will have a capacity of sixteen 155 megabits per second
+(Mbits) Basic System Modules (BSM), with each BSM containing 63 Minimum Investment Units
+(MIUs), for a total capacity, on each fiber pair, of 1008 MIUs.  In addition, digital circuit
+multiplication equipment will be applied to derive nominally five times the original number of voice
+paths for voice telephone requirements.  
+
+        5.  PAN AMERICAN consists of Rings, Segments, and Subsegments.  Segment S will
+consist of two fiber pairs per Subsegment and include the whole of the submarine cable and associated
+equipment.  Ring 1 will include the following: Segment A, a cable station in St. Thomas, U.S. Virgin
+Islands; Subsegment SA, a submarine cable including the cable interfaces at Segments A and B; and
+Segment B-1, a cable station in St. Croix, U.S. Virgin Islands.
+        
+        6.  Ring 2 will include the following:  Segment B-2, a cable station in St. Croix, U.S. Virgin
+Islands; Subsegment S1, a submarine cable linking Segment B-2 to Branching Unit-1 (BU1);
+Subsegment S2, a submarine cable linking Segment C, a cable station in Baby Beach, Aruba, to BU1;
+Subsegment S3, a submarine cable linking BU1 to BU2; Subsegment S4, a submarine cable linking
+Segment D,  a cable station in Punto Fijo, Venezuela, to BU2; Subsegment S5, a submarine cable
+linking BU2 to BU3; Subsegment S6, a submarine cable linking Segment E, a cable station in
+Barranquilla, Colombia, to BU3; and Subsegment S7a, a submarine cable linking subsegment F7-1, a
+structure in Colon, Panama, to BU3. 
+
+        7.  Ring 3 will include the following: Subsegment S7b, two contiguously integrated terrestrial
+fiber pairs linking Subsegment F7-2, a structure located in Colon, Panama, and Segment G-1, a cable
+station located in Panama City, Panama.
+
+        8.  Ring 4 will include the following: Subsegment S8, a submarine cable linking Segment G-
+2, a cable station in Panama City, Panama, to BU4; Subsegment S9, a submarine cable linking
+Segment H, a cable station location in Punta Carnero, Ecuador, to BU4; Subsegment S10, a
+submarine cable linking BU4 to BU5; Subsegment S11, a submarine cable linking Segment I, a cable
+station in Lurin, Peru, to BU5; Subsegment S12, a submarine cable linking Segments J and K, both
+cable stations in Arica, Chile, to BU5; Subsegment S12a, a submarine cable linking BU5 to the
+Bifurcation Manhole (BM); Subsegment S12b, a terrestrial fiber optic cable, linking the BM to
+Segment J; Subsegment S12c, a terrestrial fiber optic cable, linking BM to Segment K; and
+Subsegment S12d, a terrestrial fiber optic cable linking Segment J to Segment K.
+
+                              III.  Comments
+
+        9.  The PAN AMERICAN joint application was placed on public notice on April 25, 1997. 
+No comments were received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of the
+application.  The Department of State advised the Commission that it has no objection to the issuance
+of the cable landing license.
+
+                              IV.  Discussion
+
+        10.  As required by the Commission's rules, the Joint Applicants have all certified that they
+have not agreed and will not agree to accept special concessions from any foreign carrier.  The Joint
+Applicants further certify that any affiliated foreign carriers do not have market power or the ability
+to discriminate against unaffiliated carriers through control of bottleneck services and facilities. 
+MCII notes that British Telecom, a corporation organized under the laws of England and Wales, owns
+twenty percent of its issued and outstanding Class A common stock.  DOMTEL and Americatel are
+affiliated with carriers in the Dominican Republic and Chile, respectively.  Based on their application,
+however, the Joint Applicants' foreign affiliations do not raise concerns that could persuade us to
+deny the application under Section 2 of the Cable Landing License Act.  The only applicant with an
+affiliated carrier served by this cable is Americatel, which is affiliated with Entel-Chile.  We have
+previously found that Entel-Chile has no control over bottleneck services or facilities that can be used
+to discriminate against unaffiliated U.S. carriers terminating traffic in Chile.  The other applicants'
+affiliations are not on any of the routes served by this cable system.  Therefore, ownership in this
+cable system does not give them the ability to discriminate against unaffiliated U.S. carriers.
+
+        11.  PAN AMERICAN will have two landing points in the United States:  in St. Thomas,
+U.S. Virgin Islands, and St. Croix, U.S. Virgin Islands.  Both of those U.S. landing points will be
+the same as those of the St. Thomas-St. Croix Cable System and are a matter of public record.  We
+find that the application's descriptions of PAN AMERICAN's landing points are sufficient to satisfy
+the requirement of Section 1.767(a)(5) of the Commission's rules.
+
+        12.  Based on the information provided by the Joint Applicants and pursuant to the
+Commission's procedures implementing the National Environmental Policy Act of 1969, we
+conclude that the grant of the requested authorization would not significantly affect the environment. 
+Consequently, the Joint Applicants are not required to submit an environmental assessment, and this
+application is categorically excluded from environmental processing.
+
+        13.  Accordingly, we conclude that U.S. interests under the Cable License Landing Act will
+be served by grant of the license to the Joint Applicants to land and operate PAN AMERICAN, as
+conditioned below.
+        
+                           V.  Ordering Clauses
+
+        14.  Consistent with the foregoing, we hereby GRANT AND ISSUE the Joint Applicants a
+license to land and operate an optical fiber submarine cable system (consisting of two working fiber
+pairs operating at 2.5 Gbps per pair) extending between landing points at cable stations in St.
+Thomas, U.S. Virgin Islands; St. Croix, U.S. Virgin Islands; Baby Beach, Aruba; Punto Fijo,
+Venezuela; Barranquilla, Colombia; Colon, Panama; Panama City, Panama; Punta Carnero, Ecuador;
+Lurin, Peru; and Arica, Chile under the provisions of the Cable Landing License Act and Executive
+Order 10530.  This grant is subject to all rules and regulations of the Federal Communications
+Commission; any treaties or conventions relating to communications to which the United States is or
+may hereafter become a party; any action by the Commission or the Congress of the United States
+rescinding, changing, modifying or amending any rights accruing to any person hereunder; and the
+following conditions:
+
+                (1) The location of the cable system within the territorial waters of the United States
+                of America, its territories and possessions, and upon its shore shall be in conformity
+                with plans approved by the Secretary of the Army, and the cables shall be moved or
+                shifted by the Licensees at their expense upon the request of the Secretary of the
+                Army, whenever he or she considers such course necessary  in the public interest, for
+                reasons of national defense, or for the maintenance or improvement of harbors for
+                navigational purposes; 
+
+                (2) The Licensees shall at all times comply with any requirements of United States
+                government authorities regarding the location and concealment of the cable facilities,
+                buildings, and apparatus for the purpose of protecting and safeguarding the cables
+                from injury or destruction by enemies of the United States of America; 
+
+                (3) The Licensees or any persons or companies controlling them, controlled by them,
+                or under direct or indirect common control with them do not enjoy and shall not
+                acquire any right to handle traffic to or from the United States, its territories, or its
+                possessions unless such service be authorized by the Commission pursuant to Section
+                214 of the Communications Act, as amended;
+
+                (4) The Licensees or any persons or companies controlling them, controlled by them,
+                or under direct or indirect common control with them shall not acquire or enjoy any
+                right for the purpose of handling or interchanging traffic to or from the United States,
+                its territories, or its possessions to land, connect, or operate cables or landlines, to
+                construct or operate radio stations, or to interchange traffic that is denied to any other
+                United States company by reason of any concession, contract, understanding, or
+                working arrangement to which the Licensees or any persons controlling them,
+                controlled by them, or under direct or indirect common control with them are parties;
+
+                (5) Neither this license nor the rights granted herein shall be transferred, assigned, or
+                in any manner either voluntarily or involuntarily disposed of or disposed of indirectly
+                by transfer of control of the Licensees to any persons, unless the Federal
+                Communications Commission shall give prior consent in writing;
+
+                (6) The Commission reserves the right to require the Licensees to file an
+                environmental assessment or environmental impact statement should it determine that
+                the landing of the cables at those locations and construction of necessary cable landing
+                stations would significantly affect the environment within the meaning of Section
+                1.1307 of the Commission's procedures implementing the National Environmental
+                Policy Act of 1969; this license is subject to modification by the Commission upon its
+                review of any environmental assessment or environmental impact statement that it may
+                require pursuant to its rules;
+
+                (7) The Licensees shall maintain 100-percent ownership in the cable stations in the
+                United States and in the U.S. land portion of the cables from the stations to the U.S.
+                beach joint of the submerged portion of the cables;  
+
+                (8) This license is revocable by the Commission after due notice and opportunity for
+                hearing pursuant to section 2 of "An Act Relating to the Landing and Operation of
+                Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply
+                with the terms of the authorizations;
+
+                (9) The Licensees shall notify the Commission in writing of the date on which the
+                cable is placed in service, and this license shall expire 25 years from such date, unless
+                renewed or extended upon proper application, and, upon expiration of this license, all
+                rights granted under it shall be terminated; and
+
+                (10) The terms and conditions upon which this license is given shall be accepted by
+                the Licensees by filing a letter with the Secretary, Federal Communications
+                Commission, Washington, D.C. 20554 within 30 days of the release of the cable
+                landing license.
+
+        15.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed
+within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                                                 FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+                                                 Diane J. Cornell
+                                                 Chief, Telecommunications Division
+                        International Bureau

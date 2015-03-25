@@ -1,0 +1,289 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                        )
+                                   )
+AT&T Corp.                              )                        
+MCI International, Inc.                      )         
+SBCI-Pacific Networks, Inc.                  )         File No. SCL-98-002
+Sprint Communications Company, L.P.          )
+Teleglobe USA, Inc.                     )
+                                   )                        
+     Joint Application for a license to land and operate    )
+in the United States a digital submarine cable         )
+system extending between the United States, China,     )
+Taiwan, Japan, South Korea, and Guam         )
+
+
+                      CABLE LANDING LICENSE
+
+
+Adopted:  August 21, 1998                                        Released:  August 28, 1998
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.   In this Order, we grant the joint application of AT&T Corp. (AT&T), MCI International,
+Inc. (MCII), SBCI-Pacific Networks, Inc. (SBCI), Sprint Communications Company, L.P. (Sprint) and
+Teleglobe USA, Inc. (Teleglobe) (collectively "Joint Applicants") under the Cable Landing License Act for
+authority to land and operate a non common carrier submarine fiber optic cable system to be called the
+China-U.S. Cable Network (CHINA-US CN), extending between the United States and China, Taiwan,
+Japan, South Korea, and Guam.  
+
+     2.   We find that the Joint Applicants do not plan to offer capacity on a common carrier basis
+and that circumstances do not warrant imposing such an obligation on the Joint Applicants.  We retain,
+however, the right to impose common carrier or common-carrier-like obligations on their operation of the
+cable system should conditions change in the future.  We also find that the Joint Applicants' proposed
+ownership and operation of the cable system does not make it a "telecommunications carrier" under the
+Telecommunications Act of 1996 ("1996 Act"), and thus its operation of the cable system is not subject to
+the requirements imposed by the 1996 Act on telecommunications carriers.  Accordingly, we grant the Joint
+Applicants' application subject to the conditions listed below.  
+
+                         II.  Application
+
+     3.   Each of the five Joint Applicants, except Sprint, is a corporation.  AT&T is organized and
+existing under the laws of the State of New York.  MCII, SBCI and Teleglobe are organized and existing
+under the laws of the State of Delaware.  Sprint is a limited partnership organized and existing under the
+laws of the State of Delaware.  As required by the Commission's rules, the Joint Applicants have certified
+their affiliations, if any, with foreign carriers.
+
+     4.   The CHINA-US CN will interconnect landing points at San Luis Obispo, California;
+Bandon, Oregon; Chongming and Shantou, People's Republic of China; Chikura and Okinawa, Japan;
+Pusan, South Korea; Fangshan, Taiwan; and Tanguisson, Guam.  It will employ state-of-the-art wave
+division multiplexing ("WDM") fiber optic technology operating at 20 gigabits per second (Gbps) per fiber
+pair in a self-healing ring configuration.  Three segments of the China-US CN (Segments E, N and S) have
+at least one U.S. landing point and therefore are subject to Commission jurisdiction.  The Joint Applicants seek to place
+the China-US CN into commercial service no later than December 31, 1999.
+
+     5.   The CHINA-US CN would be jointly owned and managed by the Joint Applicants and at least nine other entities   China Telecom; Hong Kong
+Telecom International Limited; Kokusai Denshin Denwa Co. Limited; Korea Telecom; NTT Worldwide Network Corporation; Singapore Telecommunications, Limited;
+International Telecommunications Development Corporation; Telstra Corporation Limited; and Telekom Malaysia.  These fourteen owners are the "Initial Parties" to the cable
+system, and each Initial Party has an equal undivided ownership interest in and right to manage the cable system.  Management of the CHINA-US CN will be in accordance
+with the terms of the Construction and Maintenance Agreement ("C&MA") governing the cable system.  Section 3.1 of the CHINA-US CN C&MA specifies that, with limited
+exceptions, the Management Committee will have the exclusive voting power to effectuate the C&MA.  The Management Committee consists of one representative from each of
+the Initial Parties.  Each Initial Party has one vote.  Although the Management Committee is directed by the C&MA to make every reasonable effort to reach consensus,
+decisions will be made on the basis of a simple majority vote where consensus cannot be achieved.  Thirty-five other "Additional Parties," including U.S. carriers such as GST,
+IT&E Overseas, WorldCom, and WorldXChange, also hold ownership interests in the CHINA-US CN, but do not participate on the Management Committee.  The Joint
+Applicants affirm that AT&T, or its wholly owned subsidiary, TOCI, owns the beach joints and the cable stations where the cable will land in the United States.  The C&MA
+gives AT&T/TOCI sole responsibility for the operation and maintenance of those segments of the cable system.
+
+                         III.  Discussion
+
+     6.   The application was placed on public notice on March 18, 1998.  No comments were received.  Pursuant to Section 1.767(b) of the Commission's
+rules, the Cable Landing License Act, and Executive Order No. 10530, we informed the Department of State of the application.  The Department of State, after coordinating
+with the National Telecommunications and Information Administration and the Department of Defense, stated that it has no objection to issuance of the cable landing
+license.
+
+               A.   Private Submarine Cable Policy
+
+     7.   The Joint Applicants request a license to land and operate a non common carrier submarine cable system under the Cable Landing License Act and
+the Commission's private submarine cable policy.  In 1985, the Commission adopted its private submarine cable policy to promote competition in the provision of international
+transmission facilities.  Pursuant to this policy, the Commission has granted numerous licenses to land and operate private cable systems.    
+
+     8.   In determining the appropriate regulatory status of the proposed cable, our first inquiry is whether the Joint Applicants would be acting as a
+"telecommunications carrier" under the 1996 Act.  The 1996 Act defines "telecommunications carrier" as "any provider of telecommunications services, except that such term
+does not include aggregators of telecommunications (as defined in section 226).  A telecommunications carrier shall be treated as a common carrier under this Act only to the
+extent that it is engaged in providing telecommunications services except that the Commission shall determine whether the provision of fixed and mobile satellite service shall
+be treated as common carriage."  "Telecommunications service" is defined as "the offering of telecommunications for a fee directly to the public, or to such classes of users as
+to be effectively available directly to the public, regardless of the facilities used."  Thus, we must determine in this case whether the Joint Applicants will offer a
+telecommunications service for a fee to such class of users as to be "effectively available directly to the public."
+
+     9.   The legislative history of the 1996 Act indicates that the definition of telecommunications services is intended to clarify that telecommunications
+services are common carrier services.  The 1934 Act defines "common carrier" as "any person engaged as a common carrier for hire, in interstate or foreign communication by
+wire . . . ."  The Commission's rules define a "communication common carrier" as "any person engaged in rendering communication for hire to the public," and court
+decisions, including NARUC I, have held that the indiscriminate offering of a service to the public is an essential element of common carriage.  We look to precedent to
+determine whether the Joint Applicants will provide a telecommunications service for a fee to such class of users as to be "effectively available directly to the public."
+
+     10.  In the NARUC I decision, the court applied a two-part test to determine when there is a substantial likelihood that a service will be held out to serve
+the public indifferently:  "[W]e must inquire, first, whether there will be any legal compulsion . . . to serve [the public] indifferently, and if not, second, whether there are
+reasons implicit in the nature of . . . [the] operations to expect an indifferent holding out to the eligible user public."  The Commission has applied this test in orders
+authorizing non common carrier submarine cable facilities.
+
+     11.  In applying the first prong of the test to submarine cable authorizations, the Commission has stated that there will be no legal compulsion to serve
+the public indifferently where there is no public interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis has generally focused
+on the availability of alternative common carrier facilities.  Where there are sufficient alternatives, the licensees will lack market power and will not be able to charge monopoly
+rates for cable capacity.  The Commission has found that, in those circumstances, the public interest would be served by allowing a submarine cable system to be offered on a
+non common carrier basis.
+
+     12.  In support of the proposed private cable status, the Joint Applicants state that several submarine cable systems have been announced that would serve
+the same region in the same time frame as the CHINA-US CN, namely, Pacific Crossing 1, Project Neptune, and Project Oxygen.  The Joint Applicants also provide evidence
+that there is an extensive existing network of submarine cables that already interconnects various Asian and Oceanic countries to the United States.  
+
+     13.  Although the CHINA-US CN may be the only direct U.S. China link, we believe it is likely that market forces will constrain the ability of the
+licensees to engage in anticompetitive practices.  As the Joint Applicants have shown, there are alternative transpacific routes that will create competition.  Furthermore, the
+Joint Applicants have stated that transpacific circuit pricing on the CHINA-US CN does not depend on the point of termination   that is, a circuit between the United States
+and China is priced the same as a circuit between the United States and Japan.  Therefore, prices on the U.S. China segment are likely to reflect those on the more competitive
+U.S. Japan route.  We note that, on the U.S. Japan route, the capacity on the largest current cable system, TPC-5, is expected to double by the end of 1998, with the
+completion of wave division multiplexing.  A number of facilities are currently in service between the United States and Japan, and significant new transpacific capacity is
+expected to become available soon.  For example, the PC-1 cable system is planned to begin operation between the United States and Japan in March 2000.  Therefore, we
+expect to see more price competition on this route in the near future.  We also note that no one opposed this application on the ground that the Joint Applicants would have the
+ability to engage in discriminatory pricing.
+
+     14.  Finally, we note that ownership of the CHINA-US CN on either an Initial Party or an Additional Party basis, depending on the party's preference,
+has been made available to all interested parties.  Subsequent to the filing of the application, the CHINA-US CN Management Committee empowered the Investment Capacity
+Pricing Subcommittee to expand Initial Party status to all carriers.  With this expansion of Initial Party status, any carrier was able to become a part of the Management
+Committee that will effectuate the C&MA.  Therefore, based on the pricing and ownership structure of this cable system, there is no reason to believe that this is or will become
+a bottleneck facility, even on the U.S. China route.
+
+     15.  Accordingly, we find that it is not necessary to require the CHINA-US CN to be operated on a common carrier basis at this time.  We emphasize that
+our decision to grant this cable landing license to the Joint Applicants on a non common carrier basis is predicated in part upon the current and planned facility alternatives on
+the transpacific route.  Because of these alternatives, carriers and users will have viable choices other than the Joint Applicants' proposed system when seeking capacity.  We
+note, however, that we always have the ability to impose common carrier or common-carrier-like obligations on the operations of this or any other submarine cable system if the
+public interest so requires.  The Commission has the responsibility, under the Cable Landing License Act, to grant cable landing licenses "upon such terms as shall be necessary
+to assure just and reasonable rates and service in the operation and use of cables so licensed."  These obligations might include those imposed on common carriers by Title II
+of the Communications Act, including nondiscrimination, the obligation to offer facilities and service at reasonable rates, and the obligation to provide service according to
+tariff.  Furthermore, we have always maintained the authority to classify facilities as common carrier facilities subject to Title II of the Communications Act if the public interest
+requires that the facilities be offered to the public indifferently.  We therefore grant this license subject to the condition that we may impose obligations similar to those of
+common carriers on the operations of the CHINA-US CN if the public interest requires in the future.  For example, we might find common carrier regulation appropriate if the
+CHINA-US CN becomes a potential bottleneck facility.  We might also find such regulation necessary to address anticompetitive conduct, including any concerns raised about
+the ability of carriers to obtain capacity on routes served by this cable system.  We can exercise this authority on our own motion or in response to a complaint.
+
+     16.  Regarding the second prong of the NARUC test, we conclude that there are no reasons to expect that the CHINA-US CN will be offered indifferently
+to the eligible user public.  The Joint Applicants state that market conditions will require the CHINA-US CN to make individualized decisions concerning the sale or lease of
+capacity.  A requirement that capacity be offered indifferently would, they argue, impair their ability to attract customers and realize a reasonable return on their investment. 
+We therefore conclude that the Joint Applicants will make "individualized decisions in particular cases, whether and on what terms to deal," and will not undertake "to carry for
+all people indifferently."  Thus, the Joint Applicants will operate the cable system on a non common carrier basis.
+
+     17.  Accordingly, we conclude that it is appropriate to license CHINA-US CN on a non common carrier basis.  Based on the analysis above, we conclude
+that the Joint Applicants will not offer capacity in the CHINA-US CN to the public on a common carrier basis, and that the public interest does not require that it do so. 
+Accordingly, we find that the Joint Applicants will not provide a telecommunications service for a fee to such class of users as to be "effectively available directly to the public"
+and thus will not be a "telecommunications carrier" under the 1996 Act.
+
+               B.   Ownership and Landing Points
+
+     18.  The Joint Applicants have provided the ownership information required by Sections 1.767(a)(6), 63.18(e)(6), and 63.18(h) of the Commission's rules
+concerning the proposed owners of the cable system including their voting and ownership shares.  The Joint Applicants state that each Initial Party will hold an equal share
+of the cable system.  The Joint Applicants also informed us that one additional party has expressed an interest in becoming an Initial Party and two existing Additional Parties
+wish to upgrade to Initial Party status.
+
+     19.  The Joint Applicants' information regarding the proposed new Initial Parties is sufficient to enable us to act on this application at this time.  To
+ensure that the Commission has detailed information about the owners of the CHINA-US CN, however, we condition final grant of this license upon the Joint Applicants' filing
+of specific ownership and voting interest information for the CHINA-US CN 90 days prior to commencing construction.  We will give public notice of this information, and
+this condition will be considered satisfied unless the Commission issues a public notice to the contrary no later than sixty days after receipt of this information.  Additional
+licensees may be added as necessary after the license becomes final by applying for a modification of this cable landing license.
+
+     20.  AT&T, MCI, SBCI, Sprint, and Teleglobe all certify their affiliations with foreign carriers.  In addition, MCI certifies that British
+Telecommunications, plc, owns 10 percent or greater of MCI and that Bert C. Roberts, Jr., Chairman of the Board of MCI, is also a non-executive director of British
+Telecommunications plc.  Sprint certifies that Mr. Michel Bon, Chairman of France Telecom, and Dr. Ron Sommer, Chairman of the Board of Management of Deutsche
+Telekom A.G., are directors of Sprint Corporation, the parent of Sprint.  Teleglobe also certifies that it has interlocking directors and that Teleglobe's ultimate corporate parent
+is Teleglobe Inc., which is headquartered in Canada.  Only Teleglobe is affiliated with a carrier that operates in a foreign country where the CHINA-US CN will land. 
+Teleglobe's affiliate, Teleglobe Services Japan, has a Type II (non-facilities-based) license in Japan for the provision of international voice service but is not yet operational. 
+We find that the affiliate lacks sufficient market power in Japan to adversely affect competition in the U.S. market.  We therefore conclude that none of the Joint Applicants'
+foreign affiliations raises any concern for this application because none of the Joint Applicants is affiliated with a foreign carrier that has market power in any of the foreign
+countries where this cable system will land.  Thus, no foreign ownership concerns are raised by the application, and we find that there is no reason to conduct an effective
+competitive opportunities analysis or any competition analysis pursuant to Section 2 of the Cable Landing License Act or the Commission's Foreign Participation Order.
+
+     21.  Consistent with prior decisions, we also find the Joint Applicants' description that CHINA-US CN will land at San Luis Obispo, California;
+Bandon, Oregon; Chongming and Shantou, People's Republic of China; Chikura and Okinawa, Japan; Pusan, South Korea; Fangshan, Taiwan; and Tanguisson, Guam to be
+sufficient to determine that the proposed cable system will comply with the Cable Landing License Act and Commission rules.  Section 1.767(a)(5) of the Commission's
+rules permits applicants in an initial application to provide a general description of the landing points.  The applicants must file a specific description of the landing points,
+including a map, no later than 90 days prior to construction.  The Commission will give public notice of the filing of the description, and grant of the license will be considered
+final unless the Commission notifies the applicants to the contrary no later than 60 days after receipt of the specific description of the landing points.
+
+               C.   Environmental Impact
+
+     22.  Based on the information provided by the Joint Applicants and pursuant to the Commission's procedures implementing the National Environmental
+Policy Act of 1969, we conclude that the grant of the requested authorization would not significantly affect the environment.  Consequently, at this time the Joint Applicants
+are not required to submit an environmental assessment, and this application is categorically excluded from environmental processing.  As stated above, however, we condition
+this license upon final approval of the landing points.  If necessary, we will address significant environmental impacts after the Joint Applicants identify the final landing
+points.
+
+                          V.  Conclusion
+
+     23.  We grant the Joint Applicants' application for authority to land and operate a non common carrier fiber optic submarine cable extending between the
+United States; People's Republic of China; Japan; South Korea; Taiwan; and Guam, subject to the conditions listed below.
+
+                      VI.  Ordering Clauses
+
+     24.  Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive Order 10530, we hereby GRANT AND ISSUE AT&T
+Corp., MCI International, Inc., SBCI-Pacific Networks, Inc., Sprint Communications Company, L.P., and Teleglobe USA, Inc. (collectively "Joint Applicants") a license to land
+and operate the China-U.S. Cable Network, a non common carrier fiber optic submarine cable system consisting of four fiber pairs operating at 20 gigabits per second (Gbps)
+per fiber pair in a self-healing ring configuration extending between the United States; People's Republic of China; Japan; South Korea; Taiwan; and Guam.  This grant is
+subject to all rules and regulations of the Federal Communications Commission; any treaties or conventions relating to communications to which the United States is or may
+hereafter become a party; any action by the Commission or the Congress of the United States rescinding, changing, modifying, or amending any rights accruing to any person
+hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States of America, its territories and possessions, and upon its shore shall be in
+     conformity with plans approved by the Secretary of the Army, and the cables shall be moved or shifted by the Licensees at their expense upon the request of the
+     Secretary of the Army whenever he or she considers such course necessary in the public interest, for reasons of national defense, or for the maintenance or
+     improvement of harbors for navigational purposes;
+
+          (2)  The Licensees shall at all times comply with any requirements of United States government authorities regarding the location and concealment of the cable
+     facilities, buildings, and apparatus for the purpose of protecting and safeguarding the cables from injury or destruction by enemies of the United States of
+     America;
+
+          (3)  The Licensees or any persons or companies controlling them, controlled by them, or under direct or indirect common control with them do not enjoy and shall
+     not acquire any right to handle traffic to or from the United States, its territories, or its possessions unless such service be authorized by the Commission pursuant
+     to Section 214 of the Communications Act, as amended;
+
+          (4)  The Licensees or any persons or companies controlling them, controlled by them, or under direct or indirect common control with them shall not acquire or
+     enjoy any right to land, connect, or operate submarine cables that is denied to any other United States company by reason of any concession, contract,
+     understanding, or working arrangement to which the Licensees or any persons controlling them, controlled by them, or under direct or indirect common control
+     with them are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any manner either voluntarily or involuntarily disposed of or disposed of
+     indirectly by transfer of control of the Licensees to any persons, unless the Federal Communications Commission shall give prior consent in writing;
+
+          (6)  The Licensees shall notify the Commission in writing of (i) the precise locations at which the cable will land in the United States and in foreign countries; and
+     (ii) the specific ownership interests of the cable system, including a description of the proposed owners and their voting interests.  Such notification shall occur no
+     later than ninety days prior to commencing construction of the cable landing stations.  The Commission will give public notice of the filing of these descriptions,
+     and grant of this license will be considered final unless the Commission issues a notice to the contrary no later than sixty days after receipt of the specific
+     descriptions;
+
+          (7)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No. 10,530, as amended; and Section 214 of the Communications
+     Act of 1934, as amended, 47 U.S.C.  214, the Commission reserves the right to impose common carrier or common-carrier-like regulation on the operations of
+     the cable system if it finds that the public interest so requires;
+
+          (8)  The Commission reserves the right to require the Licensees to file an environmental assessment or environmental impact statement should it determine that the
+     landing of the cables at those locations and construction of necessary cable landing stations would significantly affect the environment within the meaning of
+     Section 1.1307 of the Commission's procedures implementing the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement that it may require pursuant to its rules;
+
+          (9)  The Licensees shall maintain de jure and de facto control of the U.S. portion of the cable system, including the cable landing stations in the United States,
+     sufficient to comply with the requirements of this license;
+
+          (10)  This license is revocable by the Commission after due notice and opportunity for hearing pursuant to Section 2 of "An Act Relating to the Landing and
+     Operation of Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+          (11)  The Licensees shall notify the Commission in writing of the date on which the cable is placed in service, and this license shall expire 25 years from such
+     date, unless renewed or extended upon proper application, and, upon expiration of this license, all rights granted under it shall be terminated; and
+
+          (12)  The terms and conditions upon which this license is given shall be accepted by the Licensees by filing a letter with the Secretary, Federal Communications
+     Commission, Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+
+     25.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is effective upon adoption.  Petitions for reconsideration
+under Section 1.106 or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the date of public
+notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

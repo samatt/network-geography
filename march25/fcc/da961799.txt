@@ -1,0 +1,134 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*****************************************************************
+********
+             
+
+                         NOTICE
+
+
+*****************************************************************
+********
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory
+\pub\Public_Notices\Miscellaneous.
+
+*****************************************************************
+********
+                           Before the 
+                FEDERAL COMMUNICATIONS COMMISSION
+                        Washington, D.C. 20554DA 96-1799
+    In the matter of)
+     )
+  PACIFIC DIGI-TEL CORP0RATION)
+     )
+  Application for authority to) File No. I-T-C-96-472
+ acquire and operate facilities)
+   for service to Germany. )
+
+                     ORDER AND AUTHORIZATION
+
+  Adopted: October 31, 1996Released: November 1, 1996
+
+By the Chief, Telecommunications Division:
+
+      1.Upon consideration of the above-captioned
+uncontested application, filed pursuant to Section 214 of the
+Communications Act of 1934, as amended, we find that the present
+and future public convenience and necessity require a grant
+thereof.
+
+        2.Accordingly, it is ordered that application File
+No. I-T-C-96-472 IS GRANTED, and Pacific Digi-Tel Corporation
+(Pacific) is authorized to:
+
+      a.acquire on an Indefeasible Right of User basis a one-half
+     interest in and operate three E-1 circuits in the CANUS-1
+     Cable System;
+
+      b.lease and operate connecting facilities between the
+     CANUS-1 terminal in Manahawkin, New Jersey and Pacific's
+     United States operating office;
+
+      c.lease a one-half interest in and operate any necessary
+     overseas connecting facilities; and
+
+      d.use said facilities, in conjunction with previously
+     authorized facilities in the CANTAT-III Cable System, to
+     provide regularly authorized services, including switched
+     voice and data and private line services, between the United
+     States and Germany.
+
+      3. IT IS FURTHER ORDERED that our authorization of
+Pacific to provide private lines between the United States and
+Germany as part of its authorized services is limited to the
+provision of such private lines only between the United States and
+Germany -- that is, private lines which originate in the United
+States and terminate in Germany or which originate in Germany and
+terminate in the United States.  In addition, Pacific may not --
+and Pacific's tariff must state that its customers may not --
+connect private lines provided over these facilities to the public
+switched network at either the U.S. or Germany end, or both, for
+the provision of international switched basic services, unless
+authorized to do so by the Commission upon a finding that Germany
+affords resale opportunities equivalent to those available under
+U.S. law, in accordance with Foreign Carrier Entry Order, 11 FCC
+Rcd 3873 (1995). The limitations in this paragraph are subject to
+the exception contained in Section 63.18(e)(4)(ii) of the
+Commission's Rules, 47 C.F.R. 63.18(e)(4)(ii).  
+
+      4.IT IS FURTHER ORDERED that the applicant shall file
+annual circuit status reports in accordance with the requirements
+set forth in Rules for Filing of International Circuit Status
+Reports, CC Docket No. 93-157, Report and Order, 10 FCC Rcd 8605
+(1995).
+
+      5.IT IS FURTHER ORDERED that this authorization is
+issued subject to the terms and conditions of any license for the 
+CANUS-1  cable system issued herein under the Act entitled "An Act
+relating to the landing and operation of submarine cables in the
+United States," 47 U.S.C.  34-39.
+
+      6.IT IS FURTHER ORDERED that grant of this application
+is subject to all the conditions set forth in Section 63.21 of the
+Commission's Rules, 47 C.F.R. 63.21.
+
+          7.  This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this order (see Section
+1.4(b)(2)).
+
+     FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+     Diane J. Cornell
+     Chief, Telecommunications Division
+     International Bureau               
+                  

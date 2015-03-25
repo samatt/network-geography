@@ -1,0 +1,75 @@
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+SSI Atlantic Crossing LLC       )
+                                )       File No. SCL-97-002(M)
+Application for modification of license to)
+land and operate in the United States a digital)
+submarine cable system extending between)
+the United States and the United Kingdom)
+and Germany                     )
+
+              MODIFICATION OF CABLE LANDING LICENSE
+
+   Adopted:  April 6, 1998              Released:  April 7, 1998
+
+By the Chief, Telecommunications Division:
+
+     1.  In this order, we modify the cable landing license recently granted to SSI Atlantic Crossing,
+LLC ("SSI").  That license authorized SSI, pursuant to the Cable Landing License Act, to land and
+operate a digital fiber optic submarine cable system to be called "Atlantic Crossing" or "AC-1," extending
+between the United States and the United Kingdom and Germany.  AC-1 will be operated on a
+non common carrier basis.  We here grant the licensee's request to modify the license to include a landing
+point in the Netherlands.
+
+     2.  Under the proposed modification, the U.K. Germany segment, to comprise four fiber pairs
+operating at 10 Gbps per fiber pair, will be replaced by two segments, one between the United Kingdom
+and the Netherlands and the other between the Netherlands and Germany.  The U.K. Netherlands segment
+will comprise four fiber pairs, with two of the fiber pairs terminating in the Netherlands.  The
+Netherlands Germany segment will comprise four fiber pairs, all of which will terminate in Germany.  In
+its request for a modification, SSI has provided information about the specific point in the Netherlands
+where AC-1 will land.  In all other respects, the operational characteristics and ownership information for
+AC-1 will remain as described in the cable landing license.
+
+                             Comments
+
+     3.  The application was placed on public notice on January 9, 1998.  No comments were received. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the application.  The Department of State, after
+coordinating with the National Telecommunications and Information Administration and the Department of
+Defense, stated that it has no objection to the modification of the cable landing license.
+
+                            Discussion
+
+     4.  We agree with SSI that no new issues are raised by this proposed modification.  According to
+its original application, SSI is not affiliated with any foreign carrier operating in the Netherlands.  The
+modification would not affect the ownership of the cable system, its status as a non common carrier
+system, or the location or control of the U.S. landing point.  The modification would serve the public
+interest by providing an additional point of access to northern Europe, thereby promoting competition in the
+provision of telecommunications services between the United States and northern Europe.  Accordingly, we
+find that grant of the modification would serve the public interest.
+
+                         Ordering Clauses
+
+     5.  In consideration of the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the application, File No. SCL-97-002(M), is GRANTED, and the
+AC-1 cable landing license is MODIFIED to add to the AC-1 system two new segments, one between
+Germany and the Netherlands and a second between the Netherlands and the United Kingdom, in place of
+the currently authorized segment running between the United Kingdom and Germany.
+
+     6.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

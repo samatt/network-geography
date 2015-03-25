@@ -27,8 +27,7 @@ a {
 img {
   min-height:100vh;
   max-height: 100vh;
-  display:block;
-  margin:auto;
+  display:inline-block;
 
 }
 
@@ -40,6 +39,7 @@ div {
   left:0px;
   padding:75px;
   line-height:97%;
+  background-origin: content-box;
 }
 
 div.center {

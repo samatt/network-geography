@@ -1,0 +1,449 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+Australia-Japan Cable (Guam) Limited
+
+Application  for License to Land and Operate in the
+United States a Private Submarine Fiber Optic
+Cable Extending Between Australia, Guam, and
+Japan
+
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+SCL-LIC-20000629-00025
+
+
+
+                     CABLE LANDING LICENSE
+
+   Adopted:  December 7, 2000           Released: December 8, 2000
+
+By the Associate Chief, Telecommunications Division:
+
+
+                      I.Introduction
+1.   In this Order, we grant the application of Australia-Japan Cable (Guam) Limited ("AJC
+Guam"), pursuant to the Cable Landing License Act and Executive Order No. 10530, for authority to
+land and operate a private fiber optic submarine cable system to be called the "Australia-Japan Cable," or
+"AJC," extending between Australia, Guam and Japan.  AJC Guam proposes to operate AJC on a non-
+common carrier basis.  We find that AJC Guam has provided sufficient information under our rules to
+comply with the Cable Landing License Act, and that it would serve the public interest to grant the cable
+landing license subject to the conditions set out below.
+                      II.Application
+2.   According to the AJC Application, AJC Guam, which will own and control the portion
+of AJC located in U.S. territorial waters, is a company organized and existing under the laws of
+Bermuda.  AJC Guam is wholly owned by Australia-Japan Cable Limited ("AJC Ltd."), which in turn is
+wholly owned by Australia-Japan Cable Holding ("AJCH"), both Bermuda companies.  AJCH, AJC
+Ltd., and AJC Guam are 39.9 percent indirectly owned by Telstra Corporation Limited ("Telstra"), the
+Australian incumbent telecommunications carrier providing local and long distance, including
+international, services in Australia.  Telstra, in turn, is 50.01 percent owned by the Australian
+Government.  Additional owners of AJCH, AJC Ltd., and AJC Guam are:  Concert Global Networks
+Services Limited, a Bermuda corporation ultimately owned 50 percent by AT&T Corporation and 50
+percent by British Telecom PLC, both publicly traded communications companies (10.1 percent); Japan
+Telecom Co., Ltd., a publicly traded Japanese corporation engaged in communications (10 percent); MCI
+WorldCom Global Network Services Limited, a Bermuda corporation ultimately owned by MCI
+Worldcom Inc., a publicly traded communications company (15 percent); NTT Communications
+Corporation, a Japanese corporation and wholly owned subsidiary of Nippon Telegraph and Telephone
+Corporation, a Japanese corporation engaged in communications that is 46.7 percent owned by the
+Japanese Government (10 percent); and Teleglobe Inc., a publicly traded Canadian corporation engaged
+in communications (15 percent). 
+3.   AJC Guam's immediate parent, AJC Ltd., also wholly owns:  (1) Australia-Japan Cable
+(Australia) Limited ("AJC Australia"), the entity that will own and control the portion of the cable
+located in Australian territorial waters; (2) Australia-Japan Cable (Japan) Limited ("AJC Japan"), the
+entity that will own and control the portion of the cable located in Japanese territorial waters; and (3)
+Australia-Japan Cable (Management) Limited ("AJC Management"), a Bermuda corporation that will
+manage the cable pursuant to a contractual arrangement between the owners of the cable and AJC
+Management.  AJC Ltd. itself will own and control the portions of the cable located in international
+waters.
+4.   AJC will connect Australia, Guam, and Japan, with two separate landing points in each
+location.  AJC will be configured as a two-fiber pair "collapsed ring" network, with a single backbone in
+deep water between Australia and Japan and double branch landings to terminals in Australia, Guam, and
+Japan.  The total distance of the cable will be approximately 12,000 kilometers.  In addition, AJC will
+use terrestrial transmission links between the in-country terminals (and optionally a submarine link for
+Japan) to close the collapsed ring.  A map of AJC is attached as Exhibit A.  AJC will provide
+synchronous digital hierarchy (SDH) transmission facilities over optical fiber pairs operated at a nominal
+wavelength of about 1.5 micrometers and using optical amplification.  Each fiber pair will be capable of
+carrying 32 separate wavelengths in each direction, each modulated to STM-64 level, although the initial
+equipment provisioning will be linked to that required to support four such separate wavelengths in each
+direction per fiber pair.  Thus, the total design capacity, based on current technology, will be 320 Gbps
+per fiber pair, initially equipped to 40 Gbps per fiber pair.
+5.   According to the AJC Application, AJC capacity will be available on three paths: 
+Australia-Japan; Australia-Guam; and Guam-Japan.  Applicants state that capacity purchasers will be
+able to interconnect with several other planned and existing cables in Australia, Guam, and Japan, that
+future use of AJC may comprise other than SDH traffic, such as Internet Protocol traffic through high
+speed routers, and that AJC will be capable of supporting such alternative use of each wavelength
+through the provision of suitable transmission equipment.  Applicants also state that it will be possible to
+expand the capacity of AJC, either to carry Internet Protocol traffic or to provide transport of additional
+SDH traffic.  AJC's owners plan to place the cable into commercial service by June 30, 2001.
+6.   According to Applicants, the AJC Ltd. subsidiaries that will own and control the portions
+of AJC located in territorial waters will obtain Indefeasible Rights of Use ("IRUs") in cable landing
+stations owned by landing parties other than AJC subsidiaries.  AJC Guam will receive an IRU from
+Concert Global Network USA LLC, a Delaware corporation that owns 100 percent of the existing
+Tanguisson, Guam and Tumon Bay, Guam landing stations.  In Japan, AJC Japan will receive an IRU
+from NTT Communications Corporation, the 100 percent owner of the Shima, Japan cable landing
+station and an IRU from Japan Telecom Co., Ltd., the 100 percent owner of the Maruyama, Japan cable
+landing station.  In Australia, AJC Australia will receive an IRU from Telstra Corporation Limited, the
+100 percent owner of the Oxford Falls, Australia and Paddington, Australia cable landing stations. 
+Pursuant to the landing party agreements entered into by the AJC Ltd. subsidiaries with the four landing
+parties, the landing parties are required to provide space and connection with the network at the cable
+stations to alternative carriers on a nondiscriminatory basis for the provision of backhaul services
+between the cable station and a central office or international gateway, either for the carriers' own
+purposes or for purposes of resale to third parties.  Applicants state that in Guam, all backhaul services
+will be provided by carriers unaffiliated with the owners of AJC and that in Australia and Japan, where
+cable users also have the right to receive backhaul services from the landing parties, these services must
+be provided on a nondiscriminatory basis to cable users.
+                       III.Comments
+7.   We placed the AJC Application on public notice on July 12, 2000.  We received no
+comments on the application.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of the AJC
+Application and the AJC Oct. 23 Letter.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that it has
+no objection to the issuance of the cable landing license.
+                       IV.Discussion
+8.   Section 35 of the Cable Landing License Act provides that licenses may be granted upon
+"such terms as shall be necessary to assure just and reasonable rates and service in the operation and use
+of cables so licensed."  In the Foreign Participation Order, the Commission adopted a presumption in
+favor of granting applications by applicants that are affiliated with carriers in destination markets that are
+World Trade Organization (WTO) members.  The Commission observed that if a particular application
+presents unusual risks to competition, the Commission can address most potential problems by imposing
+conditions on the license.  Each of the countries in which the proposed cable would land where AJC
+Guam has foreign carrier affiliations as described below is a WTO member.
+9.   AJC Guam certifies that it is affiliated with foreign carriers, within the meaning of 47
+C.F.R. Section 63.09(d) of the Commission's rules, in the destination countries of Australia and Japan. 
+Specifically, AJC Guam states that it is affiliated with: Telstra, the incumbent provider of local and long
+distance services in Australia; Telstra Japan KK, which holds a Type I telecommunications license in
+Japan but has not yet obtained approval to offer services; and Telstra Singapore Pte Ltd. (Japan Branch),
+which holds a Type II telecommunications license in Japan, allowing it to resell voice data and fax
+services in Japan and to offer international telecommunications services.  In addition, AJC Guam
+advises that AJC Australia, a wholly owned subsidiary of AJC Guam's parent AJC Ltd., will apply for a
+Carrier License in Australia.  AJC Guam asserts that, although the Commission previously has found
+that Telstra possesses market power in Australia, the Commission also has found that carriers have
+effective competitive opportunities to provide international facilities-based services.
+10.  Because the proposed cable's foreign affiliates are in countries that are WTO members,
+there is a presumption in favor of granting AJC Guam's application to land and operate AJC in the
+United States.  We find no reason, based on the record before us, to rebut this presumption.  However,
+as we have discussed previously, where there is a risk of competitive harm to U.S. consumers and to
+competitive providers, including telecommunications service providers and information service
+providers, due to an applicant's affiliation with dominant foreign carriers and foreign cable landing
+stations in foreign destinations, we have imposed certain conditions designed to address possible harms
+to competition. 
+11.  The Commission licenses submarine cables to be operated on either a common carrier or
+non-common carrier basis, and requires a cable landing license applicant to indicate under which of
+these two regulatory categories it seeks to operate.  AJC Guam proposes to operate AJC as a non-
+common carrier submarine cable system in which capacity will not be offered indifferently to the user
+public.
+     12.  The Commission's private submarine cable policy is intended to promote competition in
+the provision of international transmission facilities.  In determining whether a cable system qualifies to
+be operated on a non-common carrier basis, the Commission uses the two-part test set forth by the United
+States Court of Appeals for the District of Columbia Circuit in NARUC I.  Pursuant to this policy, the
+Commission has authorized non-common carrier cables where: 1) there is no legal compulsion to serve
+the public indifferently; and 2) there are no reasons implicit in the nature of the operations of the
+submarine cable system to expect an indifferent holding-out to the eligible user public.
+13.  In applying the first prong of NARUC I to submarine cable authorizations, the
+Commission has stated that there will be no legal compulsion to serve the public indifferently where
+there is no public interest reason to require facilities to be offered on a common carrier basis.  This public
+interest analysis generally has focused on whether an applicant will be able to exercise market power
+because of the lack of alternative facilities, although the Commission has not limited itself to that
+reasoning.  Where there are sufficient alternatives, the Commission has found that the licensee will lack
+market power and will not be able to charge monopoly rates for cable capacity.  The Commission has
+found that, in those circumstances, the public interest would be served by allowing a submarine cable to
+be offered on a non-common carrier basis.    
+14.  If the Commission finds that there is no public interest reason to require the submarine
+cable facilities to be offered on a common carrier basis, then, under the second prong of the NARUC I
+test, the Commission considers whether there is reason to expect an indifferent holding-out by the
+applicant to the eligible user public.  If the Commission finds that an applicant has shown that it will
+make individualized decisions whether and on what terms to provide service and will not undertake to
+serve all customers indifferently, the Commission has held that the second prong of the test has been
+met.
+     15.  Notwithstanding a Commission decision not to require a submarine cable system to be
+operated on a common carrier basis, the Commission retains the authority to impose common carrier or
+common-carrier-like obligations on the operations of that cable system, if the public interest so requires. 
+Furthermore, the Commission has always maintained the authority subsequently to classify facilities as
+common carrier facilities subject to Title II of the Communications Act if the public interest requires that
+the facilities be offered to the public indifferently.
+16.  In this case, with respect to the second prong of the test, AJC Guam proposes to operate
+AJC on a non-common carrier basis, offering bulk capacity to a specific class of eligible users, including
+common carriers, on an original ownership, IRU, or lease of capacity basis.  AJC Guam will not hold out
+to the public indifferently, but will make individualized decisions in particular cases whether and on what
+terms to deal with prospective customers.  Based on these representations, we conclude that there is no
+reason to expect an indifferent holding-out to the eligible user public.
+17.  With respect to the first prong of the test, AJC Guam asserts that there are sufficient
+existing and planned facilities on the route to constrain the ability of AJC Guam to exercise market
+power.  AJC asserts that existing and planned common carrier and private cable systems offer
+connectivity between Australia, Guam, and Japan, and that AJC is designed not only to provide capacity
+between these points, but to be a link between cables providing transpacific capacity.  AJC Guam states
+that these systems include the following cables extending to one or more of the countries other than the
+United States in which AJC would land: (1) NPC (authorized on a non-common carrier basis to serve the
+U.S. Mainland, Alaska, and Japan); (2) TPC-4 (authorized on a common carrier basis to serve the U.S.
+Mainland, Canada, and Japan); (3) PacRimWest (authorized on a common carrier basis to serve
+Australia and Guam); (4) PacRimEast (authorized on a common carrier basis to serve Hawaii and New
+Zealand); (5) HAW-5 (authorized on a common carrier basis to serve the U.S. Mainland and Hawaii);
+(6) TPC-5 (authorized on a common carrier basis to serve the U.S. Mainland, Hawaii, Guam, and
+Japan); (7) Southern Cross (authorized on a common carrier basis to serve the U.S. Mainland, Hawaii,
+Fiji, New Zealand, and Australia); (8) China-US (authorized on a non-common carrier basis to serve the
+U.S. Mainland, China, Taiwan, Japan, South Korea, and Guam); (9) Guam-Philippines (authorized on a
+non-common carrier basis to serve Guam and the Philippines); (10) Oxygen USA (authorized on a non-
+common carrier basis to serve the U.S. Mainland and various oversea points, including Australia, Guam,
+and Japan); and (11) Japan-US ( authorized on a non-common carrier basis to serve the U.S. Mainland,
+Japan, and Hawaii).
+18.  We find that the public interest would be served by the provision of additional capacity
+on the routes proposed to be served by AJC, particularly on the Guam-Australia route.  Currently, two
+U.S. cables directly serve Australia: PacRimWest and Southern Cross.   Moreover, PacRimEast, a
+common carrier cable that serves the U.S. Mainland, Hawaii, and New Zealand, indirectly serves
+Australia via the Tasman-2 cable linking Australia and New Zealand.  
+19.  In its recent Notice of Proposed Rulemaking addressing competition in the submarine
+cable market, the Commission noted the importance of promoting the expansion of capacity and
+facilities-based competition, which will result in innovation and lower prices for U.S. consumers of
+international communications services.  At the same time, we are concerned about a possible risk of
+competitive harm to U.S. consumers and competitive providers on the U.S.-Australia route due to AJC
+Guam's affiliation with a dominant foreign carrier and foreign cable landing stations in the cable's
+destination market of Australia.    
+20.  With respect to Australia, the International Bureau has found AJC Guam's foreign
+affiliate in Australia, Telstra, to have market power in the local exchange market in Australia, and thus
+treats Telstra's wholly owned U.S. subsidiary, Telstra, Inc. (TI) as dominant on the U.S.-Australia
+route.  In 1998, the International Bureau found that U.S. carriers have effective competitive
+opportunities to provide international facilities-based service in Australia.  At the same time, however,
+Telstra is the landing party for almost all submarine cables in Australia.  The Commission, in its Foreign
+Participation Order, determined that the relevant markets on the foreign end of a U.S. international route
+generally include: international transport facilities or services, including cable landing station access and
+backhaul facilities; inter-city facilities or services; and local access facilities or services on the foreign
+end.  Telstra, therefore, has market power in at least two of the three relevant markets -- cable landing
+station access and local access facilities or services -- on the Australian end of the U.S.-Australia route.
+We are concerned that AJC's foreign affiliate, Telstra, might favor AJC or affiliated telecommunications
+or information service providers.   We recently addressed similar concerns about potential competitive
+harm to U.S. consumers and service providers by attaching a limited set of conditions to a submarine
+cable license for a network serving the United States and destination countries in South America.   
+21.  In this instance, given that the AJC owners do not plan to commence commercial service
+until sometime just prior to June 30, 2001 and given that Southern Cross, a new common carrier cable,
+recently began service, we find that market forces and a limited number of additional conditions will
+constrain the ability of AJC Guam and its foreign affiliates in Australia to engage in anticompetitive
+practices.  Moreover, we note that the AJC landing party agreements between the landing parties
+(including Telstra) and the IRU holders (including AJC Australia and AJC Guam) require the landing
+parties to provide space and connection with the network at the cable stations to alternative carriers on a
+nondiscriminatory basis for the provision of backhaul services between the cable station and a central
+office or international gateway, either for the carriers' own purposes or for purposes of resale to third
+parties.  Further, where the landing parties, such as Telstra, will provide backhaul services or
+interconnection, they must provide them on a nondiscriminatory basis to cable users.  Finally, the
+availability of regional submarine cable links (SEA-ME-WE-3, APCN and JASURAUS), that together
+connect Australia, via Indonesia, to the Philippines, and the availability of Guam-Philippines,
+connecting the Philippines to Guam, will help to create competition on the U.S.-Australia route.    
+22.  The AJC Nov. 6 Letter indicates that AJC Guam and its affiliates in AJC are willing to
+accept certain conditions to the authorization to land and operate AJC.  AJC and its affiliates have
+accepted the following three conditions:
+          (1)  AJC Guam states that it is willing to commit that it will neither (directly or indirectly)
+          accept from nor offer to an affiliated dominant carrier or foreign landing station owned
+          by an affiliated dominant carrier in Australia a "special concession" as that term is
+          defined in Section 63.14(b) of the Commission's rules, 47 C.F.R.  63.14(b).
+          (2)  AJC Guam agrees to provide the Commission with quarterly reports (within 90 days
+          from the end of each calendar quarter) summarizing the provisioning and maintenance of
+          all network facilities and services procured from AJC Guam's dominant affiliates and
+          foreign cable landing stations owned by AJC Guam's dominant affiliates in Australia,
+          including, but not limited to those services procured on behalf of customers or any joint
+          venture in which AJC Guam or any dominant affiliates participate.  This report will
+          contain the information required in Section 63.10(c)(4) of the Commission's rules, 47
+          C.F.R.  63.10(c)(4).
+          (3)  AJC states that it is the intent of AJC Guam and its affiliates to provide capacity users
+          direct interface access to the cable network interface as well as the ability to collocate
+          their own equipment on commercially reasonable and non-discriminatory terms at the
+          cable stations in order to access the AJC network.  In order to clarify that intention, AJC
+          Guam states that it is willing to agree to a condition that capacity users will (if requested
+          by the user) be provided direct interface access to the cable network interface as well as
+          the ability to collocate their own equipment on commercially reasonable and non-
+          discriminatory terms at the cable stations in order to access the AJC network.
+The conditions agreed to by AJC Guam and its affiliates, along with the conditions regularly attached to
+the grant of non-common carrier cables, should serve to address our concerns that AJC's foreign affiliate,
+Telstra, might favor AJC or affiliated telecommunications and information service providers.
+23.  Based on the analysis above, we conclude that AJC Guam will not offer capacity in AJC to
+the public on a common carrier basis, and that the public interest does not require that it do so. 
+Accordingly, we conclude that it is appropriate to license AJC on a non-common carrier basis, but with
+certain common-carrier-like conditions designed to detect and deter anticompetitive activity detrimental
+to U.S. consumers.  We emphasize that our decision to grant this cable landing license to AJC Guam on a
+non-common carrier basis is predicated in part upon the current and planned facility alternatives in the
+region.  Because of these alternatives, carriers and users alike will have viable choices other than AJC
+when seeking capacity.   If the public interest should require, we retain the authority to modify these
+conditions and to classify these facilities as common carrier facilities subject to Title II of the
+Communications Act.  We also find that AJC Guam will not provide a telecommunications service for a
+fee to such class of users as to be "effectively available directly to the public" and thus will not be a
+"telecommunications carrier" under the 1996 Act. 
+              IV.Ownership And Landing Points
+24.  AJC Guam has provided the ownership information required by Sections 1.767(a)(6) and
+63.18 of the Commission's rules.  According to the AJC Application, AJC Guam is 39.99 percent
+indirectly owned by Telstra, itself 50.01 percent owned by the Australian Government; 15 percent
+indirectly owned by MCI Worldcom; 15 percent indirectly owned by Teleglobe Inc.; 10.01 percent
+owned by Concert Global Network Services, a 50/50 joint venture of AT&T Corporation and British
+Telecom PLC; 10 percent indirectly owned by Japan Telecom Co., Ltd.; and 10 percent indirectly owned
+by NTT, itself 53 percent owned by the Japanese Government.  AJC Guam will hold an IRU in the
+Tanguisson, Guam and Tumon Bay, Guam landing stations and will own and control the portion of AJC
+located in U.S. territorial waters.  Wholly-owned subsidiaries of AJC Guam's direct parent, AJC Ltd.,
+will hold IRUs in the Japan and Australia cable stations.  These subsidiaries will own the portions of AJC
+located, respectivly, in Japanese and Australian territorial waters, while AJC Ltd. itself will own and
+control the portions of the cable located in international waters.  AJC Guam states that it is affiliated, in
+AJC's destination markets, with Telstra, Telstra Japan KK, and Telstra Singapore Pte Ltd.  
+25.  AJC Guam states that AJC will land at:  Shima, Japan; Maruyama, Japan; Tanguisson,
+Guam, U.S.A.; Tumon Bay, Guam, U.S.A.; Oxford Falls, Australia; and Paddington, Australia.  AJC
+Guam has complied with Section 1.767(a) of the Commission's rules, which requires applicants to file a
+specific description of any landing point, including a map.  AJC Guam has filed, with the AJC
+Application, the specific description of each landing point, maps showing specific coordinates of each
+landing station, and the identity, citizenship, and specific ownership share of each owner of each U.S.
+landing station. These are attached as Exhibits B-E.  The license therefore is not subject to any further
+public notice or Commission approval of the cable system's landing points pursuant to the procedure in
+Section 1.767(a).
+                  V.Environmental Impact
+26.  Based on the information provided by AJC Guam and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we find that acting on the
+AJC Application would not significantly affect the environment according to Section 1.1307(a) or (b) of
+the Commission's rules.  Therefore, pursuant to Section 1.1306 of the Commission's rules, we conclude
+that grant of the requested license would not significantly affect the environment.   Consequently, AJC
+Guam is not required to submit an environmental assessment, and the AJC Application is categorically
+excluded from environmental processing.
+                       VI.Conclusion
+27.  We grant the AJC Application for authority to land and operate a non-common carrier
+fiber optic submarine cable extending between Tanguisson and Tumon Bay, Guam; Shima and
+Maruyama, Japan; and Oxford Falls and Paddington, Australia, subject to the conditions listed below.
+                   VII.Ordering Clauses
+28.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE AJC Guam a license to land and operate a non-
+common carrier fiber optic cable two-fiber pair "collapsed ring" network that uses SDH technology to
+provide an initial system capacity of 40 Gbps per fiber pair for service and protection, upgradable to a
+total design capacity of 320 Gbps per fiber pair, extending between Guam, U.S.A. and Japan and
+Australia.  This grant is subject to all rules and regulations of the Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party;
+any action by the Commission or the Congress of the United States rescinding, changing, modifying, or
+amending any rights accruing to any person hereunder; and the following conditions:
+        (1)    The location of the cable system within the territorial waters of the United States, its
+        territories and possessions, and upon its shore shall be in conformity with plans approved
+        by the Secretary of the Army, and the cable shall be moved or shifted by the Licensee at its
+        expense upon the request of the Secretary of the Army whenever he or she considers such
+        course necessary in the public interest, for reasons of national defense, or for the
+        maintenance or improvement of harbors for navigational purposes;
+        (2)    The Licensee shall at all times comply with any requirements of U.S. government
+        authorities regarding the location and concealment of the cable facilities, buildings, and
+        apparatus for the purpose of protecting and safeguarding the cable from injury or
+        destruction by enemies of the United States;
+        (3)    The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+        indirect common control with it do not enjoy and shall not acquire any right to handle
+        traffic on a common carrier basis to or from the United States, its territories, or its
+        possessions unless such service be authorized by the Commission pursuant to Section 214
+        of the Communications Act, as amended;
+        (4)    The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+        indirect common control with it shall not acquire or enjoy any right to land, connect, or
+        operate submarine cables that is denied to any other United States company by reason of
+        any concession, contract, understanding, or working arrangement to which the Licensee or
+        any persons controlling it, controlled by it, or under direct or indirect common control with
+        it are parties;
+        (5)    Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+        manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer
+        of control of the Licensee to any persons, unless the Commission shall give prior consent in
+        writing;
+        (6)    The Commission reserves the right to require the Licensee to file an environmental
+        assessment or environmental impact statement should it determine that the landing of the
+        cable at those locations and construction of necessary cable landing stations would
+        significantly affect the environment within the meaning of Section 1.1307 of the
+        Commission's procedures implementing the National Environmental Policy Act of 1969;
+        this license is subject to modification by the Commission upon its review of any
+        environmental assessment or environmental impact statement that it may require pursuant to
+        its rules;
+        (7)    Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order
+        No. 10530, as amended; and Section 214 of the Communications Act of 1934, as amended,
+        47 U.S.C.  214, the Commission reserves the right to impose common carrier or common-
+        carrier-like regulation on the operations of the cable system if it finds that the public interest
+        so requires;
+        (8)    The Licensee shall maintain de jure and de facto control of the U.S. portion of the cable
+        system, including the cable landing stations in the United States, sufficient to comply with
+        the requirements of this license;
+        (9)    This license is revocable by the Commission after due notice and opportunity for hearing
+        pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to
+        comply with the terms of this license;
+        (10)   The Licensee shall notify the Commission in writing of the date on which the cable is
+        placed in service, and this license shall expire 25 years from such date, unless renewed or
+        extended upon proper application, and, upon expiration of this license, all rights granted
+        under it shall be terminated; 
+        (11)   The terms and conditions upon which this license is given shall be accepted by the Licensee
+        by filing a letter with the Secretary, Federal Communications Commission, Washington,
+        D.C. 20554, within 30 days of the release of the cable landing license;
+        (12)   The Licensee shall not either directly or indirectly accept from nor offer to an affiliated
+        dominant carrier or foreign landing station owned by an affiliated dominant carrier in
+        Australia a "special concession," as that term is defined in Section 63.14(b) of the
+        Commission's rules, 47 C.F.R.  63.14(b);
+        (13)   The Licensee shall provide the Commission with quarterly reports (within 90 days from the
+        end of each calendar quarter) summarizing the provisioning and maintenance of all network
+        facilities and services procured from the Licensee's dominant affiliates and foreign cable
+        landing stations owned by AJC Guam's dominant affiliates in Australia, including, but not
+        limited to those services procured on behalf of customers or any joint venture in which the
+        Licensee and any dominant affiliates participate; this report will contain the information
+        required in Section 63.10(c)(4) of the Commission's rules, 47 C.F.R.  63.14(c)(4); and
+        (14)   The Licensee and its affiliates will provide capacity users direct interface access (if
+        requested by the user) to the cable network's interface as well as the ability to collocate
+        their own equipment on commercially reasonable and non-discriminatory terms at the cable
+        stations in order to access the AJC network. 
+29.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days
+of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Jacquelynn Ruff
+                              Associate Chief, Telecommunications Division
+                              International Bureau
+
+                           Exhibit A
+
+
+
+                           Exhibit B
+                                
+
+
+                           Exhibit C
+                                
+
+
+                           Exhibit D
+                                
+
+
+                           Exhibit E
+                                
+
+

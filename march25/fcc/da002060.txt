@@ -1,0 +1,339 @@
+  ********************************************************    
+                                         NOTICE
+    ********************************************************
+                                
+                This document was converted from
+           WordPerfect or Word to ASCII Text format.
+                                
+   Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+             will not show up in this text version.
+                                
+All text attributes such as bold, italic, underlining, etc. from the
+    original document will not show up in this text version.
+                                
+        Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+           will not be preserved in the text version.
+                                
+        If you need the complete document, download the
+  WordPerfect version or Adobe Acrobat version, if available.
+                                
+*****************************************************************
+                                                           Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+WORLD ACCESS, INC. AND
+STAR TELECOMMUNICATIONS, INC.
+
+Application for Transfer of Control
+of  International Section 214 Authority 
+
+Application for Transfer of Control
+of Submarine Cable Landing Licenses
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+ 
+
+ITC-T/C-20000412-00225
+
+
+SCL-T/C-20000412-00014
+
+
+
+
+
+
+
+
+                  MEMORANDUM OPINION AND ORDER
+
+   Adopted: September 7, 2000           Released: September 8, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                                
+                         i.Introduction
+1.     In this Order, we grant the joint applications of World Access Inc. (World Access) and
+STAR Telecommunications, Inc. (STAR and together "Applicants") seeking authority to transfer to
+World Access control of international Section 214 authorizations, as well as interests in certain
+submarine cable landing licenses held by STAR, in connection with the proposed merger of World
+Access and STAR.  
+                         II.BACKGROUND
+2.     World Access is a publicly held Delaware corporation headquartered in Georgia.  Through
+its subsidiaries, World Access is authorized to provide international long distance voice and data services
+in the global telecommunications markets.   World Access's network is capable of supporting voice and
+data services, including frame relay, Internet protocol, and asynchronous transfer mode services. 
+3.     STAR, a publicly traded Delaware corporation headquartered in Santa Barbara, California,
+has Section 214 authority to provide facilities-based and resold international and domestic
+telecommunications service in the United States, Europe, and Asia.  STAR has switching facilities
+throughout North America and Europe. Through either itself or its subsidiaries, STAR is authorized to
+provide telecommunications services in the United States, Japan, Germany, the United Kingdom, and
+Canada. In addition to its Section 214 authority, STAR has an interest in several submarine cable
+landing licenses.   
+4.     World Access and STAR have entered into an agreement whereby World Access would
+acquire STAR through the exchange of shares of stock.  Upon completion of the merger, STAR and its
+subsidiaries will become subsidiaries of World Access.    Through the acquisition of STAR, World
+Access will acquire control of STAR's subsidiaries AS Telecommunications, Inc., which is authorized to
+provide international resale services; CEO California Telecommunications, Inc., which is authorized to
+provide international facilities-based and resale services; and CEO Telecommunications, Inc., which is
+authorized to provide international resale services.  In addition, World Access will acquire STAR's
+interest in the following cable landing licenses: AMERICAS II, COLUMBUS-III, TAT-14, and
+MAYA-1.
+                         III.DISCUSSION
+5.       On April 12, 2000, the Applicants submitted the above-captioned applications requesting
+authority to transfer control of the international Section 214 authorizations and the various cable landing
+licenses held by STAR.  We placed the applications on public notice on April 26, 2000. We received no
+comments.  
+6.     Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act,
+and Executive Order No. 10530, we informed the Department of State of the Word Access/STAR
+application to transfer control of the submarine cable landing licenses from STAR to World Access. 
+After coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, the Department of State stated that it has no objection to transferring control of
+the submarine cable landing licenses held by STAR to World Access.
+7.     Under Section 1.767(a)(8) of the Commission's rules, World Access is required to disclose
+its affiliations with foreign carriers.  According to the applications, World Access is affiliated with non-
+dominant foreign carriers in Austria, Belgium, Denmark, El Salvador, Finland, France, Germany,
+Guatemala, Hong Kong, Italy, Japan, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland,
+and the United Kingdom.  Because all of these countries are members of the World Trade Organization,
+we presume that World Access' affiliations with these carriers do not pose concerns that would justify
+denying these applications.   Moreover, the foreign carrier affiliates of World Access do not have
+market power in their respective markets or the ability to discriminate against unaffiliated U.S. carriers
+on the foreign end of routes through the control of bottleneck facilities or services.
+8.     The Applicants state that approval of the transactions will serve the public interest by
+providing a wider choice of services to both wholesale and retail users. Specifically, Applicants assert
+that the merger will create economies of sale, cost savings, and synergies that will enable them to
+compete effectively in the global communications marketplace.  We agree that approval of this
+transaction will result in public interest benefits by providing customers with a broader range of services
+for consumers while reducing transaction costs for end-users of submarine cable capacity.
+9.      Upon consideration of the applications and in view of the foregoing, we conclude that this
+transfer of control does not raise any of the concerns listed in the Cable Landing License Act, and that
+consent to transfer control of STAR's interest in the above-mentioned cables to World Access will serve
+the public interest, convenience and necessity.  We therefore grant Applicants' requests for authority to
+transfer control of the international Section 214 authorizations held by STAR as well as the AMERICAS-
+II, COLUMBUS-III, TAT-14, and MAYA-1 cable landing licenses.
+10.    We conclude that grant of the application would be consistent with the Cable Landing
+License Act.  We therefore consent to the transfer of control of STAR to World Access.  We modify the
+initial authorizations to reflect this transfer of control. We do not modify the initial authorizations in any
+other respect.
+
+                      IV.ORDERING CLAUSES
+11.    Consistent with the foregoing and pursuant to the Cable Landing License Act, Section 214 of
+the Communications Act, as amended, and Executive Order 10530, IT IS ORDERED that the
+Applications, File Nos. ITC-T/C-20000412-00225 and SCL-T/C-20000412-00014, ARE GRANTED, and
+that the Applicants are authorized to transfer control of STAR to World Access and that the transfer of
+control of the international Section 214 authorizations held by STAR is authorized and that the transfer
+of control of the interests of STAR in the AMERICAS-II, COLUMBUS-III, TAT-14, and MAYA-I
+cables is authorized.  The Cable Landing Licenses of the AMERICAS-II cable, File Nos. SCL-98-003
+and SCL-98-003A; COLUMBUS-III cable, File No.  SCL-98-005; TAT-14 cable, File No. SCL-LIC-
+19990303-00004; and MAYA-1 cable, File No.  SCL-LIC-19990325-00006 ARE MODIFIED to reflect
+this transfer of control.
+12.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days
+of the date of public notice of this order.
+
+
+                                FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                Rebecca Arbogast
+                                Chief, Telecommunications Division
+                                International Bureau
+
+
+
+                                             
+
+
+
+                                        
+                                                  
+                           APPENDIX A
+                                
+                    CABLE LANDING LICENSES 
+                              FOR
+                 STAR TELECOMMUNICATIONS, INC. 
+
+
+
+LICENSEE
+FCC FILE NUMBER
+DESCRIPTION
+
+
+STAR 
+SCL-98-003* 
+SCL-98-003A
+
+AMERICAS-II Cable Landing License
+
+
+STAR
+SCL-98-005*
+
+COLUMBUS-III Cable Landing License
+
+
+STAR
+SCL-LIC-19990303-00004*
+
+TAT-14 Cable Landing License
+
+
+STAR
+SCL-LIC-19990325-00006*
+
+MAYA-I Cable Landing License
+
+
+
+
+
+
+*  These licenses were acquired by group applications filed by AT&T and others.
+                           APPENDIX B
+                 SECTION 214 AUTHORIZATIONS FOR
+       STAR TELECOMMUNICATIONS, INC. AND ITS SUBSIDIARIES
+
+
+LICENSEE
+FCC FILE NUMBER
+DESCRIPTION
+
+
+STAR
+ITC-96-358
+Authority to provide international facilities-
+based and resale services.
+
+
+STAR
+ITC-96-152
+Authority to acquire, on an indefeasible right
+of use basis, and operate a circuit in the
+CANUS-1 Cable System and to use this
+circuit to provide international services
+between the U.S. and Canada.
+
+
+STAR
+ITC-95-340
+Authority to provide global resale service and
+to resell private lines between the U.S. and
+Canada and the U.S. and U.K.
+
+
+STAR
+ITC-95-501
+Authority to acquire and operate satellite
+facilities to various overseas points
+
+
+STAR
+ITC-97-139-TC
+Transfer of control to STAR of  Star Vending
+Inc. authorizations 
+
+
+STAR
+ITC-97-106-TC
+Transfer of control  of  STAR from
+Christopher Edgecomb to stockholders
+
+
+STAR
+ITC-97-721-TC
+Authority for STAR to acquire LD Services
+(CEO Telecommunications, Inc.) 
+
+
+STAR
+ITC-98-142-TC
+Authority for STAR to acquire T-ONE
+Communications Corp. 
+
+
+STAR
+ITC-98-389-TC
+Authority for STAR to acquire authorizations
+of United Digital Network, Inc.
+
+
+STAR
+ITC-98-342 and ITC-98-342A
+Authority for STAR to operate the
+AMERICAS-II submarine cable system on  a
+common carrier basis
+
+
+STAR
+ITC-ASG-19990312-00125
+ITC-ASG-19990312-00126
+Authority to STAR to assign the
+authorizations held by United Digital to AS
+Telecommunications
+
+
+STAR
+ITC-98-437
+Authority to operate the COLUMBUS-III
+submarine cable system on a common carrier
+basis
+
+
+STAR
+ITC-214-19990325-00153
+Authority to operate the MAYA-I submarine
+cable system on a common carrier basis
+
+
+AS Telecommunications
+ITC-92-239 and
+ITC-ASG-19990312-00125
+Authority for CTN to provide international
+resale services and reassignment of authority
+to AS 
+
+
+AS Telecommunications
+ITC-94-098
+ITC-ASG-19990312-00126
+Authority to Answer-Net to provide
+international resale services and reassignment
+of authorization to AS 
+
+
+CEO California
+Telecommunications, Inc.
+ITC-214-19990125-00036
+Authority to operate as an international
+facilities-based and resale carrier
+
+
+CEO Telecommunications,
+Inc.
+ITC-92-226
+Authority for LD Services (renamed CEO) to
+operate as an international resale carrier.  
+
+

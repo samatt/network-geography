@@ -1,0 +1,512 @@
+$// O&A, ACC Global, Intl Ext of Lines, DA-95-510//$
+$/ 63.01 Contents of Applications/$
+$/300.214 Extension of Lines/$
+$///DA 95-510 3/16/95///$
+///newjob///
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C.  20554
+
+In the Matter of                   )
+                                   )
+ACC GLOBAL CORP.                   ) File No. I-T-C-95-081
+                                   )
+Application for authority to       )  
+acquire and operate facilities for )
+provision of communications        )
+services between the United States )
+and various overseas points.       )
+
+                   ORDER, AUTHORIZATION AND CERTIFICATE
+
+Adopted:  March 10, 1995               Released:March 22, 1995
+
+By the Chief, Telecommunications Division:
+
+          1.   Upon consideration of the above-captioned
+uncontested application, filed pursuant to Section 214 of the
+Communications Act of 1934, as amended, IT IS HEREBY CERTIFIED
+that the present and future public convenience and necessity
+require a grant thereof.
+
+          2.   Accordingly, IT IS ORDERED, that application File
+No. I-T-C-95-081 IS GRANTED, and ACC Global Corp. (ACC) is
+authorized to:
+
+     a.  establish channels of communication between
+     appropriately licensed U.S. earth stations and INTELSAT
+     satellites, for provision of Intelsat Business Services
+     (IBS), International Television Service and Datanet Service
+     between the United States and the international points
+     listed in Comsat's tariffs for the space segment of these
+     services;
+
+     b.  lease from Comsat and operate the satellite circuits
+     specified in Appendix A, between appropriately licensed U.S.
+     earth stations and INTELSAT Atlantic and Pacific Ocean
+     Region satellites, connecting with similar facilities
+     between the satellites and the overseas points listed in
+     Appendix A, furnished by its correspondents;
+
+     c.  lease from PanAmerican Satellite Corp. (PAS) and operate
+     the satellite circuits specified in Appendix B, between
+     appropriately licensed U.S. earth stations and the PAS-1,
+     PAS-2 and PAS-4 satellites, connecting with similar circuits
+     between the satellites and the overseas points listed in
+     Appendix B, furnished by its correspondents;
+ 
+     d.  lease from the Columbia/TDRSS International Satellite
+     System (TDRSS) and operate the satellite circuits specified
+     in Appendix B, between appropriately licensed U.S. earth
+     stations and the TDRS-41 and TDRS-174 satellites, connecting
+     with similar circuits between the satellites and the
+     overseas points listed in Appendix B, furnished by its
+     correspondents; 
+
+     e.  lease from Orion Satellite Corporation (Orion) and
+     operate the satellite circuits specified in Appendix B, 
+     between appropriately licensed U.S. earth stations and the
+     Orion F1 satellite, connecting with similar circuits between
+     the satellite and the overseas points listed in Appendix B,
+     furnished by its correspondents;
+     
+     f.  establish channels of communications between
+     appropriately licensed U.S. earth stations and U.S. domestic
+     satellites (also Anik satellites for service to Canada, and
+     Mexican domestic satellites for service to Mexico), for
+     provision of authorized transborder services between the
+     United States and the points listed in Appendix C;
+
+     g.  lease and operate necessary connecting facilities in the 
+     United States;
+
+     h.  lease a one-half interest in and operate any necessary
+     overseas connecting facilities;
+
+     i.  use the facilities authorized in b, c, d, and e, above
+     to provide ACC's regularly authorized services, including
+     switched voice and data, and private line services, between
+     the United States and the points specified in Appendices A
+     and B;
+
+     j.  acquire, on an Indefeasible Right of User (IRU) basis,
+     and operate a one-half interest in up to eight (8) DS-3s in
+     the PTAT-1 cable system;
+
+     k.  use the authorized capacity to provide ACC's regularly
+     authorized services, including switched voice and data, and
+     private line services, between the United States and Bermuda
+     the United Kingdom, and Ireland as specified in Appendix D;
+     
+     l.  use the authorized PTAT-1 cable capacity for transit
+     arrangements for indirect service between the United States
+     and the international points listed in Appendices A and B; 
+
+          3.   IT IS FURTHER ORDERED that neither ACC nor any
+persons or companies directly or indirectly controlling or
+controlled by  ACC, or under direct or indirect common control
+with it, shall acquire or enjoy any right, for the purposes of
+handling or interchanging traffic to or from the United States,
+its territories or possessions, which is denied to any other
+United States carrier by reason of any concession, contract,
+understanding, or working arrangement to which ACC or any persons
+or companies controlling or controlled by ACC are parties.
+     
+          4.  IT IS FURTHER ORDERED that our authorization of ACC
+to provide private lines as part of its authorized services is
+limited to the provision of such private lines only between the
+United States and the countries listed in the Appendices -- that
+is, private lines which originate in the United States and
+terminate in one of the countries listed in the Appendices or
+which originate in one of the countries listed in the Appendices
+and terminate in the United States.  In addition, ACC may not --
+and ACC's tariff must state that its customers may not -- connect
+private lines provided over these facilities to the public
+switched network at either the U.S. or foreign end, or both, for
+the provision of international switched basic services, unless
+authorized to do so by the Commission upon a finding that the
+destination country affords resale opportunities equivalent to
+those available under U.S. law, in accordance with Regulation of
+International Accounting Rates, Phase II, First Report and Order,
+7 FCC Rcd 559 (1991), Order on Reconsideration and Third Further
+Notice of Proposed Rulemaking, 7 FCC Rcd 7927 (1994), petition
+for reconsideration pending.  
+
+          5.    IT IS FURTHER ORDERED that the applicant shall
+file copies of any operating agreements entered into with its 
+foreign correspondents with the Commission within 30 days of
+their execution, and shall otherwise comply with the filing
+requirements contained in Section 43.51 of the Commission's
+Rules, 47 C.F.R. 43.51.
+
+          6.    IT IS FURTHER ORDERED that the applicant shall
+file a tariff pursuant to Section 203 of the Communications Act,
+47 U.S.C. 203 and Part 61 of the Commission's Rules, 47 C.F.R.
+Part 61, for the services authorized in this Order.
+
+          7.    IT IS FURTHER ORDERED that the applicant shall
+file the annual reports of overseas telecommunications traffic
+required by Section 43.61 of the Commission's Rules, 47 C.F.R.
+43.61.
+     
+          8.   IT IS FURTHER ORDERED that ACC shall obtain prior
+authority pursuant to Section 214 of the Communications Act, 47
+U.S.C. 214, before adding any circuits or channels of
+communication for the provision of service over the PTAT-1 cable
+system or any non-common carrier facility.
+     
+          9.   IT IS FURTHER ORDERED that this authorization is
+issued subject to the terms and conditions of any license for the
+PTAT-1 cable system issued herein under the Act entitled "An Act
+relating to the landing and operation of submarine cables in the
+United States," 47 U.S.C.  34-39.
+
+          10.    IT IS FURTHER ORDERED that the number of
+circuits authorized herein for the provision of services via
+separate satellite systems is subject to limitations on the
+number of circuits specified under the separate systems policy
+and applicable consultations under Article XIV(d) of the INTELSAT
+Agreement.     
+
+          11.  This Order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this Order (see Section
+1.4(b)(2)).
+
+               FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+               Diane J. Cornell
+               Chief, Telecommunications Division
+               International Bureau
+                                   APPENDIX A
+
+                      COUNTRIES TO BE SERVED VIA INTELSAT
+                 NUMBERS INDICATE 64-KBPS VOICE-GRADE CIRCUITS
+                                        
+
+Country             Circuits        Country          Circuits           Country            Circuits
+
+Argentina           50
+Australia           50
+Austria           50
+Bahamas           50
+Barbados           50
+Belgium           50
+Bolivia           50
+Brazil                50
+Canada           50
+Czech                50
+   Republic
+Chile                50
+China,                   
+50
+   People's Republic
+Croatia           50     
+Denmark           50
+Dominican           50
+   Republic
+Ecuador           50
+Egypt                50
+El Salvador           50
+Ethiopia           50
+Finland           50
+France           50
+Guantanomo            50
+  Bay
+Germany,            50
+  Federal Republic of
+Ghana                50
+Greece           50
+Guatemala           50
+
+
+Guinea        50
+Haiti             50
+Honduras        50
+India             50
+Indonesia        50
+Iran             50
+Ireland        50
+Israel             50
+Italy             50
+Jamaica        50
+Japan             50
+Jordan        50
+Kenya             50
+Korea,        50
+   Republic of
+Kuwait        50
+Lebanon        50
+Liechten-         50
+ stein 
+Luxembourg        50
+Malaysia        50
+Mexico        50
+Morocco        50
+Netherlands        50
+Netherlands        50
+   Antilles
+New Zealand        50
+Nicaragua        50
+Norway        50
+Panama        50
+Peru             50
+Philippines        50Poland          50
+Portugal          50
+Romania          50
+Saudi Arabia          50
+Senegal          50
+Serbia and          50
+  Montenegro
+Singapore          50
+Somalia          50
+South Africa          50
+Spain               50
+Sweden          50
+Switzerland          50
+Syria               50
+Taiwan          50
+Thailand          50
+Trinidad          50
+   & Tobago
+Uganda          50
+United Arab          50
+   Emirates
+United          50
+   Kingdom
+Uruguay          50
+Vietnam          50
+Venezuela          50
+Zaire               50
+
+                                APPENDIX B
+
+                     COUNTRIES TO BE SERVED VIA PAS-1
+                           (NOT INTERCONNECTED)
+
+Up to ten 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+Ku-band Countries
+
+Anguilla                           Luxembourg               
+Austria                            Monaco                        
+Azerbaijan                         Montserrat               
+Bahamas                            Netherlands              
+Belgium                            Portugal                      
+Bermuda                            Romania                       
+Bosnia-Herzegovenia                Russian Fed.
+British Virgin Is.                 Serbia and Montenegro
+Cayman Islands                     Spain                         
+Czech Republic                     Sweden                        
+Denmark                            Switzerland         
+France                             T.F.Y.R. of Macedonia
+Germany                            Turks & Caicos Is.
+Greece                             United Kingdom
+Ireland
+Italy
+
+                            APPENDIX B (Cont'd)
+
+
+C-band Countries:
+
+Anguilla
+Argentina
+Aruba
+Bahamas
+Barbados
+Bermuda
+Bolivia
+Brazil
+British Virgin Is.
+Cayman Islands
+Chile
+Colombia
+Costa Rica
+Dominican Rep.
+EcuadorGuatemala
+Haiti
+Honduras
+Jamaica
+Mexico
+Montserrat
+Netherlands Antilles
+Panama
+Paraguay
+Peru
+Trinidad and Tobago
+Turks & Caicos Is.
+Uruguay
+Venezuela
+
+ 
+
+
+                     COUNTRIES TO BE SERVED VIA PAS-1
+                             (INTERCONNECTED)
+
+
+Up to six 64-Kbps voice grade circuits between the United States
+and each  of the following countries:
+
+Ku-band Countries:                 C-Band Countries:
+
+Azerbaijan                         Bahamas
+Bahamas                            Costa Rica
+Bosnia-Herzegovenia                Dominican Republic
+Czech Republic                     Netherlands Antilles
+Portugal                           Panama
+Romania                            Peru
+Russian Fed.        
+Serbia and Montenegro
+T.F.Y.R. of Macedonia         
+United Kingdom                
+                            APPENDIX B (Cont'd)
+
+                     COUNTRIES TO BE SERVED VIA PAS-2
+                           (NON-INTERCONNECTED)
+
+Up to ten 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+United Kingdom
+
+                     COUNTRIES TO BE SERVED VIA PAS-2
+                             (INTERCONNECTED)
+
+Up to six 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+United Kingdom
+
+                     COUNTRIES TO BE SERVED VIA PAS-4
+                           (NON-INTERCONNECTED)
+
+Up to ten 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+Australia
+Hong Kong
+New Zealand
+
+                     COUNTRIES TO BE SERVED VIA PAS-4
+                             (INTERCONNECTED)
+
+Up to six 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+Australia
+Hong Kong
+New Zealand                            APPENDIX B (Cont'd)
+
+                COUNTRIES TO BE SERVED VIA COLUMBIA'S TDRSS
+                           (NON-INTERCONNECTED)
+
+Up to ten 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+TDRS-41                  TDRS-174
+
+Austria                  Hong Kong
+Bahamas                  Japan
+Belgium                  Mexico
+Bosnia-Herzegovenia      Philippines
+Canada                   Republic of Korea
+Denmark        
+Finland
+France
+Germany
+Ireland
+Israel
+Jamaica
+Liechtenstein
+Luxembourg
+Mexico
+Netherlands
+Portugal
+Serbia and Montenegro
+Sweden
+Switzerland
+T.F.Y.R. of Macedonia
+Turkey
+United Kingdom
+                            APPENDIX B (Cont'd)
+
+                     COUNTRIES TO BE SERVED VIA TDRSS
+                             (INTERCONNECTED)
+
+Up to six 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+TDRS-41                  TDRS-174
+
+Germany                  Hong Kong
+Bosnia-Herzegovenia
+Serbia and Montenegro
+T.F.Y.R. of Macedonia
+United Kingdom
+
+                    COUNTRIES TO BE SERVED VIA ORION F1
+                             (INTERCONNECTED)
+
+Up to six 64-Kbps voice-grade circuits between the United States
+and each of the following countries:
+
+Germany
+Ireland
+The Netherlands
+Poland
+Sweden                        
+
+                    COUNTRIES TO BE SERVED VIA ORION F1
+                    (NON-INTERCONNECTED)
+
+Up to ten 64-Kbps voice-grade circuits between the United States
+and each of the following  countries:
+
+Austria             Norway
+Belgium             Poland
+Denmark             Serbia and Montenegro
+France              Sweden 
+Germany             T.F.Y.R. of Macedonia
+Ireland             The Netherlands 
+Italy               United Kingdom
+Luxembourg                                APPENDIX C
+
+                   COUNTRIES TO BE SERVED VIA AUTHORIZED
+        U.S. DOMESTIC SATELLITES, MEXICAN MORELOS (AND SOLIDARIDAD)
+                      SATELLITES, AND ANIK SATELLITES
+
+Anguilla                      Domestic Satellites
+Antigua and Barbuda           Domestic Satellites
+Bahamas                       Domestic Satellites
+Barbados                      Domestic Satellites
+Belize                        Domestic Satellites
+Bermuda                       Domestic Satellites
+British Virgin Islands        Domestic Satellites
+Canada                        Domestic Satellites, ANIK
+Cayman Islands                Domestic Satellites
+Dominica                      Domestic Satellites
+Grenada                       Domestic Satellites
+Grenadines                    Domestic Satellites
+Mexico                        DomSats, Morelos and                              Solidaridad
+Montserrat                    Domestic Satellites
+Netherlands Antilles          Domestic Satellites
+St. Kitts & Nevis             Domestic Satellites
+St. Lucia                     Domestic Satellites
+St. Vincent                   Domestic Satellites
+Turks & Caicos                Domestic Satellites
+Venezuela                     Domestic Satellites                                APPENDIX D
+
+Cable System             Capacity                      Countries
+
+PTAT-1                   2 DS-3                   Bermuda
+
+PTAT-1                   2 DS-3                   Ireland
+
+PTAT-1                   4 DS-3                   United Kingdom

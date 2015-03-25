@@ -1,0 +1,132 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+Telefonica Larga Distancia de Puerto Rico,)
+US Sprint Communications Company Limited)
+Partnership, AT&T, MCI International, Inc.)
+St. Thomas and San Juan Telephone                    )             SCL-92-002
+Company, Inc., TRT/FTC Communications, Inc.)
+GTE Hawaiian Telephone Company Inc., )
+World Communications, Inc.           )
+                                     )
+                                     )
+Telefonica Larga Distancia de Puerto Rico,)
+AT&T, MCI International, Inc.        )
+St. Thomas and San Juan Telephone                    )               SCL-95-008
+Company, Inc., Sprint Communications   )                   SCL-95-012    
+Company, Inc., GTE Hawaiian Telephone  )
+Company Inc., World Communications, Inc., )
+Pacific Gateway Exchange, IDB Worldcom )
+Services, Telecommunicaciones Ultramarinas )
+de Puerto Rico                       )
+
+
+                                   ORDER
+
+
+                 Adopted:  May 11, 1998                        Released:  May 19, 1998 
+
+By the Chief, Telecommunications Division:
+
+                             I.  INTRODUCTION
+
+      1.      In this Order, we deny the petition of Lambda Communications, Inc. ("Lambda") to
+require Puerto Rico Telephone Company ("PRTC") to divest its interests in the corporation that
+operates the Isla Verde Cable Station.  We remind PRTC and the operator of the cable landing station
+that we have the right to take action to ensure the most efficient use of the relevant cables, if
+necessary.    
+
+                              II.  BACKGROUND
+
+      2.      Lambda provides a full array of local and interstate telecommunications services in
+Puerto Rico and is building a fiber optic network in Puerto Rico.  In order to provide interstate
+transport and switching services to long distance or interexchange carriers, Lambda sought to locate
+equipment at the Isla Verde Cable Station, a landing point in Puerto Rico for the Taino Carib Cable
+and the Antillas I Cable.  Lambda's goal was to compete with PRTC, the incumbent local exchange
+carrier in Puerto Rico.  The Isla Verde Cable Station is owned and operated by Telecomunicaciones
+Ultramarinas de Puerto Rico ("TUPR").  TUPR is owned by the Puerto Rico Telephone Authority,
+which also owns PRTC.  
+
+      3.      On September 20, 1996, Lambda filed a petition with the Commission stating that
+PRTC is using its ownership and control of TUPR to discriminatorily and anticompetitively preclude
+Lambda from offering its service to long distance carriers and to deny these carriers a competitive
+alternative to PRTC.  Lambda pointed to a long history commencing in January 1995 during which it
+sought to collocate its equipment at the Isla Verde Cable Station.  Lambda requested the Commission
+to modify the cable landing licenses for the Taino Carib Cable and Antillas I Cable to require that the
+Isla Verde Cable Station not be owned or controlled by PRTC and to order PRTC to lease the
+requested space to Lambda.  PRTC and TUPR filed comments on the petition, denying Lambda's
+allegations of deliberate delay and obstruction.   Lambda filed a reply.  On April 14, 1997, Lambda
+notified the Commission that TUPR, PRTC and Lambda had executed an agreement to lease space at
+the Isla Verde Cable Station to Lambda.   Nonetheless, Lambda reiterated its request to the
+Commission to modify the cable landing licenses to include a condition that the cable station must not
+be owned or controlled by PRTC.
+
+                             III.  DISCUSSION
+
+      4.      Lambda has obtained facilities in the Isla Verde Cable Station and therefore we do not
+need to consider whether the Commission should order TUPR to lease the requested space to Lambda. 
+We therefore turn to whether the Commission should prohibit PRTC from owning or controlling the
+Isla Verde cable landing station in order to promote competition in the interstate market. The
+Submarine Cable Landing Act ("SCLA") requires the Commission to grant licenses for the operation
+of submarine cables.  The SCLA authorizes the Commission to grant licenses "upon such terms as
+shall be necessary to assure just and reasonable rates and service in the operation and use of cables so
+licensed."  In licensing submarine cables, the Commission often imposes conditions on the cable
+owner and operator.  In approving the Taino Carib Cable and the Antillas I Cable, the Commission
+prohibited the licensees or their affiliates from acquiring or exercising any right for the purpose of
+handling traffic to or from the United States that is denied to other carriers.  
+
+      5.      This condition gives the Commission the right to take action to ensure non-
+discriminatory access to the cable and cable landing station, where necessary.   However, we choose
+not to exercise this authority at this time to order PRTC to divest its interest in TUPR or for TUPR to
+divest its interest in the cable landing station.  Lambda has reached an agreement to collocate its
+equipment at the cable landing station and there is no evidence in the record that Lambda has been
+prevented from using its equipment or providing service to the long distance carriers as it planned.  
+
+      6.      In addition, in a related Order, adopted today, the Bureau rejected Lambda's request
+that we deny a Section 214 application from an affiliate of PRTC on the grounds that PRTC acted
+anticompetitively with respect to Lambda's request for access to the Isla Verde Cable Station.  In that
+Order, we noted PRTC's representation that TUPR is "pleased to provide service to Lambda and to
+any other party that so requests, but in complying with such requests, TUPR will not violate any of its
+other obligations to other parties."  Given this representation and the complexities of collocating
+equipment in the cable landing station, we found that Lambda's arguments were not sufficient to deny
+the Section 214 license.  We reiterate, though, that we retain jurisdiction over the operation of the
+cable landing station through the cable landing license and we are prepared to exercise that jurisdiction
+if necessary.  
+
+                              IV.  CONCLUSION
+
+      7.      For the reasons stated above, we deny Lambda's request to require Puerto Rico
+Telephone Company to divest its interests in the corporation that operates the Isla Verde Cable Station.
+
+
+              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+              Diane J. Cornell
+              Chief, Telecommunications Division     

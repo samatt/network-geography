@@ -1,0 +1,297 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+GST Telecom, Inc.               )
+                                )
+Application for a License to Land and)       File No. SCL-96-001
+Operate a Submarine Fiber Optic Cable)
+Extending Between the Northern Mariana)
+Islands of Saipan, Tinian, and Rota and the)
+Territory of Guam               )
+
+
+                     CABLE LANDING LICENSE
+
+
+   Adopted:  March 11, 1997             Released:  March 14, 1997
+
+By the Chief, Telecommunications Division:
+
+     1.  In this Order, we grant the application of GST Telecom, Inc., (GST) under the
+Cable Landing License Act for authority to land and operate a submarine fiber optic cable
+system to be called the "Mariana-Guam Cable" extending between the Commonwealth of
+Northern Mariana Islands (CNMI) and the Territory of Guam.  The cable will have landing
+points on Guam and the three CNMI islands of Saipan, Tinian, and Rota.  The cable will be
+operated on a non common carrier basis.  We find that GST has provided sufficient
+information under our rules to comply with the Cable Landing License Act and therefore grant
+the cable landing license subject to the conditions listed below.
+
+                        GST's Application
+
+     2.  GST is a Delaware corporation and a wholly owned subsidiary of GST USA, Inc.,
+another Delaware corporation.  GST USA, Inc., is wholly owned by GST
+Telecommunications, Inc., a publicly traded Canadian corporation with its headquarters in
+Vancouver, Washington.  Mr. John Warta, a U.S. citizen, is the president and chief executive
+officer of GST Telecommunications, Inc., and owns or controls approximately 10 percent of
+its shares.  No other single person or entity controls ten percent or more of the applicant, and
+U.S. citizens and companies own a majority of the shares of GST Telecommunications, Inc. 
+Mr. Warta is also chairman and CEO of the applicant GST, which has three other officers, one
+of whom is Canadian and the other two of whom are U.S. citizens.  GST would own the
+entire cable system, including plant and equipment at all four landing points.
+
+     3.  The cable system will consist of three segments:  Segment A, between Saipan and
+Guam; Segment B, between Saipan and Tinian; and Segment C, between Rota and a
+branching unit on Segment A.  The exact landing points have yet to be finalized.  The
+applicant states that the landing points will be chosen to ensure secure submarine and land
+routes and to facilitate connection to the CNMI and Guam intra-island systems, U.S. private
+and interexchange systems, and international facilities.  GST states that the sites will conform
+to plans approved by the governmental administrations with the appropriate jurisdiction.
+
+     4.  The design of the Mariana-Guam Cable will be based upon the use of submarine
+fiber optic technology employing the appropriate transmission rate necessary to meet what
+GST anticipates will be the high capacity requirements of the users of the system.  GST
+expects that the minimum system design will consist of twelve fibers operating at a
+Synchronous Optical Network (SONET) rate, for each fiber, equivalent to 622 Mbps and
+having a system capacity of 24,192 equivalent voice-grade channels.  The cable will ensure
+system reliability through the deployment of the appropriate cable system design using state-
+of-the-art technology.  GST states that, because of the short distances between the cable
+segments, the Mariana-Guam Cable will not use repeaters.
+
+     5.  GST states that the Mariana-Guam Cable will provide a vital, secure, high-quality
+digital telecommunications link between Guam and the CNMI islands of Saipan, Tinian, and
+Rota for existing and emerging communications requirements to entities that seek access to
+the cable.  The existing analog microwave systems and satellite earth stations that carry traffic
+between the Commonwealth islands and to points beyond are vulnerable to disruption due to
+the high number of tropical storms and typhoons.  Submarine cables are not as susceptible to
+such atmospheric disturbances.
+
+     6.  GST states that it will sell or lease the capacity of the Mariana-Guam Cable on a
+private carrier basis.  Specifically, the applicant states, it will make tailored and flexible
+arrangements with customers that are not possible under the regime of a tailored service
+offering; make long-term plans for the facilities with assurance regarding facility availability
+and price; design systems to meet customer needs; develop new and innovative service
+offerings; and offer bulk capacity to a specific class of eligible users.  Thus, the applicant
+states, it "will not hold itself out indiferently to serve the public; rather, it will make
+individualized decisions in particular cases whether and on what terms to deal."  GST argues
+that it is therefore not required to apply for authority under Section 214 of the
+Communications Act of 1934 because the cable system will not be common carrier in nature,
+and it urges us to consider its application pursuant only to the Cable Landing License Act.
+
+                             Comments
+
+     7.  GST's application was placed on public notice on January 23, 1996.  Pursuant to
+Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of GST's application.  The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to the issuance
+of the requested cable landing license.
+
+     8.  The Guam Telephone Authority (GTA) filed comments, and the Governor of Guam
+filed reply comments essentially supporting the comments of GTA.  GST and the government
+of the CNMI filed oppositions to GTA's comments.  GTE Micronesian Telecommunications
+Corporation (MTC) then filed an ex parte letter in response to the earlier filings.  Both GTA
+and the Governor of Guam later withdrew their objections to the application.  Therefore, there
+are no outstanding timely comments.
+
+     9.  MTC's ex parte letter stated that it did not oppose the application but was
+concerned about an apparent agreement between GST and the Governor's office of the CNMI
+that would have given GST an exclusive right to a submerged lands lease in the CNMI for
+three years.  MTC stated that the Commission should grant GST's application only on the
+condition that GST maintain no agreements with the CNMI government that would provide
+GST exclusive rights to land or operate a cable between Guam and CNMI.
+
+                            Discussion
+
+     10.  When GST's application was filed, GST and the Governor of CNMI had agreed to
+a submerged-lands lease with a provision that the Commonwealth would not lease submerged
+lands for a competing cable for the first three years of the GST cable's operation.  This
+exclusivity arrangement was a subject of the comments filed by GTA and the Governor of
+Guam, and it was the only objection stated in MTC's ex parte letter.  Since the application
+was filed, the CNMI legislature has rejected GST's exclusive lease and has enacted legislation
+making such rights-of-way available without need for a lease to anyone who meets certain
+conditions.  Therefore, in light of the withdrawals of comments by GTA and the Governor of
+Guam and the satisfaction of MTC's only concern, there does not appear to be any opposition
+to a grant of this license.  We also need not decide whether such an exclusivity provision
+would violate Section 253 of the Act.
+
+     11.  GST requests a license under the Commission's private submarine cable policy to
+promote competition in the provision of international transmission facilities.  Pursuant to this
+policy, the Commission has authorized non common carrier cables where there is no legal
+compulsion to serve the public indifferently and no reason implicit in the nature of the
+operations to expect an indifferent holding-out to the eligible user public.
+
+     12.  The CNMI is currently served by INTELSAT circuits and analog microwave
+systems.  Because of the number of tropical storms and typhoons that strike the islands, these
+existing systems are vulnerable to disruption and poor-quality transmission.  A submarine
+cable would provide more-reliable, higher-quality service to those islands.
+
+     13.  MTC, the only provider of intra- and inter-island communications services in
+CNMI, has been granted a cable landing license and accompanying Section 214 authorization
+to land and operate a common carrier cable between Guam and the islands of Saipan, Tinian,
+and Rota.  We understand that MTC has recently secured a submerged-lands lease from the
+CNMI government and is going ahead with plans to construct the cable.  The CNMI
+government believes that, because GST is a relative newcomer to the Mariana-Guam region,
+its construction and operation of a submarine cable would bring an added dimension of
+competition to the region.
+
+     14.  In light of MTC's planned common carrier cable and the status of competition in
+the CNMI, we find that there is no public-interest reason to require that the Mariana-Guam
+Cable be operated on a common carrier basis.  MTC's current satellite and microwave
+facilities and its planned cable will provide sufficient intra- and inter-island common carrier
+capacity, and we anticipate that GST's cable, operated on a non-tariffed, non common carrier
+basis, will provide a competitive alternative for other carriers that could choose to provide
+telecommunications services to the islands of the CNMI.
+
+     15.  In addition, because GST will, in the operation of the cable, make "'individualized
+decisions, in particular cases, whether and on what terms to deal' and does not intend to
+undertake 'to carry for all people indifferently,'" there is no reason to expect that the
+proposed cable's capacity will be held out to the public indifferently.  We therefore conclude
+that GST will not offer capacity in the Mariana-Guam Cable to the public on a common
+carrier basis and thus is not subject to regulation under Title II of the Communications Act.
+
+     16.  Consistent with prior decisions, we find that GST's description of the landing
+points of the Mariana-Guam Cable, which states that the cable system will land on Guam,
+Rota, Saipan, and Tinian, is sufficient to determine whether the proposed cable system would
+comply with the provisions of the Cable Landing License Act and Commission rules. 
+Pursuant to Section 1.767(a)(5) of the Commission's rules, GST must provide a specific
+description of the landing locations, including a map, no later than ninety days prior to
+construction, and we condition this license upon final approval of the landing points.  The
+Commission will give public notice of this description, and grant of the license will be
+considered final unless we issue a public notice to the contrary no later than sixty days after
+receipt of the specific description of the landing points.
+
+     17.  Based on the information provided by GST and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that a
+grant of the requested license would not significantly affect the environment.  Consequently,
+GST is not required to submit an environmental assessment, and this application is
+categorically excluded from environmental processing.
+
+     18.  Accordingly, we conclude that U.S. interests under the Cable Landing License Act
+will be served by grant of a cable landing license to GST, as conditioned below.
+
+                         Ordering Clauses
+
+     19.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE to GST Telecom, Inc., a license to
+land and operate a submarine fiber optic cable system (expected to consist of twelve fibers
+operating at 622 Mbps for each fiber and having a system capacity of 24,192 equivalent
+voice-grade channels) extending between the Commonwealth of the Northern Mariana Islands
+and the Territory of Guam, with landing points on Guam and the Commonwealth islands of
+Saipan, Tinian, and Rota.  This grant is subject to all rules and regulations of the Federal
+Communications Commission; any treaties or conventions relating to communications to
+which the United States is or may hereafter become a party; any action by the Commission or
+the Congress of the United States rescinding, changing, modifying or amending any rights
+accruing to any person hereunder; and the following conditions:
+
+     (1)  The location of the cable system within the territorial waters of the United States
+     of America, its territories and possessions, and upon its shore shall be in conformity
+     with plans approved by the Secretary of the Army, and the cable shall be moved or
+     shifted by the Licensee at its expense upon the request of the Secretary of the Army
+     whenever he or she considers such course necessary in the public interest, for reasons
+     of national defense, or for the maintenance or improvement of harbors for navigational
+     purposes;
+
+     (2)  The Licensee shall at all times comply with any requirements of United States
+     government authorities regarding the location and concealment of the cable facilities,
+     buildings, and apparatus for the purpose of protecting and safeguarding the cable from
+     injury or destruction by enemies of the United States of America;
+
+     (3)  The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it does not enjoy and shall not acquire any right
+     to handle traffic to or from the United States, its territories, or its possessions unless
+     such service be authorized by the Commission pursuant to section 214 of the
+     Communications Act, as amended;
+
+     (4)  The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it shall not acquire or enjoy any right for the
+     purpose of handling or interchanging traffic to or from the United States, its territories,
+     or its possessions to land, connect, or operate cables or landlines, to construct or
+     operate radio stations, or to interchange traffic, that is denied to any other United
+     States company by reason of any concession, contract, understanding, or working
+     arrangement to which the Licensee or any persons controlling it, controlled by it, or
+     under direct or indirect common control with it are parties;
+
+     (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or
+     in any manner either voluntarily or involuntarily disposed of or disposed of indirectly
+     by transfer of control of the Licensee to any persons, unless the Federal
+     Communications Commission shall give prior consent in writing;
+
+     (6)  The Licensee shall notify the Commission in writing of the precise locations at
+     which the cable will land no later than ninety days prior to commencing construction
+     of cable landing stations at those locations.  The Commission will give public notice of
+     the filing of these descriptions, and grant of this license will be considered final unless
+     the Commission issues a notice to the contrary no later than sixty days after receipt of
+     the specific descriptions of landing points;
+
+     (7)  The Commission reserves the right to require the Licensee to file an environmental
+     assessment or environmental impact statement should it determine that the landing of
+     the cable at those locations and construction of necessary cable landing stations would
+     significantly affect the environment within the meaning of Section 1.1307 of the
+     Commission's procedures implementing the National Environmental Policy Act of
+     1969; this license is subject to modification by the Commission upon its review of any
+     environmental assessment or environmental impact statement that it may require
+     pursuant to its rules;
+
+     (8)  The Licensee shall maintain no less than a 50-percent ownership interest and
+     voting control share in the cable, including 100-percent ownership in the cable stations
+     and in the land portion of the cable from the stations to the beach joint of the
+     submerged portion of the cable;
+
+     (9)  The Licensee shall, by application, obtain Commission approval prior to the sale
+     or transfer to a foreign entity of five percent or more in the aggregate of direct or
+     indirect ownership in the cable;
+
+     (10)  This license is revocable by the Commission after due notice and opportunity for
+     hearing pursuant to section 2 of "An Act Relating to the Landing and Operation of
+     Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply with
+     the terms of the authorizations;
+
+     (11)  The Licensee shall notify the Commission in writing of the date on which the
+     cable is placed in service, and this license shall expire 25 years from such date, unless
+     renewed or extended upon proper application, and, upon expiration of this license, all
+     rights granted under it shall be terminated; and
+
+     (12)  The terms and conditions upon which this license is given shall be accepted by
+     the Licensee by filing a letter with the Secretary, Federal Communications
+     Commission, Washington, D.C. 20554, within 30 days of the release of the cable
+     landing license.
+
+     20.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.
+ 1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+                              Diane Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

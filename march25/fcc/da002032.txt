@@ -1,0 +1,168 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+                                
+                                
+                                
+                        In the Matter of
+                                
+              TRANSGULF COMMUNICATIONS, LTD., INC.
+                                
+                                
+          Application for Authority for Amendment of a
+          Cable Landing License and nunc pro tunc pro
+          forma Transfer of Control of a Cable Landing
+                            License
+                                
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                                
+                                
+                                
+                                
+                                
+                             SCL-MOD-20000201-00006
+                                
+                                
+                                
+                                
+                                
+                                
+
+
+ MODIFICATION OF CABLE LANDING LICENSE AND TRANSFER OF CONTROL
+
+   Adopted:  September 5, 2000          Released: September 6, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+               1.   In this Order, we modify the cable landing license held by
+               Transgulf Communications Ltd., Inc. (TGCL) (the Applicant) to change the
+               landing point in the United States from Freeport, Texas to a new location in
+               Corpus Christi, Texas, and to amend the specifications of the system described
+               in the license to reflect a repeaterless system in the Gulf of Mexico.  The
+               Application also requests authority to complete a nunc pro tunc pro forma
+               transfer of control of TGCL.    The original license authorized TGCL, pursuant
+               to the Cable Landing License Act, and Executive Order No. 10530, to land and
+               operate a fiber optic submarine cable system, called the TGCL system,
+               extending between the United States, Mexico, and other international locations. 
+               The license subsequently was modified to reflect the transfer of control of TGCL
+               to Margus Telecom International Ltd. (MTI).
+2.     The Application, as amended, requests authority to change the United States cable landing
+point from Freeport, Texas, to Corpus Christi, Texas.  According to the Application, the precise location
+of the landing station in Corpus Christi is Latitude 27§ 35.763" N, Longitude 97§ 12.858" W.  TGCL will
+maintain ownership and control over the License, and will own and control the U.S. landing stations, the
+U.S. land portion of the TGCL cable from the landing stations to the U.S. beach joints of the submerged
+portion of cable, and the TGCL U.S. cable landing stations' assets.  The TGCL system will continue to
+be operated on a non-common carrier basis.
+3.     As shown in Exhibit A, the new proposed TGCL system will festoon along the coast of the
+Gulf of Mexico from Corpus Christi to Cancun, the Mexican international gateway.  The TGCL system
+will be a repeaterless submarine cable design housing a total of 48 fibers.  Each fiber pair will be
+equipped with 2.5 Gbps transmission equipment capable of carrying 30,720 circuits operating at 64 Kbps
+each.  The total initial baseband capacity will amount to 737,280 circuits.  All transmission equipment
+will be Wavelength Division Multiplexing (WDM) ready, initially capable of transmitting 4 wavelengths
+or 10 Bps per fiber pair.  The overall system capacity will be 240 Gbps or 2,949,120 circuits.  The TGCL
+system will generally be a self-healing ring configuration, by complementing existing carrier's networks.
+However, in certain areas of Mexico where the system segments do not complement existing structures,
+the system will operate on a point-to-point basis.
+4.     TGCL is an Oklahoma corporation and a wholly-owned subsidiary of MTI, a New Jersey
+corporation, which together with its Mexican subsidiary MEXIGULF TELECOMUNICACIONES, S.A.
+DE C.V. (MEXIGULF) will own and operate the TGCL system.  
+                        V.Comments
+6.     We placed the Application on public notice on April 19, 2000.   We received no comments. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the modification request.  The Department of
+State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to approving the Applicant's request to change the
+landing point in the United States from Freeport, Texas to a new location in Corpus Christi, Texas, and to
+amend the specifications of the system described in the license to reflect a repeaterless system in the Gulf
+of Mexico.
+                      VII.Discussion
+8.     We grant the Applicant's request to change the landing point in the United States from
+Freeport, Texas to a new location in Corpus Christi, Texas.  Given the close commercial and
+communications relationship between the State of Texas and Mexico, TGCL believes that the TGCL
+system should have a landing site in a more developed location of Texas.  The modification would not
+affect the ownership of the cable system, its status as a non-common carrier system, or control of the
+landing point.  The public interest will be served by providing cost-efficient routing for carriers to meet
+increasing demands for services on the U.S.-Mexico route and by reducing risks to the cable due to
+offshore oil activities off the coast of Texas.  Based on these unopposed assertions, we find that grant of
+the modification would serve the public interest.
+9.     We grant the Applicant's request to amend the specifications of the TGCL system described
+in the license to reflect a repeaterless system in the Gulf of Mexico.  The Applicant asserts that several
+key factors have changed since granting the license for the TGCL system, and that the public interest
+will be served by maintaining repeaterless spans below 400 km, keeping a near 6dB transmission margin
+at the beginning of the life of the system, using the maximum cable fiber count currently available,
+making use of WDM, and providing access to major population centers along the Mexican west coast,
+including land segments to Mexico City, Villahermosa and Merida.  Based on these unopposed
+assertions, we see no reason to deny the Applicant's request to amend the specifications of the TGCL
+system.
+10.    We also grant the Applicant's request for nunc pro tunc approval of a transfer of indirect
+control of TGCL that Applicant asserts should be deemed pro forma.  For exigent business reasons, MTI
+and the Margus group of companies consolidated the Margus group of operating subsidiaries into a
+newly formed holding company, Margus Holdings Company (Holdings), a Delaware corporation and the
+sole shareholder of MTI.  Through MTI, Holdings has 100% ownership of TGCL.  Holdings is
+controlled by Mr. Auguste Dodeman, a U.S. citizen who holds a 60% interest.  In addition, William
+Wall, a U.S. citizen, also holds a 10% or greater ownership interest in Holdings.  There will be no change
+in the ultimate management of TGCL or MTI.  The proposed transaction has only added an additional
+parent company to TGCL.  Accordingly, this transaction is similar to categories of transactions we have
+deemed to be pro forma and find it is reasonable in this instance to grant the Applicant's request to
+complete a nunc pro tunc transfer of indirect control of TGCL to Holdings.  However, we caution the
+Applicant that our rules require prior approval of such transfers of control and urge the Applicant to plan
+accordingly in the future.
+                    XI.Ordering Clauses
+9.     Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the Application, File No. SCL-MOD-20000201-00006, IS
+GRANTED and the TGCL cable system cable landing license is MODIFIED to (1) change the landing
+point in the United States from Freeport, Texas to a new location in Corpus Christi, Texas; (2) amend the
+specifications of the system described in the license to reflect a repeaterless system in the Gulf of
+Mexico; and (3) approve the nunc pro tunc pro forma transfer of indirect control of Transgulf
+Communications Ltd., Inc. to Margus Holdings Company.
+
+10.    This Modification of Cable Landing License does not modify any other terms or conditions
+imposed in the license.
+
+11.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days
+of the date of public notice of this Order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+
+

@@ -1,0 +1,146 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+                                
+                                
+                                
+                        In the Matter of
+                                
+                       KDD America, Inc.
+                                
+        Application for Authority to Transfer Control of
+            Cable Landing License to DDI Corporation
+                                
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                               )
+                                
+                                
+                                
+                            SCL-T/C-20000727-00028
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                  MEMORANDUM OPINION AND ORDER
+
+
+   Adopted:  November 15, 2000          Released: November 16, 2000
+
+By the Associate Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.In this Order, we grant the Application of KDD America, Inc. (KDDA) and DDI Corporation
+(DDI) (collectively "Applicants") seeking authority to transfer control of a cable landing license held by
+                         KDDA to DDI. 
+2.On September 30, 1999, the Commission authorized KDDA and numerous other carriers,
+pursuant to the Cable Landing License Act, and Executive Order No. 10530, to land and operate a
+common carrier submarine fiber optic cable system, called the TAT-14 Cable Network (TAT-14),
+extending between the United States, Denmark, Germany, the Netherlands, France, and the United
+Kingdom.  KDDA held a 0.23046 percent ownership interest in TAT-14.
+3.KDDA is a New York corporation that provides both facilities-based and resold international
+telecommunications services to customers in the United States.  KDDA is a wholly-owned subsidiary of
+KDD Corporation (KDD), a Japanese corporation.  KDD is a provider of international telecommunications
+                       services in Japan.
+4.KDD desires to merge with DDI, as part of a three-way merger between KDD, DDI, and IDO
+Corporation (IDO).  Upon consummation of the proposed merger, DDI will own all of the issued and
+outstanding stock of KDD, which in turn owns all of the issued and outstanding stock of KDDA.  In
+addition, DDI will own all of the issued and outstanding stock of IDO.  Applicants assert that on April 5,
+2000, KDD, DDI, and IDO executed a Merger Agreement whereby they proposed that each share of DDI
+will be issued to the shareholders of KDD in exchange for 92.1 shares of KDD, and each share of DDI will
+  be issued to the shareholders of IDO for 2.9 shares of IDO.
+5.DDI, a publicly held Japanese corporation, provides primarily domestic long distance telephone
+service in Japan, but also provides international telephone service, leased circuit service, and data services
+such as Internet access and frame relay.  Applicants assert that Kyocera Corp. (Kyocera), a Japanese
+corporation that manufactures electronic components, information/telecommunications equipment, and
+semiconductor parts, currently owns 25.16 percent of the equity of DDI.  Applicants also assert that
+following the proposed merger, Kyocera will own 15.3 percent of the equity of DDI, and Toyota Motor
+Corp., a Japanese corporation, will own 13.29 percent of the equity of DDI.
+6.Through various subsidiaries, DDI offers cellular service and personal handyphone service
+(PHS), a service for telephones that function as cordless units at home and mobile units elsewhere.  One
+of DDI's subsidiaries, DDI Communications America Corporation (DDICA) holds a Section 214
+authorization to provide global facilities-based and resale services from the United States.
+7.IDO, a Japanese corporation, provides cellular service in metropolitan and Tokai areas of
+                             Japan.
+8.The Commission, on September 15, 2000, granted Applicants' request for approval to transfer
+control of Section 214 authorizations held by KDDA from the shareholders of KDD to DDI, without
+prejudice to Commission action on this Application.  On September 27, 2000, the Commission granted
+KDDA's request for Special Temporary Authority commencing October 1, 2000, to permit the transfer of
+control of the TAT-14 cable landing authorization held by KDDA to DDI.
+                         II.Discussion
+9.We placed the Application on public notice on August 11, 2000.   We received no comments. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the request for transfer of control.  The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to approving the Applicant's
+request to transfer control of KDDA's interest in the TAT-14 cable system to DDI.
+10.Under Section 1.767(a)(8) of the Commission's rules, Applicants are required to disclose their
+affiliations with foreign carriers.  DDI has certified that it is a foreign carrier authorized in Japan to provide
+telecommunications services, and that it is also affiliated with various foreign carriers in Japan, Brazil,
+Paraguay, and Australia.  DDI has also certified that, upon acquisition of KDD and KDDA, DDI
+(through KDDA) will provide international telecommunications services to Japan, where it is a foreign
+carrier, and that it also will control KDD, another foreign carrier in Japan.  Japan, Brazil, Paraguay, and
+Australia are WTO member countries.  None of the landing points for TAT-14 are located in any of the
+countries where DDI has affiliates, and we see no reason to deny the Applicants' request to transfer control
+of KDDA's interest in the TAT-14 cable system to DDI on the basis of DDI's foreign affiliations.
+11.Applicants assert that the approval of the transfer of control will serve the public interest in
+promoting competition in the United States by permitting KDDA and DDI to compete more effectively
+through combining their financial resources and complementary services, facilities, and expertise. 
+Applicants further assert that the proposed merger will permit them to realize significant economic,
+marketing, and technical service efficiencies that will enhance KDDA's ability to provide high-quality, low-
+         cost competitive telecommunications services.
+12.Upon consideration of the record in this proceeding, and in view of the foregoing, we conclude
+that grant of the transfer of control sought in the Application will serve the public interest and is consistent
+              with the Cable Landing License Act.
+13.We modify the initial authorization to reflect these transactions.  We do not modify the initial
+              authorization in any other respect.
+                      III.Ordering Clauses
+14.Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the Application, File No. SCL-T/C-20000727-00028, IS GRANTED,
+the transactions listed herein are authorized, and the TAT-14 Cable Landing License (File No. SCL-LIC-
+19990303-00004) IS HEREBY MODIFIED to reflect those transactions.
+15.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+              date of public notice of this Order.
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Jacquelynn Ruff
+                              Associate Chief, Telecommunications Division
+                              International Bureau
+
+

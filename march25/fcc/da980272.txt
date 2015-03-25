@@ -1,0 +1,238 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the 
+                     Federal Communications Commission
+                          Washington, D.C.  20554
+
+
+In the Matter of                                         )
+                                         )
+MFS International, Inc.                  )       File No.    SCL-97-005
+                        )
+Application for a License to Land and Operate    )
+in the United States a Common Carrier            )
+Fiber Optic Submarine Cable Extending            )       
+Between the United States and Australia          )
+and New Zealand                 )        
+
+CABLE LANDING LICENSE
+             
+                            Adopted:  February 11, 1998                      Released:  February 13, 1998
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+        1.      In this Cable Landing License, we grant the application of MFS International,
+Inc. (MFSI) under the Cable Landing License Act for authority to land and operate a fiber
+optic submarine cable system to be called the Southern Cross cable system (Southern Cross)
+extending between the United States mainland (and Hawaii), Australia, and New Zealand. 
+The cable will be operated on a common carrier basis.  We find that MFSI has provided
+sufficient information under our rules to comply with the Cable Landing License Act and
+therefore grant the cable landing license subject to the conditions discussed below. 
+
+                      II.  Application and Pleadings
+
+        2.      MFSI, a Delaware corporation, is a wholly-owned subsidiary of MFS Network
+Technologies, Inc. (MFSNT), a Delaware corporation.  MFSNT is a wholly-owned
+subsidiary of MFS Communications Company, Inc., (MFSCCI), a Delaware corporation. 
+MFSCCI is a wholly-owned subsidiary of WorldCom, Inc., a Georgia corporation.
+
+        3.      MFSI proposes to land and operate Southern Cross as a common carrier
+system owned by MFSI and by entities authorized to land and operate an international fiber
+optic cable system in Australia and New Zealand.  The proposed Southern Cross will extend
+between landing points on the U.S. mainland (California), Hawaii, Australia, and New
+Zealand.  Original ownership interests with equity and voting ownership in the facilities will
+be available to any authorized common carrier willing to purchase interests before the closing
+date for receipt of project financing.  Once that closing occurs, authorized common carriers
+will be permitted to acquire capacity on an Indefeasible Right of Use (IRU) basis.  MFSI
+will own 100 percent of both U.S. mainland landing station facilities.  Southern Cross is
+scheduled to go into initial service in mid-1999.
+
+        4.      Southern Cross is planned as a ring system with three main traffic loops.  The
+planned capacity for the Northern Ring (U.S. Mainland to Hawaii traffic) is 50 Gigabits per
+second (Gbps).  The planned capacity for the Southern Ring (Australia/New Zealand traffic)
+is 10 Gbps.  The planned capacity for the North South Ring (U.S. Mainland/Hawaii to
+Australia/New Zealand traffic) is 30 Gbps.  It is expected that the minimum design capacity
+for any segment would be 2.5 Gbps per fiber pair.  The system is expected to be Wavelength
+Division Multiplex (WDM)-capable.  
+  
+                             III.  Discussion
+
+        5.      The Southern Cross application was placed on public notice on October 24,
+1997.  No comments were received.  Pursuant to Section 1.767(b) of the Commission's
+rules, the Cable Landing License Act, and Executive Order 10530, we informed the
+Department of State of the application.  The Department of State, after coordinating with the
+Department of Commerce's National Telecommunications and Information Administration
+and the Department of Defense, stated it approves the granting of the cable landing license to
+MFSI.   
+        6.      As required by the Commission's rules, MFSI has certified that it has not
+agreed and will not agree in the future to accept special concessions directly or indirectly
+from any foreign carrier.  MFSI further certifies that it is affiliated with a number of foreign
+carriers.  MFSI is not affiliated with any carrier in either Australia or New Zealand.  
+
+        7.      Section 63.18(e)(6) of our rules requires that applications for cable landing
+licenses include a list of the proposed owners of the cable, and their voting interests and
+ownership interests by segment in the cable.  We find that MFSI has provided us with
+sufficient information about the ownership interests of the U.S. mainland, Australia, and
+New Zealand cable landing stations and the submarine cable.  The two U.S. mainland cable
+landing stations will be owned and operated exclusively by MFSI, including the electronics
+and cable segments between the landing station and the territorial limits of the United States. 
+Telecom New Zealand Limited (TNZL) and Optus Communications Pty, Ltd. (Optus) will
+each own 100 percent of the landing stations, electronics, and cable segments between the
+landing stations and the territorial limits of their respective home countries.  MFSI will own
+10 percent of the special purpose corporation that will own the remaining wet segments of
+the cable, and the other 90 percent will be owned by Optus and TNZL.  As for the Hawaii
+landing station, MFSI informs us that the ownership of this landing station has not yet been
+determined.  To ensure that the Commission has detailed information about the ownership
+and voting interests for the entire cable system before MFSI lands and operates the proposed
+cable, we condition final grant of this license upon MFSI's filing of specific ownership and
+voting interests for the Hawaii landing station.  We will give public notice of this
+information and this condition will be considered satisfied unless the Commission issues a
+public notice to the contrary no later than sixty days after receipt of this information.
+
+        8.      Consistent with prior decisions, we also find MFSI's statement that the
+proposed landing station location sites in the continental United States will be on the Pacific
+Coast with at least one landing station located in California, Hawaii, Australia, and New
+Zealand sufficient to determine whether the proposed cable would comply with the provisions
+of the Cable Landing License Act and Commission rules.  Section 1.767(a) of the
+Commission's rules permits applicants in their initial application to provide a general
+description of the landing points.  It requires that grant of cable landing license applications
+be conditioned upon final approval of a specific description of landing points no later than
+ninety days prior to construction.  The Commission will give public notice of this
+description, and grant of the license will be considered final unless we issue a public notice
+to the contrary no later than sixty days after receipt of the specific description of the landing
+points.
+
+        9.      Based on the information provided by MFSI and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that
+the grant of the requested authorization would not significantly affect the environment. 
+Consequently, MFSI is not required to submit an environmental assessment, and this
+application is categorically excluded from environmental processing.
+
+      10.    Accordingly, we conclude that U.S. interests under the Cable Landing License
+Act will be served by grant of the license to MFSI to land and operate Southern Cross, as
+conditioned below.
+
+IV. Ordering Clauses
+
+      11.     Consistent with the foregoing, we hereby GRANT AND ISSUE MFSI a
+license to land and operate a fiber optic submarine cable system extending between landing
+points at cable landing stations in the west coast of the United States, Hawaii, Australia, and
+New Zealand under the provisions of the Cable Landing License Act and Executive Order
+10530.   The planned capacity for the Northern Ring (U.S. Mainland to Hawaii traffic) is 50
+Gbps.  The planned capacity for the Southern Ring (Australia/New Zealand traffic) is 10
+Gbps.  The planned capacity for the North South Ring (U.S. Mainland/Hawaii to
+Australia/New Zealand traffic) is 30 Gbps.  This grant is subject to all rules and regulations
+of the Federal Communications Commission; any treaties or conventions relating to
+communications to which the United States is or may hereafter become a party; any action
+by the Commission or the Congress of the United States rescinding, changing, modifying or
+amending any rights accruing to any person hereunder; and the following conditions:
+
+             (1)    The location of the cable system within the territorial waters of the
+             United States of America, its territories and possessions, and upon its shore
+             shall be in conformity with plans approved by the Secretary of the Army, and
+             the cables shall be moved or shifted by the Licensee at its expense upon the
+             request of the Secretary of the Army, whenever he or she considers such
+             course necessary  in the public interest, for reasons of national defense, or for
+             the maintenance or improvement of harbors for navigational purposes; 
+
+             (2)    The Licensee shall at all times comply with any requirements of United
+             States government authorities regarding the location and concealment of the
+             cable facilities, buildings, and apparatus for the purpose of protecting and
+             safeguarding the cables from injury or destruction by enemies of the United
+             States of America;
+ 
+             (3)    The Licensee or any persons or companies controlling them, controlled
+             by them, or under direct or indirect common control with them do not enjoy
+             and shall not acquire any right to handle traffic to or from the United States,
+             its territories, or its possessions unless such service be authorized by the
+             Commission pursuant to Section 214 of the Communications Act, as amended;
+
+             (4)    The Licensee or any persons or companies controlling them, controlled
+             by them, or under direct or indirect common control with them shall not
+             acquire or enjoy any right for the purpose of handling or interchanging traffic
+             to or from the United States, its territories, or its possessions to land, connect,
+             or operate cables or landlines, to construct or operate radio stations, or to
+             interchange traffic that is denied to any other United States company by reason
+             of any concession, contract, understanding, or working arrangement to which
+             the Licensee or any persons controlling them, controlled by them, or under
+             direct or indirect common control with them are parties;
+
+             (5)    Neither this license nor the rights granted herein shall be transferred,
+             assigned, or in any manner either voluntarily or involuntarily disposed of or
+             disposed of indirectly by transfer of control of the Licensee to any persons,
+             unless the Federal Communications Commission shall give prior consent in
+             writing;
+
+             (6)    The Licensee shall notify the Commission in writing of the precise
+             locations at which the cables will land no later than ninety days prior to
+             commencing construction of cable landing stations at those locations.  The
+             Licensee shall also notify the Commission in writing of the specific ownership
+             interests of the Hawaii landing station, including a description of the proposed
+             owners and its voting interests.  The Commission will give public notice of the
+             filing of these descriptions, and grant of this license will be considered final
+             unless the Commission issues a notice to the contrary no later than sixty days
+             after receipt of the specific descriptions of the landing points and the specific
+             ownership interests of the Hawaii landing station;
+
+             (7)    The Commission reserves the right to require the Licensee to file an
+             environmental assessment or environmental impact statement should it
+             determine that the landing of the cables at those locations and construction of
+             necessary cable landing stations would significantly affect the environment
+             within the meaning of Section 1.1307 of the Commission's procedures
+             implementing the National Environmental Policy Act of 1969; this license is
+             subject to modification by the Commission upon its review of any
+             environmental assessment or environmental impact statement that it may
+             require pursuant to its rules;
+
+             (8)    This license is revocable by the Commission after due notice and
+             opportunity for hearing pursuant to section 2 of "An Act Relating to the
+             Landing and Operation of Submarine Cables in the United States,"     47
+             U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+             (9)    The Licensee shall notify the Commission in writing of the date on
+             which the cable is placed in service, and this license shall expire 25 years from
+             such date, unless renewed or extended upon proper application, and, upon
+             expiration of this license, all rights granted under it shall be terminated; and
+
+             (10)   The terms and conditions upon which this license is given shall be
+             accepted by the Licensee by filing a letter with the Secretary, Federal
+             Communications Commission, Washington, D.C. 20554 within 30 days of the
+             release of the cable landing license.
+
+      12.    This Order is issued under Section 0.261 of the Commission's rules, 47
+C.F.R.  0.261, and is effective upon release.  Petitions for reconsideration under Section
+1.106 or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R. 
+1.4(b)(2)).
+
+                                        FEDERAL COMMUNICATIONS
+                                        COMMISSION
+
+
+
+
+                                        Diane J. Cornell
+                                        Chief, Telecommunications Division
+      International Bureau

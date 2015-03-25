@@ -51,3 +51,22 @@ Setup parsers for NSHeyy logs
 [OsmoBTS with USRP1](http://scriptogr.am/samatt/post/running-osmobts-with)
 
 [YateBTS with BladeRF](http://scriptogr.am/samatt/post/running-yate-bts)
+
+##Submarine Cables
+[Telegeography's Submarine Cable Map](http://submarinecablemap.com)
+
+[geojson of the Telegeography data](/march25/submarine_cables.geojson) : converted from a Google Fusion Table, which, I can't even
+
+[FCC Submarine Cable Licenses 1994-2001)](/march25/fcc) : attempt to narrow documents to submarine cables only; if interested in full FCC license archive (which has other cool satellite and international network stuff) will add to the repo
+
+[Submarine Cable Taps](http://lifewinning.com/submarine-cable-taps)
+
+##Other Cable/Physical Infrastructure Resources
+[Seeing Networks in New York](http://seeingnetworks.in/nyc)
+
+[Level 3 Cable Map](http://maps.level3.com)
+
+[Traceroute Adventures with James Bridle](https://stml.makes.org/thimble/how-to-see-through-the-cloud)
+
+[Slightly dated guide to major carrier hotels and telecommunications infrastructure in New York](http://cromwell-intl.com/travel/usa/new-york-internet/)
+

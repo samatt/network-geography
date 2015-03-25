@@ -1,0 +1,139 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the 
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of        )
+                        )
+Telef¢nica Larga Distancia de Puerto Rico, Inc.  )       File No. SCL-97-001(M)
+                        )
+                        )       File No. SCL-97-006
+Application for a license to land and operate            )
+a digital submarine cable system between the             )
+U.S. Virgin Islands, Chile, Peru, Ecuador,               )
+Panama, Colombia, Venezuela, and Aruba,          ) 
+the PAN AMERICAN Cable System   )
+
+
+                   MODIFICATION OF CABLE LANDING LICENSE
+
+   Adopted:  May 12, 1998                        Released:  May 15, 1998
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+        1.  In this Order, we modify the cable landing license recently granted to several parties for
+authority to land and operate a digital submarine cable system to be called the PAN AMERICAN
+Cable System (PAN AMERICAN).  We grant the application of Telef¢nica Larga Distancia de Puerto
+Rico, Inc. (TLD) under the Cable Landing License Act to add TLD as a licensee of PAN
+AMERICAN.  PAN AMERICAN will extend between the U.S. Virgin Islands, Aruba, Venezuela,
+Colombia, Panama, Ecuador, Peru and Chile and will be operated on a common carrier basis.  We
+find that TLD has provided sufficient information under our rules to comply with the Cable Landing
+License Act and therefore grant the cable landing license modification subject to the conditions listed
+below.
+
+                             II.  Application
+
+        2.  TLD is a corporation organized under the laws of Puerto Rico.  TLD is a common carrier
+subject to the Communications Act of 1934, as amended.  TLD states that it has an ownership interest
+in those portions of PAN AMERICAN located in U.S. territory.
+
+        3.  PAN AMERICAN will be a common carrier system owned by TLD and by a number of
+other U.S. and foreign telecommunications entities authorized to land and operate an international
+submarine fiber optic cable system in Aruba, Venezuela, Colombia, Panama, Ecuador, Peru and Chile.
+The proposed PAN AMERICAN system will extend between landing points at cable stations in St.
+Thomas, U.S. Virgin Islands; St. Croix, U.S. Virgin Islands; Baby Beach, Aruba; Punto Fijo,
+Venezuela; Barranquilla, Colombia; Colon, Panama; Panama City, Panama; Punta Carnero, Ecuador;
+Lurin, Peru; and Arica, Chile and will be connected with the domestic networks in those countries or
+territories.
+
+        4.  A description of the cable system is contained in our original order granting a cable
+landing license for PAN AMERICAN.
+
+                              III.  Comments
+
+        5.  TLD's application was placed on public notice on November 5, 1997.  No comments were
+received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act,
+and Executive Order No. 10530, we informed the Department of State of the application.  The
+Department of State advised the Commission that it has no objection to the modification of the cable
+landing license.
+
+                              IV.  Discussion
+
+        6.  TLD certifies that it is affiliated with foreign carriers in Spain, Argentina, Chile, Peru, and
+Romania.  It is therefore affiliated with foreign carriers in three countries where PAN AMERICAN
+will land   Argentina, Chile, and Peru.  We evaluate this application under the policies adopted by
+the Commission in its recent Foreign Participation Order.   In that Order, the Commission decided to
+apply its open entry policies to applications to land and operate submarine cables between the United
+States and World Trade Organization (WTO) Member Countries.  Because Argentina, Chile, and
+Peru are members of the WTO, we do not apply the effective competitive opportunities test, and we
+presume that there is no competition-based reason to deny TLD's application.  No party has suggested
+that this presumption should be rebutted here.  Therefore, we find that TLD's foreign affiliations do
+not raise concerns that could persuade us to deny the application under Section 2 of the Cable Landing
+License Act.
+
+        7.  Based on the information provided by the TLD and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant
+of the requested authorization would not significantly affect the environment.  Consequently, TLD is
+not required to submit an environmental assessment, and this application is categorically excluded
+from environmental processing.
+
+        8.  We recently granted nine parties a cable landing license to land and operate PAN
+AMERICAN.  By granting this modification, we authorize TLD to own and operate in the United
+States a share of that same cable system.  TLD shall be considered a Licensee of PAN AMERICAN
+for the purpose of condition 7 of the PAN AMERICAN licensees' cable landing license.
+
+        9.  Accordingly, we conclude that U.S. interests under the Cable License Landing Act will be
+served by grant of the license to TLD to land and operate PAN AMERICAN, subject to all of the
+terms and conditions in the original cable landing license, DA 98-81, File No. SCL-97-001.
+        
+                           V.  Ordering Clauses
+
+        10.  In consideration of the foregoing, IT IS ORDERED that the application, File Nos. SCL-
+97-006 and SCL-97-001(M), is GRANTED.  The PAN AMERICAN cable landing license, SCL-97-
+001, is MODIFIED to add Telef¢nica Larga Distancia de Puerto Rico, Inc., as a licensee.  This grant
+is subject to all rules and regulations of the Federal Communications Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party;
+any action by the Commission or the Congress of the United States rescinding, changing, modifying or
+amending any rights accruing to any person hereunder; and the conditions contained in the cable
+landing license, SCL-97-001.
+
+        11.  TLD shall accept the terms and conditions of this license by filing a letter with the
+Secretary, Federal Communications Commission, Washington, D.C. 20554 within 30 days of the
+release of this modification.
+
+        12.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within
+30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                                                 FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+                                                 Diane J. Cornell
+                                                 Chief, Telecommunications Division
+                        International Bureau

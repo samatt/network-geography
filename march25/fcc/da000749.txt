@@ -1,0 +1,111 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+                                     )
+                                     )
+In the Matter of                     )
+                                     )
+MFS GLOBENET, INC.                   )
+                                     )
+PACIFIC CARRIAGE LIMITED             )          File No. SCL-MOD-20000201-00002
+                                     )
+Application for Modification of License to        )
+Land and Operate in the United States a       )
+Private Fiber Submarine Cable System        )
+Extending Among the United States and      )
+Australia and New Zealand           )
+                                     )
+
+
+             MODIFICATION OF CABLE LANDING LICENSE
+
+Adopted:  March 31, 2000                Released: April 3, 2000
+
+                        I.  Introduction
+
+  1.  In this Order, we modify the cable landing license held by MFS Globenet, Inc. (MFSG) and
+  Pacific Carriage Limited (PCL) (the Applicants) to add an additional cable landing location.   The
+  original license authorized MFS International, Inc., pursuant to the Cable Landing License Act, to
+  land and operate a fiber optic submarine cable system called the Southern Cross Cable Network
+  (Southern Cross), extending between the United States mainland, Hawaii, Australia, and New Zealand. 
+   The license subsequently was modified to reflect a change of ownership structure; to permit PCL to be
+  the licensee for the landing station facilities in Hawaii; to permit MFSG to be the licensee for the
+  landing station facilities in California; and to add the Republic of the Fiji Islands as a landing point.
+        
+  2.  The Applicants request authority to modify the license to include an additional cable landing
+  point located at Nedonna Beach Cable Landing Station in Rockaway Beach, Oregon.  According to the
+  Applicants, the precise location of the landing station is Latitude 45§ 38' 32.49179" N, Longitude 122§
+  56' 19.83896" W.  The address is Nedonna Beach Cable Landing Station, 25589 Highway 101,
+  Rockaway Beach, Oregon, 97141.  The Nedonna Beach Cable Landing Station was constructed  by
+  Alaska Northstar Cable, LLC., and the Applicants have obtained an Indefeasible Right of Use for a
+  portion of the station at which the Southern Cross cable will land.  The Applicants will maintain
+  control and exercise ultimate oversight over these facilities.  Pursuant to the modified license, Southern
+  Cross will continue to be operated on a common-carrier basis.
+ 
+                       II.  Comments
+     
+  3.  We placed the modification on public notice on February 18, 2000.   We did not receive any
+  comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act,
+  and Executive Order No. 10530, we informed the Department of State of the modification.  The
+  Department of State, after coordinating with the National Telecommunications and Information
+  Administration and the Department of Defense, stated that it has no objection to approving the
+  Applicants' request for an additional landing point for Southern Cross.
+     
+                     III.  Discussion
+                                
+  4.  We grant the Applicant's request to add an additional cable landing location for Southern Cross. 
+  The Nedonna Beach Cable Landing Station meets the Applicants' requirements and eliminates the need
+  for the Applicants to construct a separate landing station at Rockaway Beach.  According to the
+  Applicants, the conditions at the Rockaway Beach, Oregon, landing site will not significantly affect the
+  environment within the meaning of the National Environmental Policy Act.  The modification would
+  not affect the ownership of the cable system, its status as a common carrier system, or control of the
+  landing point.  The public interest will be served by providing an additional point of access. 
+  Accordingly, we find that grant of the modification would serve the public interest. 
+  
+                     IV.  Ordering Clauses
+
+  5.  Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+  Order 10530, IT IS ORDERED that the application, File No. SCL-MOD-20000201-00002, IS
+  GRANTED and the Southern Cross Cable Network cable landing license is MODIFIED to add
+  Rockaway Beach, Oregon, as an additional cable landing location.
+
+  6.  This Modification of Cable Landing License does not modify any other terms or conditions
+  imposed in the license.
+
+  7.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+  is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+  under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30
+  days of the date of public notice of this Order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+                              
+                              
+                              
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+

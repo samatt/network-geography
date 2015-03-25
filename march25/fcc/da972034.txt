@@ -1,0 +1,226 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+SSI Atlantic Crossing LLC       )
+                                )       File No. SCL-97-002
+Application for a license to land and operate)
+in the United States a digital submarine cable)
+system extending between the United States)
+and the United Kingdom and Germany)
+
+
+                      CABLE LANDING LICENSE
+
+
+   Adopted:  September 22, 1997         Released:  September 23, 1997
+
+By the Chief, Telecommunications Division:
+
+     1.  In this Order, we grant the application of SSI Atlantic Crossing, LLC, ("SSI") under the Cable
+Landing License Act for authority to land and operate a digital fiber optic submarine cable system to be
+called "Atlantic Crossing" or "AC-1," extending between the United States and the United Kingdom and
+Germany.  This system will be operated on a non common carrier basis.  We find that SSI has provided
+sufficient information under our rules to comply with the Cable Landing License Act and therefore grant
+the cable landing license subject to the conditions listed below.
+
+                         The Application
+
+     2.  SSI, a limited liability company organized and existing under the laws of the state of
+Delaware, is a wholly owned subsidiary of SSI Atlantic Crossing Holdings LLC ("AC Holdings"), a
+Delaware limited liability company.  AC Holdings is a wholly owned subsidiary of Submarine Systems
+International, Ltd., a Delaware corporation, which is now a wholly owned subsidiary of Tyco
+International Limited ("Tyco"), a Bermuda corporation. 
+
+     3.   SSI will own the portion of AC-1 that is one-half mile beyond the U.S. territorial limit to and
+including the U.S. cable station.  The cables will land at a manhole on Fire Island in Brookhaven
+Township, New York, and will be connected to a new cable station 8.7 miles away on Precision Drive,
+where the cable system's terminal equipment will be installed.  Global Telesystems Ltd. ("GT Ltd."), a
+Bermuda corporation a majority of whose equity is owned by U.S. interests, will own and operate the
+portion of the cable system located in international waters, and wholly owned subsidiaries of GT Ltd.
+will own and operate the portions of the system located within the United Kingdom and Germany.
+
+     4.  The AC-1 System will employ optically amplified fiber cable operating at 10 gigabits per
+second ("Gbps") per fiber pair on four fiber pairs.  This cable will feature wavelength division
+multiplexing and will connect the countries involved in a "self-healing ring network."
+
+     5.   SSI proposes to operate the AC-1 System as a non common carrier system in which capacity
+will not be sold indifferently to the user public.  SSI will offer bulk capacity in the AC-1 system on the
+basis of indefeasible rights of user or leases of capacity.  The applicant states that capacity on the system
+will be assigned pursuant to "individualized decisions," and the offering of bulk capacity will be made
+only to a "significantly restricted" class of users.
+
+                             Comments
+
+     6.  The application was placed on public notice on May 16, 1997.  Atlantic Express
+Communications II, Ltd., L.C. ("Atlantic Express") filed a petition to deny, but that petition to deny was
+received after the filing deadline, June 13, 1997.  We therefore grant SSI's request to dismiss Atlantic
+Express's filing.  In any event, subsequent filings by SSI sufficiently address Atlantic Express's concerns
+regarding its affiliation with a Bermuda company.  Pursuant to Section 1.767(b) of the Commission's
+rules, the Cable Landing License Act, and Executive Order No. 10530, we informed the Department of
+State of the application.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that it has
+no objection to issuance of the cable landing license.
+
+                            Discussion
+
+     7.  SSI requests a license under the Commission's private submarine cable policy, which is
+intended to promote competition in the provision of international transmission facilities.  Pursuant to
+this policy, the Commission has authorized non common carrier cables where (1) there is no legal
+compulsion to serve the public indifferently and (2) there are no reasons implicit in the nature of the
+operations to expect an indifferent holding-out to the eligible user public.
+
+     8.  The Commission has previously concluded that, particularly in the North Atlantic region,
+private cable systems introduce meaningful competition that benefits consumers.  Because of the
+sufficient availability of common carrier circuits on existing and future cables and satellite circuits
+between the United States and the United Kingdom and between the United States and Germany, there
+is no public interest reason to require that the applicant's proposed cable facilities be provided on a
+common carrier basis.
+
+     9.  Regarding the second prong of the test, SSI states in its application that capacity will not be
+sold indifferently to the user public.  Instead, capacity will be assigned pursuant to "individualized
+decisions," and bulk capacity will be offered to a "significantly restricted" class of users.  Thus, there is
+no reason to expect that capacity in the proposed cable system would be held out to the public
+indifferently.  
+
+     10.  Based on the above analysis, we conclude that SSI will not offer capacity in AC-1 to the
+public on a common carrier basis and that the public interest does not require that it do so.  Accordingly,
+we find that the applicant will not provide a telecommunications service for a fee to such class of users
+as to be "effectively available directly to the public" and thus will not be a "telecommunications carrier"
+under the 1996 Act.  We therefore conclude that it is appropriate to license the AC-1 System on a
+non common carrier basis.
+
+     11.  SSI has provided the ownership information required by Section 1.767(a)(6), Section
+63.18(e)(6), and Section 63.18(h) of the Commission's rules.  Although applicant is ultimately a wholly
+owned subsidiary of Tyco, a Bermuda corporation, Tyco is a publicly held corporation, and a substantial
+majority of its shareholders are U.S. citizens and companies.  The only shareholder with a ten percent or
+greater share of the outstanding stock of Tyco is Fidelity Management and Research Company, a mutual
+fund company that is incorporated in Massachusetts.  Fidelity is wholly owned by FMR Corp, another
+Massachusetts corporation.  Thus, no foreign ownership concerns are raised by the application, and we
+find that there is no reason to conduct an effective competitive opportunities analysis or any reciprocity
+analysis pursuant to section 2 of the Cable Landing License Act.
+  
+     12.  SSI has complied with Section 1.767(a)(5) of the Commission's rules by providing, with its
+application, specific descriptions, including maps, of the cable landing locations on the shore of the
+United States, the United Kingdom, and Germany.  This license is therefore not subject to any further
+public notice or Commission approval of the cable system's landing points pursuant to the procedure in
+Section 1.767(a)(5).
+
+     13.  Based on the information provided by the applicant and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant of
+the requested authorization would not significantly affect the environment.  Consequently, SSI is not
+required to submit an environmental assessment, and this application is categorically excluded from
+environmental processing.
+
+     14.  Accordingly, we conclude that U.S. interests under the Cable Landing License Act will be
+served by grant of the license to SSI as conditioned below.
+
+                         Ordering Clauses
+
+     15.  Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, we hereby GRANT AND ISSUE SSI Atlantic Crossing LLC a license to land and operate a
+non common carrier cable system consisting of fiber optic submarine cables (operating at 10 Gbps per
+fiber pair on four fiber pairs) extending from the United States to the United Kingdom and from the
+United States to Germany.  This grant is subject to all rules and regulations of the Federal
+Communications Commission; any treaties or conventions relating to communications to which the
+United States is or may hereafter become a party; any action by the Commission or the Congress of the
+United States rescinding, changing, modifying, or amending any rights accruing to any person hereunder;
+and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States of
+     America, its territories and possessions, and upon its shore shall be in conformity with plans
+     approved by the Secretary of the Army, and the cables shall be moved or shifted by the Licensee
+     at its expense upon the request of the Secretary of the Army whenever he or she considers such
+     course necessary in the public interest, for reasons of national defense, or for the maintenance or
+     improvement of harbors for navigational purposes;
+
+          (2)  The Licensee shall at all times comply with any requirements of United States government
+     authorities regarding the location and concealment of the cable facilities, buildings, and
+     apparatus for the purpose of protecting and safeguarding the cables from injury or destruction by
+     enemies of the United States of America;
+
+          (3)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it does not enjoy and shall not acquire any right to handle traffic to
+     or from the United States, its territories, or its possessions unless such service be authorized by
+     the Commission pursuant to Section 214 of the Communications Act, as amended;
+
+          (4)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it shall not acquire or enjoy any right for the purpose of handling
+     or interchanging traffic to or from the United States, its territories, or its possessions to land,
+     connect, or operate cables or land lines, to construct or operate radio stations, or to interchange
+     traffic, that is denied to any other United States company by reason of any concession, contract,
+     understanding, or working arrangement to which the Licensee or any persons controlling it,
+     controlled by it, or under direct or indirect common control with it are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Federal Communications Commission shall
+     give prior consent in writing;
+
+          (6)  The Commission reserves the right to require the Licensee to file an environmental
+     assessment or environmental impact statement should it determine that the landing of the cables
+     at those locations and construction of necessary cable landing stations would significantly affect
+     the environment within the meaning of Section 1.1307 of the Commission's procedures
+     implementing the National Environmental Policy Act of 1969; this license is subject to
+     modification by the Commission upon its review of any environmental assessment or
+     environmental impact statement that it may require pursuant to its rules;
+
+          (7)  The Licensee shall maintain no less than a 50-percent ownership interest and voting control
+     share in the portion of the cables located in U.S. territorial waters and 100-percent ownership in
+     the cable stations in the United States and in the U.S. land portion of the cables from the stations
+     to the U.S. beach joint of the submerged portion of the cables;
+
+          (8)  The Licensee shall, by application, obtain Commission approval prior to the sale or transfer
+     to a foreign entity of five percent or more in the aggregate of direct or indirect ownership in the
+     licensee;
+
+          (9)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to section 2 of "An Act Relating to the Landing and Operation of Submarine Cables in
+     the United States," 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+          (10)  The Licensee shall notify the Commission in writing of the date on which the cable is
+     placed in service, and this license shall expire 25 years from such date, unless renewed or
+     extended upon proper application, and, upon expiration of this license, all rights granted under it
+     shall be terminated; and
+
+          (11)  The terms and conditions upon which this license is given shall be accepted by the Licensee
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+
+     16.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

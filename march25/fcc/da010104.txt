@@ -1,0 +1,165 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+GST Telecom Hawaii, Inc. and
+Time Warner Telecom of Hawaii, L.P.
+
+
+Application for Modification of License to
+Land and Operate the GST Interisland 
+Cable System 
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+                 SCL-MOD-20001025-00036
+
+
+
+
+
+
+
+
+             MODIFICATION OF CABLE LANDING LICENSE
+
+     Adopted:  January 16, 2001         Released:  January 17, 2001
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.In this Order, we modify the cable landing license for the GST
+Interisland Cable System held by GST Telecom Hawaii, Inc. (GST Hawaii) to
+add Time Warner Telecom of Hawaii, L.P. (Time Warner Hawaii) (collectively
+Applicants) as an additional party to the license.  The original license authorized
+GST Pacwest Telecom Hawaii, Inc., pursuant to the Cable Landing License Act,
+and Executive Order No. 10530, to land and operate the GST Interisland Cable
+System, a common carrier fiber optic submarine cable system extending
+between the Hawaiian Islands of Kauai, Oahu, Molokai, Lanai, Maui, and
+Hawaii.  The Commission subsequently granted the application of GST Pacwest
+Hawaii, Inc. for a pro forma transfer and assignment of the license to GST
+  Hawaii as part of a corporate reorganization.
+2.The Application requests authority to add Time Warner Hawaii as an additional party to the
+license.  Time Warner Telecom, Inc. has designated its subsidiary, Time Warner Hawaii, as the
+purchaser of GST's assets in Hawaii.  Time Warner Hawaii proposes to acquire 12 of the 24 fibers that
+are part of the GST Interisland Cable System connecting the islands of Kauai, Oahu, Maui, and Hawaii.
+Applicants assert that there is a difference between the description of the cable in the original license and
+the way the system was actually constructed, and have requested that the Commission's records be
+updated to reflect this difference.  Specifically, the two branching units of the system that connect the
+islands of Lanai and Molokai consist of eight fibers (four fiber pairs), not 12 fibers (six fiber pairs) as
+described in the original license.  The rest of the system, identified in the license as the "backbone" of
+the system, consists of 24 fibers (12 fiber pairs) which is consistent with the original license. The
+landing points are described in the license and remain unchanged.
+3.GST Hawaii and Time Warner Hawaii propose to each own and operate 12 fibers on the GST
+Interisland Cable System.  Specifically, Time Warner Hawaii will own 12 fibers, extending from Kauai
+(Wailua Golf Course) to Oahu (Makaha) to Oahu (Keawaula) to Oahu (Sandy Beach), to Maui
+(Mokapu), and from Maui to Hawaii (Spencer Beach), including ownership of the associated cable
+sheath;  and rights to access the GTE manholes and splice boxes at Wailua, Sandy Beach, Mokapu and
+Spencer Beach.  GST Hawaii will maintain ownership in the remaining fiber pairs along the routes
+mentioned above and will maintain complete ownership of the eight fibers on the branches connecting
+the islands of Lanai and Molokai to the GST Interisland Cable System.  The system, including the 12
+fiber pairs operated by Time Warner Hawaii, will continue to be operated on a common carrier basis. 
+4.GST Hawaii is a Hawaii corporation and is an indirect, wholly-owned subsidiary of GST
+Telecommunications, Inc., a Canadian corporation, which is a publicly held holding company. 
+According to the Application, GST is a facilities-based integrated communications service provider,
+currently offering voice, data, and Internet service throughout the Western United States.  Applicants
+assert GST holds authority to provide intrastate interexchange service in 49 states and intrastate local
+exchange service in 11 states.  GST also holds authority to provide interstate and international
+telecommunications services as a non-dominant common carrier pursuant to the authority of the
+                          Commission.
+5.Time Warner Hawaii is a Delaware limited partnership.  Time Warner Telecom Inc., holds a 99
+percent limited partnership interest in Time Warner Hawaii; the remaining one percent general
+partnership interest in Time Warner Hawaii is held by Time Warner Telecom General Partnership. 
+Applicants assert that Time Warner Hawaii and its affiliates currently provide local exchange and
+exchange access services as well as interexchange service.  Specifically, Time Warner Hawaii and its
+affiliates are authorized to provide intrastate telecommunications services in 13 states and have requests
+           for authority pending in 10 other states.
+6.Under Section 1.767(a)(8) of the Commission's rules, applicants are required to disclose their
+affiliations with foreign carriers.  Time Warner Hawaii has certified that it is neither a foreign carrier nor
+affiliated with a foreign carrier, as defined in Section 63.09 of the Commission's Rules.
+                       VII.Comments
+8.We placed the Application on public notice on November 1, 2000.  No comments were
+received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the Modification request. The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to approving the
+Applicants' request to add Time Warner Hawaii as an additional licensee to the cable landing license.
+                       IX.Discussion
+10.We grant the Applicants' request to modify the GST Interisland Cable System cable landing
+license to add Time Warner Hawaii as a licensee.  Applicants have asserted that the application is in the
+public interest because the proposed transaction will enable customers to continue to receive high-
+quality, competitively priced telecommunications services without interruption on the GST Interisland
+Cable System.  Applicants further assert that they are both nondominant Competitive Local Exchange
+Carriers in Hawaii, competing against the dominant local exchange provider, Verizon; that Verizon also
+owns a competing cable system; and that Time Warner Hawaii's proposed acquisition of GST Hawaii's
+     assets will help to ensure competition in the region.
+11.We conclude that adding Time Warner Hawaii to the cable landing license for the GST
+Interisland Cable System raises no competitive concerns, and does not provide a basis for altering the
+common carrier status of the cable.  Specifically, we conclude that Time Warner Hawaii's ownership of
+12 fiber pairs on the GST Interisland Cable System will not cause competitive concerns.  Accordingly,
+we find that grant of the Application is in the public interest.
+                   XII.Ordering Clauses
+10.Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the Application, File No. SCL-MOD-20001025-00036, IS
+GRANTED and the GST Interisland cable landing license is MODIFIED to:  (1) add Time Warner
+Hawaii as an additional licensee on the cable landing license (File No. SCL-95-003); and (2) correct the
+description of the cable to reflect the way in which the cable was actually constructed.  Specifically, the
+two branching units of the system that connect the islands of Lanai and Molokai consist of eight fibers
+(four fiber pairs), not 12 fibers (six fiber pairs) as described in the original license.
+                                
+11.This Modification of Cable Landing License does not modify any other terms or conditions
+                    imposed in the license.
+
+12.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the date
+of public notice of this Order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+
+

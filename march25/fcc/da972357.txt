@@ -1,0 +1,464 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+General Communication, Inc.          )           File No.  SCL-97-003
+                                     )           
+Application for a license to land and operate)
+in the United States a digital submarine cable)
+system extending between the Pacific )
+Northwest United States and Alaska   )
+
+
+                           CABLE LANDING LICENSE
+
+
+   Adopted:  November 7, 1997                      Released:  November 7, 1997
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+  1.    In this Order, we grant the application of General Communication, Inc. ("GCI")
+under the Cable Landing License Act for authority to land and operate a non-common carrier
+submarine fiber optic cable system to be called the "Alaska United Cable System" ("Alaska United")
+extending between the Pacific Northwest United States and Alaska.  We reject contentions that GCI
+should operate the cable system on a common carrier basis.
+
+  2.    We find that GCI does not plan to offer capacity on a common carrier basis, nor do
+circumstances warrant imposing such a condition on GCI.  We retain, however, the right to change
+GCI's regulatory status pertaining to the cable system to common carrier should conditions change in
+the future.  In addition, to help us determine whether a change is necessary, we impose a
+recordkeeping requirement on GCI.  We also find that GCI's proposed ownership and operation of
+the cable system does not make it a "telecommunications carrier" under the Telecommunications Act
+of 1996 ("1996 Act"), and thus its operation of the cable system is not subject to the requirements
+imposed by the 1996 Act on telecommunications carriers.  Accordingly, we grant GCI's application
+subject to the conditions listed below.  
+
+                             II.  Application
+
+  3.    GCI is a company organized and existing under the laws of Alaska.  GCI proposes to
+operate Alaska United as a non common carrier system in which capacity will not be sold or leased
+indifferently to the user public.  GCI plans to construct the cable in the summer of 1998.  
+
+  4.    Alaska United will consist of three undersea cable segments.  Each of the three
+segments will consist of a pair of fibers.  Segment 1 will extend between south central Alaska and the
+Pacific Northwest United States.  Segment 2 will extend between south central Alaska and Juneau,
+Alaska.  Segment 3 will extend between Juneau, Alaska and the Pacific Northwest United States. 
+GCI states that the need for fiber optic telecommunications services between Alaska and the Lower 48
+United States ("Lower 48") justifies the need for Alaska United in terms of additional capacity,
+redundancy, security, and restoration.  GCI states that Alaska United will significantly expand the
+fiber capacity connecting the Lower 48 by expanding the range of high speed digital services that will
+be available in the Alaska market.
+
+                              III.  Comments
+
+  5.    The application was placed on public notice on September 26, 1997.  Within the
+pleading cycle, Alascom, Inc. ("Alascom") and ATU Long Distance, Inc. ("ATU-LD") filed
+comments.  GCI filed reply comments to which ATU-LD replied.  After the close of the pleading
+cycle, ATU-LD filed a "Motion for 30 Day Period in Which to File Economic Evidence of Need for
+Safeguards Against Discrimination," which GCI opposed.  We also received and considered many ex
+parte filings.   
+  6.    Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the application.  The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to issuance of the cable
+landing license.
+
+                              IV.  Discussion
+
+  A.    Private Submarine Cable Policy
+
+  7.    GCI requests a license to land and operate a non-common carrier submarine cable
+system under the Cable Landing License Act and the Commission's private submarine cable policy. 
+In 1985, the Commission adopted its private submarine cable policy to promote competition in the
+provision of international transmission facilities.  Pursuant to this policy, the Commission has
+granted numerous licenses to land and operate private cable systems.    
+
+  8.    ATU-LD argues that the proposed application should be granted on a common carrier
+basis.  ATU-LD argues that GCI qualifies for such treatment under both the Commission's traditional
+NARUC I analysis as well as under the 1996 Act.  ATU-LD asserts that GCI's description of the
+types of services it will offer qualifies GCI as a "telecommunications carrier" under the 1996 Act. 
+
+  9.    Further, ATU-LD contends that alternative sources of capacity are unlikely to be
+available either in a timely fashion or at reasonable prices.  ATU-LD states that it has had "great
+difficulty" obtaining submarine cable capacity on the existing Alaska Spur submarine cable on the
+Alaska route and has filed a complaint with the Commission against Alascom, Inc., d/b/a AT&T
+Alascom, the allocator and a user of the Alaska Spur.  ATU-LD also contends that no fiber optic
+cable exists between the Lower 48 and the parts of Alaska that GCI proposes to serve (i.e., Juneau
+and Valdez) and that the satellite and terrestrial alternatives to fiber provide inferior quality and
+remain priced at a premium.  ATU-LD also argues that if the Commission grants GCI's application
+on a non-common carrier basis, the Commission should detail the conditions under which service can
+be provided.      
+
+  10.   A number of other commenters agree with ATU-LD.  They argue that GCI, as a
+carrier in Alaska, has the incentive and ability to engage in discriminatory practices.  To ensure fair
+competition on this route, the Commission should either regulate GCI as a common carrier or apply
+certain safeguards.  
+
+  11.   There is no dispute in the record that additional capacity is needed on this route.  GCI
+argues, however, that this fact alone does not require common carrier regulation of the proposed
+cable system.  GCI states that the Commission has previously determined the benefits of non-common
+carrier submarine cable facilities in the Alaska telecommunications market at the time it authorized the
+Alaska Northstar cable system.  GCI argues that no reasons exist for the Commission to change the
+determinations about the Alaska route that it recently made.  GCI contends that the Commission has
+a clear policy of the rights, duties, and obligations of non-common carrier submarine cable
+operators.  GCI also states that it does not qualify as a "telecommunications carrier" under the 1996
+Act because it intends to make capacity on Alaska United available only to a "significantly restricted
+class of users."  Finally, GCI argues that it must receive an authorization that "places [GCI] in the
+same competitive position" as Alaska Northstar Communications, L.L.C. ("ANC"), the licensee of
+another non-common carrier cable on this route.  If not, GCI argues it could suffer financial harm.
+
+  12.   In determining the appropriate regulatory status of the proposed cable, our first
+inquiry is whether GCI would be acting as a "telecommunications carrier" under the 1996 Act.  The
+1996 Act defines "telecommunications carrier" as "any provider of telecommunications services,
+except that such term does not include aggregators of telecommunications (as defined in section 226). 
+A telecommunications carrier shall be treated as a common carrier under this Act only to the extent
+that it is engaged in providing telecommunications services except that the Commission shall
+determine whether the provision of fixed and mobile satellite service shall be treated as common
+carriage."   "Telecommunications service" is defined as "the offering of telecommunications for a
+fee directly to the public, or to such classes of users as to be effectively available directly to the
+public, regardless of the facilities used."  Thus, we must determine in this case whether GCI will
+offer a telecommunications service for a fee to such class of users as to be "effectively available
+directly to the public."  
+
+  13.    The legislative history of the 1996 Act indicates that the definition of
+telecommunications services is intended to clarify that telecommunications services are common
+carrier services.  The 1934 Act defines "common carrier" as "any person engaged as a common
+carrier for hire, in interstate or foreign communication by wire . . . ."  The Commission's rules
+define a "communication common carrier" as "any person engaged in rendering communication for
+hire to the public" and the courts, including NARUC I, have held that the indiscriminate offering of
+a service to the public is an essential element of common carriage.  Thus, we look to precedent to
+determine if GCI will provide a telecommunications service for a fee to such class of users as to be
+"effectively available directly to the public."  
+
+  14.    In the NARUC I decision, the court applied a two-part test to determine when an
+operation should be classified as common carrier:  "[W]e must inquire, first, whether there will be
+any legal compulsion . . . to serve [the public] indifferently, and if not, second, whether there are
+reasons, implicit in the nature of . . . [the] operations to expect an indifferent holding out to the
+eligible user public."  Thus, for the second prong, we must determine whether GCI will make
+capacity available to the public indifferently.   
+
+  15.   In examining the first prong of the test, the Commission generally has focused on the
+availability of alternative common carrier facilities in assessing whether to require that a proposed
+cable be offered on a common carrier basis.  For example, in granting a non-common carrier cable
+landing license in the Optel decision, the Commission noted the availability of numerous terrestrial,
+microwave, and satellite common carrier facilities that provided cross-border services between the
+United States and Canada.
+
+  16.   We have recently concluded that there is sufficient availability of capacity on the
+proposed route of Alaska United.  South central Alaska is served by the Alaska Spur of the North
+Pacific Cable ("NPC") system, circuits on the Telstar 303 and Aurora 2 satellites, and terrestrial
+microwave service.  Also, we recently granted two licenses to ANC for the Northstar Cable System
+("Northstar") and the Northstar Cable System -- Extension ("Northstar Extension").  The Northstar
+will land in the Pacific Northwest United States, Juneau, and another point in south central Alaska. 
+The Northstar Cable System -- Extension will operate between Whittier and Valdez, Alaska. 
+Northstar has a planned capacity of approximately 5 Gbps.
+
+  17.   We do not find adequate record evidence to alter our determination about the current
+and planned capacity on the proposed route of Alaska United.  Commenters did argue that it is
+unclear "when or if [the Alaska Northstar cable system] will be constructed."  In light of the record
+in this proceeding, we believe this argument is speculative and not a basis to alter our previous
+finding.  ANC, the cable landing licensee for the Northstar cable system, has recently filed its precise
+landing points for the Northstar Extension.  In its letter, ANC states that "[t]he installation of the
+Northstar Cable System - Extension is presently scheduled for late-January 1998."  Accordingly,
+because of the sufficient availability of circuits, both actual and planned, along the proposed route of
+Alaska United, there is no public interest reason to require that it be operated on a common carrier
+basis.   
+
+  18.   Regarding the second prong of the test, GCI states that capacity will not be sold
+indifferently to the user public.  Instead, GCI states that it will make "individualized decisions in
+particular cases, whether and on what terms to deal," and will not undertake "to carry for all people
+indifferently."   Thus, there is no reason to expect that capacity in the proposed cable system would
+be held out to the public indifferently.  
+
+  19.   Accordingly, we conclude that it is appropriate to license Alaska United on a
+non common carrier basis.  In response to ATU-LD's argument that the details of providing non-
+common carrier service should be outlined, we do not see the need in this proceeding to once again
+detail the conditions when they are already articulated in several previous Commission decisions.  
+
+  20.   We emphasize that our decision to grant this cable landing license to GCI on a non-
+common carrier basis is predicated in part upon the current and planned facility alternatives on the
+route.  Because of these alternatives, carriers and users will have viable choices other than GCI's
+proposed system when seeking capacity.  Likewise, as the owner of a non-common carrier cable
+system, GCI will tailor its capacity offerings to individual customers.  We note, however, that we
+always have the ability to change the regulatory status of this cable and any other non-common carrier
+cables on the same route to common carrier if the public interest so requires.  Should conditions
+change for any reason, and the Alaska United cable becomes a potential bottleneck facility, we can
+exercise this option.  Our ability to change the regulatory status of a non-common carrier cable also
+remains available for redressing anticompetitive conduct, including any concerns raised about the
+ability of carriers to obtain capacity on a cable.  We can exercise our authority either based on our
+own motion or a carrier's complaint.  
+
+  21.    Based on the analysis above, we conclude that GCI will not offer capacity in Alaska
+United to the public on a common carrier basis, and that the public interest does not require that it do
+so.  Accordingly, we find that GCI will not provide a telecommunications service for a fee to such
+class of users as to be "effectively available directly to the public" and thus will not be a
+"telecommunications carrier" under the 1996 Act.  
+
+  B.     Universal Service Obligations 
+
+  22.    ATU-LD argues that GCI's description of its services to be supplied on Alaska United
+brings the proposed offerings "within the parameters of telecommunications services set forth in
+Section 54.703(a) which are subject to contribution requirements for the universal service support
+mechanisms."  ATU-LD argues that non-common carriers are obligated to contribute to the
+universal service programs.  ATU-LD also argues that, because one of GCI's senior officials has been
+named to the body that administers the universal service support mechanisms, GCI must contribute or
+a serious conflict of interest will arise.
+
+  23.    GCI replies that the operation of Alaska United does not "come within the ambit of
+the Commission's universal service contribution rules" because operation of the cable will be on a
+non-common carrier, non-retail basis.  GCI also notes that universal service will be supported by the
+retail traffic being carried by the various companies using Alaska United. 
+
+  24.    The issues raised by ATU-LD with regard to the obligation to contribute to the
+universal service fund are outside the scope of this proceeding.  The Commission, in another
+proceeding, has put in place a universal support system.  We note that GCI has filed its Universal
+Service Worksheet, FCC Form 457, with the Universal Service Administrative Company on
+September 1, 1997.  In the Universal Service Order, the Commission found that all
+telecommunications carriers that provide interstate telecommunications services and all providers of
+interstate telecommunications and all payphone service providers must contribute to the universal
+service fund on the basis of their end-user telecommunications revenues.  The Commission
+specifically found that private service providers that offer interstate services to others for a fee on a
+non-common carrier basis must contribute to the universal service fund.  We note that the Universal
+Service Order is currently pending on reconsideration and that GCI is subject to all Commission rules
+regarding universal service contributions.  
+  C.     Ownership and Landing Points
+
+  25.    GCI has provided the ownership information required by Sections 1.767(a)(6),
+63.18(e)(6), and 63.18(h) of the Commission's rules.  The applicant states that GCI, a company
+organized and existing under the laws of Alaska, will own the entire cable system, including plant and
+equipment.  All officers of GCI are U.S. citizens.  Six directors of GCI hold interlocking
+directorates.  With 19.39 percent, only MCI Telecommunications Corporation, a Delaware
+corporation, owns 10 percent or more of the equity of GCI. GCI has no foreign carrier affiliations. 
+Thus, no foreign ownership concerns are raised by the application, and we find that there is no
+reason to conduct an effective competitive opportunities analysis or any reciprocity analysis pursuant
+to Section 2 of the Cable Landing License Act.
+
+  26.    Consistent with prior decisions, we also find GCI's description that Alaska United will
+land in the Pacific Northwest, Juneau and south central Alaska to be sufficient to determine whether
+the proposed cable system would comply with the provisions of the Cable Landing License Act and
+Commission rules.  Pursuant to Section 1.767(a)(5) of the Commission's rules, however, GCI must
+provide a specific description of the landing locations, including a map, no later than ninety days
+prior to construction.  We condition this license upon final approval of the landing points.  The
+Commission will give public notice of this description, and grant of the license will be considered
+final unless we issue a notice to the contrary no later than sixty days after receipt of the specific
+description of the landing points.
+
+  D.     Safeguards 
+
+  27.    ATU-LD contends that GCI provides local and long-distance common carrier, cable
+television, and data communications services to more than 100,000 customers throughout Alaska. 
+ATU-LD also contends that GCI is the monopoly cable television provider in the major Alaska
+markets and that direct broadcast satellite ("DBS") is not a viable alternative.  ATU-LD argues that
+monopoly cable television ratepayers as well as local and long-distance customers should not be
+burdened with any costs associated with the construction and operation of Alaska United.  ATU-LD
+therefore requests that the Commission condition grant of GCI's authorization on a number of
+safeguards.  
+
+  28.    ANC argues that unless adequate safeguards are in place, GCI could overcharge its
+cable, long-distance, or common carrier customers and could therefore undercharge the customers of
+its cable system to the detriment of competitors.  ANC argues that the Commission should require
+structural (i.e., those proposed by ATU-LD) or non-structural (i.e., a separate set of accounts and
+separate financial books and records) safeguards.  ANC argues the greater protection would come
+from structural separation.  A number of other entities agree that the Commission should impose
+safeguards to prevent anticompetitive conduct, including cross-subsidization.  Alaska Network
+Services, Inc. ("ANS"), along with other commenters, argues that we should impose on GCI the same
+conditions that commenters argue we imposed on AT&T Submarine Systems, Inc. ("AT&T-SSI") in
+granting its cable landing license.  
+
+  29.    GCI responds that its cable television and common carrier operations have no bearing
+on the construction and operation of Alaska United.  Moreover, GCI argues that its cable television
+operations are governed by an extensive statutory and regulatory framework, and its long-distance
+services are regulated as non-dominant.
+
+  30.    We decline to impose the requested conditions on GCI.  The mere fact that GCI
+provides other telecommunications services does not warrant separation safeguards, particularly
+because GCI is regulated as non-dominant in its provision of telecommunications services.  In
+granting other non-common carrier submarine cable landing licenses, we have not imposed structural
+separation requirements.  We also note that we did not impose on AT&T-SSI proposed conditions that
+a party argued would prevent anticompetitive conduct. 
+
+  31.    At the time of our AT&T-SSI Order, AT&T-SSI was an affiliate of AT&T Corp.  In
+response to assertions in that record that AT&T-SSI could discriminate in favor of its common carrier
+affiliates, AT&T-SSI stated that "all customers, whether affiliated with AT&T-SSI or not, would be
+charged the current market price for capacity in the proposed system."  AT&T-SSI also stated that
+"failure to do so would violate the Commission's affiliate transaction and IRU rules."
+
+  32.    In finding that AT&T-SSI could operate the system on a non-common carrier basis,
+we noted that notwithstanding AT&T-SSI's ability as a non-common carrier to discriminate among
+customers, AT&T-SSI did not have sufficient incentive to engage in anticompetitive conduct because
+of the availability of competitive alternatives to AT&T-SSI's cable system.  In addition, we declined
+to impose a condition that would have required AT&T-SSI to sell capacity to all common carriers at
+the same per circuit rate charged to affiliated carriers and on a nondiscriminatory basis.  We also
+declined to require AT&T-SSI to file all agreements with affiliated AT&T carriers with the
+Commission and serve copies on all facilities-based carriers and to cost justify rates charged to third
+parties.  We found that such conditions were not justified and stated that if we did impose such
+conditions we would be ruling, in effect, that the cable system should be operated on a common
+carrier basis, a finding that was contrary to our analysis.  
+
+  33.    In order to improve our ability to monitor for any anticompetitive activity on Alaska
+United, however, we will impose a recordkeeping requirement on GCI.  We order GCI to maintain
+complete records including the percentage of circuits conveyed on the cable, to whom capacity is sold
+and on what terms and conditions.  These records must be made available to the Commission upon
+request.  This condition, combined with our ability to change the regulatory status of this cable, as
+discussed above, addresses the anticompetitive concerns of the commenters.    
+
+  E.     Environmental Impact
+
+  34.    ATU-LD argues that because GCI has not yet determined the specific landing points
+for Alaska United, it is not appropriate for the Commission to conclude that the requested
+authorization would not significantly affect the environment.  Therefore, ATU-LD requests that the
+Commission condition its approval to require GCI to make appropriate submissions regarding
+environmental impacts when GCI identifies the final landing points.
+
+  35.    GCI responds that under Section 1.767(a)(5) of the Commission's rules, GCI will file
+a specific description of the landing points of Alaska United no later than 90 days prior to
+construction of the cable facility.  GCI also states that it will comply with all federal and state
+environmental regulatory requirements in connection with obtaining final approval for the landing
+points.
+
+  36.    Based on the information provided by the GCI and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant
+of the requested authorization would not significantly affect the environment.  Consequently, at this
+time GCI is not required to submit an environmental assessment, and this application is categorically
+excluded from environmental processing.  As stated above, however, we condition this license upon
+final approval of the landing points.  If necessary, we will address significant environmental impacts
+after GCI identifies the final landing points.
+  F.     Timing
+
+  37.    Some concern was expressed in the record about the opportunity for comment in this
+proceeding.  On October 24, 1997, ATU-LD filed a motion requesting a 30 day extension "in which
+to submit economic evidence supplementing its legal analysis."  ATU-LD argues that it needs more
+time to develop evidence that GCI has an economic incentive to charge discriminatory rates.  GCI
+responds that ATU-LD, as well as other commenters, have had an ample opportunity to present their
+arguments.
+
+  38.    We deny ATU-LD's request.  The main concern raised in this proceeding is that GCI
+will have the incentive and ability to engage in anticompetitive conduct by denying competing carriers
+access to capacity on Alaska United.  Our recordkeeping requirement combined with our ability to
+reclassify the cable from non-common carrier to common carrier status, if necessary, will help ensure
+that GCI does not engage in antidiscriminatory behavior.  Accordingly, we do not believe that
+granting ATU-LD's motion is necessary.  
+
+                              V.  Conclusion
+
+  39.    We grant GCI's application for authority to land and operate a non-common carrier
+fiber optic submarine cable extending between the Pacific Northwest United States and Alaska,
+subject to the conditions listed below.
+
+                           VI.  Ordering Clauses
+
+  40.    Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE General Communication, Inc. a license to
+land and operate the Alaska United Cable System, a non common carrier cable system consisting of
+submarine fiber optic submarine cables (with an initial system capacity of 2.5 Gbps and a potential
+system capacity of 10 Gbps) extending between south central Alaska and the Pacific Northwest United
+States, south central Alaska and Juneau, Alaska, and Juneau, Alaska and the Pacific Northwest United
+States.  This grant is subject to all rules and regulations of the Federal Communications Commission;
+any treaties or conventions relating to communications to which the United States is or may hereafter
+become a party; any action by the Commission or the Congress of the United States rescinding,
+changing, modifying, or amending any rights accruing to any person hereunder; and the following
+conditions:
+
+  (1)  The location of the cable system within the territorial waters of the United States of
+  America, its territories and possessions, and upon its shore shall be in conformity with plans
+  approved by the Secretary of the Army, and the cables shall be moved or shifted by the
+  Licensee at its expense upon the request of the Secretary of the Army whenever he or she
+  considers such course necessary in the public interest, for reasons of national defense, or for
+  the maintenance or improvement of harbors for navigational purposes;
+
+  (2)  The Licensee shall at all times comply with any requirements of United States
+  government authorities regarding the location and concealment of the cable facilities,
+  buildings, and apparatus for the purpose of protecting and safeguarding the cables from injury
+  or destruction by enemies of the United States of America;
+
+  (3)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+  manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+  control of the Licensee to any persons, unless the Federal Communications Commission shall
+  give prior consent in writing;
+
+  (4)  The Licensee shall notify the Commission in writing of the precise locations at which the
+  cable will land no later than ninety days prior to commencing construction of the cable
+  landing station at those locations.  The Commission will give public notice of the filing of
+  these descriptions, and grant of this license will be considered final unless the Commission
+  issues a notice to the contrary no later than sixty days after receipt of the specific description
+  of the landing points;
+
+  (5)  The Licensee shall maintain complete records of the percentage of circuits conveyed on
+  the cable system, to whom capacity is sold, and on what terms and conditions.  The Licensee
+  shall make these records available to the Commission upon request;  
+
+  (6)  The Commission reserves the right to change the regulatory status of the cable system to
+  common carrier in the future if it finds the public interest so requires;
+
+  (7)  The Commission reserves the right to require the Licensee to file an environmental
+  assessment or environmental impact statement should it determine that the landing of the
+  cables at those locations and construction of necessary cable landing stations would
+  significantly affect the environment within the meaning of Section 1.1307 of the
+  Commission's procedures implementing the National Environmental Policy Act of 1969; this
+  license is subject to modification by the Commission upon its review of any environmental
+  assessment or environmental impact statement that it may require pursuant to its rules;
+
+  (8)  The Licensee shall maintain no less than a 50-percent ownership interest and voting
+  control share in the portion of the cables located in the U.S. territorial waters and 100-percent
+  ownership in the cable stations in the United States and in the U.S. land portion of the cables
+  from the stations to the U.S. beach joint of the submerged portion of the cables;
+
+  (9)  The Licensee shall, by application, obtain Commission approval prior to the sale or
+  transfer to a foreign entity of five percent or more in the aggregate of direct ownership in the
+  licensee;
+  (10)  This license is revocable by the Commission after due notice and opportunity for
+  hearing pursuant to Section 2 of "An Act Relating to the Landing and Operation of Submarine
+  Cables in the United States," 47 U.S.C.  35, or for failure to comply with the terms of the
+  authorizations;
+
+  (11)  The Licensee shall notify the Commission in writing of the date on which the cable is
+  placed in service, and this license shall expire 25 years from such date, unless renewed or
+  extended upon proper application, and, upon expiration of this license, all rights granted
+  under it shall be terminated; and
+
+  (12)  The terms and conditions upon which this license is given shall be accepted by the
+  Licensee by filing a letter with the Secretary, Federal Communications Commission,
+  Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+
+  41.    IT IS ORDERED THAT the "Motion of ATU-Long Distance for 30 Day Period in
+Which to File Economic Evidence of Need for Safeguards Against Discrimination" IS DENIED.
+
+  42.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications
+for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed
+within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+  FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+  Diane J. Cornell
+  Chief, Telecommunications Division
+  International Bureau

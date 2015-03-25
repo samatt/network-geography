@@ -1,0 +1,135 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*****************************************************************
+********
+             
+
+                         NOTICE
+
+
+*****************************************************************
+********
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed
+too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory
+\pub\Public_Notices\Miscellaneous.
+
+*****************************************************************
+********
+                                Before the 
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C. 20554       
+                                                       DA 96-1874
+In the matter of                   )
+                                   )
+WINSTAR TELECOMMUNICATIONS, INC.   )
+                                   )
+Application for global authority   ) File No. I-T-C-96-424
+to operate as an international     )
+facilities-based and resale        )
+carrier.                           )
+
+                   ORDER, AUTHORIZATION AND CERTIFICATE
+
+Adopted: November 6, 1996          Released: November 12, 1996   
+
+By the Chief, Telecommunications Division:
+
+          1.   Upon consideration of the above-captioned
+uncontested application, filed pursuant to Section 214 of the
+Communications Act of 1934, as amended, we find that the present
+and future public convenience and necessity require a grant
+thereof.
+
+          2.   Accordingly, it is ordered that application File
+No. I-T-C-96-424 IS GRANTED, and WinStar Telecommunications, Inc.
+(WinStar) is authorized to:
+
+     a.   provide global facilities-based services, pursuant to
+     Section 63.18(e)(1) of the Commission's Rules, 47 U.S.C.
+     63.18(e)(1), between the United States and international
+     points not specifically excluded by the Commission's
+     Exclusion List, via U.S. authorized international facilities
+     not excluded by the Exclusion List;
+
+     b.   provide international switched and private line
+     services by the resale of international switched and private
+     line services of other authorized international carriers,
+     pursuant to Section 63.18(e)(2) of the Commission's Rules,
+     47 U.S.C. 63.18(e)(2).
+ 
+          3.    IT IS FURTHER ORDERED that our authorization of
+WinStar to provide private lines between the United States and
+international points as part of its authorized services is
+limited to the provision of such private lines only between the
+United States and an authorized international point-- that is,
+private lines which originate in the United States and terminate
+in an authorized international point or which originate in an
+authorized international point and terminate in the United
+States.  In addition, WinStar may not -- and WinStar's tariff
+must state that its customers may not -- connect private lines
+provided over these facilities to the public switched network at
+either the U.S. or foreign end, or both, for the provision of
+international switched basic services, unless authorized to do so
+by the Commission upon a finding that the destination country
+affords resale opportunities equivalent to those available under
+U.S. law, in accordance with Foreign Carrier Entry Order, 11 FCC
+Rcd 3873 (1995). The limitations in this paragraph are subject to
+the exception contained in Section 63.18(e)(4)(ii) of the
+Commission's Rules, 47 C.F.R. 63.18(e)(4)(ii).  
+
+          4.   IT IS FURTHER ORDERED that the applicant shall
+file annual circuit status reports in accordance with the
+requirements set forth in Rules for Filing of International
+Circuit Status Reports, CC Docket No. 93-157, Report and Order,
+10 FCC Rcd 8605 (1995).
+
+          5.   IT IS FURTHER ORDERED that this authorization is
+issued subject to the terms and conditions of any license for the 
+CANUS-1  cable system issued herein under the Act entitled "An
+Act relating to the landing and operation of submarine cables in
+the United States," 47 U.S.C.  34-39.
+
+          6.   IT IS FURTHER ORDERED that grant of this
+application is subject to all the conditions set forth in Section
+63.21 of the Commission's Rules, 47 C.F.R. 63.21.
+
+          7.  This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this order (see Section
+1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Diane J. Cornell
+                         Chief, Telecommunications Division
+                         International Bureau                    
+             

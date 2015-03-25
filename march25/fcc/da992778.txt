@@ -1,0 +1,329 @@
+  ********************************************************    
+                                         NOTICE
+    ********************************************************
+                                
+                This document was converted from
+           WordPerfect or Word to ASCII Text format.
+                                
+   Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+             will not show up in this text version.
+                                
+All text attributes such as bold, italic, underlining, etc. from the
+    original document will not show up in this text version.
+                                
+        Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+           will not be preserved in the text version.
+                                
+        If you need the complete document, download the
+  WordPerfect version or Adobe Acrobat version, if available.
+                                
+*****************************************************************
+                                                           Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+  
+In the Matter of                             )
+                                   )
+                                   )
+ATLANTICA USA LLC                  )
+                                   )
+                                   )    File No.  SCL-LIC-19990602-00010
+Application For a License to Land and Operate          )
+in the United States a Private Fiber Optic        )    
+Submarine Cable System Extending Between          )
+The United States, Venezuela, Brazil              )
+and Bermuda (The Atlantica-1 Network)        )   
+   
+   
+                     CABLE LANDING LICENSE
+   
+
+     Adopted:  December 10, 1999                           Released:  December 10, 1999
+   
+
+By the Chief, Telecommunications Division:
+   
+                        I.  Introduction
+   
+     1.   In this Order, we grant the application of Atlantica USA LLC (Atlantica) under the Cable
+Landing License Act for authority to land and operate a private fiber optic submarine cable system to be
+called "Atlantica-1," extending between the United States, Venezuela, Brazil and Bermuda. Atlantica
+states that the system will be operated on a non common carrier basis, consistent with the Commission's
+longstanding private submarine cable policy.  For the reasons discussed below, we find that Atlantica has
+provided sufficient information under our rules to comply with the Cable Landing License Act and that it
+would serve the public interest to grant the cable landing license subject to the conditions listed below.
+   
+                         II.Application
+   
+     2.   On June 2, 1999, Atlantica filed its application for authority under the Cable Landing
+License Act to land and operate the "Atlantica-1" cable.  The Application states that Atlantica is wholly-
+owned by Atlantica Network (Bermuda) Ltd. (Atlantica Network Bermuda), a Bermuda company which, in
+turn, is a wholly-owned subsidiary of GlobeNet Communications Group Limited (GlobeNet).  The
+Application states that GlobeNet is incorporated as an exempt company under the laws of Bermuda and is
+majority owned and controlled by Canadian interests.  GlobeNet also owns TeleBermuda International
+Limited (TBI) which, along with its subsidiary TeleBermuda International LLC (TBI LLC), owns and
+operates the BUS-1 cable extending between Tuckerton, New Jersey, and Bermuda.
+
+     3.   The International Bureau placed the application on public notice on June 18, 1999.  On
+July 22, 1999, Atlantica filed an Amendment to its application disclosing that, on July 14, 1999, Atlantic's
+parent company, GlobeNet, completed an equity and debt financing to provide all of the funding necessary
+to implement the Atlantica-1 cable.  The Amendment attaches revised ownership information on Atlantica,
+to replace the ownership information attached to the original application.  The amendment reflects the fact
+that two U.S. companies now hold interests in GlobeNet, along with a Canadian interest.
+   
+     4.   According to the Application, the proposed Atlantica-1 Network will be composed of a
+fiber optic cable network in a self-healing ring configuration with landing points at the following locations:
+Tuckerton, New Jersey; Boca Raton, Florida; Punta Gorda, Venezuela; Fortaleza, Brazil; Rio de Janeiro,
+Brazil; and St. David's, Bermuda.  Atlantica states that the Atlantica-1 Network is designed as two
+interconnected rings, with the Primary Ring to connect Tuckerton, Boca Raton, Punta Gorda, Fortaleza,
+and Bermuda, and the Rio Ring to connect Fortaleza and Rio de Janeiro.  The Application states that
+Atlantica-1 will be built using advanced fiber optic cable technology combined with dense wavelength
+division multiplexing (DWDM) channel technology and is designed as a self-healing ring to provide 640
+Gbps (4096 STM-1s) of fully-restored service capacity, or 1.28 Tbps of total capacity over four fiber
+pairs.  According to the Application, the system will initially operate at 20 Gbps (128 STM-1s) of fully-
+restored capacity and will be upgraded incrementally according to demand. 
+   
+     5.   The Application states that the Atlantica-1 Network will provide direct connectivity
+between the United States, Bermuda, Venezuela, and Brazil, with the following segments: (1) Segment 1
+between Tuckerton, New Jersey and Boca Raton, Florida; (2) Segment 2 between Boca Raton, Florida and
+Punta Gorda, Venezuela; (3) Segment 3 between Punta Gorda, Venezuela and Fortaleza, Brazil;
+(4) Segment 4 between Fortaleza, Brazil and St. David's, Bermuda; (5) Segment 5 between St. David's
+Bermuda and Tuckerton, New Jersey (currently the BUS-1 cable); and (6) Segments 6 and 7 between
+Fortaleza, Brazil and Rio de Janeiro, Brazil.
+   
+                         III.  Comments
+   
+     6.   As noted above, the International Bureau issued a public notice of the Atlantica-1 private
+submarine cable application on June 18, 1999.  We received no comments on the application.  Pursuant to
+Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive Order No.
+10530, we informed the Department of State of the application and the amendment.  On December 7,
+the Department of State, after consulting with the National Telecommunications and Information
+Administration (NTIA) and the Department of Defense, advised the Commission that that it has no
+objection to issuance of the cable landing license.                        IV.  Discussion
+     
+
+     A.        Private Submarine Cable Policy
+
+     7.   Atlantica states that the Atlantica-1 Network will be operated on a non common basis
+consistent with the Commission's longstanding private submarine cable policy, and that, as a non-common
+carrier system, capacity on the Atlantica-1 Network will be sold in bulk on an indefeasible right of use or
+lease basis, and capacity will not be sold indifferently to the user public.  Atlantica requests a license
+under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non common carrier cables where: (1) there is no legal compulsion to serve the
+public indifferently; and (2) there are no reasons implicit in the nature of the operations to expect an
+indifferent holding-out to the eligible user public.
+   
+     8.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on whether an applicant will be able to exercise market power because of the lack of
+alternative facilities.  Where there are sufficient alternatives, the Commission has found that the licensee
+will lack market power and will not be able to charge monopoly rates for cable capacity.  The Commission
+has found that, in those circumstances, the public interest would be served by allowing a submarine cable
+to be offered on a non-common carrier basis.
+     
+     9.   No one has suggested that the public interest requires Atlantica-1 to be operated on a
+common carrier basis.  Atlantica is a foreign carrier incorporated in Bermuda and is affiliated with TBI, a
+foreign carrier in Bermuda, one of the destination countries for Atlantica-1.  The Application states that
+TBI is licensed in Bermuda to provide international telecommunications between Bermuda and foreign
+points, but that it is not licensed to provide local or domestic service in Bermuda.  The Application states
+that, although TBI is a licensed carrier in Bermuda, it lacks sufficient market power in Bermuda to affect
+competition adversely in the U.S. market.  Specifically, the Application states that TBI lacks 50 percent
+market share in the international transport and the local access markets in Bermuda, and, therefore that TBI
+is presumptively classified as nondominant.  Atlantica has certified that it does not have an affiliation
+with any other foreign carrier other than TBI.
+
+     10.  We agree with Atlantica that, given TBI's lack of market power, TBI is presumptively
+classified as nondominant under the Commission's rules, and we have previously held so.  Moreover,
+Atlantica is not affiliated with any foreign carrier other than TBI.
+
+     11.  In addition, we note that Atlantica asserts that there are sufficient existing and planned
+facilities on the routes to prevent it from exercising market power in offering services to the public. 
+Atlantica asserts that there are a number of existing and planned common carrier and private cable systems
+in this region, including the following cables extending to Venezuela and to Brazil: 
+(1) Americas I; (2) ARCOS;  (3) Americas II;  (4) South American Crossing (SAC); and (5) South
+American-1 (SAM-1).
+
+     12.  The Application also mentions the Project Oxygen cable,  extending to all three
+destinations for the proposed Atlantica cable (Bermuda, Venezuela, and Brazil).  While the Application
+does not list the landing points for the Project Oxygen cable, this information is available in an Order,
+released March 15, 1999, in which the International Bureau's Telecommunications Division granted Project
+Oxygen (USA) LLC (O sub2 (USA)) authority under the Cable Landing License Act to land and operate a
+private fiber optic submarine cable system extending between the United States and various international
+points including Brazil, Venezuela, and Bermuda.  In addition, other cables serving Bermuda include: (1)
+the Atlantic Express II cable system, a digital fiber optic submarine cable system authorized by the
+Commission to operate on a private carrier basis between the U.S., Bermuda, and the UK (with no
+Commission record of any construction yet); (2) the "Bermuda branch" of CANUS-1, extending from a
+CANUS-1 branching unit in the Atlantic Ocean to a landing point in Bermuda, which provides services
+between the United States, Bermuda, and Canada  (the CANUS-1 cable is currently in service on a
+private carrier basis); (3) a spur of the Private Transatlantic Cable System (PTAT-1, a Commission-
+authorized private cable in service since 1989); and (4) the Caribbean Atlantic Cable System (CARAC, a
+Commission-authorized common carrier cable in service since 1989).  We note that the BUS-1 cable, a
+private cable currently selling capacity, also extends to Bermuda but is owned and operated by TBI and
+TBI LLC, affiliates of the Applicant.
+
+     13.  Given Atlantica's ownership structure, and the unopposed evidence regarding alternative
+facilities, we conclude that Atlantica will not be able to exercise market power in offering services to the
+public.  Accordingly, we find that it would not serve the public interest to impose common carrier
+regulation on the operations of Atlantica-1 at this time.  We note, however, that we always have the ability
+to impose common carrier or common-carrier-like obligations on the operations of this or any other
+submarine cable system if the public interest so requires.  Furthermore, we have always maintained the
+authority to classify facilities as common carrier facilities subject to Title II of the Communications Act if
+the public interest requires that the facilities be offered to the public indifferently.
+   
+     14.  Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  As noted above,
+Atlantica states that capacity will not be sold indifferently to the user public.  We find that Atlantica will
+not offer capacity in Atlantica-1 to the public on a common carrier basis and that the public interest does
+not require that they do so.  Accordingly, we conclude that it is appropriate to license Atlantica-1 on a non-
+common carrier basis.  We also find that Atlantica will not provide a telecommunications service for a fee
+to such a class of users as to be "effectively available directly to the public" and thus will not be a
+"telecommunications carrier" under the Telecommunications Act of 1996.
+     
+     B.   Ownership and Landing Points
+   
+     15.  Atlantica has provided the ownership information required by sections  1.767(a)(6),
+63.18(e)(6), and 63.18(h) of the Commission's rules.  The Application states that the U.S. portion of the
+Atlantica-1 Network will consist of the landing stations at Tuckerton, New Jersey, and Boca Raton,
+Florida, as well as the portion of the cable from these landing stations to the limit of U.S. territorial
+waters.  The Application states further that Applicant's affiliate, TBI LLC, currently leases space in the
+Tuckerton, New Jersey cable landing station for operation of the BUS-1 Cable, and that Applicant will
+either expand that lease to serve as a landing station for Segment 1 as well as Segment 5, or will construct
+a new landing station in Tuckerton.  The Application also states that Applicant will build a cable station
+in Boca Raton, Florida, and that Applicant and TBI LLC will own all terminal equipment in these two
+landing stations and the portion of the cable from these landing stations to the limit of U.S. territorial
+waters.  According to Applicant, Atlantica Network Bermuda, the Applicant's parent, will own the
+international portion of the cable, except with respect to Segment 5, which will continue to be owned by
+TBI and TBI LLC.  The Application states that the cable landing stations in Venezuela and Brazil, and
+the portion of the cable in the territorial waters of those countries will be owned either by Atlantica
+Network Bermuda or its wholly-owned subsidiaries in those countries.  The Application also states that
+TBI will continue to lease the cable landing station in St. David's, Bermuda, will lease additional space in
+Bermuda, and will continue to own the portion of the cable in Bermudian territorial waters.
+
+     16.  The Application states that Atlantica-1 will land at Tuckerton, New Jersey; Boca Raton,
+Florida; Punta Gorda, Venezuela; Fortaleza, Brazil; Rio de Janeiro, Brazil; and St. David's, Bermuda.
+We find the applicant's description of the likely landing points to be sufficient to determine that the
+proposed cable system will comply with the provisions of the Cable Landing License Act and Commission
+rules.  Section 1.767(a) of the Commission's rules permits applicants in an initial application to provide a
+general description of the landing points.  Under Section 1.767(a)(5), an applicant must file a specific
+description of the landing points, including a map, no later than 90 days prior to construction at that
+landing point.  The Commission will give public notice of the filing of the specific description, and grant
+of the license will be considered final with respect to that landing point unless the Commission notifies the
+applicant to the contrary no later than 60 days after receipt of the specific description of the landing
+points.
+   
+     C.   Environmental Impact
+   
+     17.  The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore should be
+expressly excluded from our procedures implementing the National Environmental Policy Act of 1969. 
+Therefore, the Applicant is not required to submit an environmental assessment, and this application is
+categorically excluded from environmental processing.   
+
+                         V.  Conclusion
+
+     18.  We grant Atlantica's application for authority to land and operate a non-common carrier
+fiber optic submarine cable extending between the United States, Venezuela, Brazil and Bermuda, subject
+to the conditions listed below. 
+     
+                     VI.  Ordering Clauses
+   
+     19.  Consistent with the foregoing, we hereby GRANT AND ISSUE Atlantica USA LLC
+(Applicant) a license to land and operate a non common carrier fiber optic submarine cable system using
+advanced fiber optic cable technology combined with dense wavelength division multiplexing channel
+technology, and designed as a self-healing ring to provide 640 Gbps (4096 STM-1s) of fully-restored
+service capacity, or 1.28 Tbps of total capacity over four fiber pairs (and to initially operate at 20 Gbps,
+128 STM-1s, of fully-restored capacity and to be upgraded incrementally according to demand) extending
+between landing points at cable stations in Tuckerton, New Jersey; Boca Raton, Florida; Punta Gorda,
+Venezuela; Fortaleza, Brazil; Rio de Janeiro, Brazil; and St. David's, Bermuda, under the provisions of the
+Cable Landing License Act and Executive Order No. 10530.  This grant is subject to all rules and
+regulations of the Federal Communications Commission (Commission); any treaties or conventions relating
+to communications to which the United States is or may hereafter become a party; any action by the
+Commission or the Congress of the United States rescinding, changing, modifying or amending any rights
+accruing to any person hereunder; and the following conditions: 
+
+     (1)       The location of the cable system within the territorial waters of the United States, its
+territories and possessions, and upon its shore shall be in conformity with plans approved by the Secretary
+of the Army, and the cable shall be moved or shifted by the Applicant at its expense upon the request of the
+Secretary of the Army whenever he or she considers such course necessary in the public interest, for
+reasons of national defense, or for the maintenance or improvement of harbors for navigational purposes;
+     
+     (2)  The Applicant shall at all times comply with any requirements of U.S. government
+authorities regarding the location and concealment of the cable facilities, buildings, and apparatus for the
+purpose of protecting and safeguarding the cable from injury or destruction by enemies of the United
+States;
+
+     (3)  The Applicant or any persons or companies controlling it, controlled by it, or under direct
+or indirect common control with it do not enjoy and shall not acquire any right to handle traffic on a
+common carrier basis to or from the United States, its territories, or its possessions unless such service be
+authorized by the Commission pursuant to Section 214 of the Communications Act, as amended;
+     
+     (4)       The Applicant or any persons or companies controlling it, controlled by it, or under direct
+or indirect common control with it shall not acquire or enjoy any right to land, connect, or operate
+submarine cables that is denied to any other United States company by reason of any concession, contract,
+understanding, or working arrangement to which the Applicant or any persons controlling it, controlled by
+it, or under direct or indirect common control with it are parties;
+     
+     (5)       Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of control of the
+Applicant to any persons, unless the Federal Communications Commission shall give prior consent in
+writing;
+
+     (6)       The Applicant shall notify the Commission in writing of the precise locations at which the
+cable will land.  Such notification with respect to any given landing location shall occur no later than ninety
+days prior to commencing construction at that landing location.  The Commission will give public notice of
+the filing of each description, and grant of this license will be considered final with respect to that landing
+location unless the Commission issues a notice to the contrary no later than sixty days after receipt of the
+specific description;
+
+     (7)       The Commission reserves the right to require the Applicant to file an environmental
+assessment or environmental impact statement should it determine that the landing of the cable at those
+locations and construction of necessary cable landing stations would significantly affect the environment
+within the meaning of Section 1.1307 of the Commission's procedures implementing the National
+Environmental Policy Act of 1969; this license is subject to modification by the Commission upon its
+review of any environmental assessment or environmental impact statement that it may require pursuant to
+its rules;
+
+     (8)       Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order
+No. 10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+ 214, the Commission reserves the right to impose common carrier regulation or other regulation
+consistent with the Cable Landing License Act on the operations of the cable system if it finds that the
+public interest so requires;
+
+     (9)  The Applicant shall maintain de jure and de facto control of the U.S. portion of the cable
+system, including the cable landing stations in the United States, sufficient to comply with the requirements
+of this license;  
+
+     (10)      This license is revocable by the Commission after due notice and opportunity for hearing
+pursuant to Section 2 of  "An Act Relating to the Landing and Operation of Submarine Cables in the
+United States," 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+     
+     (11)      The Applicant shall notify the Commission in writing of the date on which the cable is
+placed in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+proper application, and, upon expiration of this license, all rights granted under it shall be terminated; and
+   
+     (12) The terms and conditions upon which this license is given shall be accepted by the
+Applicant by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+20554, within 30 days of the release of the cable landing license.
+   
+     20.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 of the Commission's rules,
+or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may
+be filed within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+
+
+
+   
+   
+                              FEDERAL COMMUNICATIONS COMMISSION 
+   
+   
+   
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

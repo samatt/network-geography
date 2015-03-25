@@ -1,0 +1,203 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                  
+Before the
+   FEDERAL COMMUNICAT           IONS COMMISSION
+Washington, D.C. 2                0554
+                  DA 96-1233
+
+In the Matter of  )
+                  )     
+AT&T CORP.        )
+                  )
+MCI INTERNATIONAL, INC. )
+                  )
+THE ST. THOMAS AND SAN JUAN   )
+TELEPHONE COMPANY, INC. )     
+                  )     File No. S-C-L-96-003
+TELEF NICA LARGA DISTANCIA    ) 
+DE PUERTO RICO, INC.    )
+                  )     
+Joint Application for a License to Land and      )
+Operate a Digital Submarine Cable System   ) 
+Between the United States Mainland         )     
+and the Bahamas, the BAHAMAS II Cable      )
+System            )     
+
+                  
+
+CABLE LANDING LICENSE
+
+                  Adopted:  August 2, 1996             Released:  August 6, 1996
+                                     
+By the Chief, Telecommunications Division:
+
+      1.     In this Order, we grant the joint application of AT&T Corp. (AT&T), MCI
+International, Inc. (MCII), The St. Thomas and San Juan Telephone Company, Inc. (STSJ), and
+Telef¢nica Larga Distancia de Puerto Rico, Inc. (TLD) under the Cable Landing License Act for
+authority to land and operate a digital submarine cable (the BAHAMAS II cable system) extending
+between the United States Mainland and the Commonwealth of the Bahamas.  We find that the Joint
+Applicants have provided sufficient information to comply with the Cable Landing License Act, and
+therefore grant the cable landing license, subject to the conditions below.
+
+      2.    On March 29, 1996, the Joint Applicants filed their application.  It was placed on
+public notice on April 19, 1996.  No comments were received.
+
+      3.    Each of the Joint Applicants is a corporation.  AT&T is organized under the laws of
+the State  of New York; MCII is organized under the laws of the State of Delaware; STSJ is organized
+under the laws of the U.S. Virgin Islands; and TLD is organized under the laws of the Commonwealth
+of Puerto Rico.  Each of the Joint Applicants is a common carrier subject to the Communications Act
+of 1934, as amended.  All of the principal officers of the Joint Applicants are citizens of the United
+States.
+
+      4.     The proposed BAHAMAS II Cable System will extend from a landing point at Vero
+Beach, Florida to Nassau, the Bahamas, with an intermediate point at Eight Mile Rock, the Bahamas,
+for the purpose of lightwave amplification.  BAHAMAS II will connect with the domestic networks in
+the continental United States and the Bahamas.  The proposed cable system will consist of four
+segments:  A, B, C and D.  Segments A will be located in U.S. territory and will be provided and
+owned by AT&T. 
+
+      5.     Segment A will consist of a cable station at Vero Beach, Florida.  Segment B will 
+consist of a structure to house amplification equipment at Eight Mile Rock, the Bahamas.  Segment C
+will consist of the cable station at Nassau, the Bahamas.  Segment D will comprise the whole of the
+submarine cable linking Segments A, B and C, and consist of Subsegments D1, D2 and D3. 
+Subsegment D1 will consist of five fiber pairs linking the cable station at Vero Beach with the passive
+branch joint, a submerged device composed of a housing and any associated equipment to serve as a
+junction point for the undersea cable.  Subsegment D2 will consist of five fiber pairs linking the
+passive branch joint to the structure at Eight Mile Rock, and five fiber pairs linking back to the
+passive branch joint.  Subsegment D3 will consist of five fiber pairs linking the passive branch joint to
+the cable station at Nassau.
+ 
+      6.     The Joint Applicants state that BAHAMAS II will consist of five optical fiber pairs.  
+Initially, only one fiber pair will be equipped and will operate at 2.5 gigabits per second (Gbps).  The
+capacity of each fiber pair will be comprised of sixteen 155 megabits per second (Mbps) Basic System
+Modules (BSMs) with each BSM containing sixty-three Minimum Investment Units (MIUs), for a total
+capacity, on each fiber pair, of 1008 MIUs.  For voice telephone requirements, digital circuit
+multiplication equipment can be applied to derive nominally five times the original number of voice
+paths.  BAHAMAS II will be connected to suitable facilities which will provide access to the domestic
+networks in each country or territory.  In addition, BAHAMAS II will be extended by suitable
+facilities to the terminals of other international communications systems, including other cable
+terminals and satellite earth stations.  This will enable BAHAMAS II to be used for services between
+and among the U.S. Mainland, the Bahamas and points beyond.
+
+      7.     Consistent with our decisions regarding TLD's participation in the COLUMBUS II,
+AMERICAS-1 and ANTILLAS cable systems, we do not require TLD to make a reciprocity showing
+under the Cable Landing License Act.  Based on TLD's foreign affiliate certification, TLD does not
+have any affiliates in the Bahamas, and thus we decline to require such a showing in this case.
+      
+      8.    Pursuant to our obligations under 47 U.S.C.  34-39, the Department of State has
+been notified of this application.  After having coordinated with the National Telecommunications and
+Information Administration and the Department of Defense, the Department of State stated that they
+have no objection to the issuance of the cable landing license for the BAHAMAS II.
+
+      9.    Based on the information provided by the Joint Applicants, we conclude that the grant
+of the requested authorization will not have a significant effect on the environment as defined in
+Section 1.1307 of the Commission's Rules and Regulations implementing the National Environmental
+Policy Act of 1969, 42 U.S.C.  4321-4335.  Consequently, no environmental assessment is required
+to be submitted with these applications under Section 1.1311 of the Commission's Rules.
+
+      10.   We find that the proposed BAHAMAS II cable system is in the public interest. 
+Therefore, we grant to the Joint Applicants a cable landing license for the BAHAMAS II cable system.
+
+                             ORDERING CLAUSES
+
+      11.   Consistent with the foregoing, the Commission hereby GRANTS AND ISSUES, under
+the provisions of the Cable Landing License Act, 47 U.S.C.  34-39, and Executive Order 10530, 3
+C.F.R.  1954-1958, to the Joint Applicants, AT&T, MCII, STSJ and TLD a license to land and
+operate one high capacity digital submarine cable system between and among Vero Beach, Florida and
+Nassau, the Bahamas, comprised of five optical fiber pairs, each having a capacity of sixteen 155
+Mbps BSM with each BSM containing sixty-three MIUs for a total capacity, on each fiber pair, of
+1008 MIUs.  This license is subject to all rules and regulations of the Federal Communications
+Commission; any treaties or conventions relating to communications to which the United States is or
+may hereafter become a party; any action by the Commission or the Congress of the United States
+rescinding, changing, modifying or amending any rights accruing to any person hereunder; and the
+following conditions:
+
+      (1) The location of the cable within the territorial waters of the United States of America, its
+      territories and possessions, and upon its shore, shall be in conformity with plans approved by
+      the Secretary of the Army, and the cable shall be moved or shifted by the Licensees at their
+      expense upon the request of the Secretary of the Army whenever he or she considers such
+      course necessary in the public interest, for reasons of national defense, or for the maintenance
+      or improvement of harbors for navigational purposes;    
+
+      (2) The Licensees shall at all times comply with any requirements of United States
+      Government authorities regarding the location and concealment of the cable facilities,
+      buildings, and apparatus with a view of protecting and safeguarding the cable from injury or
+      destruction by enemies of the United States of America;
+
+      (3) The Licensees or any persons or companies directly or indirectly controlling it or
+      controlled by it, or under direct or indirect common control with it, shall not acquire or enjoy
+      any right, for the purpose of handling or interchanging traffic to or from the United States, its
+      territories or possessions, to land, connect or operate cables or landlines, to construct or
+      operate radio stations, or to interchange traffic, which is denied to any other United States
+      carrier by reason of any concession, contract, understanding, or working arrangement to which
+      the Licensees or any persons controlling it or controlled by it are parties;    
+
+      (4) Neither this license nor the rights granted herein, shall be transferred, assigned, or in any
+      manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+      control of the Licensees to any persons, unless the Federal Communications Commission shall
+      give prior consent in writing;
+
+      (5) The Licensees shall maintain 100 percent ownership in the cable stations in the United
+      States and in the U.S. land portion of the cable from the station to the U.S. beach joint of the
+      submersible portion of the proposed cable;
+  
+      (6) This license is revocable after due notice and opportunity for hearing by the Commission
+      in the event of breach or nonfulfillment of any requirements specified in Section 2 of "An Act
+      Relating to the Landing and Operation of Submarine Cables in the United States," 47 U.S.C.
+      Sections 34-39, or for failure to comply with the terms of the authorizations;  
+
+      (7) The Licensees shall notify the Commission in writing of the date on which the cable is
+      placed in service and this license shall expire 25 years from such date, unless renewed or
+      extended upon proper application and, upon expiration of this license, all rights granted under
+      them shall be terminated; and
+
+      (8) The terms and conditions upon which this license is given shall be accepted by the
+      Licensees by filing a letter with the Secretary, Federal Communications Commission,
+      Washington, D.C. 20554, within 30 days of the release of this cable landing license.
+      
+      12.   This Order is issued under Section 0.261 of the Commission's Rules
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's Rules may be filed within 30 days of the date of
+public notice of this order (see 47 C.F.R 1.4(b)(2)).
+                  
+                  FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                  Diane J. Cornell
+                  Telecommunications Division
+                  International Bureau

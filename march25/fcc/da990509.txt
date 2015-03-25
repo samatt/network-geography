@@ -1,0 +1,259 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+MAC LANDING CORP.                  )
+                                   )
+Application for a license to land and operate in the   )    File Nos.  SCL-LIC-19981030-00023
+United States a private fiber optic submarine cable    )            SCL-LPN-19981106-00027
+     
+system extending between the United States   )
+mainland and the U.S. Virgin Islands              )
+
+                      CABLE LANDING LICENSE
+
+Adopted:  March 15, 1999                           Released:  March 18, 1999
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.   In this Order, we grant the application of MAC Landing Corp. under the Cable Landing
+License Act for authority to land and operate a private fiber optic submarine cable system to be called
+"Mid-Atlantic Crossing" or "MAC," extending between the U.S. mainland and St. Croix, U.S. Virgin
+Islands.  This system will be operated on a non common carrier basis.  We find that MAC Landing Corp.
+has provided sufficient information under our rules to comply with the Cable Landing License Act and that
+it would serve the public interest to grant the cable landing license subject to the conditions listed below. 
+
+                        II.  Application 
+
+     2.   MAC Landing Corp., a Delaware corporation, is an indirect wholly owned subsidiary of
+Mid-Atlantic Crossing Ltd., a Bermuda company, which, through a series of intermediate holding
+companies, is an indirect wholly-owned subsidiary of Global Crossing, a Bermuda company which is
+majority owned by U.S. interests.  MAC Landing Corp. will own all U. Ltd.S. cable terminal equipment
+and the U.S. territory portions of MAC from the landing stations to the points that are one-half mile beyond
+the U.S. territorial limit.  Mid-Atlantic Crossing Ltd. will own the remaining portions of MAC.  
+
+     3.   The proposed MAC system will connect: (1) Brookhaven, New York and Hollywood,
+Florida; (2) Hollywood, Florida and St. Croix, U.S. Virgin Islands; and  (3) St. Croix, U.S. Virgin Islands
+and Brookhaven, New York.  MAC will be a state-of-the-art, optically amplified fiber system, consisting of
+two optical fiber pairs, one for service and one for protection, each employing wavelength division
+multiplexing.  The system will be constructed in a self-healing ring architecture.  The wet plant design will
+initially support 10 gigabits per second (Gbps) of capacity on each fiber pair between terminal stations for
+service.  Upon completion of the system's ring configuration, the capacity will be 20 Gbps, upgradeable to
+a minimum of 40 Gbps using dense wavelength division multiplexing.  
+
+     4.   As shown in Exhibit A of the application that is attached to this order, MAC will consist
+of three segments.  Segment 1 will include the whole of the submarine cable system between and including
+the System Interface at the cable station in Brookhaven New York and the System Interface at the cable
+station in Hollywood, Florida.  Segment 2 will include the whole of the submarine cable system between
+and including the System Interface at the cable station in Hollywood, Florida and the System Interface at
+the cable station in St. Croix, U.S. Virgin Islands.  Segment 3 will include the whole of the submarine cable
+system between and including the System Interface at the cable station in St. Croix, U.S. Virgin Islands and
+the System Interface at the cable station in Brookhaven, New York.  The Minimum Capacity Unit (MCU)
+will be an STM-1 (155 Mbps) on Segment 1.  Additionally, capacity will be available for sale at the DS-3
+level (45 Mbps) on Segments 2 and 3.  Each segment is capable of supporting 64 STM-1 MCUs, or as
+applicable to Segments 2 and 3, 192 DS-3 MCUs or a combination of STM-1 and DS-3 MCUs not to
+exceed 10 Gbps.  The capacity of MAC will be sold or leased to users on a non-tariffed, private carriage
+basis.  Operation of MAC is anticipated to begin in December 1999.
+
+                          III.  Comments
+
+     5.   The application was placed on public notice on November 13, 1998.  Tyco Submarine
+Systems Ltd. (Tyco) filed comments in support of the application.  We received no other comments.
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the application.  The Department of State, after
+coordinating with the National Telecommunications and Information Administration and the Department of
+Defense, stated that it has no objection to issuance of the cable landing license.
+
+                         IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     6.   MAC Landing Corp. proposes to operate MAC as a non common carrier submarine cable
+system in which capacity will not be offered indifferently to the user public.  MAC Landing Corp. requests
+a license under the Commission's private submarine cable policy, which is intended to promote competition
+in the provision of international transmission facilities.  Pursuant to this policy, the Commission has
+authorized non common carrier cables where: (1) there is no legal compulsion to serve the public
+indifferently; and (2) there are no reasons implicit in the nature of the operations to expect that the
+applicant would make capacity available to the public indifferently and indiscriminately.
+
+     7.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on whether an applicant will be able to exercise market power because of the lack of
+alternative facilities.  Where there are sufficient alternatives, the Commission has found that the licensee
+will lack market power and will not be able to charge monopoly rates for cable capacity.  The Commission
+has found that, in those circumstances, the public interest would be served by allowing a submarine cable
+to be offered on a non-common carrier basis.
+
+     8.   No one has suggested that the public interest requires MAC to be operated on a common
+carrier basis.  MAC does not land in any foreign countries.  In light of the record before us, we find that it
+would not serve the public interest to impose common carrier regulation on the operations of MAC at this
+time.  We note, however, that we retain the authority to impose common carrier or common-carrier-like
+obligations on the operations of this or any other submarine cable system if the public interest so requires. 
+Furthermore, we have always maintained the authority to classify facilities as common carrier facilities
+subject to Title II of the Communications Act if the public interest requires that the facilities be offered to
+the public indifferently.
+
+     9.   Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  MAC Landing Corp.
+states that capacity will not be sold indifferently to the user public.  Rather, capacity will be assigned
+pursuant to individualized decisions, and bulk capacity will be offered to a specific class of eligible users. 
+Users of bulk capacity will be able to obtain capacity on the system on the basis of indefeasible rights of
+user (IRUs) or leases of capacity.  We therefore conclude that MAC Landing Corp. will operate MAC on a
+non-common carrier basis. 
+
+     10.  We conclude that MAC Landing Corp. will not offer capacity in MAC to the public on a
+common carrier basis and that the public interest does not require that they do so.  Accordingly, we
+conclude that it is appropriate to license MAC on a non-common carrier basis.  We also find that the
+applicant will not provide a telecommunications service for a fee to such class of users as to be "effectively
+available directly to the public" and thus will not be "telecommunications carriers" under the 1996 Act.  
+
+     B.   Ownership and Landing Points
+
+     11.  MAC Landing Corp. has provided the ownership information required by Section
+63.18(e)(6), 1.767(a)(6), and Section 63.18(h) of the Commission's rules.  MAC Landing Corp. is
+ultimately controlled by Global Crossing Ltd.  MAC Landing Corp. will lease space in the building that
+houses the Brookhaven cable station and will lease or own the buildings that house the St. Croix and
+Hollywood cable stations.  MAC Landing Corp. will own all U.S. cable terminal equipment and the U.S.
+territory portions of MAC from the landing stations to the points that are one-half mile beyond the U.S.
+territorial limit.  Mid-Atlantic Crossing Ltd. will own the remaining portions of MAC.  The Applicant
+states that during the pendency of the application, it will become affiliated within the meaning of Section
+63.18(h)(1)(A) of the Commission's rules with  a Japanese foreign carrier, Global Access Ltd., through
+Global Crossing Ltd.'s proposed minority investment in Global Access Ltd.  Global Access Ltd. is a start-
+up venture that was recently granted a Japanese Type-1 Telecommunications License.  Because the
+proposed cable does not land in Japan we find that this affiliation does not affect grant of the Cable
+Landing License.
+
+          12.  MAC Landing Corp. has complied with Section 1.767(a)(5) of the Commission's
+rules by providing specific information on the cable landing locations: Brookhaven, New York; Hollywood,
+Florida; and St. Croix, U.S. Virgin Islands.  This license is therefore not subject to any further public
+notice or Commission approval of the cable system's landing points pursuant to the procedure in Section
+1.767(a)(5) of the Commission's rules.
+
+     C.   Environmental Impact
+
+     13.  Based on the information provided by the applicant and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we find that action on the
+present application would not significantly affect the environment according to Section 1.1307(a) or (b) of
+the Commission's rules.  Therefore, pursuant to Section 1.1306 of the Commission's rules, we conclude
+that grant of the requested license would not significantly affect the environment.  Consequently, MAC
+Landing Corp. is not required to submit an environmental assessment, and this application is categorically
+excluded from environmental processing.
+
+                          V.  Conclusion
+
+     14.  We grant MAC Landing Corp.'s application for authority to land and operate a non-
+common carrier fiber optic submarine cable extending between the United States mainland and St. Croix,
+U.S. Virgin Islands, subject to the conditions listed below.
+
+                      VI.  Ordering Clauses 
+
+     15.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE MAC Landing Corp. a license to land and
+operate a non common carrier fiber optic cable system  (consisting of two optical fiber pairs, one for
+service and one for protection, with 20 Gbps capacity upon completion, and upgradeable to 40 Gbps)
+extending between the United States mainland and St. Croix, U.S. Virgin islands.  This grant is subject to
+all rules and regulations of the Federal Communications Commission (Commission); any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party; any
+action by the Commission or the Congress of the United States rescinding, changing, modifying, or
+amending any rights accruing to any person hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States, its territories
+     and possessions, and upon its shore shall be in conformity with plans approved by the Secretary of
+     the Army, and the cable shall be moved or shifted by the Licensee at its expense upon the request
+     of the Secretary of the Army whenever he or she considers such course necessary in the public
+     interest, for reasons of national defense, or for the maintenance or improvement of harbors for
+     navigational purposes;
+
+          (2)  The Licensee shall at all times comply with any requirements of U.S. government authorities
+     regarding the location and concealment of the cable facilities, buildings, and apparatus for the
+     purpose of protecting and safeguarding the cable from injury or destruction by enemies of the
+     United States;
+
+          (3)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it do not enjoy and shall not acquire any right to handle traffic on a
+     common carrier basis to or from the United States, its territories, or its possessions unless such
+     service be authorized by the Commission pursuant to Section 214 of the Communications Act, as
+     amended;
+
+          (4)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it shall not acquire or enjoy any right for the purpose of handling or
+     interchanging traffic to or from the United States, its territories, or its possessions to land, connect,
+     or operate cables or land lines, to construct or operate radio stations, or to interchange traffic, that
+     is denied to any other United States company by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it, controlled by it, or
+     under direct or indirect common control with it are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Commission shall give prior consent in writing;
+
+          (6)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose additional common carrier or common-carrier-
+     like regulation on the operations of the cable system if it finds that the public interest so requires;  
+
+          (7)  The Commission reserves the right to require the Licensee to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cable at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+
+          (8)  The Licensees shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+          (9)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to comply
+     with the terms of the authorizations;
+
+          (10)  The Licensee shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (11)  The terms and conditions upon which this license is given shall be accepted by the Licensee
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+
+     16.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

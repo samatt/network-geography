@@ -1,0 +1,524 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+                        )
+In Re Application of    )
+                        )
+KPN US Inc.             )       
+                        )
+Application for Authority under )        File No. ITC-97-382
+Section 214 of the Communications                )
+Act of 1934, as amended, to Provide              )
+Facilities-based Services and to Resell          )
+Interconnected Private Lines to Provide  )
+International Switched Service between   )
+the United States and the Netherlands            ) 
+                        )
+Application for Authority to Resell              )       File No. ITC-97-383
+International Message Telephone Service  )
+and International Non-Interconnected             )
+Private Lines  between the United                )
+States and the Netherlands      )         
+                        
+
+ORDER, AUTHORIZATION AND CERTIFICATE
+
+                        
+                Adopted:  January 29, 1998               Released:  January 30, 1998
+
+By the Chief, International Bureau:
+
+                             I.  INTRODUCTION
+
+      1.      With this Order, we increase competition in international telecommunications markets
+by granting KPN US Inc. ("KPN") authority to provide facilities-based services and resell
+interconnected private lines ("ISR") between the United States and the Netherlands.  We also grant
+KPN authority to resell non-interconnected international private lines  ("non-interconnected private
+line resale") and international message telephone service ("IMTS resale") between the United States
+and the Netherlands.  We conclude that the Netherlands offers U.S. carriers effective competitive
+opportunities to provide all these services. 
+
+                              II.  BACKGROUND
+
+      2.      KPN is a wholly-owned subsidiary of PTT Telecom BV ("PTT Telecom").  PTT
+Telecom is a Netherlands corporation that provides domestic and international telecommunications
+services in the Netherlands.   KPN requests Section 214 authority to provide international facilities-
+based services and ISR between the United States and the Netherlands and non-interconnected private
+line resale and IMTS resale services.  We placed each application on public notice.  AT&T, Sprint, 
+Esprit, and Viatel filed petitions to deny and KPN filed an opposition to these petitions.  Sprint,
+Esprit and AT&T filed replies to the KPN Opposition.  
+
+      3.       We examine KPN's applications to provide service between the United States and the
+Netherlands under the framework established in the Foreign Carrier Entry Order.  In that order, the
+Commission determined that foreign carriers seeking to provide U.S. international facilities-based,
+non-interconnected private line resale and IMTS resale services to destination countries in which they
+or an affiliate have market power must demonstrate that such countries offer "effective competitive
+opportunities" ("ECO") for U.S. carriers to offer like services at the time service is authorized or in
+the near future.  The Commission also determined that it would require any carrier seeking to
+provide ISR to demonstrate that the destination country offers effective competitive opportunities to
+U.S. carriers to provide ISR at the time the application is granted ("equivalency").   The
+Commission also determined that it would continue to consider other public interest factors that may
+weigh in favor of, or against, granting the application.   
+
+                              III. DISCUSSION
+
+      A.      EFFECTIVE COMPETITIVE OPPORTUNITIES AND EQUIVALENCY               
+
+      4.      We apply an ECO analysis where the applicant is affiliated with a carrier that has
+market power.  KPN does not contest the fact that PTT Telecom has market power and that an ECO
+analysis is required.  We therefore find it necessary to apply an ECO analysis.  Under the ECO and
+equivalency test for facilities-based and resale entry, we examine first the legal, or de jure, ability of
+U.S. carriers to enter the destination foreign country and provide international facilities-based service
+or the particular type of resale services sought by the applicant.  Next, we focus on the actual
+conditions of entry, including the terms and conditions of interconnection, competitive safeguards,
+and the regulatory framework.  We focus on the overall effect of these four elements on the
+opportunities for viable operations as a facilities-based or resale carrier in the foreign market.   
+
+              1.      Legal Ability to Provide Services
+
+      5.      The first factor we consider is the legal ability of U.S. carriers to provide the relevant
+service in the destination market where the applicant's affiliate possesses market power. 
+
+      6.       KPN states that the Netherlands provides U.S. carriers with the legal right to offer
+competitive international services.  U.S. carriers can provide non-interconnected IPLs, IMTS resale
+service and ISR between the United States and the Netherlands, as well as facilities-based services.  
+Under Articles 7 and 14 of the Dutch Telecommunications Act (the "Dutch Telecom Act"), PTT
+Telecom's exclusive right to provide public switched voice service expired on July 1, 1997, thus
+opening every aspect of the Dutch telecommunications market to competition.   Applicants seeking
+to provide international facilities-based service in the Netherlands must register but no authorization is
+required to provide any resale service.   There are no limitations on the number of licenses for
+infrastructure services.   Registration requirements in the Netherlands are the same
+for foreign- and Netherlands-based applicants and the Netherlands has no foreign ownership
+restrictions.   Presently, three nationwide facilities-based competitors to PTT Telecom have
+commenced service:  Telfort (a joint venture of British Telecommunications plc and the Netherlands
+railway company), Enertel BV of Utrecht  (a consortium of electricity utilities and cable companies)
+and WorldCom.  As of August 25, 1997, 21 authorized carriers were providing international services. 
+These included 11 non-Dutch service providers and eight facilities-based carriers.  
+
+      7.      AT&T questions whether the Netherlands legislation, in fact, meets the de jure prong
+of the ECO test, stating that it is "interim legislation."  AT&T also argues that the legislation is
+insufficient because it only allows two initial nationwide infrastructure licenses to compete with PTT
+Telecom.  Finally, AT&T contends that we should wait to "see how competition develops" before
+approving a license application.   KPN argues that the limitation on infrastructure licenses is no
+barrier to entry since facilities-based competition is already allowed.   The difference between an
+infrastructure license and an authorization to provide facilities-based service is that the infrastructure
+license also provides the licensee with specific rights of way.  KPN argues that the fact that service
+providers are currently building networks in the Netherlands shows that the distinction is not
+important.
+
+      8.      We agree with KPN that there are no legal barriers to entry in the Netherlands market
+for facilities-based or any type of resale service, including ISR.  We applaud the actions of the
+Netherlands in removing restrictions on the provision of voice telephony effective July 1, 1997, six
+months earlier than required by European Union directives or its commitments resulting from the
+WTO Basic Telecom Agreement.   We find that the current Dutch legislation allows provision of all
+types of resale and facilities-based services.  The limitation in current legislation on two infrastructure
+licensees affects only the ability to obtain rights of way.  It has not kept new entrants from providing
+facilities-based service; there are currently three nation-wide facilities-based service providers and
+eight facilities-based international services providers.  We therefore conclude that there are no legal
+barriers to entry into the Netherlands market.
+
+              2.      Interconnection
+
+      9.      The second factor we examine as part of the ECO/equivalency test is whether
+reasonable and nondiscriminatory charges, terms and conditions exist for interconnection to a foreign
+carrier's domestic facilities for termination and origination of international services, and whether
+adequate means exist to monitor and enforce these conditions, such as a requirement for published
+charges.  
+
+      10.     We conclude that the framework for interconnection established by current Dutch
+legislation and regulations and the fact that there are currently competitors operating in the
+Netherlands establishes that interconnection is available on reasonable, nondiscriminatory terms and
+conditions.  PTT Telecom is obliged by statute to offer interconnection to infrastructure licensees on a
+cost-oriented and nondiscriminatory basis.  In addition, guidelines published by the Minister of
+Transport, Public Works and Water Management ("Transport") require PTT Telecom to interconnect
+with any party offering voice telephony services on a nondiscriminatory, cost-oriented basis.  The
+guidelines prohibit PTT Telecom from refusing to negotiate interconnection terms except in limited
+circumstances.  In addition, PTT Telcom must publish a "standard" supply of interconnection services
+and rates charged for those services; set nondiscriminatory conditions in interconnection agreements;
+keep the rates for interconnection proportionate to the costs; and provide the regulator, on request,
+with any information regarded as relevant.  In the event of a dispute between the parties over an
+interconnection matter, the regulator may intervene.  If the parties cannot reach an agreement on the
+terms and conditions of interconnection, Article 4c of the Act allows them to submit the matter to the
+Minister of Transport for judgment.  The Minister has eight weeks to issue a determination, which
+can be extended an additional four weeks.  KPN points out that PTT Telecom has completed
+interconnection agreements with the two national facilities-based operators, Enertel and Telfort, with
+several regional facilities-based operators and a mobile telephony operator.  Agreement was reached
+with Telfort after the Minister of Transport intervened and ordered PTT Telecom to lower its rates. 
+Contrary to AT&T's contention that this interconnection dispute proves PTT Telecom's rates are
+unreasonable, the decision of the Minister of Transport ordering PTT Telecom to reduce its rates
+shows that there are adequate means to monitor and enforce interconnection requirements.
+
+      11.     Parties opposing the applications argue that interconnection, in fact, is not available
+on cost-based, nondiscriminatory terms and conditions.  AT&T and Esprit claim that PTT Telecom's
+interconnection rates will not be officially established until sometime in 1998 since it must complete
+an accounting system and submit it to the regulator.   KPN states categorically, however, that the
+final rates will apply retroactively and KPN will have to compensate its customers for the difference
+in tariffs.   We agree with KPN that interconnection rates are available at cost-based,
+nondiscriminatory terms and conditions.
+
+      12.     Viatel argues that there is no way to verify that the interconnection rates published by
+PTT Telecom are being applied on a nondiscriminatory basis.   We agree with Viatel that all
+interconnection agreements should be publicly available.  It is not sufficient to simply publish
+reference interconnection terms and conditions.  We note, however, that PTT Telecom's published
+rates compare favorably with those of other carriers recently authorized to provide service to the
+United States.  In addition, other aspects of the Netherlands' interconnection regime help protect
+against discriminatory conduct and weigh in favor of finding that the Netherlands satisfies this factor
+of the Commission's ECO/equivalency standard. These include the fact that there is an independent
+regulatory body which oversees interconnection and is charged with ensuring nondiscriminatory
+treatment of competitors.  In the event of a dispute over interconnection terms or conditions, or if
+the regulator determines that PTT Telecom is not fulfilling its obligations, it has authority to act.  The
+regulator can also impose terms and conditions if the parties cannot agree on their own.   
+
+      13.     Viatel also contends that PTT Telecom does not satisfy the interconnection component
+of the ECO analysis because it delayed providing capacity to Viatel, refused to provide Viatel with
+normal interconnection rates and required a bank guarantee.  These actions by PTT Telecom,
+however, took place prior to July 1, 1997, when PTT Telecom had no interconnection obligations. 
+Viatel presents no evidence that such problems have recurred.
+
+      14.     We do not find that other arguments raised to support the notion that interconnection
+is not currently available and enforceable are valid.  Esprit argues that interconnection charges and
+tariffs are excessive, non-transparent, discriminatory and not reviewable by the regulator in the
+Netherlands.   It cites as examples an activation charge which favors nation-wide facilities-based
+carriers over smaller new entrants; failure to allow interconnection at lower level switches, forcing
+new entrants to use and pay for more of PTT Telecom's network than they need; higher tariffs for
+call origination than call termination; and imposition of penalties if a carrier deviates from its
+forecasted interconnection capacity requirements.  In addition, Esprit states that PTT Telecom
+discriminates against small market entrants by offering interconnection services only via dedicated
+trunk groups and favors its affiliate, Unisource, by providing some services only to Unisource and not
+others.  
+.
+      15.     KPN points out, however, that current legislation and Ministry guidelines give all
+service providers the right to obtain from PTT Telecom interconnection at cost-based,
+nondiscriminatory tariffs, even at points other than those offered to most users.  Ministry guidelines,
+issued after public consultations, incorporate the principles of non-discrimination, cost-orientation,
+unbundling and transparency.  The guidelines, based on public comment, prohibit PTT Telecom from
+including the costs for the access network in setting charges for termination, with the result that call
+termination costs less than call origination.  The regulator also reviews tariffs for private line and
+IMTS resale and other tariffs are subject to dispute resolution by the regulator.  Finally, PTT
+Telecom has waived for two years any penalty for inaccurate traffic forecasts by new entrants, such
+as Esprit.
+
+      16.     Esprit has described a number of problems with accessing PTT Telecom's network,
+such as access to dedicated transport facilities and lower level switches, different activitation charges
+and provision of bulk discounts to large carriers.  We note that Esprit has informed the Commission
+that PTT Telecom is addressing Esprit's concerns in good faith.   In addition, we do not agree that
+the fact that PTT Telecom imposes different activation charges and provides bulk discounts to large
+carriers invalidates our conclusion that interconnection is available on nondiscriminatory terms. 
+KPN states that interconnection is available at any one of 20 access points and the interconnection
+testing charge is cost-based.  Due to cost considerations, the fee is less for testing at additional access
+points.  The Dutch regulator has ordered PTT Telecom to offer unbundled access to the local loop. 
+ In addition, U.S. carriers have several options for obtaining access to PTT Telecom's network and
+have access to networks of PTT Telecom's competitors.   If a carrier chooses PTT Telecom, the
+carrier will pay a cost-based rate approved by the regulator.  In addition, there are a number of
+carriers providing both non-interconnected private lines and IMTS resale services.  
+
+      17.       Finally, we do not agree with Esprit that the method of resolving interconnection
+disputes gives PTT Telecom an incentive to implement unreasonable tariffs, terms and conditions.  
+The dispute settlement system established by Dutch law and regulation appears to be effective and
+does not favor PTT Telecom.  As noted above, the system has already produced a decision ordering
+PTT Telecom to reduce its rates.  In addition, the time frame for resolution of disputes -- a maximum
+of 12 weeks -- appears reasonable to us.   In sum, we conclude that interconnection in the
+Netherlands appears to be available on cost-based, nondiscriminatory terms and conditions.
+
+              3.      Competitive Safeguards.  
+
+      18.     The third factor we examine is whether safeguards exist in the Netherlands to protect
+against anticompetitive practices.  The safeguards we consider important include:  (1) existence of
+cost-allocation rules to prevent cross-subsidization; (2) timely and nondiscriminatory disclosure of
+technical information needed to use, or interconnect with, carriers' facilities; and (3) protection of
+carrier and customer proprietary information.
+
+              a.      Cost Allocation Rules
+
+      19.     KPN states that the Netherlands provides competitive safeguards to protect against
+anticompetitive conduct.  It refers to a ministerial Telecommunications General Directive Decree
+("BART"), which prohibits PTT Telecom from cross-subsidizing any other activities with its
+mandatory telecommunications services and requires PTT Telecom to establish a cost accounting
+system which must be approved by the Minister of Transport.  The system is subject to an annual
+audit.  Regulations applicable to PTT Telecom require it to separate its financial accounts and to
+establish an allocation system for its costs and revenues.  Given that rules have been adopted and no
+party disputes their adequacy, we find that cost allocation rules exist in the Netherlands to protect
+against cross-subsidization. 
+
+              b.      Disclosure of Network Information
+
+      20.     PTT Telecom is required by regulation to publish information regarding the technical
+characteristics, tariffs and terms of delivery of its services.  In addition, technical information is
+disclosed through publication of standard interconnection terms and conditions.  The withholding of
+such information would be actionable under Dutch competition law, if a competitor had grounds to
+claim that such conduct impaired its ability to compete effectively.  Esprit argues that PTT Telecom
+does not provide technical information in a timely and nondiscriminatory manner and often uses its
+control over such information to the disadvantage of new entrants.  The only example that Esprit
+provides relates to an access code that, according to KPN, did not exist at the time of Esprit's
+request.  This type of information is now available.  The obligations of PTT Telecom to disclose
+network information, together with the fact that there is no evidence in the record that carriers are not
+currently receiving the network information required for interconnection, lead us to conclude that
+there are adequate requirements in the Netherlands to ensure that carriers receive the technical
+information required for interconnection.
+
+              c.      Safeguards for Carrier and Customer Proprietary Information
+
+      21.     KPN contends that Netherlands law protects customer proprietary network
+information, as do the terms and conditions of PTT Telecom's interconnection agreements.  The
+BART requires PTT Telecom to ensure the privacy of the information it obtains in the course of
+providing service.  In addition, the Global Data Protection Act contains general data protection
+principles, limiting use of data to ways that are compatible with the original purpose of collecting the
+data.  Again there is no evidence in the record that Netherlands law is insufficient to safeguard
+carrier and customer proprietary information.  
+
+      22.     In sum, we find that the competitive safeguards implemented in the Netherlands are
+sufficient to protect U.S. carriers against anticompetitive practices, and to ensure cost allocation,
+timely and nondiscriminatory disclosure of network technical information and protection of carrier
+and customer proprietary information against unauthorized disclosure.  
+
+              4.      Regulatory Framework. 
+
+      23.      The fourth factor to be reviewed under the ECO/equivalency analysis is whether
+there is an effective regulatory framework in the Netherlands to develop, implement and enforce legal
+requirements, interconnection arrangements and other competitive safeguards.  The focus of this
+factor is on whether there is separation between the foreign regulator and the operator of international
+facilities-based services, and whether there are fair and transparent regulatory procedures in the
+destination market.  Esprit argues that the regulator has only been in existence since August 1, 1997
+and that its powers will not be sufficient to perform its intended function until proposed legislation is
+passed.  
+
+      24.     In August 1997, the Netherlands established a regulatory body, the Independent Post
+and Telecommunications Authority ("OPTA"), separate from the Ministry of Transport and from PTT
+Telecom.  OPTA assumes former Ministerial responsibilities for granting licenses and permits;
+supervising holders of licenses and permits and other service providers; implementing the
+administration and allocation of numbers and rendering administrative decisions relating to permits,
+licenses, approvals and exemptions; and mediating and settling interconnection disputes.  Members
+of the governing body of OPTA are appointed by the Minister of Transport.  As an agency
+independent of Ministry control, we find that OPTA is sufficiently separate from the carriers it
+regulates, including PTT Telecom.
+
+      25.     We are not persuaded by Esprit's argument that OPTA's powers are insufficient and
+find that Dutch regulatory policies are fair and transparent.  OPTA has the power to order
+interconnection and must do so within 20 weeks of a request.  The proposed legislation which Esprit
+refers to codifies existing regulatory practice and adds minimal powers, such as the ability to publish
+interconnection agreements.  In addition to OPTA actions and powers, EU and Dutch competition
+law constrains the ability of PTT Telecom to act anticompetitively.  Under EU law and, as of
+January 1, 1998, Dutch law, PTT Telecom may not abuse a dominant position.   We conclude that
+the powers of OPTA and general EU and Dutch competition law, taken together, are sufficient to
+create an effective regulatory environment to develop, implement and enforce legal requirements,
+interconnection agreements and other competitive safeguards. 
+
+              5.      Other Issues Raised by Petitioners
+
+      26.     Petitions to deny KPN's applications have cited other difficulties in the Netherlands'
+market that petitioners claim prevent U.S. carriers from enjoying effective competitive opportunities. 
+Esprit argues that PTT Telecom is using its control over submarine cables to inhibit competition from
+new entrants.  Viatel states that, while it can obtain capacity on a cable that lands in the
+Netherlands, PTT Telecom is charging exorbitant rates for it.  Esprit and Viatel also argue that PTT
+Telecom discriminates in its provision of backhaul facilities, charging higher rates to new entrants and
+failing to provide needed capacity.   Esprit states that U.S. carriers are disadvantaged because they
+do not have equal access to subscribers in the Netherlands.  Finally, Sprint argues that PTT
+Telecom's applications should be denied until PTT Telecom credits Sprint for its proportionate share
+of return traffic for the third and fourth quarters of 1996.
+
+      27.     We are concerned that issues raised by petitioners evidence the advantages of
+incumbency and the difficulty of entering new markets.  We do not believe, however, that they
+prevent us from concluding that effective competitive opportunities exist in the Netherlands for U.S.
+carriers.  Given the presence of facilities-based competitors to PTT Telecom, there are alternative
+ways for U.S. carriers to obtain backhaul facilities.   We also note that Esprit has informed the
+Commission that PTT Telecom and Esprit have reached a tentative arrangement to provide additional
+submarine cable capcity.   Nonetheless, we will closely monitor PTT Telecom's practices in
+providing backhaul facilities.  We continue to believe that swift implementation of equal access is
+necessary to eliminate the unfair competitive advantage of a former monopoly.  The Commission,
+however, has previously concluded that the lack of equal access does not preclude a finding of ECO
+or equivalency.  Finally, we understand that PTT Telecom and Sprint have resolved their accounting
+rate dispute.  In sum, we find that the Netherlands offers U.S.-based carriers effective competitive
+opportunities at this time for the types of services at issue in the pending applications.  
+
+      B.      ADDITIONAL PUBLIC INTEREST FACTORS
+
+      28.     The additional public interest factors that we consider in assessing these applications
+include cost-based accounting rates, the general significance of the proposed entry to the promotion of
+competition in the U.S. communications market, and any national security, law enforcement, foreign
+policy and trade concerns raised by the Executive Branch. 
+
+      29.     AT&T opposes KPN's entrance in the U.S. service market through any arrangement
+unless KPN is subject to the safeguards adopted in the Foreign Participation Order and PTT Telecom
+provides U.S. carriers with cost-based accounting rates. 
+
+      30.     We agree with AT&T that KPN, like any other carrier, will be subject to the rules
+and policies established in the Foreign Participation Order and Benchmarks Order.  In our
+discussion of the regulatory treatment of KPN, we note that the conditions adopted in the Foreign
+Participation Order for dominant carriers will apply to KPN when they are effective.  We do not
+agree, however, that PTT Telecom must adopt settlement rates below those required in the
+Benchmarks Order as a condition of grant of its applications.   In that Order, we concluded that
+AT&T's proposals to require cost-based interconnection as a condition to the provision of facilities-
+based service or ISR would be an overreaction to the potential for anticompetitive activity and that
+our authority to take enforcement action would provide a strong deterrent to such activity.
+
+      31.     In the Benchmarks Order, the Commission established benchmarks that will govern
+the international settlement rates between U.S. carriers and foreign carriers.  The Commission also
+adopted conditions that apply to authorizations to provide facilities-based services and ISR.  With
+respect to the provision of facilities-based switched or private line services, the settlement rate of the
+applicant's foreign affiliate must be at or below the relevant benchmark on the affiliated route at the
+time service is commenced.  In order to provide ISR, the Benchmarks Order requires that settlement
+rates for 50 percent of the settled U.S.-billed traffic between the United States and that country are at
+or below the benchmark.  The Benchmarks Order set a settlement rate of U.S. $0.15 per minute
+with the Netherlands.  PTT Telecom's settlement rate is U.S. $0.13 per minute as of January 1,
+1998 and will drop to U.S. $0.115 per minute on July 1, 1998.    Thus, both the condition for
+facilities-based service to an affiliate and the benchmark target for ISR have been met.
+
+      32.     Finally, the Executive Branch has not raised any national security, law enforcement,
+foreign policy, or trade concerns with these applications.  We find that this authorization will benefit
+U.S. consumers calling the Netherlands by adding an additional carrier, and thus increasing
+competition on that route.  Accordingly, we find no additional public interest factors that warrant
+denial of these applications.  
+
+      C.      OTHER MATTERS
+
+              1.  Competitive Safeguards 
+
+      33.     KPN has agreed to be regulated as a dominant carrier.   Petitioners argue that the
+Commission should impose on KPN and PTT Telecom, in addition to the conditions imposed on
+dominant carriers, a number of other conditions.  These include requiring PTT Telecom to provide
+reasonable, nondiscriminatory, cost-oriented interconnection arrangements promptly to competitors
+and publish its actual interconnection rates, terms and conditions with other carriers.  Petitioners also
+request that the Commission:  1) require KPN to file regular reports regarding Dutch progress in
+implementing telecommunications reform, specifically reports on the status of all interconnection
+agreements between PTT Telecom and its competitors; 2) prohibit KPN from purchasing capacity of
+any cable serving the Netherlands unless similar amounts of capacity are also made available to
+competing unaffiliated carriers; 3) prohibit KPN from terminating Netherlands-U.S. traffic from PTT
+Telecom that is not in compliance with the European Union equal access requirements; and 4) require
+KPN to file quarterly records on provisioning and maintenance of facilities and services received from
+PTT Telecom and Unisource.   Esprit argues that its proposed conditions are derived from
+conditions placed on the initial authorization of British Telecommunications plc to acquire an
+ownership interest in MCI and on the authorization of France Telecom and Deutsche Telekom's
+investment in Sprint.  Sprint asks the Commission to impose a number of conditions on PTT
+Telecom relating to settlement of traffic terminating in the Netherlands.
+
+      34.     As a dominant carrier on the U.S.-Netherlands route, KPN will be required to comply
+with Section 63.10 of our rules.  Section 63.10 requires carriers regulated as dominant on a
+particular route due to a foreign carrier affiliation to:  1) file tariffs on no less than 14-days notice; 
+2) maintain complete records of the provisioning and maintenance of basic network facilities and
+services procured from the foreign carrier affiliate; 3) obtain Commission approval pursuant to 
+63.18 before adding or discontinuing circuits; and 4) file quarterly reports of revenue, number of
+messages, and number of minutes of both originating and terminating traffic.  We note, however,
+that upon the effective date of the Foreign Participation Order, dominant carriers will be subject to
+revised rules.  At that time, KPN will be required to:  1) file tariffs one day in advance of
+effectiveness; 2) maintain a limited form of structural separation between it and PTT Telecom; 3) file
+quarterly reports of revenue, number of messages, and number of minutes of both originating and
+terminating traffic; 4) file quarterly reports on provisioning and maintenance services provided by
+PTT Telecom; and 5) file quarterly circuit status reports.   In addition, as a carrier affiliated with a
+foreign carrier that possesses market power in the foreign market, KPN will have to comply with
+certain reporting requirements regarding provision of switched resale services in the United States
+when the rule becomes effective.  
+
+      35.     We imposed conditions relating to interconnection on Telecom New Zealand because
+we had certain concerns with New Zealand's regulatory regime.  In BT/MCI I, we found that
+"unique aspects of the transaction" required additional reporting requirements.  In the Sprint Order,
+we found that effective competitive opportunities did not yet exist in France or Germany and therefore
+the Commission required additional conditions.   None of these specific concerns apply here.  KPN
+is a new entrant in the U.S. market, and we have determined that effective competitive opportunities
+currently exist in the Netherlands.   Accordingly, we find that our current rules are sufficient to
+address the concerns of Esprit and Viatel.   Because Sprint and PTT Telecom have resolved their
+accounting rate dispute, the conditions requested by Sprint are not necessary.
+
+              2.      No Special Concessions
+
+      36.     Esprit argues that the Commission should also impose a requirement that KPN accept
+no special concessions from PTT Telecom.   We currently prohibit all U.S. carriers, regardless of
+their regulatory status or whether they have a foreign affiliate, from agreeing to accept special
+concessions from any foreign carrier or administration.  We also note that in the Foreign
+Participation Order, the Commission gives greater specificity to the "No Special Concessions" rule by
+delineating the types of prohibited conduct.  KPN will be subject to our current "No Special
+Concessions" rule, as well as any modification to that rule once it becomes effective.
+
+                              IV.  CONCLUSION
+
+      37.     Because we find that the Netherlands offers equivalent private line resale opportunities
+to U.S.-based carriers for the provision of switched services, as well as effective competitive
+opportunities to provide facilities-based service and other resale services, we grant the applications
+before us in this proceeding.  We conclude that the availability of additional services between the
+United States and the Netherlands will promote competition and the introduction of new international
+telecommunications services.
+
+                           V.  ORDERING CLAUSES
+
+      38.     In view of the foregoing, IT IS HEREBY CERTIFIED that the present and future
+public convenience and necessity require grant of these applications.
+
+      39.     Accordingly, IT IS HEREBY ORDERED that File Nos. ITC-97-382 and ITC-97-383
+ARE GRANTED and KPN US, Inc. is authorized to: 
+
+      a) acquire and operate 3 STM-1s for the provision of switched, private line and other
+      authorized services between the United States and the Netherlands;
+
+      b) resell international private lines interconnected to the public switched network for the
+      provision of switched services, including voice, date and facsimile; 
+
+      c)  resell international private lines not interconnected to the public switched network for the
+      provision of international private line services between the United States and the Netherlands;
+      and  
+
+      d) provide international switched resale services between the United States and the
+      Netherlands.
+
+      40.     IT IS FURTHER ORDERED that the authority granted herein to resell international
+private lines between the United States and the Netherlands for the provision of switched services is
+limited to the provision of such services between the United States and the Netherlands only -- that is,
+private lines which carry traffic that originates in the United States and terminates in the Netherlands,
+or traffic that originates in the Netherlands and terminates in the United States.  This restriction is
+subject to the following exceptions:  (a) KPN may engage in "switched hubbing" through the
+Netherlands consistent with Section 63.17 of the Commissions rules, 47 C.F.R.  63.17; and (b)
+KPN may provide U.S. inbound or outbound switched basic service over its authorized private lines
+extending between the United States and the United Kingdom, Sweden, New Zealand, and Australia
+provided that KPN also is authorized to provide switched basic service using resold private lines
+between the United States and those countries.  
+
+      41.     IT IS FURTHER ORDERED that KPN will be regulated as a dominant carrier on the
+U.S.-Netherlands route, pursuant to Section 214 of the Act, 47 U.S.C.  214, and Section 63.10 of
+the Commission's rules, 47 C.F.R.  63.10, and will comply with the requirements of paragraph (c)
+of that section.  The quarterly traffic reports filed pursuant to Section 63.10(c) must include the
+information required by Section 43.61 of the Commission's rules, 47 C.F.R.  43.61, for "facilities
+resale" on the U.S.-Netherlands route.
+
+      42.     IT IS FURTHER ORDERED that KPN will comply with Sections 63.21 of the
+Commission's rules, 47 C.F.R.  63.21 and shall also file the information required by Section 43.61
+for "facilities resale" on the U.S.-Netherlands route on a semi-annual basis not later than September
+30 for the prior January through June period and March 31 for the second six-month calendar period,
+for the first three calendar years after this equivalency finding. 
+
+      43.     IT IS FURTHER ORDERED that grant of these authorizations are conditioned upon
+the Netherlands' continuing to afford resale opportunities to U.S.-based carriers equivalent to those
+afforded under U.S. law.
+
+      44.     This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261 (1996), and is effective upon adoption.  Petitions for reconsideration under Section 1.106 of the
+Commission's rules, 47 C.F.R.  1.106 (1996), or applications for review under Section 1.115 of the
+Commission's rules, 47 C.F.R.  1.115 (1996), may be filed within 30 days of the date of public
+notice of this Order, Authorization and Certificate (see 47 C.F.R.  1.4(b)(2)).  
+
+              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+              Regina M. Keeney 
+              Chief, International Bureau 

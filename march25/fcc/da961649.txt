@@ -1,0 +1,290 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+MFS GLOBENET, INC.                   )
+                                     )
+Application for a license to land and)         File No. SCL-96-4
+operate in the United States a private)
+submarine fiber optic cable extending)
+between the United States and the    )
+United Kingdom                       )
+
+
+                          CABLE LANDING LICENSE
+
+
+   Adopted:  October 1, 1996                    Released:  October 3, 1996
+
+By the Chief, Telecommunications Division:
+
+ 1.In this Order, we grant the application of MFS Globenet, Inc., ("MFS Globenet") under
+the Cable Landing License Act for authority to land and operate a private fiber optic submarine
+telecommunications cable system, "MFS-1" and "MFS-2," extending between the United States and the
+United Kingdom.  These cables will be connected to form a fully redundant fiber optic ring between
+the United States and the United Kingdom.  Their landing points will be in the New York City area
+and in the Lands End area of Cornwall in the United Kingdom.  MFS Globenet will operate the cable
+system on a non common carrier basis.  We find that the proposed cable system would serve the
+public interest by providing additional capacity and cost-efficient communications between the United
+States and the United Kingdom.  We find that MFS Globenet has provided sufficient information
+under our rules to comply with the Cable Landing License Act and therefore grant the cable landing
+license, subject to the conditions listed below.
+
+                              The Application
+
+ 2.MFS Globenet is a Delaware corporation and a wholly owned subsidiary of MFS
+International, Inc. ("MFSI"), also a Delaware corporation.  MFS Globenet will own the beach head
+cable segments and will own and operate the landing station facilities.  MFS Communications Limited
+("MFSL"), a wholly owned subsidiary of MFS Globenet, is expected to be the owner of the
+corresponding facilities in the United Kingdom, subject to anticipated regulatory developments in the
+United Kingdom.  MFS Globenet and/or a wholly owned subsidiary of MFS Globenet will own 100
+percent of the "wet" portion of the submarine cable system.  MFSI is 100-percent owned by MFS
+Communications Company, Inc., a Delaware corporation the shares of which no single shareholder
+owns 10 percent or more.
+
+ 3.The proposed cables will use optical fiber technology that employs the appropriate
+transmission rate necessary to meet the capacity requirements of the users.  They will be constructed
+using state-of-the-art SDH transport equipment and optical amplifiers.  Each cable will consist of two
+fiber pairs, each supporting two multiplexed STM-16 systems, resulting in a transmission speed of 5
+Gbps per fiber pair and an entire cable capacity of 10 Gbps, or 4,032 E1 circuit equivalents.  The
+cable system will be designed to operate at and support the standard circuit speeds of E1, DS3, STM-
+1, and STM-4.  The cables together will form a fully redundant fiber optic ring that provides its own
+restoration services.
+
+ 4.The capacity of the cable system will be sold or leased to users on a non-tariffed,
+non common carrier basis.  MFS Globenet will offer bulk capacity to a specific class of eligible users,
+including common carriers, on the basis of ownership, indefeasible rights of use, or lease of capacity. 
+MFS Globenet states that it will not hold itself out indifferently to serve the public and will make
+individual decisions, in particular cases, about whether and on what terms to deal.  It states that it is
+therefore not required to apply for authority under Title II of the Communications Act of 1934
+because it is not offering the proposed services on a common carrier basis, and it urges the
+Commission to consider its application pursuant only to the Cable Landing License Act.
+
+                                 Comments
+
+ 5.MFS Globenet's application was placed on public notice on June 21, 1996.  On July 19,
+Atlantic Express Communications, L.L.C., filed a Petition to Deny, arguing that the application is
+deficient and should be denied or dismissed.
+
+ 6.Atlantic Express argues that MFS Globenet has provided insufficient information as to the
+ownership of the proposed cable.  It argues that without specific information as to the ownership of
+the cable, the Commission cannot make the findings necessary under the Cable Landing License Act. 
+Atlantic Express also argues that the fact that MFSI and its subsidiaries would own and control both
+ends of the cable system presents an important policy issue that may have precedential implications for
+other applications to the United Kingdom and other destination countries.  Atlantic Express would
+have us act on this application "only . . . in the context of the principles it may establish for action on
+applications by foreign entities for end-to-end ownership."  Finally, Atlantic Express asserts that MFS
+Globenet has not provided the information required by Section 1.767 of our rules with respect to the
+additional cable referred
+to in its August 1 amendment.
+
+ 7.In its opposition to Atlantic Express's petition, MFS Globenet argues that it has provided
+sufficient ownership information under the Commission's rules.  It states that the cable stations in the
+United States and the United Kingdom would be 100-percent owned by a wholly owned MFS affiliate. 
+On September 5, 1996, MFS Globenet filed a letter clarifying that MFS Globenet and/or a wholly
+owned subsidiary of MFS Globenet would also own 100 percent of the "wet" portion of the cable
+system.
+
+ 8.MFS Globenet also argues that the proposed end-to-end ownership should weigh in its
+favor because the issues of reciprocity and national security that arise when foreign entities propose to
+land cables in the United States do not arise here.  It explains that MFS Globenet is a nondominant
+U.S. carrier unaffiliated with any dominant foreign carriers, and its ownership and control of both ends
+of the cable system eliminates all concerns relating to foreign carriers landing a cable on U.S. shores. 
+The applicant also argues that its control of both ends enhances its ability to construct and operate
+advanced fiber optic facilities in competition with longer-established providers.
+
+ 9.Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act,
+and Executive Order No. 10530, we informed the Department of State of MFS Globenet's
+application.  The Department of State, after coordinating with the National Telecommunications and
+Information Administration and the Department of Defense, stated that it has no objection to the
+issuance of the cable license.
+
+                                Discussion
+
+ 10.MFS Globenet requests a license under the Commission's private submarine cable policy
+to promote competition in the provision of international transmission facilities.  Pursuant to this
+policy, the Commission has authorized non common carrier cables where there is no legal compulsion
+to serve the public indifferently and no reason implicit in the nature of the operations to expect an
+indifferent holding-out to the eligible user public.
+
+ 11.Because of the wide availability of common carrier circuits on existing and future cables
+and satellite circuits between the United States and the United Kingdom, there is no public-interest
+reason to require that MFS Globenet's proposed cable facilities be provided on a common carrier
+basis.  Also, in light of the sizable demand for telecommunications facilities, we see no prospect of
+creating significant overcapacity by the introduction of non common carrier facilities so as to threaten
+the economic viability of existing common carrier cable or satellite facilities.  Thus, there is no
+reason to require MFS Globenet to operate the proposed cable on a common carrier basis.
+
+ 12.In addition, because MFS Globenet will make "individualized decisions, whether and on
+what terms to deal" and does not undertake to "carry for all people indifferently," there is no reason
+to expect that the proposed cable circuits would be held out to the public indifferently.  We thus
+conclude that MFS Globenet will not offer capacity in the MFS-1 and MFS-2 cables to the public on a
+common carrier basis and thus is not subject to regulation under Title II of the Communications Act.
+
+ 13.With respect to Atlantic Express's concerns about the sufficiency of information provided
+regarding ownership of the cable, MFS Globenet has supplemented its application by stating that the
+undersea portion of the cable will be wholly owned by MFS Globenet and/or a wholly owned
+subsidiary of MFS Globenet.  On that basis, we find that the information submitted by the applicant as
+to ownership of each part of the proposed cable is sufficient to comply with Section 63.18 and for us
+to evaluate the application under the Cable Landing License Act.
+
+ 14.We agree with MFS Globenet that ownership of both ends of the cable by MFSI and its
+subsidiaries would enhance competition in the United States and the United Kingdom, because MFS's
+U.K. affiliate is a relatively new entrant in the United Kingdom and thus does not possess market
+power.  In addition, MFS Globenet's U.S. affiliates are regulated as non-dominant.  We also agree that
+end-to-end cable ownership by a U.S.-owned company or its affiliates does not raise any reciprocity or
+national security issues.
+
+ 15.Consistent with prior decisions, we find that MFS Globenet's descriptions that MFS-1 and
+MFS-2 will land "in the New York City area, including Long Island, and central New Jersey" and "in
+the Lands End area of Cornwall" to be sufficient to determine whether the proposed cable system
+would comply with the provisions of the Cable Landing License Act and Commission rules. 
+Pursuant to Section 1.767(a)(5) of the Commission's rules, MFS Globenet must provide a specific
+description of the landing locations, including a map, no later than ninety days prior to construction,
+and we condition this license upon final approval of the landing points.  The Commission will give
+public notice of this description, and grant of the license will be considered final unless we issue a
+public notice to the contrary no later than sixty days after receipt of the specific description of the
+landing points.
+
+ 16.Because MFS Globenet's August 1 amendment stated that MFS-2 will operate together
+with MFS-1 as a fully redundant fiber optic ring, we find that it is not an "individual cable system" for
+which a separate application is required under Section 1.767(e).  The information provided in the
+application and the amendment is therefore sufficient to enable the Commission to grant a single cable
+landing license for the entire proposed system.
+
+ 17.Based on the information provided by MFS Globenet and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant
+of the requested authorizations would have no significant effect on the quality of the human
+environment and is therefore categorically excluded from environmental processing.  Consequently,
+MFS Globenet is not required to submit an environmental assessment with this application.
+
+ 18.Accordingly, we conclude that U.S. interests under the Cable Landing License Act will
+be served by grant of the license to MFS Globenet, as conditioned below.
+
+                             Ordering Clauses
+
+ 19.Consistent with the foregoing, we hereby GRANT AND ISSUE, under the provisions of
+the Cable Landing License Act and Executive Order 10530, MFS Globenet, Inc., a license to land and
+operate a cable system consisting of two high-capacity fiber optic digital submarine cables (two fiber
+pairs each, operating at 5 Gbps per fiber pair) extending between the United States and the United
+Kingdom, with landing points in the New York City area, including Long Island and central New
+Jersey, and the Lands End area of Cornwall in the United Kingdom.  This grant is subject to all rules
+and regulations of the Federal Communications Commission; any treaties or conventions relating to
+communications to which the United States is or may hereafter become a party; any action by the
+Commission or the Congress of the United States rescinding, changing, modifying, or amending any
+rights accruing to any person hereunder; and the following conditions:
+
+ (1)The location of the cables within the territorial waters of the United States of America, its
+ territories and possessions, and upon its shore shall be in conformity with plans approved by
+ the Secretary of the Army, and the cables shall be moved or shifted by the Licensee at its
+ expense upon the request of the Secretary of the Army whenever he or she considers such
+ course necessary in the public interest, for reasons of national defense, or for the maintenance
+ or improvement of harbors for navigational purposes;
+
+ (2)The Licensee shall at all times comply with any requirements of United States
+ government authorities regarding the location and concealment of the cable facilities, buildings,
+ and apparatus with a view of protecting and safeguarding the cables from injury or destruction
+ by enemies of the United States of America;
+
+ (3)The Licensee or any persons or companies directly or indirectly controlling it or
+ controlled by it or under direct or indirect common control with it shall not acquire or enjoy
+ any right, for the purpose of handling or interchanging traffic to or from the United States, its
+ territories or possessions, to land, connect, or operate cables or landlines, to construct or
+ operate radio stations, or to interchange traffic, that is denied to any other United States carrier
+ by reason of any concession, contract, understanding, or working arrangement to which the
+ Licensee or any persons controlling it or controlled by it are parties;
+
+ (4)Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+ manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+ control of the Licensee to any persons, unless the Federal Communications Commission shall
+ give prior consent in writing;
+
+ (5)The Licensee shall notify the Commission in writing of the precise locations at which the
+ cables will land no later than ninety days prior to commencing construction of cable landing
+ stations at those locations.  The Commission will give public notice of the filing of these
+ descriptions, and grant of this license will be considered final unless the Commission issues a
+ notice to the contrary no later than sixty days after receipt of the specific descriptions of
+ landing points;
+
+ (6)The Commission reserves the right to require the Licensee to file an environmental
+ assessment or environmental impact statement should it determine that the landing of the
+ cables at those locations and construction of necessary cable landing stations would
+ significantly affect the environment within the meaning of Section 1.1307 of the Commission's
+ procedures implementing the National Environmental Policy Act of 1969; this license is
+ subject to modification by the Commission upon its review of any environmental assessment
+ or environmental impact statement that it may require pursuant to its rules;
+
+ (7)The Licensee shall maintain no less than a 50-percent ownership interest and voting
+ control share in the cables, including 100-percent ownership in the cable stations in the United
+ States and in the U.S. land portion of the cables from the stations to the U.S. beach joint of
+ the submerged portion of the cables;
+
+ (8)The Licensee shall, by application, obtain Commission approval prior to the sale or
+ transfer to a foreign entity of five percent or more in the aggregate of U.S.-owned and 
+ -controlled stock;
+
+ (9)This license is revocable by the Commission after due notice and opportunity for hearing
+ pursuant to section 2 of "An Act Relating to the Landing and Operation of Submarine Cables
+ in the United States," 47 U.S.C.  35, or for failure to comply with the terms of the
+ authorizations;
+
+ (10)The Licensee shall notify the Commission in writing of the date on which the cables are
+ placed in service, and this license shall expire 25 years from such date, unless renewed or
+ extended upon proper application, and, upon expiration of this license, all rights granted under
+ it shall be terminated; and
+
+ (11)The terms and conditions upon which this license is given shall be accepted by the
+ Licensee by filing a letter with the Secretary, Federal Communications Commission,
+ Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+
+ 20.It is further ordered that Atlantic Express's petition to deny is hereby dismissed.
+
+ 21.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within
+30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+ FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+ Diane Cornell
+ Chief, Telecommunications Division
+ International Bureau

@@ -1,0 +1,421 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+AT&T CORP.                              )
+BELLSOUTH INTERNATIONAL, INC.      )
+CABLE & WIRELESS USA, INC.              )
+CABLE & WIRELESS GLOBAL NETWORKS LTD.   )
+GTE INTELLIGENT NETWORK SERVICES        )
+   INC.                            )
+IXC COMMUNICATIONS SERVICES, INC.       )
+KDD AMERICA, INC.                  )
+MCI WORLDCOM, INC.                 )
+PACIFIC GATEWAY EXCHANGE           )
+   (BERMUDA) LIMITED                    )
+RSL COM U.S.A., INC.                    )
+SPRINT COMMUNICATIONS COMPANY, L.P.     )
+STAR TELECOMMUNICATIONS, INC.      )    File No. SCL-LIC-19990303-00004
+STARTEC GLOBAL COMMUNICATIONS CORP.     )
+SWISSCOM NORTH AMERICA, INC.       )
+TELEBERMUDA INTERNATIONAL LIMITED  )
+TELEGLOBE USA INC.                 )
+TELENOR GLOBAL SERVICES AS              )
+TELIA NORTH AMERICA INC.           )
+VIATEL, INC.                       )
+                                   )
+                                   )
+Joint Application for a License to Land and Operate    )    
+in the United States a Submarine Cable  )           
+System Extending Between the United States,  )
+Denmark, Germany, the Netherlands, France and the )
+United Kingdom.                         )
+                                   )
+
+                      CABLE LANDING LICENSE
+
+Adopted: September 30, 1999                           Released: October 1, 1999
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     
+1.   In this Order, we grant the application of AT&T Corp. (AT&T), BellSouth International, Inc.
+(BSI), Cable & Wireless USA, Inc. (C&W USA), Cable & Wireless Global Networks Ltd. (C&WGN),
+GTE Intelligent Network Services Inc. (GTEINS), IXC Communications Services, Inc. (IXC-CSI), KDD
+America, Inc. (KDDA), MCI WorldCom, Inc. (MCI WorldCom), Pacific Gateway Exchange
+(BERMUDA) Limited (PGE Bermuda), RSL COM U.S.A., Inc. (RSL USA), Sprint Communications
+Company, L.P. (Sprint), STAR Telecommunications, Inc. (STAR), Startec Global Communications Corp.
+(STGC), Swisscom North America, Inc. (SCNA), TeleBermuda International Limited (TeleBermuda),
+Teleglobe USA Inc. (TUSA), Telenor Global Services AS (Telenor Global), Telia North America Inc.
+(Telia NA), and Viatel, Inc. (Viatel) (collectively the Joint Applicants or Licensees) under the Cable
+Landing License Act and Executive Order No. 10530 for authority to land and operate a private fiber
+optic submarine cable system to be called "TAT-14 Cable Network" or "TAT-14," extending between the
+United States, Denmark, Germany, the Netherlands, France, and the United Kingdom.  The capacity of
+TAT-14 will be sold or leased to users on a non-tariffed, non common carrier basis.  We find that the Joint
+Applicants have provided sufficient information under our rules to comply with the Cable Landing License
+Act and that it would serve the public interest to grant the cable landing license subject to the conditions
+listed below. 
+
+                        II.  Application 
+
+     2.   The application identifies as Joint Applicants 19 of the 51 initial investors in TAT-14. 
+Sprint is a limited partnership organized and existing under the laws of Delaware.  AT&T and KDDA are
+corporations organized and existing under the laws of New York.  BSI is a corporation organized and
+existing under the laws of Georgia.  C&W USA is a corporation organized and existing under the laws of
+the District of Columbia.  C&WGN is a corporation organized and existing under the laws of Ireland. 
+GTEINS, IXC-CSI, MCI WorldCom, RSL USA, STAR, SCNA, TUSA, Telia NA, and Viatel are
+corporations organized and existing under the laws of Delaware.  PGE Bermuda and TeleBermuda are
+corporations organized and existing under the laws of Bermuda.  STGC is a corporation organized and
+existing under the laws of Maryland.  Telenor Global is a corporation organized and existing under the
+laws of Norway.  Each of the Joint Applicants is a common carrier subject to the Communications Act of
+1934, as amended.  The Joint Applicants and other carriers will own and operate TAT-14 in the
+approximate proportions stated in the application.  The Joint Applicants' Management of TAT-14 will be
+in accordance with the Construction and Maintenance Agreement (C&MA) included in the Application.
+
+     3.   The proposed TAT-14 system will connect: (1) Manasquan, New Jersey; (2) Tuckerton,
+New Jersey; (3) Blaabjerg, Denmark; (4) Norden, Germany; (5) Katwijk, the Netherlands; (6) St. Valery,
+France; and (7) Widemouth, North Cornwall, United Kingdom.  The application states that TAT-14 will
+employ state-of-the-art wave division multiplexing (WDM) fiber optic technology operating at up to 640
+Gbps in a self-healing ring configuration.  TAT-14 will be connected to technologically suitable facilities
+providing access to the domestic networks in each country or territory.  In addition, TAT-14 will be
+extended by suitable facilities to the terminals of other communications systems, including other cable
+terminals and satellite earth stations, to enable TAT-14 to be used for services between and among the
+United States, Denmark, Germany, the Netherlands, France, the United Kingdom, and points beyond.
+
+     4.   As shown in Exhibit 1 that is attached to this order, TAT-14 will consist of seven cable
+landing stations (Segments T1-T7) and seven wet subsegments (Subsegments S1-S7). Three of the
+subsegments (Subsegments S1, S2, and S7) and two of the land points (Segments T1 at Manasquan, New
+Jersey and T2 at Tuckerton, New Jersey) are subject to the jurisdiction of the Commission.  The C&MA
+provides that landing point Segment T1 shall be owned by Sprint and landing point Segment T2 shall be
+owned by AT&T.  Section 16.1 of the C&MA provides that Sprint and AT&T are also responsible for the
+operation and maintenance of the T1 and T2 segments, respectively.
+
+     5.   Subsegment S1 consists of four fiber pairs between Manasquan and Tuckerton, New
+Jersey.  Subsegment S2 consists of four fiber pairs between Tuckerton, New Jersey and Widemouth, North
+Cornwall, U.K.  Subsegment S3 consists of four fiber pairs between Widemouth, U.K. and St. Valery-en-
+Caux, France.   Subsegment S4 consists of four fiber pairs between St. Valery-en-Caux, France, and
+Katwijk, the Netherlands.  Subsegment S5 consists of four fiber pairs between Katwijk, the Netherlands
+and Norden, Germany.  Subsegment S6 consists of four fiber pairs between Norden, Germany and
+Blaabjerg, Denmark.  Subsegment S7 consists of four fiber pairs between Blaabjerg, Denmark and
+Manasquan, New Jersey.  Each fiber pair will operate at 160 Gbps.  The initial capacity of each fiber pair
+is equivalent to 1024-155 Mbps Basic System Modules (BSMs), with each BSM containing 63 minimum
+investment units (MIUs).  Operation of the TAT-14 system is anticipated to begin no later than December
+31, 2000.                        
+
+                         III.  Comments
+
+     6.   The application was placed on public notice on March 26, 1999.  We received no
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it has no objection to issuance of the cable
+landing license.
+
+                         IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     7.   The Joint Applicants propose to operate TAT-14 as a non common carrier submarine
+cable system in which capacity will not be offered indifferently to the user public.  The Joint Applicants
+request a license under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non common carrier cables where: (1) there is no legal compulsion to serve the
+public indifferently; and (2) there are no reasons implicit in the nature of the operations to expect an
+indifferent holding-out to the eligible user public.
+
+     8.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on whether an applicant will be able to exercise market power because of the lack of
+alternative facilities.  Where the Commission has found that the licensee will lack market power and
+therefore will not be able to charge monopoly rates for cable capacity, the Commission has found that the
+public interest would be served by allowing a submarine cable to be offered on a non-common carrier
+basis.
+
+     9.   No one has suggested that the public interest requires TAT-14 to be operated on a common
+carrier basis.  The Joint Applicants are affiliated with several foreign carriers in Europe, including carriers
+in the United Kingdom, Denmark, the Netherlands, France and Germany, the destination countries for
+TAT-14.  The Joint Applicants state that none of the Joint Applicants is affiliated with a carrier
+designated by the Commission as presumptively dominant in those foreign countries where the TAT-14 will
+land.  No commenter has disputed this fact, and we find that, in light of all the circumstances, it would not
+serve the public interest to impose common carrier regulation on the operations of TAT-14 at this time. 
+We note, however, that we maintain the ability to impose common carrier or common-carrier-like
+obligations on the operations of this or any other submarine cable system if the public interest so requires. 
+Furthermore, we have always maintained the authority to classify facilities as common carrier facilities
+subject to Title II of the Communications Act if the public interest requires that the facilities be offered to
+the public indifferently.
+
+     10.  Regarding the second prong of the test, the Joint Applicants state that capacity will not be
+sold indifferently to the user public.  We therefore conclude that the Joint Applicants will operate TAT-14
+on a non-common carrier basis. 
+
+     11.  We conclude that the Joint Applicants will not offer capacity in TAT-14 to the public on a
+common carrier basis and that the public interest does not require that they do so.  Accordingly, we
+conclude that it is appropriate to license TAT-14 on a non-common carrier basis.  We also find that the
+Joint Applicants will not provide a telecommunications service for a fee to such a class of users as to be
+"effectively available directly to the public" and thus will not be a "telecommunications carrier" under the
+Telecommunications Act of 1996.
+     
+     B.   Ownership and Landing Points
+
+     12.  The Joint Applicants have provided the ownership information required by sections 
+1.767(a)(6), 63.18(e)(6), and 63.18(h) of the Commission's rules. Segment T1 located at Manasquan, New
+Jersey will be owned by Sprint, and landing point Segment T2 located at Tuckerton, New Jersey will be
+owned by AT&T.  Sprint and AT&T are also responsible for the operation and maintenance of the T1 and
+T2 segments, respectively, including real property, buildings and terminal equipment, as well as the U.S.
+territorial portions of the submarine cable from the landing stations to the U.S territorial limit.  The foreign
+cable stations and the portions of the submarine cable will be owned as follows:  
+
+          Segment T3 located at Widemouth, North Cornwall, U.K., owned by BT;
+          Segment T4 located at St. Valery, France, owned by FT;
+          Segment T5 located at Katwijk, the Netherlands, owned by KPN;
+          Segment T6 located at Norden, Germany, owned by DTAG; and
+          Segment T7 located at Blaabjerg, Denmark, owned by Telia.
+
+     13.  The application states that TAT-14 will land at Manasquan, New Jersey; Tuckerton, New
+Jersey; Blaabjerg, Denmark; Norden, Germany; Katwijk, the Netherlands; St. Valery, France; and
+Widemouth, North Cornwall, United Kingdom.  The Manasquan, New Jersey station will be located at
+Latitude 40.129868, Longitude -74.0430879.  The Tuckerton, New Jersey station will be located at
+Latitude 39.6135, Longitude -74.32804.  We find the applicant's description of the likely locations of the
+remaining landing points to be sufficient to determine that the proposed cable system will comply with the
+provisions of the Cable Landing License Act and Commission rules.  Section 1.767(a) of the Commission's
+rules permits applicants in an initial application to provide a general description of the landing points. 
+The applicant must file a specific description of the remaining landing points, including a map, no later
+than 90 days prior to construction at that landing point.  The Commission will give public notice of the
+filing of the specific description, and grant of the license will be considered final with respect to that
+landing point unless the Commission notifies the applicant to the contrary no later than 60 days after
+receipt of the specific description of the landing points.
+
+     C.   Environmental Impact
+
+     14.  The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore should be
+expressly excluded from our procedures implementing the National Environmental Policy Act of 1969. 
+Therefore, the Joint Applicants are not required to submit an environmental assessment, and this
+Application is categorically excluded from environmental processing.
+
+                          V.  Conclusion
+
+     15.  We grant the Joint Applicants Application for authority to land and operate a non-common
+carrier fiber optic submarine cable extending between the United States, Denmark,
+Germany, the Netherlands, France, and the United Kingdom, subject to the conditions listed below. 
+                                 
+                         VI.  Ordering Clauses 
+
+     16.  Consistent with the foregoing, we hereby GRANT AND ISSUE  the Joint Applicants a
+license to land and operate a non common carrier fiber optic submarine cable system  (consisting of four
+fiber pairs, each fiber pair to operate at 160 Gbps with an initial capacity for each fiber pair that is
+equivalent to 1024-155 Mbps BSMs, with each BSM containing 63 MIUs) extending between landing
+points at cable stations in Manasquan, New Jersey; Tuckerton, New Jersey; Blaabjerg, Denmark; Norden,
+Germany; Katwijk, the Netherlands; St. Valery, France; and Widemouth, North Cornwall, United Kingdom
+under the provisions of the Cable Landing License Act and Executive Order 10530.  This grant is subject
+to all rules and regulations of the Commission; any treaties or conventions relating to communications to
+which the United States is or may hereafter become a party; any action by the Commission or the Congress
+of the United States rescinding, changing, modifying, or amending any rights accruing to any person
+hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States, its territories
+     and possessions, and upon its shore shall be in conformity with plans approved by the Secretary of
+     the Army, and the cable shall be moved or shifted by the Licensees at their expense upon the
+     request of the Secretary of the Army whenever he or she considers such course necessary in the
+     public interest, for reasons of national defense, or for the maintenance or improvement of harbors
+     for navigational purposes;
+
+          (2)  The Licensees shall at all times comply with any requirements of U.S. government authorities
+     regarding the location and concealment of the cable facilities, buildings, and apparatus for the
+     purpose of protecting and safeguarding the cable from injury or destruction by enemies of the
+     United States;
+
+          (3)  The Licensees or any persons or companies controlling them, controlled by them, or under
+     direct or indirect common control with them do not enjoy and shall not acquire any right to handle
+     traffic on a common carrier basis to or from the United States, its territories, or its possessions
+     unless such service be authorized by the Commission pursuant to Section 214 of the
+     Communications Act, as amended;
+
+          (4)  The Licensees or any persons or companies controlling them, controlled by them, or under
+     direct or indirect common control with them shall not acquire or enjoy any right to land, connect, or
+     operate submarine cables that is denied to any other United States company by reason of any
+     concession, contract, understanding, or working arrangement to which the Licensees or any persons
+     controlling them, controlled by them, or under direct or indirect common control with them are
+     parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensees to any persons, unless the Commission shall give prior consent in writing;
+
+          (6)  The Licensees shall notify the Commission in writing of the precise locations at which the
+     cable will land in Blaabjerg, Denmark; Norden, Germany; Katwijk, the Netherlands; St. Valery,
+     France; and Widemouth, North Cornwall, United Kingdom.  Such notification with respect to any
+     given landing location shall occur no later than ninety days prior to commencing construction at
+     that landing location.  The Commission will give public notice of the filing of each description, and
+     grant of this license will be considered final with respect to that landing location unless the
+     Commission issues a notice to the contrary no later than sixty days after receipt of the specific
+     description;
+
+          (7)  The Commission reserves the right to require the Licensees to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cables at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+          
+          (8)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose common carrier regulation or other regulation
+     consistent with the Cable Landing License Act on the operations of the cable system if it finds that
+     the public interest so requires;
+
+          (9)  The Licensees shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+          (10)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to Section 2 of  "An Act relating to the Landing and Operation of Submarine Cables in
+     the United States"; 47 U.S.C.  35, or for failure to comply with the terms of this License;
+
+          (11)  The Licensees shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (12)  The terms and conditions upon which this license is given shall be accepted by the Licensees
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+          
+     17.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Appendix B
+                                
+Attached Schedules A, B, C and C-1 of the TAT-14 Construction and Maintenance Agreement
+
+           
+
+                           Appendix C
+                                
+Schedule of Co-Chairmen or Responsible Parties for the Managing Group, Procurement Group,
+Assignment Routing and Restoration Subcommittee, Financial and Administrative Subcommittee,
+        Central Billing Party and Network Administrator
+             As summarized from Annexes 1 through 6
+      of the TAT-14 Construction and Maintenance Agreement
+
+
+
+Managing Group
+One U.S. member Party and one European
+Member party elected by the Managing Group
+Representatives
+
+
+Procurement Group
+British Telecommunications plc (BT) and France
+Telecom (or the Chairperson of the Procurement
+Group shall rotate among the Terminal Parties)
+
+
+Assignment, Routing and Restoration
+Subcommittee
+Cable & Wireless Global Network Organization
+Limited and BT
+
+
+Financial and Administrative Subcommittee
+MCI International, Inc.
+
+
+Central Billing Party
+Appointed by the Managing Group
+
+
+Network Administrator
+One of the Terminal Parties as Appointed by the
+Managing Group
+

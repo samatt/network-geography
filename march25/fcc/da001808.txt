@@ -1,0 +1,264 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+***************************************************************** Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+TYCOM ATLANTIC (US) INC.             )
+                                     )
+Application for a License to Land and       )     File No. SCL-LIC-20000308-00007
+Operate a Private Fiber-Optic Cable         )
+System Between the United States       )
+Mainland and the United Kingdom     )
+                                     )
+                                     )
+
+
+                     CABLE LANDING LICENSE
+
+Adopted:  August 8, 2000                Released:  August 8, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+
+     1.   In this Order, we grant the Application of TyCom Atlantic (US) Inc. (TyCom)
+under the Cable Landing License Act and Executive Order No. 10530 for authority to land and
+operate a private fiber optic submarine cable system extending between the United States and the
+United Kingdom (TyCom Atlantic).  This system will be operated on a non common carrier basis. 
+We find that TyCom has provided sufficient information under our rules to comply with the Cable
+Landing License Act and that it would serve the public interest to grant the cable landing license
+subject to the conditions listed below. 
+
+                         II.Application
+
+     2.   According to the Application, TyCom, a Nevada corporation, is a wholly-owned
+subsidiary of TyCom Networks Limited (TyCom Networks) a Bermuda company, itself a
+subsidiary of Tyco International Ltd. (Tyco) also a Bermuda company.  TyCom has certified that
+it is not itself a carrier nor is it affiliated with any foreign carrier.
+
+     3.   According to the Application, the proposed cable system will be a digital fiber-optic
+system consisting of four fiber pairs (with a possible upgrade to eight fiber pairs) with a minimum
+design capacity of 640 Gbps per fiber pair.  The system will have a self-healing ring configuration
+consisting of a northern segment and a southern segment each of which will contain four optical
+fiber pairs and each of which will be capable of carrying a minimum of 64 wavelengths of traffic
+with each wavelength operating at a nominal rate of 10 Gbps.  The cable will connect Wall
+Township, New Jersey, and Brean, United Kingdom.
+                         III.  Comments
+
+     4    We placed the Application on public notice on March 17, 2000.  We did not receive
+any comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing
+License Act, and Executive Order No. 10530, we informed the Department of State of the
+Application.  The Department of State, after coordinating with the National Telecommunications
+and Information Administration and the Department of Defense, stated that it has no objection to
+issuance of the cable landing license.
+     
+                          1Discussion
+
+     A.   Private Submarine Cable Policy
+
+     5.   TyCom proposes to operate the cable as a non common carrier submarine cable
+system under which capacity will not be offered indifferently to the user public.  TyCom requests
+a license under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non common carrier cables where: (1) there is no legal compulsion to
+serve the public indifferently; and (2) there are no reasons implicit in the nature of the operations
+to expect the applicant would make capacity available to the public indifferently and
+indiscriminately.
+
+          6.   In applying the first prong of the test to submarine cable
+          authorizations, the Commission has stated that there will be no legal compulsion to
+          serve the public indifferently where there is no public interest reason to require
+          facilities to be offered on a common carrier basis.  This public interest analysis has
+          generally focused on whether an applicant will be able to exercise market power
+          because of the lack of alternative facilities.  Where there are sufficient
+          alternatives, the Commission has found that the licensee will lack market power
+          and will not be able to charge monopoly rates for cable capacity.  The Commission
+          has found that, in those circumstances, the public interest would be served by
+          allowing a submarine cable to be offered on a non-common carrier basis.
+     
+          7.   TyCom asserts that there are sufficient existing and planned
+          facilities on the route to prevent TyCom from exercising market power in offering
+          services to the public including numerous existing common carrier cables and
+          existing and planned non-common carrier cables.  The cable systems cited by
+          TyCom include the following cables extending between the United States and the
+          United Kingdom:  (1) PTAT, (2) Gemini, (3) TAT-8, (4) TAT-9; (5) TAT 11,
+          (6) TAT-12/13, (7) Atlantic Crossing-1 (AC-1), (8) FLAG Atlantic-1, (9)
+          Hibernia, (10) Level 3's transatlantic cable, (11) TAT-14, and (12) PTAT. 
+          PTAT, Gemini, TAT-8, TAT-9, TAT-11, TAT-12/13, and AC-1 are all operational
+          cables that extend between the United States and the United Kingdom.  The FLAG
+          Atlantic-1, TAT-14, Hibernia, and Level 3 cable systems have been authorized by
+          the Commission, but we are not yet aware of whether or not these cables are
+          operational.  In addition, TyCom has stated that it is not affiliated with any foreign
+          carriers and, accordingly, does not control any bottleneck facilities in the market
+          the proposed cable system will serve.
+
+          8.   No one has advocated that the public interest requires TyCom to
+          operate its cable on a common carrier basis.  Given the unopposed evidence of the
+          availability of alternative cables and TyCom's representation it does not have any
+          affiliate carriers with market power in the cable landing country, we find that it
+          would not serve the public interest to impose common carrier regulation on the
+          operations of TyCom's proposed system at this time.  We note, however, that we
+          maintain the ability to impose common carrier or common-carrier-like obligations
+          on the operations of this or any other submarine cable system if the public interest
+          so requires.  Furthermore, we have always maintained the authority to classify
+          facilities as common carrier facilities subject to Title II of the Communications Act
+          if the public interest requires that the facilities be offered to the public
+          indifferently.
+
+          9.   Regarding the second prong of the test, we conclude that there is no
+          reason to expect that capacity in the proposed cable system would be held out to the
+          public indifferently.  TyCom states that capacity will not be sold indifferently to the
+          user public.  Instead, capacity will be assigned pursuant to "individualized
+          decisions."  We therefore conclude that TyCom intends to operate the cable
+          system on a non-common carrier basis.
+
+          10.  We conclude that TyCom will not offer capacity in the TyCom
+          Atlantic system to the public on a common carrier basis and that the public interest
+          does not require that they do so.  Accordingly, we conclude that it is appropriate to
+          license the TyCom Atlantic system on a non-common carrier basis.  We also find
+          that TyCom will not provide a telecommunications service for a fee to such a class
+          of users as to be "effectively available directly to the public" and thus will not be a
+          "telecommunications carrier" under the Telecommunications Act of 1996.
+
+
+     B.   Ownership and Landing Points
+
+     11.  TyCom has provided the ownership information required by Section 1.767(a)(6)
+and Section 63.18 of the Commission's rules.  The Applicant will own the United States landing
+site as well as the wet portion of the cable within U.S. territorial waters.  The wet portion of the
+cable in international waters will be owned by TyCom Networks.  The United Kingdom landing
+site as well as the wet portion of the cable within the territorial waters of the United Kingdom will
+be owned or otherwise controlled by a wholly-owned U.S. subsidiary of TyCom Networks.
+     
+
+     12.  The Application states that the TyCom Atlantic cable landing station in the United
+States will be located in Wall Township, New Jersey at coordinates 47 degrees 08.00' north, 74
+degrees 03.00' west.  In the United Kingdom, the cable landing station will be located in Brean,
+U.K. at coordinates 51 degrees 15.500' north, 2 degrees 57.800' west.  Maps of both cable landing
+sites are included with the Application.  
+
+          C.   Environmental Impact
+
+     13.  The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore
+should be expressly excluded from our procedures implementing the National Environmental
+Policy Act of 1969.  Therefore, the Applicant is not required to submit an environmental
+assessment, and this Application is categorically excluded from environmental processing.
+
+                         V.  Conclusion
+
+     14.  We grant TyCom's Application for authority to land and operate a non-common
+carrier fiber optic submarine cable extending between the United States and the United Kingdom,
+subject to the conditions listed below. 
+
+                       1Ordering Clauses
+
+     15.  Consistent with the foregoing, we hereby GRANT AND ISSUE TyCom a license to
+land and operate a non common carrier fiber optic submarine cable system (consisting of four
+fiber pairs (with a possible upgrade to eight fiber pairs) extending between landing points at cable
+stations at Wall Township, New Jersey and Brean, United Kingdom) under the provisions of the
+Cable Landing License Act and Executive Order 10530.  This grant is subject to all rules and
+regulations of the Commission; any treaties or conventions relating to communications to which
+the United States is or may hereafter become a party; any action by the Commission or the
+Congress of the United States rescinding, changing, modifying, or amending any rights accruing to
+any person hereunder; and the following conditions:
+
+          (1) The location of the cable system within the territorial waters of the United States, its
+     territories and possessions, and upon its shore shall be in conformity with plans approved
+     by the Secretary of the Army, and the cable shall be moved or shifted by the Licensee at its
+     expense upon the request of the Secretary of the Army whenever he or she considers such
+     course necessary in the public interest, for reasons of national defense, or for the
+     maintenance or improvement of harbors for navigational purposes;
+
+          (2) The Licensee shall at all times comply with any requirements of U.S. government
+     authorities regarding the location and concealment of the cable facilities, buildings, and
+     apparatus for the purpose of protecting and safeguarding the cable from injury or
+     destruction by enemies of the United States;
+
+          (3) The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it do not enjoy and shall not acquire any right to
+     handle traffic on a common carrier basis to or from the United States, its territories, or its
+     possessions unless such service be authorized by the Commission pursuant to Section 214 of
+     the Communications Act, as amended;
+
+          (4) The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it shall not acquire or enjoy any right to land,
+     connect, or operate cables that is denied to any other United States company by reason of
+     any concession, contract, understanding, or working arrangement to which the Licensee or
+     any persons controlling it, controlled by it, or under direct or indirect common control with
+     it are parties;
+
+          (5) Neither this license nor the rights granted herein shall be transferred, assigned, or in
+     any manner either voluntarily or involuntarily disposed of or disposed of indirectly by
+     transfer of control of the Licensee to any persons, unless the Commission shall give prior
+     consent in writing;
+
+          (6) The Commission reserves the right to require the Licensee to file an environmental
+     assessment or environmental impact statement should it determine that the landing of the
+     cable at those locations and construction of necessary cable landing stations would
+     significantly affect the environment within the meaning of Section 1.1307 of the
+     Commission's procedures implementing the National Environmental Policy Act of 1969;
+     this license is subject to modification by the Commission upon its review of any
+     environmental assessment or environmental impact statement that it may require pursuant
+     to its rules;
+          
+          (7) Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive
+     Order No. 10530, as amended; and Section 214 of the Communications Act of 1934, as
+     amended, 47 U.S.C.  214, the Commission reserves the right to impose additional common
+     carrier or common-carrier-like regulation on the operations of the cable system if it finds
+     that the public interest so requires;
+     
+          (8) The Licensee shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with
+     the requirements of this license;  
+
+          (9) This license is revocable by the Commission after due notice and opportunity for
+     hearing pursuant to Section 2 of  "An Act relating to the Landing and Operation of
+     Submarine Cables in the United States"; 47 U.S.C.  35, or for failure to comply with the
+     terms of the authorizations;
+
+          (10) The Licensee shall notify the Commission in writing of the date on which the cable is
+     placed in service, and this license shall expire 25 years from such date, unless renewed or
+     extended upon proper application, and, upon expiration of this license, all rights granted
+     under it shall be terminated; and
+
+          (11) The terms and conditions upon which this license is given shall be accepted by the
+     Licensee by filing a letter with the Secretary, Federal Communications Commission,
+     Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+
+     16.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115,
+may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+

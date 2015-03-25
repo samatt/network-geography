@@ -1,0 +1,174 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*****************************************************************
+********
+             
+
+                         NOTICE
+
+
+*****************************************************************
+********
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed
+too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory
+\pub\Public_Notices\Miscellaneous.
+
+*****************************************************************
+********
+
+                                Before the 
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C. 20554
+                                                                 DA-96-1459
+In the matter of                   )
+                                   )
+FACILICOM INTERNATIONAL, L.L.C.    )
+                                   )
+Application for authority to       ) File No. I-T-C-96-322
+acquire and operate facilities     )
+for service to Denmark and Sweden. )
+
+                          ORDER AND AUTHORIZATION
+
+Adopted:  August 26, 1996               Released: August 30, 1996
+
+By the Chief, Telecommunications Division:
+
+          1.   Upon consideration of the above-captioned
+uncontested application, filed pursuant to Section 214 of the
+Communications Act of 1934, as amended, we find that the present
+and future public convenience and necessity require a grant
+thereof.
+
+          2.   Accordingly,   it is ordered   that application
+File No. I-T-C-96-322 IS GRANTED, and Facilicom International,
+L.L.C. (FCI) is authorized to:
+
+     a.   acquire on an Indefeasible Right of User basis a one-
+     half interest in and operate two E-1 circuits in the CANUS-1
+     and CANTAT-III Cable Systems, between the United States and
+     Canada, and between Canada and Denmark and Sweden;
+
+     b.   lease and operate connecting facilities between the
+     CANUS-1 terminal in Manahawkin, New Jersey and FCI's New
+     York operating office;
+
+     c.   lease a one-half interest in and operate any necessary
+     overseas connecting facilities; and
+
+     d.   use said facilities to provide regularly authorized
+     services, including switched voice and data and private line
+     services, between the United States and Denmark (one E-1),
+     and between the United States and Sweden (one E-1).
+
+          3.    IT IS FURTHER ORDERED that our authorization of
+FCI to provide private lines between the United States and
+Denmark as part of its authorized services is limited to the
+provision of such private lines only between the United States
+and Denmark -- that is, private lines which originate in the
+United States and terminate in Denmark or which originate in
+Denmark and terminate in the United States.  In addition, FCI may
+not -- and FCI's tariff must state that its customers may not --
+connect private lines provided over these facilities to the
+public switched network at either the U.S. or Denmark end, or
+both, for the provision of international switched basic services,
+unless authorized to do so by the Commission upon a finding that
+Denmark affords resale opportunities equivalent to those
+available under U.S. law, in accordance with Foreign Carrier
+Entry Order, 11 FCC Rcd 3873 (1995). The limitations in this
+paragraph are subject to the exception contained in Section
+63.18(e)(4)(ii) of the Commission's Rules, 47 C.F.R.
+63.18(e)(4)(ii).  
+
+          4.   IT IS FURTHER ORDERED that our authorization of
+FCI to provide private line service between the United States and
+Sweden as part of its authorized services is limited to the
+provision of service between the United States and Sweden -- that
+is, non-interconnected private lines or private lines which carry
+switched traffic that originate in the United States and that
+terminate in Sweden or  that originate in Sweden and that
+terminate in the United States. However, the applicant may engage
+in "switched hubbing" consistent with the rules adopted in the
+Foreign Carrier Entry Order, 11 FCC Rcd 3873, paras. 169-170. 
+See also Cable & Wireless, et al., 11 FCC Rcd 1766 (1996), para.
+36.  
+
+          5.   IT IS FURTHER ORDERED that grant of this
+application is conditioned upon Sweden continuing to afford
+resale opportunities equivalent to those available under U.S. 
+law.   
+          
+          6.   IT IS FURTHER ORDERED that the applicant shall
+file copies of any operating agreements it enters into with its
+foreign correspondents with the Commission within 30 days of
+their execution, and shall otherwise comply with the filing
+requirements contained in Section 43.51 of the Commission's
+Rules, 47 C.F.R. 43.51.
+
+          7.   IT IS FURTHER ORDERED that the applicant shall
+file a tariff pursuant to Section 203 of the Communications Act,
+47 U.S.C.  203, and Part 61 of the Commission's Rules, 47 C.F.R.
+Part 61, for the service authorized in this Order.
+
+          8.    IT IS FURTHER ORDERED that the applicant shall
+file the annual reports of overseas telecommunications traffic
+required by Section 43.61 of the Commission's Rules, 47 C.F.R.
+43.61.
+
+          9.   IT IS FURTHER ORDERED that the applicant shall
+file annual circuit status reports in accordance with the
+requirements set forth in Rules for Filing of International
+Circuit Status Reports, CC Docket No. 93-157, Report and Order,
+10 FCC Rcd 8605 (1995).
+
+          10.  IT IS FURTHER ORDERED that this authorization is
+issued subject to the terms and conditions of any license for the 
+CANUS-1  cable system issued herein under the Act entitled "An
+Act relating to the landing and operation of submarine cables in
+the United States," 47 U.S.C.  34-39.
+
+          11.  IT IS FURTHER ORDERED that the applicant shall
+file an application pursuant to Section 214 of the Communications
+Act of 1934, as amended, before adding any circuits or channels
+of communication for the provision of service over the CANUS-1
+
+          12.  This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this order (see Section
+1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Diane J. Cornell
+                         Chief, Telecommunications Division
+                         International Bureau                    
+             

@@ -1,0 +1,210 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the 
+Federal Communications Commission
+Washington, D.C. 20554
+
+In the Matter of        )
+                        )
+Telef¢nica Larga Distancia de Puerto Rico, Inc.  )       File No. ITC-97-653
+                        )
+Application Pursuant to Section 214 for Authority        )
+to Construct, Acquire, and Operate                       )
+Capacity in a Digital Submarine Cable                    )
+System, the PAN AMERICAN Cable System            )
+
+
+MEMORANDUM OPINION, ORDER AND AUTHORIZATI      ON
+
+                Adopted:  May 11, 1998                                Released:  May 15, 1998
+
+                By the Chief, Telecommunications Division:
+
+                              I. Introduction
+
+        1.  In this Order, we grant the application of Telef¢nica Larga Distancia de Puerto Rico, Inc.
+(TLD) for authority pursuant to Section 214 of the Communications Act of 1934, as amended, 47
+U.S.C.  214, to (1) construct, acquire, and operate capacity in a digital submarine cable system, the
+PAN AMERICAN Cable System (PAN AMERICAN), between the U.S. Virgin Islands, Aruba,
+Venezuela, Colombia, Panama, Ecuador, Peru and Chile; (2) acquire ownership in two fiber pairs, to
+be included in PAN AMERICAN, from the owner of the St. Thomas   St. Croix Cable System; (3)
+acquire by lease or other comparable means extension facilities as may be required to extend the
+capacity of PAN AMERICAN; and (4) activate capacity in PAN AMERICAN and in the
+aforementioned facilities for the provision of services already authorized by the Commission.  We
+classify TLD as a dominant carrier in its provision of services to Peru, Chile, and Argentina.  Finally,
+we condition TLD's authorization to use these facilities for service to Peru, Chile, and Argentina upon
+TLD's affiliates' offering U.S. carriers settlement rates at or below the relevant benchmark.
+
+        2.  TLD filed this application on October 21, 1997.  The application was placed on public
+notice on November 5, 1997.  AT&T Corp. (AT&T) filed a Petition to Deny, arguing that TLD has
+not demonstrated that Peru, Chile, and Argentina offer U.S. carriers effective competitive opportunities
+(ECO).  As detailed below, we deny AT&T's petition and find that TLD has provided sufficient
+information to comply with Section 214 of the Communications Act and that the authorization would
+serve the public interest, convenience, and necessity.  Therefore, we grant TLD authority to construct,
+acquire, and operate capacity in PAN AMERICAN, subject to the conditions below.
+
+                              II. Application
+
+        3.  TLD, a corporation organized under the laws of Puerto Rico, is a common carrier subject
+to the Communications Act of 1934, as amended.  On January 20, 1998, we released a cable landing
+license (DA 98-81) and an order (DA 98-82) granting nine parties the same authority that TLD
+requests here with respect to the PAN AMERICAN cable system.
+
+        4.  TLD proposes to land and operate PAN AMERICAN as a common carrier system
+extending between landing points at cable stations in St. Thomas, U.S. Virgin Islands; St. Croix, U.S.
+Virgin Islands; Baby Beach, Aruba; Punto Fijo, Venezuela; Barranquilla, Colombia; Colon, Panama;
+Panama City, Panama; Punta Carnero, Ecuador; Lurin, Peru; and Arica, Chile.  The cable system will
+be connected with the domestic networks in those countries or territories.  Shareholder voting interest
+in PAN AMERICAN will be divided among several parties as provided in the PAN AMERICAN
+construction and maintenance agreement.  The licensees expect to activate PAN AMERICAN by
+August 31, 1998.
+
+      5.  TLD plans to use PAN AMERICAN in providing its authorized services.  TLD states that
+other carriers, including non-owners, may acquire capacity in PAN AMERICAN by lease, IRU, or
+other arrangements.  The minimum investment unit (MIU) assignments for each segment and
+subsegment of PAN AMERICAN are included in the attachments to DA 98-82.  TLD proposes to
+acquire 48 half-MIUs in PAN AMERICAN, for an ownership interest of 1.04882 percent.
+
+      6.  TLD states that the facilities covered by this application will be used to supplement its
+existing cable and satellite facilities.  Its existing satellite facilities are satellite circuits between U.S.
+earth stations and the INTELSAT Atlantic Ocean Region satellites acquired from the COMSAT
+Corporation pursuant to COMSAT's applicable tariffs.  Those circuits are used in conjunction with
+connecting circuits between the satellites and foreign earth stations provided by TLD's foreign
+correspondents or, in some instances, other telecommunications entities.  TLD's existing submarine
+cable facilities used to provide service between the United States and some of those locations proposed
+to be served by PAN AMERICAN consist of circuits in AMERICAS-1 and TCS-1.
+
+                              III. Discussion
+
+      7.  TLD certifies that it is affiliated with foreign carriers in Spain, Argentina, Chile, Peru, and
+Romania.  It is therefore affiliated with foreign carriers in three countries where PAN AMERICAN
+will land   Argentina, Chile, and Peru.  We evaluate this application under the policies adopted by
+the Commission in its recent Foreign Participation Order.  There, the Commission adopted an open
+entry policy for international Section 214 applicants affiliated with carriers from WTO member
+countries.
+
+      8.  In the Foreign Participation Order, the Commission adopted a rebuttable presumption that
+applications for Section 214 authority to serve WTO member countries do not pose concerns that
+would justify denial of an application on competition grounds.  In adopting the presumption, the
+Commission found that it could rely on its competitive safeguards instead of an ECO analysis to
+address concerns of anticompetitive behavior by a foreign carrier with market power.  Thus, we will
+expeditiously grant the Section 214 application of any carrier seeking to serve WTO member countries
+except in the exceptional case where a carrier's entry presents a very high risk to competition in the
+U.S. market that cannot be addressed by the Commission's safeguards or by additional conditions.  In
+addition, we may further review applications if the Executive Branch raises serious concerns regarding
+national security, law enforcement, foreign policy, or trade issues.
+
+      9.  Because Argentina, Chile, and Peru are members of the WTO, we presume that there is no
+competition-based reason to deny TLD's application.  AT&T's petition to deny, filed before the
+Foreign Participation Order became effective, argues that Peru, Chile, and Argentina fail to satisfy the
+ECO test.  AT&T has not, however, demonstrated that TLD's entry into the U.S. market and
+provision of service to those markets raises a very high risk to competition that cannot be addressed by
+our safeguards or additional conditions.  In particular, AT&T has not made the required showing that
+the Commission's safeguards would be ineffective at preventing anticompetitive conduct by TLD and
+that as a result TLD would be able to raise the costs of unaffiliated U.S. carriers to the degree that
+end-user customers would be injured.
+
+      10.  TLD has made no attempt to demonstrate that its affiliates in Peru, Chile, and Argentina
+lack sufficient market power to affect competition adversely in the U.S. market.  Thus, TLD will be
+regulated as a dominant carrier pursuant to Section 63.10 of the Commission's rules along those
+routes.  TLD may later petition for reclassification as a non-dominant carrier along any of those routes
+by showing that its affiliate lacks sufficient market power to affect competition adversely in the U.S.
+market.  Furthermore, as required by the Commission's rules, the TLD has certified that it has not
+agreed and will not agree to accept special concessions from any foreign carrier.
+
+      11.  Section 214 of the Communications Act requires the Commission to determine that the
+authorization of the PAN AMERICAN facilities will serve the public interest, convenience and
+necessity.  The proposed Section 214 authorization will improve the telecommunications
+infrastructure and enhance services on the routes served by PAN AMERICAN.  The Commission has
+previously stressed the importance of making advanced telecommunications available to further
+economic development of the Caribbean region.  The improvement in telecommunications systems
+would also improve services to areas in South and Central America.  TLD has also stated that other
+carriers, including non-owners, may acquire capacity in PAN AMERICAN, so the pro-competitive
+goals of the Commission are met by granting the Section 214 authorization.
+
+      12.  Accordingly, we conclude that the public interest will be served by granting TLD
+authority to construct, acquire and operate capacity in PAN AMERICAN.  Therefore, IT IS HEREBY
+CERTIFIED that the present and future public convenience and necessity require a grant of the
+application, as conditioned below.
+
+                           IV. Ordering Clauses
+
+      13.  IT IS ORDERED that application File No. ITC-97-221 IS GRANTED and Telef¢nica
+Larga Distancia de Puerto Rico, Inc., is authorized, pursuant to Section 214 of the Communications
+Act, as amended, to (1) construct, acquire, and operate capacity in a digital submarine cable system
+known as the PAN AMERICAN Cable System between the U.S. Virgin Islands, Aruba, Venezuela,
+Colombia, Panama, Ecuador, Peru and Chile in accordance with the interests indicated in the
+Attachments; (2) acquire ownership in two fiber pairs, to be included in PAN AMERICAN, from the
+owner of the St. Thomas   St. Croix Cable System; (3) acquire by lease or other comparable means
+such extension facilities as may be required to extend the capacity of PAN AMERICAN; and (4)
+activate capacity in PAN AMERICAN and in its facilities for the provision of TLD's authorized
+services. 
+
+      14.  IT IS FURTHER ORDERED that TLD's tariffs must state that its customers may not
+resell international private lines or connect them to the public switched network for the provision of
+international basic telecommunications services unless authorized to do so by the Commission upon a
+country-specific finding that the Commission will permit the provision of switched services over
+private lines between the United States and that country.  See Market Entry and Regulation of Foreign-
+Affiliated Entities, Report and Order, 11 FCC Rcd 3873 (1995); Rules and Policies on Foreign
+Participation in the U.S. Telecommunications Market, Report and Order and Order on
+Reconsideration, 12 FCC Rcd 23,891 (1997).  The limitations in this paragraph are subject to the
+exceptions contained in Section 63.18(e)(4)(ii) of the Commission's rules, 47 C.F.R. 63.18(e)(4)(ii)
+(1997).
+
+      15.  IT IS FURTHER ORDERED that the licensees of PAN AMERICAN shall make available
+half-interests in PAN AMERICAN capacity to such present and future U.S. carriers as may be
+authorized by the Commission to acquire such capacity.
+
+      16.  IT IS FURTHER ORDERED that the Commission retains jurisdiction to reallocate U.S.
+carriers' interests in capacity herein authorized, as the public interest may require and with any
+requisite concurrence of the foreign administration or carriers concerned, in order to accommodate
+additional carriers or for other reasons.
+
+      17.  IT IS FURTHER ORDERED that TLD shall comply with Sections 43.82, 63.19, and
+63.21 and with all other relevant Commission rules and policies.
+
+      18.  IT IS FURTHER ORDERED that TLD's authorization to provide facilities-based service
+to Peru, Chile, and Argentina is subject to the conditions specified in International Settlement Rates,
+Report and Order, 12 FCC Rcd 19,806 (1997), that is, TLD may provide facilities-based service to a
+region served by an affiliate that terminates U.S. international switched traffic only if that affiliate has
+in effect a settlement rate with U.S. international carriers that is at or below the Commission's relevant
+benchmark.  See id.  231.
+
+      19.  IT IS FURTHER ORDERED that TLD shall be regulated as a dominant carrier under
+Section 63.10 of the rules and shall comply with the requirements of paragraph (c) of that section for
+services between the United States and Peru, Chile, and Argentina.
+
+      20.  IT IS FURTHER ORDERED that AT&T's Petition to Deny is DENIED.
+
+      21.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within
+30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                                        FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                        Diane J. Cornell
+                                        Chief, Telecommunications Division
+                                        International Bureau

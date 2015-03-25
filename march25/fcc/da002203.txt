@@ -1,0 +1,284 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+World Access, Inc. and Communications       )
+Telesystems International d/b/a WorldxChange           )
+                                     )
+Application for Authority, Pursuant to the        )
+Submarine Cable Landing License Act,         )         SCL-T/C-20000515-00021
+to Transfer Control of and Assign Cable          )
+Landing Licenses                     )
+                                     )
+Application for Authority, Pursuant to       )         ITC-T/C-20000515-00317
+Section 214 of the Communications Act,       )
+as Amended, to Transfer Control of and Assign         )
+International Section 214 Authorizations          )
+                                     )
+                                     )
+
+                  MEMORANDUM OPINION AND ORDER
+
+Adopted: September 26, 2000             Released: September 27, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                         I.INTRODUCTION
+
+ 1.  In this Order, we grant the applications of World Access, Inc. (World Access) and
+Communication TeleSystems International d/b/a WorldxChange (WorldxChange) (collectively,
+Applicants), seeking authority to transfer to World Access interests in certain submarine cable
+landing licenses of WorldxChange and international Section 214 authorizations (and applications
+for international Section 214 authority) of WorldxChange, and to assign these interests,
+authorizations, and applications for  authority, to a surviving corporation, WorldxChange
+Communications, Inc. (WorldxChange Communications), in connection with the proposed
+merger of World Access and WorldxChange.
+                         II.BACKGROUND
+
+ 2.  On May 15, 2000, Applicants concurrently filed two applications, one seeking authority
+under the Cable Landing License Act to transfer control of cable landing licenses, and one
+seeking authority under Section 214 of the Communications Act, as amended, to transfer control
+of Section 214 authorizations.  On June 20, 2000 Applicants filed a supplement to their
+applications to include an additional Section 214 authorization and to clarify certain ambiguities
+regarding the name of WorldxChange.  On September 7, 2000, Applicants filed a letter advising
+the Commission that the lists of cable landing licenses and Section 214 authorizations provided
+in the initial applications and Supplemental Filing were complete.  The September 7, 2000
+Letter also clarified the description of one Section 214 authorization listed in the Section 214
+Transfer Application.  On September 20, 2000, Applicants filed a letter revising the list of
+WorldxChange's Section 214 authorizations included in the Section 214 Transfer Application. 
+
+ 3.  WorldxChange, a California corporation based in San Diego, California, is a global
+telecommunications company that specializes in providing high-quality, low-cost services to
+retail and wholesale customers in 13 countries, including the United Kingdom, Germany, the
+United States, France, the Netherlands, Belgium, Chile, Guatemala, Australia, Canada, and New
+Zealand. According to Applicants, WorldxChange operates 45 switches that are connected by an
+extensive network of owned and leased undersea and land-based fiber optic cables. 
+WorldxChange holds numerous Section 214 authorizations, as well as several cable landing
+licenses and an earth station license, and is regulated as a non-dominant carrier on all routes.
+
+ 4.  World Access, a Delaware corporation based in Atlanta, Georgia, is a provider of bundled
+voice, data, and Internet services to key regions of the world, and through its licensed
+subsidiaries, competitively provides end-to-end voice and data communications services
+including frame relay, IP, ATM, and multimedia applications.  According to Applicants,
+subsidiaries of World Access hold numerous Section 214 and cable landing licenses, and are
+subject to non-dominant regulatory treatment on all routes.
+
+ 5.  World Access and WorldxChange have entered into an agreement whereby World Access
+would acquire WorldxChange through the exchange of shares of stock.  Upon completion of the
+merger WorldxChange will become a subsidiary of World Access. Specifically, WorldxChange
+will be merged with and into WorldxChange Communications, a Delaware corporation that is a
+wholly-owned subsidiary of World Access that was formed to effectuate the acquisition. 
+Applicants assert that, following the merger, the current business of WorldxChange will be
+conducted through WorldxChange Communications which will hold, and will continue to
+provide service under, WorldxChange's existing licenses and authorizations.  Through the
+acquisition of WorldxChange, World Access will acquire control of  WorldxChange's interests
+in the following cable landing licenses: COLUMBUS-III; MAYA-1, Guam Philippines
+Cable System; AMERICAS-II, and the Pan American Cable System.  In addition, World
+Access will acquire control of WorldxChange's Section 214 authorizations identified in
+Appendix B of this Order, including Section 214 authorizations associated with submarine cable
+landing licenses. Applicants also noted that World Access recently entered into an agreement to
+purchase STAR Telecommunications, Inc. (STAR).  On September 8, 2000, the International
+Bureau's Telecommunications Division released an Order granting the joint applications of
+World Access and STAR seeking authority to transfer to World Access control of international
+Section 214 authorizations, as well as interests in certain submarine cable landing licenses held
+by STAR, in connection with the proposed merger of World Access and STAR.
+
+ 6.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the
+application to transfer control of and assign WorldxChange's interest in the submarine cable
+landing licenses.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, has no
+objection to proposed transfers and assignments.
+
+                         III.DISCUSSION
+
+ 7.  Pursuant to Section 1.767(a)(8) of the Commission's rules,  World Access is required to
+disclose its affiliations with foreign carriers.  According to the Applications, World Access is
+affiliated with nondominant foreign carriers in Austria, Belgium, Denmark, El Salvador, Finland,
+France, Germany, Guatemala, Hong Kong, Italy, Japan, the Netherlands, Norway, Portugal,
+Spain, Sweden, Switzerland, and the United Kingdom.  In addition, Applicants note that,
+following its planned merger with STAR, World Access will also become affiliated with and
+control the nondominant foreign carrier affiliates of STAR, which include affiliations with
+carriers in Canada, Germany, the United Kingdom, and Japan.  Because these countries are
+Members of the World Trade Organization, we presume that World Access' affiliations with
+these carriers do not pose concerns that would justify denying these applications.  Moreover,
+Applicants have certified that no foreign affiliate of World Access holds a fifty percent or greater
+market share in its respective market, which Applicants certify will remain true even if World
+Access consummates its proposed merger with STAR.
+
+ 8.  We conclude that grant of the application to transfer and assign interests in cable landing
+licenses is consistent with the Cable Landing License Act and that grant of the application to
+transfer and assign the international Section 214 authorizations and applications for Section 214
+authority is consistent with Section 214 and the Commission's regulations governing that
+section.  We therefore consent to the transfer of control of WorldxChange to World Access. 
+With respect to the cable landing licenses, this Order constitutes a modification of the initial
+authorizations to reflect these transfers of control and assignments.  We do not modify the initial
+authorizations in any other respect.
+
+                      IV.ORDERING CLAUSES
+
+      1.  In consideration of the foregoing and pursuant to the Cable Landing License Act,
+Executive Order No. 10530, and Section 214 of the Communications Act, as Amended, 47
+U.S.C.  34-39, 3 U.S.C.  301, 47 U.S.C.  214, IT IS ORDERED that the applications, File
+Nos. SCL-T/C-20000515-00021 and ITC-T/C-20000515-00317, ARE GRANTED, and the cable
+landing licenses set forth in Appendix A ARE MODIFIED to reflect these transfers of control and
+assignments. 
+      2.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R. 
+1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+                           APPENDIX A
+                                
+             Cable Landing Licenses of WorldxChange
+
+
+FCC File Number
+Description
+
+
+File No. SCL-98-005
+COLUMBUS-III Cable Landing License
+
+
+FCC No. SCL-LIC-9990325-00006
+MAYA-1 Cable Landing License
+
+
+File No. SCL-AMD-1998-0902-00018
+Guam-Philippines Cable Landing License
+
+
+File Nos. SCK-98-003 and SCL-98-003A
+Americas-II Cable Landing License
+
+
+File No. SCL-97-001
+Pan American Cable Landing License
+
+
+
+                           APPENDIX B
+Section 214 Authorizations and Applications for Authority of WorldxChange
+
+
+FCC File Number
+Description
+
+
+File No. ITC-93-023
+Resale of switched services
+
+
+File No. ITC-94-217
+
+Facilities-based switched and private lines
+services via satellite
+
+
+File No. ITC-94-476
+
+Facilities-based switched and private lines
+services via PTAT-1 cable
+
+
+File No. ITC-95-058
+
+Facilities-based switched and private lines
+services via multiple cables
+
+
+File No. ITC-95-116
+
+Resale of private line for switched services to
+Sweden
+
+
+File No. ITC-214-19990325-00153
+
+MAYA-I cable
+
+
+File No. ITC-98-437
+
+Facilities-based switched and private line
+services via Columbus-III cable
+
+
+File Nos. ITC-98-342 and ITC-98-342A
+AMERICAS-II cable
+
+
+File No. ITC-97-221
+Pan American Cable System
+
+
+File No. ITC-95-444
+
+Resale services to New Zealand
+
+
+File No. ITC-96-634
+Circuits on Russia Express II satellite
+
+
+File No. ITC-94-475
+
+Authority to acquire capacity on the
+AMERICAS-I and Taino-Caribe cable systems
+to provide authorized services between the
+U.S. mainland and Puerto Rico
+
+
+File No. ITC-98-333
+
+Global facilities-based and resale authority
+
+
+File No. 95-115
+
+ISR to the U.K.
+
+
+File No. 94-402
+
+ISR to Canada
+
+
+File No. ITC-97-036
+Global Resale authority held by CTS Telecom,
+Inc. (a subsidiary of WorldxChange)
+
+

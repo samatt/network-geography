@@ -1,0 +1,437 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory
+\pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                                       DA 96-956
+
+                             
+           Before the
+      FEDERAL COMMUNICATIONS COMMISSION
+Washington, D.C. 20554
+
+           
+           In the Matter of                   )
+                              )
+Optel Communications, Inc.         )    
+                              )
+Application for a Modification to License    )    File No. SCL-92-
+004(M)
+to Land and Operate a Submarine Fiber   ) 
+Optic Cable between the United States   )
+and Canada                         )  
+               
+
+CABLE LANDING LICENSE MODIFICATION
+
+          Adopted:  June 14, 1996       Released:  June 14, 1996
+
+By the Chief, Telecommunications Division:
+
+INTRODUCTION
+               
+
+     1.   Optel Communications, Inc. (Optel) requests a modification
+to its license to land and operate a submarine fiber optic cable between
+the United States and Canada (CANUS-1).  It seeks to add a branch to
+Bermuda (Bermuda branch) extending from the existing CANUS-1
+branching unit in the Atlantic Ocean to a landing point in Bermuda in
+order to provide services between the United States, Bermuda and
+Canada.  Cable capacity in the CANUS-1 system would continue to be
+sold or leased on a non-common carrier basis.  We find that the
+proposed modification would promote the public interest by providing
+additional voice, video and high speed data capacity and reliable, cost-
+efficient communications between the United States, Bermuda and
+Canada.  We also find that Optel has provided sufficient information to
+comply with the Cable Landing License Act, and therefore grant the
+modification to the cable landing license.
+
+
+
+APPLICATION
+
+     2.   Optel is a privately-held corporation organized under the
+laws of the State of Delaware.  It is eighty percent owned by United
+States citizens and twenty percent owned by Teleglobe Canada, Inc.
+(Teleglobe), the monopoly facilities-based carrier of international traffic
+originating or terminating in Canada, except for services between
+Canada and the United States.  All of Optel's officers and two-thirds of
+its directors are United States citizens.  The proposed modification
+seeks to add a Bermuda branch to the CANUS-1 high capacity digital
+submarine cable system owned jointly by Optel and by Teleglobe.  Optel
+owns 100 percent of the CANUS-1 cable station in the United States and
+fifty percent of the international portion of the existing CANUS-1
+submarine cable.  Teleglobe owns 100 percent of the CANUS-1 cable
+station in Canada and fifty percent of the international portion of the
+existing CANUS-1 submarine cable.   
+
+     3.   The Bermuda branch will extend from the existing CANUS-1
+branching unit, owned fifty percent by Optel and fifty percent by
+Teleglobe, in the Atlantic Ocean to a landing point in Bermuda and will
+be used to provide services between the United States, Bermuda and
+Canada.  This revised CANUS-1 configuration will maintain one direct
+fiber pair, via the branching unit, between the U.S. and Canadian
+landing points, and produce a direct fiber pair between the United
+States and Bermuda and a direct fiber pair between Bermuda and
+Canada.  All CANUS-1 fiber pairs will operate at a nominal speed of 2.5
+Gigabits per second (Gbps). 
+
+     4.   Cable & Wireless plc (C&W), a publicly-traded U.K.
+corporation, will own and construct the Bermuda branch.  C&W
+wholly owns C&W Bermuda, the dominant domestic and international
+facilities and services provider in Bermuda and Cable and Wireless
+Communications, Inc. (CWI), an authorized U.S. carrier incorporated in
+the District of Columbia.  Optel states that AT&T Submarine Systems,
+Inc., a U.S. corporation, will supply the submarine cable and repeaters
+and the terminal equipment at the Bermuda landing point, and that the
+undersea portion of the Bermuda branch will be maintained via the
+Atlantic Cable Maintenance Agreement. 
+  
+     5.   Optel asserts that the Commission held in its Optel
+Conditional License decision that there was no public interest reason to
+require CANUS-1 capacity to be offered on a common carrier basis and
+there was no reason to expect that CANUS-1 capacity offerings would
+be made available to serve the public indifferently.  Optel submits that
+the Bermuda branch will not alter the essential character of CANUS-1,
+nor will it alter Optel's status as a non-common carrier.  Optel
+incorporates by reference all information and representations set forth
+in its initial cable landing license application.
+
+     6.    Pursuant to Section 1.767(b) of the Commission's Rules, the
+Cable Landing License Act and Executive Order No. 10530, we informed
+the Department of State of Optel's application.  The Department of
+State, after coordinating with the National Telecommunications and
+Information Administration and the Department of Defense, stated that
+it has no opposition to the grant of the cable landing licenses.
+
+COMMENTS   
+
+      7.    We placed Optel's application for modification on public
+notice on January 23, 1996.  In response, TeleBermuda International
+Ltd. (TBI) filed a motion to accept late filed comments and comments. 
+TBI states that the Bermuda government has selected it to become the
+second facilities-based international services carrier in Bermuda, to
+compete with C&W Bermuda, the dominant facilities-based
+international service provider.  TBI has pending before the Commission
+an application for a cable landing license between Bermuda and the
+United States.
+
+      8.    In support of its motion, TBI states it inadvertently missed
+the deadline for submitting its comments on the modification
+application.  TBI submits that based on its interest in the modification
+proceeding, the important public interest issues at stake, and the fact
+that no party will be prejudiced by submission of the late-filed
+comments, the Commission should grant its motion.  In response,
+Optel notes that TBI's comments were filed late, but does not oppose
+TBI's motion. 
+
+DISCUSSION
+     
+                                    9.    Although TBI's comments are untimely, given that no party
+will be prejudiced, and to ensure a complete record, we find that the
+public interest would be served by including TBI's comments in the
+record as informal comments pursuant to 47 C.F.R. Section 1.41.
+
+      10.   TBI argues that Optel has provided insufficient information
+in support of its application.  It states that the little information that
+has been submitted by Optel raises more questions than it answers,
+particularly with reference to how it might impact the conditions
+imposed in the Optel Final License decision.  
+     
+     11.  TBI asserts that the modification may involve the sale of an
+ownership interest in the CANUS-1 undersea branching unit, thereby
+altering ownership percentages in CANUS-1 and violating conditions in
+the Optel Final License decision.  It further states that the undersea
+branching unit could be used to divert one half of the total CANUS-1
+system capacity through Bermuda on a spur to be entirely owned by
+C&W.  TBI notes that Condition (7) of the Optel Final License decision
+requires Optel to file a copy of any contract, understanding or
+agreement, or summary containing the essential terms, conditions and
+rates, entered into with Teleglobe, its affiliates, or any partnerships or
+joint ventures in which Teleglobe is a participant for the sale or lease of
+any capacity on CANUS-1.  It states that the Commission should
+satisfy itself that all relevant information has been filed to ensure a
+complete public record.
+      
+     12.  In its reply comments, Optel asserts that TBI's comments are
+without merit.  It states that the addition of the Bermuda branch to
+CANUS-1 will not violate the conditions in the Optel Final License
+decision because it will not alter the CANUS-1 ownership percentages
+of either Optel or Teleglobe.  Optel states that no ownership interest in
+the CANUS-1 undersea branching unit is being sold.  It submits that
+while Optel and Teleglobe each own fifty percent of the international
+portion of the existing CANUS-1 submarine cable, as well as the
+branching unit that will serve as a junction point, C&W will construct
+and own the Bermuda branch.  Optel states that no ownership in the
+undersea branching unit is being sold.  Optel asserts that the because
+the existing ownership interests of the branching unit will remain
+unchanged, the modification will not violate Condition (7) of the
+Optel's final license.  Finally, Optel states that Teleglobe's ownership in
+CANUS-1 will not change upon grant of Optel's modification
+application.  
+
+     13.  We find that Optel has provided sufficient information
+about the ownership of the CANUS-1 branching unit and the Bermuda
+branch.  The record indicates that the proposed modification does not
+change the ownership percentages of the CANUS-1 system or the
+Bermuda branching unit.  Optel owns fifty percent (100 percent of the
+U.S. end) and Teleglobe owns the other fifty percent (100 percent of the
+Canadian end).  We find that no ownership interest will be sold and
+thus these percentages will not change.  Finally, we find that the
+addition of the Bermuda branch does not change Teleglobe's ownership
+interest in CANUS-1.
+
+     14.  TBI also asserts that Optel has failed to provide information
+regarding the proposed ready for service date for the Bermuda branch
+and the cost for the extension.  TBI states that this information is
+relevant to the ultimate ownership percentages and assessment of likely
+utilization of the system by U.S. entities such as C&W North America. 
+Such entities, TBI states, could seek to obtain capacity with C&W
+Bermuda to provide services in a manner which might violate
+Condition (3) of the Optel Final License decision, which prohibits the
+use of facilities in a discriminatory manner.  TBI requests that the
+Commission impose appropriate protections to protect against such
+potential abuse. 
+ 
+     15.  TBI notes that C&W Bermuda, in conjunction with C&W
+plc, currently maintains a bottleneck control over all submarine cable
+facilities landing in Bermuda, including PTAT and CARAC.  It alleges
+that the proposed modification configuration may allow carriers the
+potential to direct U.S. traffic to and from Bermuda via Canada, to the
+detriment of U.S. carriers that are not allowed to compete with
+Teleglobe in the Canadian international market.  TBI submits that
+protections should be placed on any CANUS-1 modification to guard
+against potential abuse by Optel, Teleglobe or C&W.  It requests that
+the Commission seek more information from Optel and impose
+appropriate conditions to protect against potential abuses of, and to
+ensure compliance with, the conditions previously imposed in the Optel
+Final License.
+ 
+     16.  Optel responds that the Commission has previously
+addressed and resolved concerns that certain carriers will gain the
+potential to direct U.S.-originating or -terminating traffic to and from
+Bermuda through Canada to the detriment of U.S. carriers.  It asserts
+that when the Commission granted Optel its conditional license, the
+Commission found that U.S. carriers should be protected against
+discriminatory practices.  It states that the Commission held that any
+concerns as to the routing restrictions or other practices which may
+discriminate against U.S. carriers would be more appropriately
+addressed in the context of individual carriers' Section 214
+applications.
+
+     17.  In response to TBI's concerns about traffic diversion, Optel
+states that in the Optel Order on Reconsideration, the Commission
+addressed a similar routing concern raised by AT&T that CANUS-1 will
+be used to divert U.S.-European traffic through Canada.  Optel asserts
+that the Commission concluded that it does not necessarily view such
+routing as harmful and that CANUS-1 should enhance U.S.
+international facilities competition.  It also notes that the Commission
+stated that in the event that traffic diversion resulted in harm to U.S.
+carriers or ratepayers, it would revisit the issue and take corrective
+measures through the Section 214 process.
+     
+     18.  We decline to require Optel to provide information in its
+application about the ready for service date and cost of the
+modification.  Our rules do not require such information to be filed
+with the Commission.  We note, however, that the Commission's Section
+214 Streamlining Order, which will take effect in the near future,
+amends Section 1.767 of the Commission's rules to require applicants
+to promptly disclose to any interested party, upon written request,
+accurate information concerning the location and timing for the
+construction of the cable facility.
+
+     19.   We find that TBI's concerns as to possible routing
+restrictions or other practices which may discriminate against U.S.
+carriers would be more appropriately presented and addressed in the
+context of individual carriers' Section 214 applications than in a cable
+landing license proceeding.  We see no reason to depart from the
+approach taken in our Optel Conditional License decision, in which we
+agreed with concerns regarding potential international routing
+restrictions, but decided that such constraints should be addressed in
+the context of individual carriers' Section 214 applications.  In this case,
+the ability of carriers to market and provide service directly to U.S.
+customers in the United States via CANUS-1 -- whether provided on a
+common carrier or non-common carrier basis -- is subject to prior
+Commission approval under Section 214.  Moreover, as the
+Commission found in the Optel Conditional License decision, in the
+event that traffic diversion results in harm to U.S. carriers or
+ratepayers, the Commission can revisit the issue and take corrective
+measures through the Section 214 process.  We thus conclude that no
+further conditions are necessary.  
+
+     20.  Since existing cable stations will be used for landing this
+system, the application does not propose a major action within the
+meaning of Section 1.305 of the Commission's Rules and Regulations
+implementing the National Environmental Policy Act of 1969, 42 U.S.C.
+Sections 4321-4347.  Consequently, no environmental information is
+required as part of the application.
+
+ORDERING CLAUSES
+
+     21.  Consistent with the foregoing, we HEREBY GRANT AND
+ISSUE, under the Cable Landing License Act and Executive Order No.
+10530, Optel Communications, Inc. a modification to its license to land
+and operate a high-capacity fiber optic submarine cable to add a branch
+to Bermuda (2 fiber pairs operating at a nominal speed of 2.5 Gbps)
+extending from the existing CANUS-1 branching unit in the Atlantic
+Ocean to a landing point in Bermuda.  This license is subject to:  (1) the
+Submarine Cable Landing Act, 47 U.S.C.  34-39; (2) the
+Communications Act of 1934, as amended, 47 U.S.C.  151-609;  (3)
+subsequent applicable acts; (4) all relevant rules and regulations of the
+Federal Communications Commission; (5) any treaties or conventions
+to which the United States of America is or may hereafter become a
+party; (6) any actions by the Commission or the Congress of the United
+States of America rescinding, changing, modifying, or amending any
+rights accruing to any person; and (7) the following conditions:
+ 
+     (1) The location of the cable within the territorial waters of the
+United States of    America, its territories and possessions, and
+                    upon the foreshore thereof, shall be in conformity
+                    with plans approved by the Secretary of the
+                    Army, and the cable shall be moved or shifted by
+                    the Licensee at its expense upon the request of
+                    the Secretary of the Army whenever he or she
+                    considers such course necessary in the public
+                    interest, for reasons of national defense, or for
+                    the maintenance or improvement of harbors for
+                    navigational purposes;
+ 
+     (2) The Licensee shall at all times comply with any requirements
+     of United States Government authorities regarding the location
+     and concealment of the cable facilities, buildings, and apparatus
+     with a view to protecting and safeguarding the cable from injury
+     or destruction by enemies of the United States of America; 
+
+     (3) The Licensee or any persons or companies directly or indirectly
+     controlling it or controlled by it, or under direct or indirect
+     common control with it, shall not acquire or enjoy any right, for
+     the purpose of handling or interchanging traffic to or from the
+     United States, its territories or possessions, to land, connect or
+     operate cables or landlines, to construct or operate radio stations,
+     or to interchange traffic, which is denied to any other United
+     States company by reason of any concession, contract,
+     understanding, or working arrangement to which the Licensee or
+     any persons or companies controlling it or controlled by it are
+     parties; 
+
+     (4) Neither this license, nor the rights granted herein, shall be
+     transferred, assigned, or in any manner either voluntarily or
+     involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Federal
+     Communications Commission shall give prior consent in writing; 
+
+     (5) The Licensee shall maintain no less than a 50 percent
+     ownership interest and voting control share in the proposed cable,
+     including 100 percent ownership in the cable station at
+     Manasquan, New Jersey and in the U.S. land portion of the cable
+     from the station to the U.S. beach joint of the submersible portion
+     of the proposed cable; 
+
+     (6) The Licensee shall not sell or lease any capacity on CANUS-1
+     to Teleglobe, its affiliates or any partnerships or joint ventures in
+     which Teleglobe is a participant, unless and until Teleglobe, its
+     affiliates, or partnerships in which Teleglobe is a participant has
+     requested and received prior Commission approval for the sale
+     and lease of any such capacity; 
+
+     (7) The Licensee shall file a copy of any contract, understanding or
+     agreement, or a summary containing the essential terms,
+     conditions and rates, entered into with Teleglobe, its affiliates, or
+     any partnerships or joint ventures in which Teleglobe is a
+     participant for the sale or lease of any capacity on CANUS-1; 
+
+     (8) The Licensee shall obtain prior Commission approval for any
+     proposed increase in Teleglobe's level of ownership or
+     participation in the Licensee; 
+
+     (9) The Licensee shall, by application, obtain Commission
+     approval prior to the sale or transfer to a foreign entity of five
+     percent or more in the aggregate of U.S.-owned and -controlled
+     Optel stock; 
+
+     (10) This license is subject to future modification which may be
+     determined necessary by the Secretary of State to protect U.S.
+     interests as a result of:  (a) the sale or lease of capacity to
+     particular foreign or domestic entities; or (b) contracts awarded to
+     particular foreign or domestic entities for the design,
+     construction, installation, operation, or maintenance of the
+     proposed cable; 
+
+     (11) This license is revocable after due notice and opportunity for
+     hearing by the      Federal Communications Commission in the
+     event of breach or nonfulfillment of any requirement specified in
+     Section 2 of the Submarine Cable Landing Act, 47 U.S.C.  34-39,
+     or for failure to comply with the terms of this authorization; 
+
+     (12) The Licensee shall notify the Commission in writing of the
+     date on which the cable is placed in service; and this license shall
+     expire 25 years from that date, unless renewed or extended upon
+     proper applications duly filed no less than six months prior to the
+     expiration date; and, upon expiration of the license, all rights
+     granted under it shall be terminated; and 
+
+     (13) The terms and conditions upon which this license is given
+     shall be accepted by the Licensee by filing a letter with the
+     Secretary, Federal Communications Commission, Washington,
+     D.C. 20554, within 30 days of the release of this order.
+
+          22.  This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's Rules may be filed within 30 days of
+public notice of this order (see Section 1.4(b)(2)).
+
+
+                         FEDERAL COMMUNICATIONS
+COMMISSION
+
+
+
+
+                         Diane J. Cornell
+                         Telecommunications Division
+                         International Bureau
+
+
+      
+
+
+
+
+
+
+
+

@@ -1,0 +1,1821 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION  
+                          Washington, D.C. 20554  
+     FCC 95-498
+In the Matter of)                           
+     )
+SPRINT CORPORATION    )          
+     )
+Petition for Declaratory Ruling        )     I-S-P-95-002
+Concerning Section 310(b)(4) and (d) and          )     
+the Public Interest Requirements of the           )
+Communications Act of 1934, as amended )     
+
+
+
+                       DECLARATORY RULING AND ORDER
+
+     Adopted:  December 15, 1995 Released:  January 11, 1996
+
+By the Commission:  Commissioner Chong approving in part and concurring in part;
+Commissioners Quello, Barrett, Ness and Chong issuing separate statements.
+
+                             Table of Contents
+                                                                 Paragraphs
+
+  I.  INTRODUCTION      1
+ II.  BACKGROUND        6
+III.  COMMENTS         
+      15
+IV.   DISCUSSION
+ A.   Section 310(d) Transfer of Control                             20
+      B.    Public Interest Analysis                                 
+      1.    Applicability of the Foreign Carrier Entry
+            Decision   31
+      2.    Effective Competitive Opportunities Analysis Under 
+      Section 214      35
+      3.    Effective Competitive Opportunities Analysis Under 
+            Section 310(b)(4)47
+      4.    Competitive Concerns                                     51
+      5.    Countervailing Factors                                   61   
+      a.    Liberalization Developments in France and Germany        62
+      b.    Effects on Competition in U.S. Markets                   77
+      c.    Other Public Interest Factors                            89
+      6.    Conditions and Safeguards                                96
+ V.   CONCLUSION       134
+VI.   ORDERING CLAUSES 138
+
+                             I.  Introduction
+
+ 1.   In this declaratory ruling and order, we grant, subject to certain conditions,
+Sprint's requests for rulings that the proposed alien ownership in Sprint of up to 28 percent is
+not on balance inconsistent with Section 310(b)(4) of the Communications Act (Act), and that
+the proposed transaction is not otherwise inconsistent with the public interest.  We also find
+that 10 percent equity investments each by France Telecom (FT) and Deutsche Telekom (DT)
+in Sprint do not result in a transfer of control of Sprint to FT and DT and thus do not require
+prior Commission approval under Section 310(d) of the Act.  
+
+ 2.   In our recently adopted Foreign Carrier Entry Order, we stated that we would
+evaluate, as an important part of our overall public interest analysis under Sections 214 and
+310(b)(4), whether effective competitive opportunities exist for U.S. entities in relevant
+foreign markets.  France and Germany do not now offer effective competitive opportunities
+to U.S. carriers.  FT and DT are monopoly providers of basic international
+telecommunications facilities in these countries.  Nonetheless, two other important public
+interest factors weigh in favor of granting the petition:  (1) the current and planned
+liberalization of the French and German telecommunications markets; and (2) the competitive
+benefits for the U.S. telecommunications markets of the FT and DT investment in Sprint. 
+
+ 3.     A critical component of our decision is our conclusion that the French and
+German Governments are committed to full competition in their telecommunications markets,
+in which U.S. companies will be allowed to participate.  Since our notice of proposed
+rulemaking (NPRM) on foreign carrier entry was adopted in February 1995, and following
+discussions with Commission representatives, both the French and German Governments
+have announced and begun to implement wide-ranging liberalization plans.  Moreover, they
+have committed, in letters from senior government representatives filed with the
+Commission, to open their telecommunications services and infrastructure markets to limited
+competition by July 1996 and full competition by January 1, 1998.  While we do not doubt
+the good faith of these commitments, to protect U.S. interests, we find that this transaction is
+in the public interest only if Sprint and the parties' Joint Venture comply with certain strict
+conditions.  These conditions address (1) the potential for FT and DT to use their current de
+jure and de facto monopoly market power to engage in anticompetitive conduct because of
+their financial interests in Sprint and the carriers' joint venture and (2) the possibility that the
+telecommunications liberalization to which France and Germany have committed may not
+occur on the anticipated schedule.  
+
+ 4.   First, Sprint is regulated as a dominant carrier on the U.S.-France and U.S.-
+Germany routes and will continue to be so regulated until we find that there is no substantial
+risk of anticompetitive effects in the U.S. international services market from Sprint's
+affiliation with FT and DT.  Second, we will not allow Sprint to operate newly acquired
+circuits on the U.S.-France and U.S.-Germany routes until France and Germany have
+liberalized two important markets:  alternative infrastructure for already liberalized services
+(which include most non-public voice services) and basic switched voice resale.  Third, 
+Sprint must comply with nondiscrimination and reporting requirements.  Fourth, Sprint must
+obtain a commitment from FT to lower its accounting rate with U.S. carriers to the same
+range as the U.S.-U.K. and U.S.-Germany accounting rates in the near future and in no
+event later than two years from the effective date of this Order.  Finally, Sprint must report
+by March 31, 1998 whether the anticipated liberalization has occurred.  If we find it has not,
+we will take further action, including designating for hearing the issue of whether the public
+interest would no longer be served by Sprint's holding of Section 214 facilities authorizations
+on the U.S.-France and U.S.-Germany routes.     
+
+ 5.   We note that the Department of Justice (Justice Department) has conducted its
+own review of this transaction under its antitrust enforcement responsibilities.  The
+conditions and requirements we impose here reflect our broader mandate to protect the public
+interest and welfare of U.S. consumers.  So long as the parties comply with these conditions
+and requirements in conjunction with this transaction, we find that this transaction is in the
+public interest.
+
+      II.  Background
+
+ 6.   On October 14, 1994, Sprint Corporation (Sprint) filed a petition for
+declaratory ruling regarding the proposed equity investments by FT and DT in Sprint and the
+proposed joint venture among the three carriers.  First, Sprint seeks a ruling that the
+investments by FT and DT do not result in a transfer of control of Sprint and that prior
+Commission approval thus is not required under Section 310(d) of the Act of 1934.  Second,
+Sprint requests a ruling that alien ownership in Sprint of up to 28 percent, as part of the
+proposed transaction, is not inconsistent with Section 310(b)(4) of the Act.  Finally, Sprint
+seeks a ruling that the proposed transaction is otherwise consistent with the public interest.
+
+ 7.     Sprint is a publicly-traded U.S. corporation that owns or controls subsidiaries
+that hold domestic common carrier microwave licenses, international facility authorizations,
+cable landing licenses, and other Commission licenses and authorizations.  Sprint conducts
+its business through subsidiaries.  Sprint's long distance subsidiary is the third largest U.S.
+carrier of long distance services, providing voice, data and video services over a nationwide
+digital, fiber optic network.  Its international services are provided primarily via submarine
+cable systems and satellite facilities.  In addition, Sprint's subsidiaries provide local
+telephone and cellular services.  Through an affiliate, Sprint Telecommunications Venture
+(STV), Sprint also is a significant partner in WirelessCo, a major licensee of broadband
+personal communications services (PCS).       
+
+ 8.     FT is the de jure monopoly service provider in France of local, long distance
+and international public switched services, and of terrestrial infrastructure for the provision
+of telecommunications services to the public.  It also offers a range of other
+telecommunications products and services, including private line circuits and cellular
+services.  FT is 100 percent owned by the French government, and is subject to regulation
+by the French Directorate General of Posts and Telecommunications (DGPT). 
+
+ 9.   Similarly, DT is the de jure monopoly service provider in Germany of local,
+long distance and international public switched services.  DT also offers, among other
+telecommunications products and services, private line circuits and cellular services.   It is
+the monopoly provider of terrestrial infrastructure for the provision of telecommunications
+services to the public.  DT is 100 percent owned by the German government, and is subject
+to regulation by the German Federal Ministry for Posts and Telecommunications (BMPT). 
+
+ 10.  On June 14, 1995, Sprint, FT and DT announced a global alliance, which
+involves FT and DT each acquiring up to 10 percent of the voting equity in Sprint.  The cost
+of these investments would be based on a complex formula designed to anticipate the possible
+divestment of Sprint's U.S. cellular operations, and fluctuations in Sprint's public stock
+price.  Under this formula, the investment price could vary from approximately $3.5 to $4.2
+billion.  The global partnership among Sprint, FT and DT also involves the creation of
+"Joint Venture Company" (Joint Venture), an alliance to provide enhanced and certain basic
+telecommunications services to multinational corporate and business customers on a global
+basis.  These services include:  (1) international data, voice and video; (2) international card-
+based services for travellers; and (3) international transport services for other carriers.
+
+ 11.  On July 28, 1995, Sprint filed the final agreements of the parties with the
+Commission.  Pursuant to these agreements, the Joint Venture will be run by a Global
+Partnership Board.  Each party will have three equal votes on the Board, which will oversee
+two operating groups, each focused on specific geographic territories or activities.  In
+addition, the parties will create a Global Backbone Network to carry the Joint Venture's
+services.  The Global Backbone Network will be owned 50 percent by Sprint and 50 percent
+by FT and DT through a joint venture between FT and DT alone, known as Atlas.  In the
+near term, Global Backbone Network functions will be performed by two Regional Operating
+Groups.  The operating group serving Europe (excluding France and Germany), the Rest of
+Europe Group (ROE Group), will be owned one-third by Sprint and two-thirds by FT and
+DT.  The unit for worldwide activities outside the United States and Europe, the Rest of the
+World Group (ROW Group), will be 50 percent owned by Sprint and 50 percent owned by
+FT and DT through Atlas.  Each carrier will be the sole service provider of the Joint
+Venture's services within its home territory.  The interests of FT and DT in the Joint
+Venture are expected to be managed by Atlas. 
+
+ 12.    The Atlas joint venture, together with FT's and DT's global alliance with
+Sprint (known as "Phoenix"), are currently under review by the Directorate General IV (DG
+IV) of the European Commission.  DG IV has jurisdiction in the European Union to enforce
+E.U. competition laws.  On October 18, 1995, DG IV issued a press release stating that the
+French and German Governments had made certain liberalization commitments which
+adequately address DG IV's competitive concerns about the transaction.  In addition, FT and
+DT have agreed that their public switched data networks, Transpac and Datex-P,
+respectively, will remain separate from Atlas until 1998.  The parties anticipate that, given
+this agreement, the European Commission will issue a public notice in the near future stating
+its intention to approve formally the transaction in mid-1996.  Based on these developments,
+the parties intend to close their transaction in early 1996. 
+
+   13.  On July 13, 1995, the Justice Department filed a civil antitrust complaint
+under Section 15 of the Clayton Act, alleging that the proposed total of 20 percent
+investment by FT and DT in Sprint and the formation of the Joint Venture would violate
+Section 7 of the Clayton Act.  The Justice Department and the defendants (Sprint and the
+Joint Venture), however, have stipulated to the entry of a proposed Final Judgment which the
+Justice Department believes provides an adequate remedy to the antitrust concerns posed by
+the transaction.  The Justice Department has concluded that a series of conditions and
+safeguards, imposed in two phases, are sufficient.  Section II, which imposes many of the
+same disclosure and confidentiality requirements set forth in the MCI/BT Final Judgment,
+would become effective upon the entry of the Final Judgment and remain in effect for five
+years after the conditions for the expiration of Section III have been satisfied.  Section III
+establishes certain operating and disclosure requirements and would remain in effect from the
+entry of the Final Judgment until all prohibitions on competition have been removed and one
+or more new competitors have been licensed in France and Germany.  The proposed Final
+Judgment is subject to approval by the U.S. District Court for the District of Columbia.
+
+ 14.    As in the MCI/BT proceeding, we note that the Final Judgment and the
+accompanying explanatory text of the Competitive Impact Statement (CIS) address many of
+our concerns about the potential for discrimination and anticompetitive abuse of foreign
+market power by monopoly foreign carriers.  Indeed, much of the Final Judgment's
+underlying rationale, as set forth in the CIS, echoes this Commission's policy goals, current
+competitive safeguards, and new conditions being imposed in this Order.  As the
+Commission recognized nearly thirty years ago, however, "the standards governing [the
+Justice Department] and the action of the Commission are significantly different.  The
+Antitrust Division is charged with the enforcement of the antitrust laws . . . , while the
+Commission is charged with effectuating the policies of the Communications Act."  Our
+responsibilities under the Communications Act are broader than those of the antitrust
+enforcement agencies, for we are "entrusted with the responsibility to determine when and to
+what extent the public interest would be served by competition in the industry."  
+
+                              III.  Comments
+
+ 15.    We placed Sprint's petition on public notice.  AT&T Corp. (AT&T), ACC
+Global Corp. (ACC), and MFS International, Inc. (MFSI) filed oppositions.  BT North
+America Inc. (BTNA) and MCI Telecommunications (MCI) filed comments which generally
+oppose the petition.  AirTouch Communications (AirTouch) filed comments in support of
+Sprint's petition.  ACC, AT&T, BTNA and Sprint filed reply comments.  C. Fred Bergsten,
+the German Association of Private Telecommunications Operators (APTO), International
+Brotherhood of Electrical Workers (IBEW), and the Information Technology Industry
+Council (ITI) filed ex parte letters.
+
+ 16.  We also placed the final agreements and related documents on public notice. 
+AT&T, Esprit U.K. (Esprit) and MCI filed oppositions.  BTNA, Communications Workers
+of America/IBEW (CWA/IBEW) and MFSI filed comments.  ACC, AT&T, DT, Esprit, FT,
+and Sprint filed reply comments.  In addition, the French and German Governments filed ex
+parte letters.  ACC, AT&T, BTNA, the U.K.'s Office of Telecommunications (OFTEL),
+U.S. Senator Bob Dole, and WorldCom, Inc. (WorldCom) also filed ex parte submissions.  
+
+ 17.  Only AT&T argues that the terms and conditions of the Memorandum of
+Understanding (subsequently incorporated in the final agreements of the parties, including the
+Joint Venture and Investment Agreements) results in a transfer of control of Sprint to FT and
+DT under Section 310(d) of the Act.  Generally, the commenters maintain that the proposed
+transaction raises concerns about potential discrimination (e.g., leveraging of foreign market
+power) and asymmetrical market access in France and Germany, and the potential for
+exclusive dealing in enhanced and basic services through the Joint Venture.
+   
+ 18.  AT&T, BTNA and CWA/IBEW maintain that the transaction is not in the
+public interest under Section 310(b)(4) until France and Germany offer effective market
+access to U.S. carriers.  ACC states that the Commission should not grant Sprint's petition
+until, among other things, France and Germany permit the resale of international private
+lines for the provision of public switched services.  Esprit opposes approval of Sprint's
+petition before switched voice telephony competition is introduced in France and Germany,
+and independent regulatory bodies are established that can and will effectively enforce
+regulations to protect against anticompetitive conduct.  MFSI states that it does not oppose
+ultimate approval of the transaction if adequate safeguards are in place and competition is
+sufficiently developed in France and Germany.
+
+ 19.  OFTEL expresses concern about the lack of independent regulatory authorities
+in France and Germany to ensure that the alliance among Sprint, FT and DT does not result
+in discriminatory behavior against other market participants.   WorldCom states that
+developments in France and Germany require the imposition of certain conditions to
+safeguard against discrimination and unreasonable practices by FT and DT.  AT&T adds
+that, unlike the equity investment by FT and DT in Sprint, the Joint Venture should be
+approved by the Commission with appropriate conditions.  These conditions include certain
+operating and disclosure requirements, in addition to those imposed in the MCI/BT
+proceeding, together with the requirement that FT and DT set cost-based accounting rates
+with U.S. carriers.    
+
+                              IV.  Discussion
+
+A.    Section 310(d) Transfer of Control
+
+ 20.  Sprint seeks a declaratory ruling that the proposed investments will not result
+in a transfer of control of Sprint's licenses to FT and DT under Section 310(d) of the Act. 
+According to Commission precedent, whether an entity holding a minority stock interest
+controls a corporation primarily depends on whether the minority shareholder has the power
+to "dominate" the management of corporate affairs.  A minority shareholder does not
+control a corporation unless it exercises influence to a degree that "determines" the
+company's policies and operations, or "dominates" the company's corporate affairs.  Thus,
+the facts of a particular situation (e.g., who has the power to direct the company's
+operations, who determines the make-up of the Board of Directors), are relevant to
+determining who controls the company.  
+
+ 21.    Pursuant to the final agreements, FT and DT will each acquire up to a 10
+percent equity interest in Sprint by purchasing a new class of Sprint common stock (Class
+A).  The total purchase will yield approximately 86.2 million shares of Sprint Class A
+common stock.  FT and DT each will own approximately 10 percent of the resulting total of
+Sprint common stock.
+
+ 22.    Sprint is now controlled by its public shareholders through a 15-member Board
+of Directors.  Under the proposed transaction, FT and DT would be able to designate up to
+three Board members.  Thus, a 20 percent equity interest would translate into 20 percent
+representation on the Board.  A majority of the 15 directors must satisfy certain specified
+criteria as independent directors.  Because Sprint's public shareholders will maintain the
+majority voting interest in Sprint and will elect 80 percent of the Board (the Sprint and
+Independent Directors), FT's and DT's directors will remain a minority.  Sprint will continue
+to conduct business by a simple majority vote on all matters considered by the Board.
+
+ 23.    In our MCI/BT Order, we found that the acquisition of a 20 percent minority
+interest, and the accompanying proportionate representation on the Board of Directors, did
+not itself constitute a transfer of control.  We similarly find that FT's and DT's acquisition
+of a 20 percent aggregate interest in Sprint and up to 20 percent representation on the Sprint
+Board does not itself constitute a transfer of control.  
+
+ 24.  We also must determine whether the voting and consent rights in the parties'
+agreements would give FT and DT the right to control Sprint.  In addition to its voting
+rights, FT's and DT's Class A stock incorporates certain consent rights, including the right
+to prohibit certain corporate actions by Sprint without their consent.  These actions include
+any transaction that would result in the issuance of 30 percent or more shares in Sprint. 
+Other transactions over which FT and DT have consent rights include those that would:  (1)
+adversely affect the rights afforded DT and FT by their ownership of Class A stock; (2)
+result in mergers or other business combinations in which Sprint would not be the surviving
+corporation; (3) result in the sale of Sprint's long distance assets, the fair market value of
+which is in excess of certain threshold percentages; or (4) result in the acquisition of a 10
+percent or larger holding in Sprint by a major competitor of DT or FT.  
+
+ 25.    In the MCI/BT Order, we found similar consent rights to be typical protections
+against extraordinary corporate actions that could disadvantage a minority stockholder's
+interest in the corporation.  We concluded that such restrictions simply constituted a
+minority shareholder's protection and did not rise to the level of transfer of control.  In
+addition, the Investment Agreement safeguards Sprint's control over the use of the proceeds
+from the investment by giving its Board the ultimate authority to determine how Sprint will
+use the proceeds.  In the absence of any contrary evidence, we similarly find the negative
+rights accorded FT and DT are mere protections of FT's and DT's investments as minority
+shareholders.  
+
+ 26.    AT&T also argues that Sprint will transfer operational control of its domestic
+operations since Sprint must conform these operations to the strategies and operations of the
+Global Venture Board, in which FT and DT will have two representatives to Sprint's one. 
+We disagree that such conformance indicates a transfer of operational control.  AT&T
+incorrectly bases its argument on the premise that Sprint may always be outvoted by FT and
+DT on the Global Venture Board.  To the contrary, no action may be taken by the Global
+Venture Board without the affirmative vote of all of the parties.  Thus, Sprint, FT and DT
+each have veto power and will not be controlled by the other parties on the Board, whether
+in the conduct of their respective domestic operations or otherwise.
+
+ 27.    Moreover, all of the parties, including FT and DT, have made the same
+commitment to conform their domestic operations to the Global Venture Board's policies. 
+Given that each party is obligated to provide Joint Venture services in its home country, it is
+not surprising that the parties would deem a conformance commitment from each party
+necessary to ensure the delivery of these services according to uniform standards.  Again,
+notwithstanding these commitments, Sprint retains negative control to defeat any Global
+Venture Board proposition that is contrary to Sprint's interest.  
+
+ 28.    Similarly, AT&T states that Sprint is transferring operational control to FT
+and DT because it must submit its business plans for partnership services to the Global
+Venture Board.  We do not believe that this requirement constitutes a transfer of control. 
+Sprint and FT and DT are required to prepare and submit to the Global Venture Board only
+business plans relating to Joint Venture activities.  The business plans for Sprint's many
+other activities will not be submitted.  We find no reason to disagree with Sprint's
+argument that this provision is commercially necessary to ensure that each party meets
+uniform service standards and does not take action inconsistent with the parties'
+agreements.  We thus conclude that this requirement, which extends to each party and
+permits monitoring of the performance of a contractual partner, does not amount to a transfer
+of control, particularly given Sprint's negative consent rights on the Global Venture Board.  
+
+ 29.    AT&T also asserts that Sprint has given up operational control of its
+international facilities.  AT&T argues that, because FT and DT own 50 percent of the Global
+Backbone Network, and Sprint is granting the Global Backbone Network use of its
+international facilities for the provision of Sprint's international Joint Venture services, Sprint
+has conveyed 50 percent of the control of its facilities to FT and DT.  We disagree.  The
+use of facilities does not necessarily equate to control of those facilities.  Sprint can maintain
+control of its international facilities while allowing the Global Backbone Network or the
+Regional Operating Groups to use those facilities.  Allowing joint control over the provision
+of Joint Venture services does not grant FT and DT the power to "determine the company's
+operations" or "dominate its corporate affairs."  Sprint only has permitted FT and DT a
+measure of influence in providing specific services.  Based on these facts, Sprint's grant of
+influence to FT and DT does not rise to the level of a transfer of control.
+
+ 30.    We conclude that the agreements between Sprint and FT and DT do not grant
+FT and DT the right to determine the corporate policy that Sprint will pursue, or indicate
+that FT and DT will dominate the management of Sprint's corporate affairs.  Consequently,
+we find that the transaction before us does not constitute a transfer of control and, therefore,
+does not require Commission approval under Section 310(d) prior to consummation of the
+transaction.  Commission approval pursuant to the Cable Landing License Act also is not
+required by the specific terms of Sprint's cable landing licenses.  In addition, prior
+authorization under Section 214 of the Act is not required to the extent Sprint alone -- and
+not the Joint Venture -- will be providing basic Joint Venture services in the United States. 
+If the Joint Venture seeks to provide basic services to U.S. customers, the Joint Venture
+must then seek prior Section 214 authorization.
+
+B.      Public Interest Analysis
+
+ 1.   Applicability of the Foreign Carrier Entry Decision
+
+      a.    Comments
+
+ 31.  In their supplemental opposition and comments, AT&T and BTNA urge us to
+apply the effective market access standard proposed in the Notice of Proposed Rulemaking
+(NPRM) in the Foreign Carrier Entry proceeding to Sprint's petition for purposes of
+determining whether the proposed transaction is in the public interest.  Sprint opposes this
+approach.  First, Sprint states that the NPRM is a tentative proposal that has been widely
+criticized as the improper means to achieve the Commission's policy goals.  Second, Sprint
+asserts that it would be unfair to apply an effective market access approach because Sprint's
+petition was pending before the Commission initiated the Foreign Carrier Entry proceeding. 
+      
+      b.    Discussion
+
+ 32.  On November 28, 1995, after the parties filed their supplemental pleadings,
+we adopted final rules in the Foreign Carrier Entry proceeding affecting our public interest
+analyses under Sections 214 and 310(b)(4).  We concluded in that proceeding that the
+public interest in an effectively competitive market for U.S. telecommunications services
+requires us to evaluate, as an important part of our overall public interest analysis under
+Section 214, whether effective competitive opportunities exist for U.S. carriers in the
+destination markets of foreign carriers seeking to enter the U.S. international services market
+through an affiliation with a U.S. carrier.  We similarly must examine, in considering
+whether to permit foreign investment in a U.S. radio licensee in excess of the benchmarks
+contained in Section 310(b)(4), whether relevant foreign home markets offer effective
+competitive opportunities to U.S. entities.  Consistent with our broad authority to determine
+the public interest under that section, the goals of these new rules are (1) to promote
+competition in the U.S. telecommunications market; (2) to prevent anticompetitive conduct in
+the provision of international services; and (3) to encourage foreign governments to open
+their communications markets to competition.  
+
+ 33.    Sprint has requested a declaratory ruling from this Commission that the
+investments by FT and DT and the Joint Venture are consistent with the public interest. 
+Because Sprint is a carrier authorized to provide telecommunications services and facilities
+under Sections 214 and 309 of the Act, we are required to assess the public interest merits of
+the investments and the Joint Venture under Sections 214 and 310(b)(4).  If we were to find
+that the investments and the Joint Venture were inconsistent with the public interest, and
+Sprint were to proceed with the transaction, we could designate for hearing the issue whether
+the public interest would continue to be served by Sprint's holding of Title II authorizations
+and Title III licenses. 
+
+ 34.    It is well established that the Commission may apply new rules and policies to
+pending matters.  We disagree with Sprint that it would be unfair to apply our new analysis
+to Sprint's petition.  It was not until late July 1995 that Sprint filed the definitive agreements
+of the parties with the Commission.  At that time, our Foreign Carrier Entry rulemaking
+proceeding had been underway for five months and extensive comments and reply comments
+had been filed.  We see no reason why our newly adopted rules and policies should not apply
+here.  Accordingly, we will apply our Foreign Carrier Entry decision to the Sprint petition
+and adopt this Order effective the day after all rules, regulations and policies adopted in the
+Foreign Carrier Entry Order become effective.    
+
+ 2.     Effective Competitive Opportunities Analysis Under Section 214
+
+ a.     Comments      
+ 
+ 35.    AT&T, BTNA, CWA/IBEW, Esprit, MCI, and MFSI argue that France and
+Germany do not afford market access to U.S. carriers because the provision of domestic and
+international public switched voice telephony services and telecommunications facilities is
+reserved exclusively for FT in France and DT in Germany.  AT&T and BTNA also state
+that the French and German telecommunications regulatory regimes lack other important
+characteristics, including competitive safeguards and  independent regulatory authorities.     
+
+
+ b.     Discussion
+
+ 36.    Sprint, through its subsidiaries, holds many Section 214 authorizations for the
+provision of U.S. international facilities-based services between the United States and France
+and the United States and Germany.  In analyzing whether the proposed transaction is in the
+public interest, the Foreign Carrier Entry Order requires us to determine whether effective
+competitive opportunities exist for U.S. carriers to provide international services in France
+and Germany. 
+
+ 37.  We first must determine whether the proposed foreign carrier investments rise
+to the level of an "affiliation" with a U.S. carrier for purposes of determining whether the
+effective competitive opportunities analysis under Section 214 applies in this case.  The
+affiliation threshold adopted in the Foreign Carrier Entry Order is an equity interest greater
+than 25 percent or a controlling interest at any level.  In addition, we will aggregate multiple
+foreign carrier interests when a contractual relation, such as a joint venture or marketing
+alliance, between two or more foreign carrier investors is involved, which affects the
+provision or marketing of basic international telecommunications services in the United
+States.  Foreign carrier investment that does not exceed the 25 percent threshold may
+nonetheless be subject to the effective competitive opportunities analysis when the investment
+presents a significant potential impact on competition in the U.S. basic international
+telecommunications services market.   
+
+ 38.    The proposed interests of FT and DT (10 percent each) in Sprint must be
+aggregated because the carriers also have joined forces through the Joint Venture.  The
+investments represent an important part of a global alliance strategy among Sprint, FT, and
+DT, affecting the provision of basic telecommunications services.  The proposed investments
+by FT and DT in Sprint, even when aggregated to equal 20 percent, do not exceed the 25
+percent affiliation threshold for application of the effective competitive opportunities analysis.
+
+ 39.    Review of this transaction under our effective competitive opportunities
+analysis is warranted and necessary, however, because of the size of the carriers involved
+and the potential impact on competition in the U.S. basic international services market.  FT
+and DT are two of the largest telecommunications carriers in Europe; traffic volume between
+the United States and France and Germany together accounts for more volume than to any
+single country other than Canada and Mexico.  International Message Telephone Service
+(IMTS) minutes between the United States and Germany are fourth highest among U.S.
+correspondent countries; IMTS minutes between the United States and France are the
+thirteenth highest.  Few countries originate and terminate more calls to and from the United
+States than France and Germany, which are key locations for multinational corporations.  In
+addition, FT and DT propose to invest in the third largest U.S. domestic interexchange and
+international services carrier, with approximately 10 percent domestic and international
+services market share, not a fledgling start-up.  Given the size of the parties involved and
+the strategic investment and joint venture alliance they have planned, we find that the
+transaction, although falling below the threshold for automatic application, necessitates an
+effective competitive opportunities analysis under the newly adopted rules and policies.
+
+ 40.    We turn next to the question of which foreign markets we must analyze. 
+Under Section 214, we apply our analysis only to those destination markets where the foreign
+carrier can exercise market power.  As we mentioned previously, "market power" is defined
+in the Foreign Carrier Entry Order as the ability to act anticompetitively against unaffiliated
+U.S. carriers through the control of bottleneck services or facilities on the foreign end.  FT
+and DT are the incumbent, monopoly telecommunications facilities providers in France and
+Germany, respectively.  Thus, they control bottleneck facilities in those markets and have
+market power.  There is no record evidence in this proceeding regarding whether FT or DT
+has market power in other foreign markets.  Accordingly, the relevant destination markets
+for our analysis in this decision are France and Germany.  We also require Sprint, within 30
+days of the effective date of this Order, to notify the Commission of any foreign carrier that
+controls, is controlled by, or is under common control with FT or DT.  We will apply the
+effective competitive opportunities analysis to these markets unless Sprint demonstrates that
+these foreign carriers do not have market power on these routes.     
+
+ 41.  In applying our effective competitive opportunities analysis under Section 214,
+we first examine the legal, or de jure, ability of U.S. carriers to enter the foreign destination
+markets and provide international facilities-based services.  If U.S. carriers are prohibited de
+jure from competing in the provision of any international facilities-based IMTS service, then
+there are not effective competitive opportunities on that route.  If the foreign carrier's
+destination market has no explicit legal restrictions on entry, we then will examine the other
+factors of the effective competitive opportunities analysis to determine whether there are de
+facto effective competitive opportunities.  This analysis focuses on the actual conditions of
+entry, i.e.,  terms and conditions of interconnection, competitive safeguards, and the
+regulatory framework.  
+
+ 42.    An effective competitive opportunities finding can be made if such
+opportunities are present now or if it is reasonably certain that they will be available in the
+near future.  Where effective competitive opportunities do not now exist, there will need to
+be clear and concrete commitments that effective competitive opportunities will be available
+in the near future in order for us to reach a favorable determination.  Finally, we note that
+effective competitive opportunities are only a part of a larger public interest analysis; we
+must also consider whether other public interest factors mandate grant or denial of an
+application.
+
+ 43.    To meet the standard of de jure market entry, France and Germany would be
+required to permit a U.S. carrier to obtain a controlling interest in a French- or German-
+based facilities carrier able to originate and terminate IMTS traffic to and from the United
+States.  In France, the provision of IMTS facilities-based service is a legal monopoly of
+France Telecom.  The same is true in Germany, where DT holds the legal monopoly over
+the provision of international facilities-based service.  U.S. carriers currently are prohibited
+as a matter of law from entering this market in both France and Germany.
+
+ 44.  We note that both countries have publicly committed to implementing
+international facilities and services competition by January 1, 1998.  The French and
+German Governments both have proposed plans for enacting national legislation in this
+regard.  We are very encouraged by these developments, as we discuss more fully below. 
+We view their public statements to be important indications of these countries' intent to
+liberalize their markets.  Nonetheless, we believe that implementation of international
+facilities competition in 1998, over two years away, is too distant in time to be considered
+competition in the near future under our effective competitive opportunities analysis. 
+Moreover, the specific legal and regulatory framework for the competitive markets is not yet
+fully determined, leaving us unable to evaluate whether de facto competitive opportunities
+will exist after the legal barriers are removed. 
+
+ 45.  Given that de jure international facilities competition for IMTS is absent in
+France and Germany, we find that effective competitive opportunities for U.S. carriers to
+operate as international facilities-based carriers currently do not exist in those countries.
+
+ 46.  Although Sprint holds resale authorizations to serve France and Germany
+which may be subject to an effective competitive opportunities analysis, we see no need to
+conduct that analysis here given our finding that France and Germany do not offer effective
+competitive opportunities to provide international facilities-based services, and our ultimate
+conclusion in Section V below that the public interest weighs in favor of granting Sprint's
+petition, subject to certain conditions. 
+
+ 3.   Effective Competitive Opportunities Analysis Under Section 310(b)(4)
+
+ 47.  The presence of aggregated alien ownership in excess of 25 percent in Sprint,
+the parent corporation of Title III common carrier radio licensees, triggers the applicability
+of Section 310(b)(4)'s statutory benchmark, which requires that we determine whether the
+"public interest will be served by the refusal or revocation of such license."  FT and DT
+will each acquire a 10 percent ownership interest in Sprint, a U.S. corporation that controls
+Title III licensees.  Based upon a Sprint ownership survey, Sprint maintains that FT's and
+DT's proposed acquisition of 10 percent of the shares each in Sprint will result in 25.17
+percent alien ownership of Sprint's capital stock (plus or minus 1.74 percent at the 97.5
+percent confidence level).  Due to likely fluctuations in alien ownership from the publicly-
+traded nature of the company, Sprint believes the alien ownership may exceed the 25 percent
+statutory benchmark at any one time by up to three percent.  Therefore, Sprint requests the
+Commission to find that up to 28 percent alien ownership in Sprint is not inconsistent with
+the public interest.    
+
+ 48.    Through a public interest analysis, the Commission decides whether to
+authorize or revoke alien ownership or participation in excess of the Section 310(b)(4)
+statutory benchmark on a case-by-case basis.  We will first consider the impact of our
+newly adopted effective competitive opportunities analysis.  We will then consider the
+extent of alien participation in Sprint's parent corporation in assessing the additional public
+interest factors relevant to Section 310(b)(4) determinations. 
+
+ 49.     In Section IV.B.2, we determined that effective competitive opportunities do
+not exist in France or Germany under our Section 214 analysis.  Because we reach the
+ultimate conclusion (described in Section V below) that, on balance, the public interest
+weighs in favor of granting Sprint's petition subject to certain conditions, we see no reason
+to conduct an effective competitive opportunities analysis under Section 310(b)(4).  
+
+ 50.    We note, however, that France and Germany have introduced a degree of
+competition in their wireless markets, unlike in their wireline facilities markets we examined
+above.  This is true with respect to the types of Title III licenses in which FT and DT seek
+to invest through Sprint.  Through subsidiaries and affiliates, Sprint holds cellular, paging,
+satellite, and common carrier microwave radio licenses.  In addition, Sprint owns interests in
+PCS licensees through its affiliate, STV.  STV owns 40 percent of WirelessCo, a major PCS
+licensee, and is the largest shareholder.  It would appear that the French and German
+paging and satellite markets generally are open at least to the level of ownership
+collectively sought by FT and DT in Sprint:  20 percent.  By contrast, there appears to be
+less competition in the French and German cellular and PCS markets:  the number of
+licenses is limited to one or two in each market.  Finally, we note that the provision of
+common carrier microwave radio links is not open to U.S. investment.  We address in
+Section IV.B.5.c, infra, whether the proposed alien ownership poses concerns under the
+other public interest factors we consider in our Section 310(b)(4) public interest analysis.  
+
+ 4.   Competitive Concerns 
+
+ 51.  We concluded that effective competitive opportunities are not currently
+available to U.S. carriers under Section 214 for the provision of international
+telecommunications facilities or services in France and Germany because of de jure
+monopolies in both countries.  Before our effective competitive opportunities analysis was
+adopted, the majority of commenters in this proceeding expressed concerns about the market
+power conferred by these monopolies in France and Germany.  These parties are troubled by
+the effect that the Sprint/FT/DT alliance may have on competition in several
+telecommunications markets as a result of the potential for discrimination or other
+anticompetitive conduct.  The same kinds of concerns also were raised in the MCI/BT
+proceeding, and we agree that these concerns are important public interest considerations
+under Sections 4(i), 214, 310(b)(4) and 316 of the Act, and other relevant statutory
+provisions, and possibly implicate our enforcement responsibilities under the Clayton Act. 
+We thus address these concerns in this proceeding, independent of our effective competitive
+opportunities analysis.    
+
+ a.     Comments
+ 
+ 52.  A number of parties raise specific competitive concerns about FT's and DT's
+proposed investment in Sprint and the formation of the Joint Venture.  They argue that FT's
+and DT's substantial equity investment in Sprint, and their interests in the Joint Venture,
+create financial incentives for FT and DT to use their monopoly positions in the French and
+German telecommunications markets to discriminate in favor of Sprint over competing U.S.
+international carriers on the U.S.-France and U.S.-Germany routes, and in providing
+transiting services to Eastern and Central Europe.  ACC, AT&T, BTNA, and MCI argue
+that FT, DT, and Sprint will be able to use FT's and DT's absolute bottleneck of access
+facilities in their home countries to the unfair advantage of Sprint and the Joint Venture. 
+Furthermore, they argue, FT, DT and Sprint have the incentive and ability to enter into
+exclusive arrangements directing all international switched and private line traffic to each
+other.  AT&T states that Sprint will have 50 percent control over FT's and DT's
+correspondent relationships with U.S. carriers (through its ownership in Joint Venture
+operations), and thus will have the opportunity to discriminate against other U.S. carriers. 
+OFTEL expresses concern that France and Germany do not have independent regulatory
+authorities that can ensure that effective competition is in fact implemented.     
+
+ 53.    In response to the assertions that FT, DT and Sprint will engage in unlawful
+discrimination and enter into exclusive arrangements for the provision of international basic
+telecommunications services, Sprint reaffirms its intent -- and states that FT and DT have
+reaffirmed their intent -- to continue their correspondent relations with other international
+carriers.  Moreover, Sprint, FT and DT state they will not impermissibly exclude
+competitors from the market for regulated basic services or unlawfully discriminate in favor
+of the other in accounting rates and settlements.  In addition, Sprint emphasizes that it will
+not be involved in carrying the bilateral correspondent traffic of other U.S. carriers.  They
+also assert that FT and DT are legally required, by national and E.U. regulation, to offer
+nondiscriminatory access to their networks.  FT and DT state that the DGPT and the BMPT
+have demonstrated their independence from FT and DT in the past and will continue to do
+so.  In addition, Sprint claims that the potential for discrimination is less in this case than in
+the MCI/BT proceeding because Sprint carries approximately a third as much international
+traffic as MCI, and the equity investments by FT and DT are only 10 percent each, thus
+proportionately reducing their incentives to discriminate in favor of Sprint.
+
+ 54.  Finally, in response to AT&T's claims that FT and DT have agreed to
+impermissibly "steer" customers to the Joint Venture, Sprint claims that it is commercially
+reasonable and expected that parties to a joint venture will attempt to sell the joint venture's
+services to unsolicited customers.  Sprint also emphasizes that customers are not steered by
+the Joint Venture to Sprint, but only to the Joint Venture itself.      
+
+      b.    Discussion
+
+ 55.  We share the parties' fundamental concerns about the potential for
+anticompetitive behavior by FT and DT on the U.S.-France and U.S.-Germany routes.  FT
+and DT are monopoly providers of French and German international facilities-based services,
+control the local termination points in those countries, and control the national long distance
+networks to which interconnection is essential for the distribution of international traffic.  
+
+ 56.  Before the proposed transaction, FT and DT had no incentive to discriminate
+in favor of Sprint, the Joint Venture or any of their competitors over others.  The proposed
+transaction, however, will give FT and DT each a substantial financial stake in the success of
+Sprint and the Joint Venture and will, therefore, give each an incentive to engage in
+anticompetitive strategies to maximize the return on their investment.  This discrimination
+could take a number of forms, such as:  (1) routing calls to Sprint and the Joint Venture in
+proportions greater than those justified under our proportionate return policy; (2) otherwise
+manipulating the calculations and settlements payments to wrongfully favor Sprint and the
+Joint Venture; (3) routing high-profit calls to Sprint and the Joint Venture, and leaving the
+rest to their competitors; (4) undercharging Sprint and the Joint Venture and/or overcharging
+their competitors for use of the same essential facilities in France or Germany; (5) leaking to
+Sprint and the Joint Venture the confidential information that FT or DT receives from
+Sprint's and the Joint Venture's competitors; (6) giving Sprint and the Joint Venture advance
+notice of network changes and other information that Sprint, the Joint Venture and their
+competitors will need to know; or (7) either as an agent or through an affiliated third party,
+selling the services of Sprint or the Joint Venture in ways that use FT's and DT's home
+market power. 
+
+ 57.  Absent effective conditions, such strategic behavior could yield Sprint more
+customers, calls and revenues, and ultimately higher returns, than would otherwise be the
+case.  Sprint would receive these returns simply because of its affiliation with FT and DT
+and not because of the superior quality, lower prices, or innovativeness of its services.  At
+the same time, the costs of Sprint's rivals would be raised above competitive levels, which
+would tend to reduce competition in the market as a whole.  Less competition would
+ultimately result in impaired market performance:  higher prices, lower quality, and slower
+innovation compared to what would exist in the absence of such conduct.
+
+ 58.  We reject Sprint's claims that FT and DT have no more leveraging power than
+BT did in our MCI/BT proceeding.  Sprint argues that BT retains substantial market power in
+the United Kingdom and the ability to use this power to favor MCI at the expense of other
+carriers.  Sprint overlooks the fact that, in the United Kingdom, there is de jure competition
+in nearly every market segment.  BT faces competition to some extent at all levels.  The
+effect is that, unlike in France and Germany, in the United Kingdom U.S. carriers have a
+choice of carriers to haul their traffic.  There also is an effective regulatory authority that is
+independent of BT, which employs fair and transparent procedures.  U.S. carriers may resort
+to this authority in the event of anticompetitive conduct by BT.  There currently are no such
+independent regulatory authorities with fair and transparent procedures in France or
+Germany.  Notwithstanding FT's and DT's statements that the DGPT and the BMPT do not
+favor FT or DT, we share OFTEL's concerns about the current lack of legally independent
+regulatory authorities in France and Germany to ensure that fair, effective competition
+emerges in both countries.  
+  
+ 59.  We also are not persuaded by Sprint's claim that the individual incentives on
+the part of FT and DT to discriminate in favor of Sprint or the Joint Venture are less than in
+the MCI/BT case because FT and DT are each purchasing only 10 percent of Sprint's equity. 
+The Joint Venture arrangement provides for FT and DT to act in concert, and creates
+additional incentives beyond their investments in Sprint for FT and DT to favor unfairly
+Sprint and the Joint Venture.  Thus, FT and DT generally have complementary interests
+regarding their involvement with Sprint.  
+
+ 60.  We also do not agree with the arguments of Sprint, FT and DT that national
+and E.U. regulatory prohibitions on discriminatory conduct by FT and DT are sufficient to
+protect competition.  Such provisions are likely to be inadequate when, as in this case, there
+is de jure 100 percent monopoly market power and an incentive to discriminate, and the
+carriers remain completely government-owned.  Such provisions also cannot address the
+unfair competitive advantage that may accrue to Sprint, particularly in the U.S. market for
+global, seamless services, by virtue of its strategic alliance with FT and DT. 
+
+ 5.     Countervailing Factors
+
+ 61.    While France and Germany do not currently offer effective competitive
+opportunities to U.S. carriers under Section 214, and FT and DT have both the incentive and
+ability to favor Sprint over competing carriers, there are strong countervailing reasons to
+grant the Sprint petition.  First, the recent liberalization efforts in France and Germany have
+resulted in commitments to open various segments of their national monopolies to
+competition before 1998.  Second, the FT and DT investment of $3.5-4.2 billion in Sprint
+will have a procompetitive impact on the U.S. telecommunications market, subject to
+conditions.  Given these factors, we find, as the Justice Department has, that the competitive
+concerns arising from this transaction can be addressed through conditions and safeguards, in
+anticipation of the French and German markets opening to U.S. carriers in 1998.  
+
+ a.     Liberalization Developments in France and Germany
+
+ i.     Comments
+
+ 62.    AT&T and BTNA state that numerous liberalization proposals before the E.U.
+Commission and French and German Governments are still pending and the final results are
+uncertain.  They state that there are no assurances that the proposed reforms will become
+law, or that implementing regulations and licenses will be issued.  They also assert that there
+is no certainty that the current liberalization proposals will extend to facilities or services
+provided between E.U. member states and third countries.  Finally, BTNA states that neither
+the French nor German Governments plan to relinquish majority ownership and control over
+FT or DT in the near future.      
+
+ ii.    Discussion
+
+ 63.    A critical factor in our approval of the proposed transaction is the policy shift
+in France and Germany towards competitive telecommunications markets.  We recognize that
+this trend likely will be opposed.  We also realize that, as AT&T and BTNA point out,
+timely, effective implementation of planned liberalization steps remains to be accomplished. 
+Current developments, however, cannot be ignored in considering the proposed transaction.  
+
+ 64.    As we mentioned above, Sprint filed its petition in October 1994.  In February
+1995, we adopted the NPRM in our foreign carrier entry proceeding which proposed that,
+when foreign carriers seek to enter the U.S. telecommunications market or become affiliated
+with a U.S. carrier, the Commission examine whether the relevant foreign
+telecommunications markets afford effective market access to U.S. carriers.  Since the
+NPRM was released, the French and German Governments each have made specific
+commitments for further telecommunications liberalization.
+
+ 65.    We have already noted the specific liberalization commitments made by the
+French and German Governments.  On October 20, 1995, in a letter to Commission
+Chairman Hundt, the French Government stated that it soon will allow entities other than FT
+to build and operate facilities (known as "alternative infrastructure") to offer already
+liberalized services.  These services include data communications and closed user groups,
+but exclude public switched voice telephony.  The French Government states that legislation
+to enact this measure will be introduced in the French Parliament in the Spring of 1996, and
+will take effect by July 1, 1996.  The French Government has made the same commitment
+regarding the liberalization of alternative infrastructure to the European Commission in the
+context of DG IV's review of the Atlas and Phoenix transactions.  
+
+ 66.    Earlier this year, the DGPT issued an experimental license to MFSI, a U.S.-
+owned company, to construct and operate a metropolitan network designed to serve the needs
+of closed user groups for data and voice communications.  According to the French
+Government, other experimental alternative infrastructure licenses that will permit provision
+of public voice telephony services will be issued in early 1996.  
+
+ 67.    Similarly, on October 17, 1995, the German Government submitted a letter to
+Commission Chairman Hundt in which it stated its commitment to allowing alternative
+facilities providers to commence operations as of July 1, 1996.  Like the French
+Government, the German Government also has made this commitment to the European
+Commission.  In addition, the German Government states that further liberalization steps
+are possible before 1998 provided that they do not infringe on the exclusive rights held by
+DT.  We note that ACC indicates that it received approval in June 1995 from the German
+Ministry to operate as a switchless reseller of DT's monopoly public switched voice
+services.
+   
+ 68.    The liberalization of alternative infrastructure in the French and German
+telecommunications markets is an important first step towards the introduction of full and
+effective facilities and services competition.  Alternative infrastructure providers will be
+permitted to compete with FT and DT to carry most non-public switched voice services,
+including data communications and intracorporate network services.  Thus, potential
+competitors of FT, DT and the Joint Venture will have the legal ability to choose between
+underlying carriers for liberalized services, a useful hedge against certain types of
+anticompetitive conduct by FT or DT.
+
+ 69.    In their letters submitted in this proceeding, the French and German
+Governments also have firmly committed to implementing full facilities and services
+competition by January 1, 1998.  The French Government filed with the Commission a copy
+of its recently announced proposal for wide-ranging liberalization of the French
+telecommunications regulatory regime.  The French Ministry of Information Technology and
+Postal Services issued this document in October 1995.  A "public consultation document"
+entitled "New Ground Rules for Telecommunications in France," the document outlines the
+key features of the French Government's planned regulatory regime.  It states that licenses of
+general applicability will be issued for most telecommunications services.  Individual licenses
+will be issued for three categories:  (1) operators of networks providing service to the
+general public; (2) providers of telephone services to the public; and (3) operators of radio-
+based networks.  In addition, the French Government states that there will be no
+limitations on the number of licenses unless justified by frequency scarcity.
+
+ 70.    Regarding interconnection, the public consultation document states that any
+authorized service provider will have the right to access networks open to the public.  FT
+will have more extensive obligations, including publishing an interconnection "reference
+offer," which will contain basic terms and conditions, rates, and interconnection points, by
+July 1997.  This offer must be approved by a national regulatory authority.  In addition, the
+"Select Committee," a group of independent experts, will review possible cost accounting
+methods.  Mandatory and independent audited cost-accounting measures will be developed,
+according to the public consultation document, to ensure cost-oriented pricing and to prevent
+anticompetitive cross-subsidization.  The public consultation document further provides that
+operators will be able to appeal to the national regulatory authority for interconnection
+dispute resolution.
+
+ 71.    The responsibility for supporting universal service will be shared among public
+operators; costs will be assessed and independently audited through transparent procedures by
+the Select Committee.  Finally, the French Government states that a national regulatory
+authority will be established to ensure effective regulation.  The public consultation document
+proposes two possible approaches to this authority.  Under the first approach, the authority
+would handle arbitration and enforcement; regulation would be handled within the Ministry. 
+Under the second approach, the national regulatory authority would handle regulatory
+functions as well, and would be independent of the Ministry.
+  
+ 72.    The German Government also has taken steps to achieve full facilities and
+services liberalization by January 1, 1998.  A Ministry draft Telecommunications Act, which
+the German Government expects to introduced in the German Parliament in early 1996,
+details the regulatory principles for the new regime.  The German Government's letter
+further explains these provisions.  Licenses will be required for all service providers seeking
+to provide facilities or services currently within DT's monopoly, including public voice
+telephony.  The number of licenses will not be restricted, except for radio licenses when
+warranted because of scarce resources.  In addition, there will be no foreign investment
+restrictions on licensing.
+
+ 73.    Many of the details of the German interconnection regime have yet to be
+established.  The Ministry states that dominant carriers (such as DT) will have the obligation
+to interconnect other carriers to their networks, and interconnection will be subject to
+regulatory review.  In addition, universal service will include public voice telephony and
+certain types of leased lines.  The Ministry states that only in exceptional cases will universal
+service obligations be imposed, and then only the dominant carrier or a service provider
+chosen through bidding procedures will be subject to such obligations.  Should this provider
+incur deficits because of this obligation, service providers with more than five percent market
+share will be required to contribute in proportion to their market share.  Finally, the
+Ministry states that an independent federal regulatory authority, equipped with enforcement
+powers, will be established to implement the regulatory objectives of the new federal
+legislation.   
+
+ 74.    We also note that European Union has established January 1, 1998, as the date
+by which most Member States, including France and Germany, must fully open their
+telecommunications markets by liberalizing existing monopolies for public voice telephony
+services and transmission facilities.  The European Council of Ministers agreed in June 1995
+that such liberalization should occur.  Carrying out this agreement, the European
+Commission adopted, on July 19, 1995, a draft directive mandating full facilities and services
+liberalization as of January 1, 1998.  The same draft directive would require E.U. Member
+States, including France and Germany, to permit the use of alternative infrastructure for the
+provision of already liberalized services in 1996.  When this directive is made final, which is
+expected to occur in early 1996, the European Commission will have the authority to initiate
+enforcement action should liberalization not occur in France and Germany as required. 
+
+        75.    We believe these commitments indicate that the French and German
+Governments are serious about telecommunications liberalization.  We note that when the
+Sprint petition was filed last year, there were few, if any, liberalization plans in either
+country.  Since that time, both Governments have announced concrete plans for increased
+competition leading to full facilities and services competition in 1998.  Liberalization of
+alternative infrastructure will require FT and DT to relinquish their monopoly over the
+provision of telecommunications facilities to all customers, including their own competitors. 
+Thus, they will no longer necessarily control significant cost components of their
+competitors' service offerings.
+
+        76.    Of course, timely implementation and the development of effective regulatory
+rules remain to be accomplished.  For example, in each country, not only must final
+legislation be enacted to formally remove the legal monopoly status, but an interconnection
+regime must be established, competitive safeguards must be implemented, and an independent
+regulatory body must be put in place to ensure effective competition.  Nonetheless, we
+realize that the implementation of effective competition takes time, and the French and
+German Governments have committed themselves to this process and have established firm
+timetables for introducing full competition.  We believe these commitments weigh in favor of
+granting Sprint's petition. 
+
+ b.     Effects on Competition in U.S. Markets
+
+ i.     Comments
+
+ 77.    Sprint states in its petition that FT's and DT's $3.5-4.2 billion investment
+would be used for a number of procompetitive purposes, both domestically and globally. 
+Domestically, Sprint asserts, these funds will enable it to "expand and upgrade its existing
+network, to undertake additional research and to develop new applications and services." 
+In addition, Sprint states that the capital invested by FT and DT will enable it to participate
+fully in its broadband PCS venture, WirelessCo.  Finally, Sprint asserts that the investment
+will enable Sprint to participate fully in its global seamless services joint venture with FT and
+DT.  Sprint states that the investment also would enable it to retire debt and thus improve its
+credit rating.  Only AT&T responds to Sprint's assertions, stating that Sprint has not
+demonstrated that it could not raise the capital in the worldwide financial markets.  AT&T
+also argues that in any event the public interest benefits of the proposed transaction do not
+outweigh the potential for competitive harm.  
+
+ ii.    Discussion
+ 
+ 78.    A second critical factor in our approval of the proposed transaction is the
+procompetitive effects in U.S. markets of the FT and DT investment in Sprint.  In addition
+to the effective competitive opportunities analysis, our Foreign Carrier Entry Order cites
+other factors that will be considered important in our overall public interest analysis for
+foreign carrier entry, including the general significance of the proposed entry to the
+promotion of competition in the U.S. communications market.  We are persuaded by
+Sprint's arguments regarding the value of the transaction to Sprint as a competitor in the
+U.S. telecommunications market and find that the procompetitive benefits of the proposed
+transaction to U.S. telecommunications markets are significant and justify approving the
+transaction.  Moreover, we do not agree with AT&T that Sprint should demonstrate it cannot
+raise the capital elsewhere in order for the investments by FT and DT to be considered a
+positive public interest factor.  There likely are many reasons behind Sprint's choice to raise
+capital through equity partners rather than through the world's financial markets.  Taking on
+more debt, for example, could involve greater transaction costs than would otherwise be the
+case.  In any event, we find no reason to question Sprint's representations that it needs these
+investments to participate fully in various sectors of the U.S. communications market, as
+discussed below.    
+  
+ 79.    To begin our analysis of these claims, we examine the markets in which the
+proposed transaction will have competitive effects.  These relevant markets include: 
+domestic interexchange services; terrestrial commercial mobile radio services (CMRS); U.S.
+international services; and global seamless services.  
+
+ (a)    Domestic Interexchange Services
+
+ 80.    In the domestic interexchange services market, the major competitors and
+market shares in 1994 were AT&T, 55 percent; MCI, 17 percent; Sprint, 10 percent; LDDS
+(now WorldCom), 3 percent; and the remaining 15 percent shared by more than 400 other
+carriers.  FT and DT currently are not involved in this market.  Although capital
+investment is not, by itself, necessarily procompetitive or efficient, the competitive forces
+in the domestic interexchange market will likely drive Sprint to devote the investment to
+making itself a stronger competitor in the ways it describes.  Sprint's strengthening of
+itself as a competitor against its larger rivals, AT&T and MCI, should yield procompetitive
+benefits for consumers.  In addition, by permitting Sprint to expand and upgrade its
+existing network, undertake additional research and develop new applications and services,
+the capital should ultimately benefit consumers through lower prices and more service
+choices.  Moreover, we find there are no apparent anticompetitive effects occurring in this
+market as a result of FT's and DT's investment.  Accordingly, we find that the proposed
+transaction will have a procompetitive effect in the domestic interexchange services market. 
+
+ (b)    Terrestrial CMRS
+
+ 81.    CMRS consists of certain mobile radio telecommunications services that are
+interconnected to the public switched telecommunications network and are offered to the
+general public (or a substantial portion of it) for profit.  Terrestrial CMRS includes
+cellular, paging, specialized mobile radio, interconnected business radio, and broadband and
+narrowband PCS.  There are numerous existing competitors in this market, including
+AT&T, the Regional Bell Holding Companies and GTE.  Sprint owns a 40 percent
+partnership interest, through its affiliate STV, in WirelessCo, which holds more broadband
+PCS licenses than any other entity.  The other partners in WirelessCo are three cable
+television multiple system operators.  WirelessCo is expected to provide broadband PCS in
+competition with other CMRS providers and, perhaps, with providers of wireline local
+exchange services.   
+
+ 82.    We agree with Sprint that this capital infusion to its wireless activities is an
+important procompetitive effect of the proposed transaction.  To the extent Sprint plans to
+use the proposed investment to fund its PCS ventures to compete with current CMRS and
+wireline local exchange providers, the proposed transaction will be procompetitive.  In the
+local exchange wireline market in particular, competition is nascent.  There do not appear to
+be, and no party alleges, any anticompetitive effects in this market resulting from FT's and
+DT's proposed investment.  Accordingly, we find that the proposed transaction will have
+important procompetitive effects in the terrestrial CMRS market.
+
+ (c)    U.S. International Services
+
+ 83.    In 1993, AT&T's IMTS market share in terms of U.S. originated and
+terminated minutes was approximately 63 percent; MCI's share was approximately 24
+percent; Sprint's share was approximately 10 percent; and the remaining 3 percent were
+scattered.  As in the domestic interexchange market, the FT/DT capital contribution would
+enable Sprint to upgrade its international facilities and provide new applications beneficial to
+U.S. customers.  Neither FT nor DT has a market share of its own.  Thus the proposed
+transaction would not increase Sprint's market share in the sense that FT's nor DT's market
+shares would be combined with Sprint's market share.  More vigorous competition by Sprint,
+the third largest international services carrier, would result in tangible benefits to customers,
+and is procompetitive.  Specifically, Sprint's investment in its infrastructure and in the
+development of new applications should lead to a broadened range of customer choices, more
+price competition, and better quality service offerings in this market.  These procompetitive
+effects are essentially the same type as we expect in the domestic interexchange market and
+noted as attendant benefits in the MCI/BT decision.  In summary, we conclude that, on
+balance, the proposed transaction will have procompetitive effects in the U.S. international
+services market, assuming the Sprint complies with the conditions described below.
+  
+      (d)   Global Seamless Services
+
+ 84.  In addition, we expect the transaction to have a procompetitive effect in the
+global seamless services market.  Global seamless services is an emerging product market of
+worldwide geographic scope, which we discussed briefly in the MCI/BT decision.  At
+present, the product dimension of this market consists of a combination of voice, data, video
+and other telecommunications services that are offered by a single source over an integrated
+international network of owned or leased facilities, and that have the same quality,
+characteristics, features and capabilities wherever they are provided.  This end-to-end service
+offers the advantage to customers of "one-stop shopping" and single-source billing.  The
+principal customers are high-end users such as multinational corporations, but individuals and
+carriers may also be customers.
+
+ 85.    The Joint Venture plans to offer mid-size and large multinational business
+customers a variety of seamless voice, data, private line and videoconferencing options. 
+These include global virtual private networks, international private lines and private
+networks, high-speed data offerings, packet-switched networks, bandwidth management
+products, store-and forward fax, and electronic mail.  The services may employ advanced
+technologies such as frame relay, asynchronous transfer mode (ATM) and synchronous
+digital hierarchy (SDH) technologies, and may be basic or enhanced, depending on the needs
+of users.  Lower volume users and travelers will be offered a number of global card and
+travel products.  According to Sprint, these products will permit easy and cost-efficient
+access by individual users to international calling services worldwide on a pre-paid and post-
+paid card basis.  For users outside of their home markets, Sprint states, third-country calling
+will provide an easy and efficient way to reach other international points worldwide.  These
+customers will be traditional facilities-based carriers, as well as emerging carriers, resellers
+and niche service providers.  In addition, the Joint Venture will offer transit and global
+termination services.  Computer-based platforms for advanced carrier services also will be
+marketed to other carriers.  
+
+ 86.    At the time of our decision in MCI/BT, there were no established global
+seamless service providers.  Today, there are several such providers in this market.  As the
+Justice Department noted in its Competitive Impact Statement, global seamless service
+providers consist mainly of various carrier alliances, including AT&T's partnerships (through
+Worldpartners and Uniworld), and the MCI/BT alliance (Concert).  The Joint Venture
+between Sprint, FT and DT would add another significant competitor to this market.  Each
+of these alliances is targeting essentially the same potential global market for the world's
+large business customers. 
+
+ 87.    We believe Sprint's entry, through the Joint Venture, into the global seamless
+services market will yield significant competitive benefits for U.S. customers.  The
+establishment of a new, viable competitor in this area should result in more competitive
+options for U.S. customers, particularly in terms of pricing and variety of services available
+for large scale, high-end customers such as multinational corporations.  In addition, the Joint
+Venture should offer a number of efficiencies for Sprint, such as greater economies of scale,
+easier entry into new markets and the sharing of risks.  Given that several strong competitors
+already exist in this market, the procompetitive effects of the Sprint/FT/DT transaction
+outweigh any possible anticompetitive results in this market. 
+
+ iii.      Summary
+
+ 88.    We thus find that the transaction offers the additional public interest benefits of
+significant procompetitive effects in the U.S. market and, in particular, in the domestic
+interexchange, terrestrial CMRS, international, and global seamless services markets.  The
+infusion of capital by FT and DT will assist Sprint's further development in markets in which
+it is already competing, and will facilitate Sprint's entry into new, undeveloped markets, to
+the ultimate benefit of U.S. customers.  We disagree with AT&T that the public interest
+benefits of the proposed transaction discussed above do not outweigh the potential
+competitive harm, particularly given the conditions we impose.  Thus, we find that these
+public interest factors weigh strongly in favor of granting Sprint's petition, subject to the
+conditions discussed below.        
+
+ c.     Other Public Interest Factors
+
+ 89.    Other factors cited in our Foreign Carrier Entry Order that may be considered
+as part of the overall public interest analysis for foreign carrier entry include cost-based
+accounting rates, and any national security or law enforcement issues, foreign policy or trade
+concerns raised by the Executive Branch.  In addition, the extent of alien participation in
+Sprint's parent corporation is a public interest factor under Section 310(b)(4).
+
+ 90.  AT&T argues that the implementation of cost-based accounting rates by FT
+and DT should be a precondition of approval of the petition.  We decline to adopt the
+specific approach advocated by AT&T.  We decided in the Foreign Carrier Entry Order that
+we would not take AT&T's approach, but instead would consider cost-based accounting rates
+as an additional public interest factor.  The accounting rates between the United States and
+Germany have significantly decreased in the last 10 years, following a general global trend. 
+In 1985, the accounting rate between the United States and Germany was 1.2 Special
+Drawing Rights (SDR) (approximately $1.32); in 1995, the rate was 0.26 SDR
+(approximately $0.39).  Although there remains room for further progress, Germany has
+taken significant strides towards a cost-based accounting rate.  
+
+ 91.  The accounting rates between the United States and France also have decreased
+in the last 10 years, but much less than the U.S.-Germany rates.  They remain significantly
+above cost.  In 1985, the accounting rate between the United States and France was 1.6
+(SDR) (approximately $1.76); in 1995, the rate was 0.36 SDR (approximately $0.54). 
+Today, the U.S.-France accounting rate is nearly 28 percent above the U.S.-Germany and
+U.S.-U.K. accounting rates.  There is no possible justification for this difference.  Given
+the similar levels of infrastructure and economic development in France, Germany and the
+United Kingdom, the high volume of calls originated and terminated in each country, and the
+geographic proximity of the these countries, the costs of originating and terminating U.S.
+traffic in France should be similar to the costs for Germany and the United Kingdom.  But
+while the U.S.-Germany and U.S.-U.K. rates are in the same range, the U.S.-France
+accounting rate is significantly higher.
+
+ 92.    Thus, although the accounting rates with France and Germany are moving
+downward, they remain well above cost, particularly in the case of France.  Accordingly, we
+find this to be a negative factor in our public interest analysis, especially for France.  We
+thus find that this transaction is in the public interest only if Sprint obtains a written
+commitment from FT to lower the accounting rate between the United States and France to
+the same range as the U.S.-U.K. and U.S.-Germany accounting rates, as described more
+fully below in paragraph 131.   
+
+ 93.    With respect to the other public interest factors laid out in the Foreign Carrier
+Entry Order, we note that the Executive Branch has not advised us of any national security, 
+law enforcement, foreign policy, or trade concerns that support grant or denial of the
+petition.  
+ 94.  We next analyze the extent of alien participation in Sprint's parent corporation
+as a public interest factor identified in the Foreign Carrier Entry Order as relevant to our
+analysis under Section 310(b)(4).  Upon consummation of the transaction, Sprint could at
+any time have up to 28 percent alien ownership (10 percent FT, 10 percent DT and
+approximately 6.2 percent non-FT or -DT, with a 3 percent margin for fluctuation), with 80
+percent U.S. directors and 100 percent U.S. officers.  Both prior to and after consummation
+of the transaction, however, 100 percent of the officers and directors of Sprint's wholly-
+owned Title III common carrier licensee subsidiaries will be U.S. citizens.  Sprint
+maintains that the aggregated 28 percent alien ownership is consistent with the public interest
+and the Commission's decision in MCI/BT and falls within Commission precedent permitting
+alien ownership in excess of the statutory benchmark.  
+ 
+ 95.   In the common carrier context, the Commission's decision whether to
+permit a level of alien ownership or participation that exceeds the statutory benchmark
+traditionally has taken into account the overall level of alien involvement in the ownership
+and management of the parent company.  Recently, the Commission approved 92 percent
+alien ownership in the alien parent of a U.S. subsidiary which would control a licensee
+where more than 50 percent of the directors and 85 percent of the officers of the subsidiary
+would be U.S. citizens.  As in the MCI/BT proceeding, it is only the potential for a three
+percent fluctuation in alien ownership beyond the 25 percent statutory benchmark that causes
+the petitioners to seek a favorable Section 310(b)(4) declaratory ruling.  In addition, this
+transaction involves a dominant U.S. presence among Sprint's officers, directors and
+shareholders.  Approval of the percentage of alien ownership in Sprint resulting from the
+transaction with FT and DT is consistent with the previous cases in which we have
+determined it would not be in the public interest to prohibit levels of indirect alien ownership
+of common carrier licensees in excess of that proposed by Sprint.  Thus, our analysis of
+the extent of alien participation in Sprint's parent corporation under Section 310(b)(4) weighs
+in favor of approval.  
+
+ 6.  Conditions and Safeguards
+
+ a.     Comments
+
+ 96.    As noted above, a number of parties urge us to deny Sprint's petition until
+France and Germany open their telecommunications markets and offer effective market
+access.  In addition to FT's and DT's monopoly status, these parties cite the lack of
+competitive safeguards and independent regulators as major deficiencies of the current French
+and German regulatory regimes.  In addition to the competitive concerns mentioned in
+Section IV.B.4, AT&T, BTNA, CWA/IBEW, and ITI state that approval of Sprint's petition
+will remove incentives for faster liberalization in France and Germany.  These parties also
+assert that approval of the transaction would undercut the U.S. Government's bargaining
+position in the Negotiating Group on Basic Telecommunications (NGBT).  Several parties
+also propose that, in the event we approve the transaction, we should impose certain
+conditions.  For example, AT&T states that the Commission should withhold approval of the
+equity investment and permit the parties' Joint Venture to proceed with conditions. 
+
+ 97.    ACC and MFSI urge the Commission to treat Sprint as a dominant carrier on
+the U.S.-France and U.S.-Germany routes.  They also believe that the conditions imposed by
+the Justice Department on MCI/BT, including transparency, confidentiality and international
+simple resale requirements, should be imposed in this proceeding.  Worldcom requests that
+the Commission condition any approval of Sprint's petition upon requirements that FT and
+DT implement cost-based local switched rates, and not discriminate in their provisioning and
+maintenance of facilities.  Finally, Senator Dole urges the Commission not to artificially
+"freeze" Sprint's communications capacity because an arbitrary limit on communications
+capacity will not alleviate concerns about foreign market leveraging.                    
+
+ b.     Discussion
+
+        98.    We have concluded that, in the overall public interest under Sections 214 and
+310(b)(4), we should not withhold a positive public interest finding regarding the transaction
+until France and Germany offer effective competitive opportunities or the market access
+requirements suggested by a number of the parties.  We are not discounting the importance
+of these factors; indeed, we expect these factors, including a fair and transparent
+interconnection regime, competitive safeguards, and an independent regulator, to be
+implemented in France and Germany by 1998.  But we believe the significant public interest
+benefits of the transaction weigh in favor of a finding that this transaction is in the public
+interest, subject to conditions, notwithstanding the current lack of effective competitive
+opportunities in France and Germany.
+
+        99.    We also believe that delay or denial of Sprint's petition until effective
+competitive opportunities exist in France and Germany would undermine the parties'
+proposed transaction and, accordingly, possibly result in the loss of the important public
+interest benefits of the transaction.  Moreover, in view of these public interest benefits
+arising from the capital investment, we decline to permit only the parties' Joint Venture to
+proceed and withhold a finding that this transaction is in the public interest until effective
+competitive opportunities exist, as proposed by AT&T.  Given our public interest findings,
+we also decline to require Sprint to divest its operations on the France and Germany
+routes.  
+
+        100.   We do believe, however, that Sprint must agree to adhere to the strict
+conditions described below until full facilities and services competition emerge in both
+countries in order to ensure that the parties do not engage in anticompetitive activities.  We
+continue to believe, as we stated in the Foreign Carrier Entry Order, that full facilities-based
+competition, rather than regulatory conditions, are the most potent safeguard against the
+abuse of market power.  Nonetheless, because of the public interest benefits of the
+proposed transaction and the commitments to foreign liberalization, we are willing to rely on
+strict conditions in this proceeding to protect competition.  Because of the conditions we are
+requiring Sprint to accept as part of our public interest finding, we disagree with the AT&T,
+BTNA and CWA/IBEW that approval of Sprint's petition will remove incentives for the
+French and German Governments to undertake further liberalization.  These conditions
+provide important incentives for earlier liberalization than might otherwise be the case.  We
+thus do not believe that approval of this transaction will adversely affect NGBT negotiations. 
+In any event, we do not believe it would be appropriate to delay our decision until after April
+1996, the deadline for an agreement in that forum, given Sprint's legitimate business needs
+for a timely decision. 
+ 
+ 101. In its proposed Final Judgment and Competitive Impact Statement, the Justice
+Department reaches many of the same conclusions that we do about the potential for
+anticompetitive conduct as a result of the proposed transaction.  It finds that, because of
+the absence of privatization and the continued existence of de jure monopolies in France and
+Germany, additional relief is needed beyond that imposed in the MCI/BT Final Judgment. 
+The Justice Department concludes that a series of conditions and requirements, imposed in
+two phases, is sufficient to address its concerns over potential anticompetitive conduct,
+particularly given the progress made in France and Germany towards a competitive
+telecommunications environment and the plans for the implementation of full facilities and
+services competition in 1998.  As we note below, a number of the conditions we require
+Sprint to accept address concerns similar to those addressed by the Justice Department.  We
+have taken into account the provisions of the proposed Final Judgment in designing our
+conditions in this Order, and we rely on the effectiveness of those provisions.  The
+conditions described below, together with the provisions of the proposed Final Judgment,
+fully address our public interest concerns.    
+  
+      102.  Upon careful consideration of the record in this proceeding, we impose, in
+general, five conditions to prevent potential anticompetitive conduct and minimize the unfair
+competitive advantages accruing to Sprint from its affiliation with FT and DT.  First, we
+find that Sprint is a dominant carrier for the provision of U.S. international services on the
+U.S.-France and U.S.-Germany routes.  Second, we will not allow Sprint to operate
+additional circuits on the U.S.-France and U.S.-Germany routes until France and Germany
+have liberalized two important markets:  alternative infrastructure for already liberalized
+services (which include most non-public voice services) and basic switched voice resale. 
+Third, we require Sprint to comply with nondiscrimination and reporting requirements. 
+Fourth, we find this transaction serves the public interest only if Sprint obtains a written
+commitment from FT to lower the accounting rate between the United States and France to
+the same range as the U.S.-U.K. and U.S.-Germany accounting rates.  Fifth, if the
+anticipated liberalization measures and implementation of effective competitive opportunities
+do not occur as planned, we will take further action no later than the Spring of 1998. 
+Provided that Sprint complies with the conditions of this ruling, we conclude that we need
+not designate for hearing the issue whether the public interest would continue to be served by
+Sprint's holding of Title II authorizations and Title III licenses if these investments and the
+Joint Venture are consummated. 
+
+      i.    Regulating Sprint as a Dominant Carrier
+      
+ 103. The first condition includes the regulation of Sprint as a dominant carrier for
+the provision of U.S. international services on the U.S.-France and U.S.-Germany routes
+until Sprint can demonstrate that there is no substantial risk of anticompetitive effects in the
+U.S. international services market from its affiliation with FT and DT.  We recently
+modified our dominant carrier safeguards to require tariff filing on 14-days notice, prior
+Section 214 authorization for circuit additions or changes; the filing of quarterly traffic and
+revenue reports; and the maintaining of provisioning and maintenance records that cover the
+network facilities and services a dominant, foreign-affiliated carrier procures from its foreign
+carrier affiliate.  This requirement includes services that a dominant carrier procures on
+behalf of joint ventures for the provision of U.S. basic or enhanced services. 
+
+ 104.   The Foreign Carrier Entry Order adopts a change in our policy regarding
+when we will consider a foreign carrier investment in a U.S. carrier to constitute an
+"affiliation" for purposes of determining regulatory treatment of the U.S. carrier.  First, we
+have lowered the affiliation threshold control to a greater than 25 percent interest or a
+controlling interest at any level.  In addition, we have indicated we may regulate a carrier as
+dominant even if an investment is less than 25 percent if there are other contractual
+arrangements between the parties which could have a significant impact on competition. 
+
+ 105.   In this case, although the combined equity interests of FT and DT are less than
+25 percent, we nonetheless find an affiliation in this case for the same reasons we found an
+affiliation under our effective competitive opportunities analysis.  In particular, this
+transaction involves two of the largest foreign carriers in the world, which control bottleneck
+facilities in two of the biggest destination markets for U.S. traffic.  These carriers propose
+to invest in the third largest U.S. domestic interexchange and international
+telecommunications services carrier as part of their Joint Venture.  The monopoly positions
+of FT and DT in their own countries, combined with their 10 percent each equity interest in,
+and Joint Venture with, Sprint, provide the incentive and ability for FT and/or DT to engage
+in anticompetitive conduct favoring Sprint on these routes.  For example, to the extent FT
+and DT can take actions to enhance Sprint's position and Sprint's stock value increases as a
+result, FT and DT would themselves profit by the rise in value of their equity investment in
+Sprint.
+
+ 106.   Moreover, the potential impact on competition in the U.S. basic international
+services market warrants dominant carrier treatment to enable us to closely monitor Sprint's
+circuits additions, traffic and tariffs for service to these countries, as well as the treatment
+afforded FT and DT in the provisioning and maintenance of their basic network services and
+facilities.  Accordingly, we find under our new policy regarding affiliation that Sprint cannot
+be treated as non-dominant on the France and Germany routes because Sprint's affiliated
+carriers, FT and DT, control bottleneck facilities in those countries.  We also find that,
+under our current definition of affiliation, Sprint must be regulated as dominant on the
+France and Germany routes.  We thus require Sprint to comply with the specific dominant
+carrier regulation requirements set forth in paragraph 140 of this Order.  
+
+ 107.    The longer tariff filing period for dominant carriers will give us a better
+opportunity to detect potential predatory pricing before it occurs.  Similarly, the
+requirement that Sprint file quarterly traffic reports and seek prior approval for circuit
+additions or changes on the France and Germany routes will better enable us to monitor
+traffic flows between Sprint and FT in France and DT in Germany and to remedy promptly
+any abuses of foreign market power.  Prior approval for circuit additions or changes is
+required of all dominant carriers and, in this case, would enable competitors of Sprint and
+the Joint Venture to determine if discrimination is occurring.  We thus agree with ACC and
+MFSI that these requirements are necessary to aid detection of, and help deter,
+anticompetitive conduct.  By doing so, dominant carrier regulation will protect competition
+until France and Germany offer effective competitive opportunities.
+
+ 108.   Because FT and DT continue to hold monopolies over key infrastructure, we
+believe there is a stronger potential for the anticompetitive use of foreign market power than
+in MCI/BT.  Thus, regulation of Sprint as a dominant carrier is necessary on the routes
+where it is receiving traffic from FT and DT at least until full infrastructure and services
+liberalization and procompetitive regulation emerges in France and Germany.  If effective
+competition and effective regulation actually emerge in each country, the potential
+anticompetitive effects would be diminished and the types of conditions we imposed on that
+transaction may then be adequate to protect competition.  We reserve the right to extend
+dominant carrier regulation to additional U.S.-international routes in the event FT, DT and
+Sprint enter into a similar alliance with any other "foreign carrier."  We also reserve the
+right to extend to additional U.S. international routes dominant carrier regulation and
+reporting requirements contained in this Order in the event Sprint has or acquires an
+"affiliation" with any "foreign carrier"as those terms are defined in our Foreign Carrier
+Entry Order and Section 63.01(r)(1)(i) and (ii) of the Commission's Rules.  
+
+      ii.   Circuit Restrictions
+
+      109.  Under the second condition, we will not allow Sprint to operate additional
+circuits on the U.S.-France and U.S.-Germany routes until two milestones have been met. 
+These milestones are described in detail below.  This condition is necessary to mitigate
+Sprint's unfair competitive advantage over other U.S. carriers on the routes where FT and
+DT have monopoly market power on the foreign end for the interim period until further
+competition emerges in those markets.  Thus, while we will permit Sprint to acquire
+additional circuit capacity, we will not allow Sprint to operate any newly-acquired circuits
+until Sprint demonstrates that these competitive milestones have been met.  To implement
+this condition, we require Sprint to file with the Commission, within 15 days of the effective
+date of this Order, a circuit status report on the U.S.-France and U.S.-Germany routes,
+specifying the number of circuits in which Sprint has an ownership, indefeasible right of use
+or leasehold interest, and the number of circuits it is operating on these routes.
+
+      110.   By virtue of its Joint Venture with FT and DT, we find that Sprint has an
+advantage over other U.S. carriers that have no possibility of forming a similar alliance with
+another French or German carrier.  As we concluded in the Foreign Carrier Entry Order, if
+there is no opportunity for participation by other U.S. carriers, then the benefits of providing
+international service on an end-to-end basis will flow solely to the monopoly foreign carrier
+and its U.S. affiliate.  Our approach to future Section 214 authorization requests by Sprint is
+designed to mitigate the unfair competitive advantage accruing to Sprint, FT and DT until
+further liberalization occurs.  We also believe such action will provide further incentives for
+the French and German Governments and FT and DT to continue to liberalize their
+telecommunications markets before 1998.
+
+ 111. The first milestone is implementation of alternative infrastructure competition
+in France and Germany.  To meet this milestone, France and Germany must permit
+infrastructure to be offered by entities other than FT or DT, or their affiliates.  Such
+alternative infrastructure must be permitted to carry all currently liberalized services in
+France and Germany, including data communications and closed user groups traffic (but not
+public switched voice services).  This development opens the way for new facilities-based
+carriers for most telecommunications services.  Thus, at least with respect to already
+liberalized services, U.S.-affiliated entities may begin to have competitive alternatives to FT
+and DT to carry their non-public switched voice traffic in France and Germany.    
+
+ 112.  The second milestone is the existence of opportunities to provide basic
+switched voice resale, including for the provision of traffic originated or terminated in the
+United States.  For purposes of this proceeding, we define liberalized basic switched voice
+resale to include public switched voice services which may be offered to the public using
+facilities provided by a separate underlying carrier, and may be provided to and from the
+United States.  Such resale opportunities must be available to all similarly situated U.S.-
+affiliated entities on the same terms and conditions.  To meet this milestone, it is sufficient
+that the reseller simply provide its own billing functions, and no switching or other functions
+for itself.  In countries such as Chile, Canada, Sweden, and the United Kingdom, allowing
+such resale has served to aid the entry of competitors in the marketplace and to exert
+competitive pressure on rates, resulting in lower rates to the benefit of customers.  The
+French and German Governments each have indicated that FT and DT may enter into
+switchless resale arrangements with third parties, as subcontractors, within the current
+French and German legislative frameworks.  Thus, it is entirely within the authority of FT
+and DT to determine this condition will be satisfied.  Although there is no legal compulsion
+in either country for FT or DT to do so, FT and DT can voluntarily enter into such
+arrangements, and thus have it within their power to satisfy the basic switched voice resale
+milestone.   
+
+ 113.   Although the opportunity to provide basic switched voice resale is not as
+desirable as full competitive provision of infrastructure, and would still require use of FT's
+or DT's underlying facilities, it is nonetheless an important interim step.  The availability of
+basic switched voice resale in France and Germany will put U.S. competitors of FT, DT and
+the Joint Venture on more equal footing with these entities.  In particular, basic switched
+voice resale competition essentially would allow competitors to compete for customers at
+every level with FT and DT, including for public switched voice customers.  Competitors of
+FT, DT and the Joint Venture would then have the opportunity to market themselves, as only
+FT and DT now can, as "full service" providers.  Until basic switched voice resale
+opportunities are available, such marketing and service offerings are not possible.  The
+competitive availability of alternative infrastructure and basic switched resale also will limit
+FT's and DT's ability to leverage their monopoly power unfairly.  These two forms of
+competition will start the process of adapting to competition, which should help ease the
+implementation of full facilities and services competition, to the benefit of potential
+competitors.  This condition also will serve as an important incentive for the effective
+implementation of liberalization steps sooner than might otherwise be the case, thus
+minimizing the competitive harm to other U.S. carriers that wish, but are not currently
+permitted, to participate in the French and German markets.  
+
+ 114.   This condition only affects Sprint's operation of additional capacity it is
+authorized to acquire subsequent to the consummation of the transaction on the France and
+Germany routes; it will not prevent Sprint from acquiring additional capacity as it becomes
+available or is needed to meet its expected long term capacity needs.  Business realities may
+mean that Sprint will be required to invest now in capacity on a submarine cable, for
+example, that is not yet operational.  As a dominant carrier, Sprint will be required to obtain
+prior Section 214 authority to acquire and operate any additional circuits.  Because of the
+particular circumstances of this transaction, however, we will consider granting Sprint
+Section 214 authority only to acquire, not operate, capacity on either the France or Germany
+routes until the two competitive milestones are reached.  Thus, while we will permit Sprint
+to acquire capacity on these routes, we will not allow Sprint to operate any such capacity
+acquired after the consummation of the transaction until Sprint can demonstrate that the
+competitive milestones have been reached.  
+ 
+ 115.   Based on our review of Sprint's confidential circuit status reports, published
+information on Sprint's capacity ownership on TAT-12/13 and other the transatlantic cables,
+and Sprint's average growth rate, we are confident that this remedy will not adversely impact
+Sprint's short term ability to respond to marketplace demands.   Moreover, this restriction
+does not affect Sprint's ability to provide service on these routes on a resale basis.  We
+emphasize that we expect this condition to be short-term.  Both FT and DT have the ability
+to satisfy the resale milestone by introducing resale at any time.  Moreover, the French and
+German Governments have committed both to the E.U. and U.S. authorities to permit
+alternative infrastructure competition by July 1996.  There is no reason, then, that this circuit
+restriction should not be able to be lifted in six months time.  Upon Sprint's demonstration to
+the Commission that these two milestones have been met, the Commission will promptly lift
+this restriction from all previously conditioned Section 214 authorizations.
+
+ iii.   Nondiscrimination and Reporting Requirements
+
+ 116.   The third condition consists of nondiscrimination and reporting requirements
+based on longstanding procompetitive rules and policies of this Commission.  These
+requirements, similar to those imposed in the MCI/BT proceeding, are designed to prevent
+Sprint from accepting the benefits of any anticompetitive use of market power by FT or DT. 
+Moreover, Sprint has volunteered to accept these requirements.  These requirements will
+remain in place indefinitely unless expressly removed by Commission order.  Sprint's failure
+to comply with these requirements may result in the imposition of fines or forfeitures or a
+revocation of one or more of its licenses.
+
+ 117.   We impose a number of nondiscrimination and reporting requirements.  First, 
+Sprint is prohibited from agreeing to accept, directly or indirectly, any special concessions
+from any foreign carrier or administration with respect to traffic or revenue flows between
+the United States and any foreign country.  This requirement reflects a nondiscrimination
+safeguard adopted in the Foreign Carrier Entry Order.  We also note that numerous cable
+landing licenses and Section 214 authorizations held by Sprint contain similar prohibitions
+against accepting "exclusive arrangements" from any foreign carrier or administration.
+
+ 118.   Second, in keeping with the requirement not to accept "special concessions"
+directly or indirectly from FT or DT, Sprint shall obtain a written commitment from FT and
+DT not to offer or provide any special concessions to Sprint or the Joint Venture in FT's and
+DT's provision of basic telecommunications services or facilities.  A copy of this written
+commitment must be filed with the Commission 15 days prior to consummation of this
+transaction.
+
+ 119. Third, Sprint shall file with the Commission quarterly reports summarizing its
+records on the provisioning and maintenance of facilities and services by FT and DT to
+Sprint, including, but not limited to, correspondent or other basic services or facilities
+procured on behalf of customers of Joint Venture offerings, in France and Germany. 
+These reports shall include information about any distribution or interconnection
+arrangements, including pricing, technical specifications, functional capabilities and other
+quality or operational characteristics, such as provisioning and maintenance times.  Although
+we do not require such reports of other dominant carriers in our Foreign Carrier Entry
+Order, we believe that such reports are necessary in this case to enable competitors and
+users to determine if discrimination is occurring because of the large traffic flows between
+the United States and France and Germany and the resulting potential significant impact of
+anticompetitive conduct on the U.S. telecommunications market.  To provide additional
+monitoring, we also require Sprint to file with the Commission, within 15 days of the
+effective date of this Order, a circuit status report on the U.S.-France and U.S.-Germany
+routes, specifying the number of circuits.  
+ 
+ 120.   These requirements are designed to ensure that Sprint, the Joint Venture, FT
+and DT do not use their new relationship, in combination with FT's and DT's foreign market
+power, to favor each other at the expense of competitors and competition generally.  We
+have described in detail above how FT and DT will have both the ability, through their
+foreign monopolies, and the incentive, as a result of their investments in Sprint and the Joint
+Venture, to engage in such conduct.  With respect to concerns that FT, DT and Sprint could
+use their relationship to manipulate traffic streams or accounting rates, we reiterate that
+existing Commission policy with respect to these matters effectively limits the parties' ability
+to engage in such anticompetitive conduct.  As a U.S. carrier, Sprint must:  (1) not agree to
+accept more than its proportionate share of return traffic from its foreign correspondent;
+(2) settle its accounts in accordance with the nondiscriminatory accounting rates it is required
+to file with this Commission; (3) file copies of all contracts, agreements and arrangements
+that relate to the routing of traffic (including transiting traffic) and settlement of accounts;
+and (4) not accept any changes in its accounting rates that are not made available to all other
+competing U.S. carriers on a nondiscriminatory basis.  Moreover, pursuant to the "no special
+concessions" requirement, Sprint is precluded from bargaining for, or accepting, any
+preferential changes in the current method used by FT or DT to allocate return traffic among
+U.S. carriers.  
+
+ 121.   Sprint's "no special concessions" obligation also would preclude Sprint from
+accepting from FT or DT, or from any other foreign carrier or administration, preferential or
+exclusive operating agreements or marketing arrangements for the provision of basic
+telecommunications services, including the introduction and provision of new basic
+services.  This obligation would preclude Sprint from offering a new correspondent or
+other basic service, or concluding an operating agreement for such a new service, with either
+FT or DT unless FT or DT offer to provide the service or operating agreement on the same
+terms and conditions to similarly situated U.S. carriers, a concern raised by AT&T. 
+Similarly, Sprint would be precluded from accepting from FT or DT any distribution or
+interconnection arrangements, including pricing, technical specifications, functional
+capabilities, or other quality and operational characteristics, such as provisioning and
+maintenance times, at rates or on terms and conditions that are not available on a
+nondiscriminatory basis to all competing U.S. carriers.  In these examples, the reports to be
+filed by Sprint will enhance the Commission's ability to monitor Sprint's compliance with its
+obligation to accept no special concessions from FT or DT.    
+
+ 122.   Sprint also would be prohibited from agreeing to accept any arrangement with
+FT or DT for the joint handling of basic traffic originating or terminating in third countries
+on terms and conditions not available on a nondiscriminatory basis to all competing U.S.
+carriers.     
+ 123. Our "no special concessions" requirement would prohibit Sprint from
+accepting directly from FT or DT, or indirectly, through the Joint Venture, prior to public
+disclosure, any information about FT's or DT's basic network services that affects either the
+provision of basic or enhanced services or interconnection to the French or German public
+switched network by U.S. carriers or their U.S. customers.  In addition, Sprint would be
+precluded from accepting French or German telephone customer information (including
+names and addresses) from FT or DT unless such information also is available to other U.S.
+competitors. 
+ 124.   As a further example, Sprint would be prohibited from accepting, either
+directly or indirectly, through the Joint Venture or from FT or DT, any proprietary or
+confidential information obtained by FT or DT from competing U.S. carriers in the course of
+regular business activities with such U.S. carriers, unless specific permission has been
+obtained in writing from the U.S. carrier involved.  Such information might relate to the
+provision of interconnection or other necessary services, correspondent relationships, or
+negotiations of operating agreements, including accounting rates.  
+
+ 125.   In addition, we agree with AT&T that the "steering" of customers by the Joint
+Venture partners to the Joint Venture violates the "no special concessions" requirement to the
+extent a basic service customer is being "steered" to a particular U.S. carrier.  Under the
+terms of the Joint Venture Agreement, each partner is required to use commercially
+reasonable efforts to persuade its customers to use the Joint Venture's services.  Thus, for
+example, if an FT customer in France requests from FT a basic, private line service between
+France and the United States, FT is required to attempt to persuade the customer to use
+Sprint, the Joint Venture partner serving the United States, for the U.S. end.  Although the
+customer may ultimately choose another U.S. carrier anyway, this arrangement affects traffic
+flows, and requires foreign carriers (FT and DT) to attempt to persuade customers to use one
+particular U.S. carrier (Sprint) for the provision of basic services.  The same arrangement is
+not available to other U.S. carriers, and thus, by its terms, such "steering" would be an
+impermissible special concession under Section 63.14 of our Rules.  
+
+ 126.   Our requirement that Sprint maintain complete records and provide quarterly
+reports on the provisioning and maintenance of facilities and services provided by FT and
+DT to Sprint specifically includes any services or facilities procured on behalf of customers
+of Joint Venture offerings in France and Germany.  This requirement will enhance our ability
+to monitor Sprint's compliance with our "no special concessions" requirement. We may
+revisit the need for these reporting requirements when France and Germany are fully
+liberalized.  But until effective competition exists in these countries, we believe that FT's and
+DT's market power merits this additional measure.  
+
+ 127.   We recognize the concerns in the record raised by FT's and DT's participation
+in the Joint Venture, when combined with their 20 percent stake in Sprint.  These factors
+may, for example, give FT and DT an incentive to provide Sprint preferential access to their
+basic services networks.  This potential discrimination could take various direct or indirect
+forms, including preferential pricing or treatment in the provision and maintenance of both
+international half-circuits and of local exchange services or advance disclosure of technical
+specifications.  We find that our concerns about the potential leveraging of foreign market
+power in basic service offerings to gain an advantage in the global seamless service market
+are satisfactorily addressed at this time by the "no special concessions" requirement and
+recordkeeping and reporting requirements we have imposed on Sprint. 
+
+ 128.   We also require Sprint to file progress reports detailing the status of the
+telecommunications markets and regulatory regimes in France and Germany.  We believe
+these reports will assist us in determining whether progress is being made in liberalizing
+these markets.  In the event appropriate progress is not being made, we may need to consider
+additional safeguards to protect against anticompetitive conduct.
+
+ 129.   As we noted above, France and Germany have committed to taking certain
+steps to implement effective competitive opportunities in their telecommunications markets by
+January 1, 1998.  We direct Sprint to provide the Commission with the following
+information regarding French and German regulatory developments:  the text of any laws,
+resolutions, regulations and court decisions relevant to the implementation of
+telecommunications services and facilities competition, and any descriptive information
+regarding enforcement of and compliance with these provisions.  This descriptive information
+should address how France and Germany are progressing in meeting the specific effective
+competitive opportunities criteria.  We also require Sprint to report on the status of the
+ownership of FT and DT.  These reports should be filed no later than July 31 of each year
+(beginning in 1996) until this Commission determines that there are effective competitive
+opportunities in France and Germany.  We will include these reports in the public record in
+this proceeding, which will remain open until we find effective competitive opportunities
+exist in both France and Germany.  In 1998, this report must be filed by March 31, as
+described below.
+
+ 130.   Finally, to ensure if the alien ownership level in Sprint does not exceed 28
+percent, we require Sprint to conduct periodic surveys of their public shareholders.  We also
+require Sprint to obtain prior Commission approval before increasing FT's or DT's
+ownership or voting interest in Sprint.  In addition, Sprint must file any substantive
+amendments or modifications to:  (1) the Investment Agreement; (2) the Stockholders'
+Agreement; (3) the Joint Venture Agreement (4) the Certificate of Amendment to Sprint's
+Articles of Incorporation; (5) the Proposed Amendments to Sprint's Bylaws; and (6) the
+Standstill Agreement with the Commission within 30 days of execution.  We also require
+Sprint to file with the Secretary of this Commission, within 30 days of the effective of this
+Order or prior to the consummation of this transaction, whichever is sooner, a letter
+accepting the terms and conditions of this Commission ruling.
+
+ iv.      Accounting Rate Condition
+
+ 131.   For the reasons described in paragraph 92 above, we find that this transaction
+serves the public interest only if Sprint obtains a written commitment from FT to lower the
+accounting rate between the United States and France to the same range as the U.S.-U.K.
+and U.S.-Germany accounting rates.  The written commitment should indicate that FT will
+implement these reductions in the near future and in no event later than two years from the
+adoption date of this Order.  A copy of the written commitment shall be filed with the
+Commission 15 days prior to consummation of the transaction.  The filing of this
+commitment is a precondition to our finding that this transaction serves the public interest.    
+ 
+
+ v.     Possible Additional Conditions or Sanctions
+
+ 132.   This grant is based in large part upon commitments made by the French and
+German Governments; if full liberalization is not implemented as planned, we will be
+required to take further action.  We thus require Sprint to report by March 31, 1998 on the
+progress France and Germany have made in meeting their liberalization commitments and,
+specifically, whether France and Germany afford effective competitive opportunities at that
+time.  We will place Sprint's report on public notice and seek comment.  If the record
+demonstrates there are serious questions about whether the anticipated measures have been
+taken, and effective competitive opportunities still are not available, we will designate for
+hearing the issue of whether the public interest continues to be served by Sprint's holding of
+Section 214 facilities authorizations on the U.S.-France and U.S.-Germany routes and, if
+necessary, Sprint's holding of Section 214 resale authorizations on these routes. 
+
+ 133.   Finally, the terms of this decision are subject to any obligations that might
+arise as a result of the current negotiations in the NGBT under the auspices of the World
+Trade Organization.  We will adjust the terms of this Order as necessary to comply with any
+such commitments.  
+
+                              V.  Conclusion
+
+ 134.   After careful consideration of the arguments made by all parties, we conclude
+that, on balance, the public interest will be served by the grant of this declaratory ruling
+subject to our prescribed conditions.  We find that France and Germany do not currently
+offer effective competitive opportunities to U.S. carriers and that FT and DT have the
+incentive and ability to favor Sprint over other U.S. carriers.  Our analysis reveals
+significant competitive concerns arising from FT's and DT's monopoly positions in those
+countries.  Our confidence that the conditions we have placed on this transaction are
+sufficient to control anticompetitive conduct and mitigate potential anticompetitive effects in
+the U.S. telecommunications market in the short term is due in large measure to the
+commitments the French and German Governments have made to implementing wide-ranging
+liberalization schemes.  
+ 
+ 135.   The procompetitive impact of the equity investment on the U.S.
+telecommunications market is another strong public interest factor that weighs in favor of
+approving the transaction.  FT's and DT's infusion of $3.5-4.2 billion into Sprint will serve
+the public interest in a number of ways.  In the United States, the transaction will make
+Sprint a stronger, more competitive participant in the domestic interexchange, terrestrial
+CMRS, and international services markets.  It also will allow Sprint to expand and improve
+its network services and product offerings and to expand the range of communications
+services it offers to the American public.  U.S. consumers should have increased access to
+new and existing telecommunications services and lower prices, which will help stimulate
+economic growth.  In the global seamless services market, the transaction will create a
+significant new competitor.  
+
+ 136.   We encourage further market-opening steps in France and Germany before
+1998.  We also urge the implementation of full facilities and services competition in such a
+way that affords effective competitive opportunities.  In the interim, we believe the
+conditions we impose will safeguard against anticompetitive behavior and other potential
+anticompetitive effects from the strategic investment by FT and DT.  They also will help
+mitigate Sprint's unfair competitive advantage over other U.S. carriers serving France and
+Germany.  
+
+ 137.   We therefore grant Sprint's request for a ruling that 10 percent equity
+investments each, for a total of 20 percent, by FT and DT do not result in a transfer of
+control of Sprint to FT and DT.  Although FT and DT each may acquire a certain degree of
+influence in Sprint's corporate decision-making process, we conclude this influence would
+not rise to a level that constitutes control under Section 310(d).  We also grant Sprint's
+requests for a ruling that foreign ownership in Sprint of up to 28 percent, as set forth in its
+submissions, is not inconsistent with Section 310(b)(4) of the Act, and that the proposed
+transaction is not otherwise inconsistent with the public interest, so long as Sprint adheres to
+the conditions imposed above.  
+
+                           VI.  Ordering Clauses
+ 
+ 138. Accordingly, IT IS ORDERED that the petitioners' request for a declaratory
+ruling, I-S-P-95-002, is GRANTED.  Prior approval pursuant to Section 310(d) of the Act is
+not required before the FT and DT investments in Sprint can occur because the transaction
+does not involve a transfer of control.  Furthermore, the level of up to 28 percent foreign
+ownership in Sprint, as described, is not inconsistent with the public interest under Section
+310(b)(4) of the Act if Sprint complies with the conditions and requirements set forth in this
+Order.
+
+ 139. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, 47
+U.S.C.  218, Sprint shall report, within 30 days of the effective date of this Order, the
+destination markets other than France and Germany in which FT or DT controls, is
+controlled by, or is under common control of a foreign carrier.  These reports shall also
+specify whether these foreign carriers have market power, as defined in paragraph 40 of this
+Order.
+ 
+ 140. IT IS FURTHER ORDERED that Sprint shall be regulated as a dominant
+carrier, pursuant to Section 214 of the Act, 47 U.S.C.  214, and Section 63.10 of the
+Commission's Rules, 47 C.F.R.  63.10, on the U.S.-France and U.S.-Germany routes. 
+Sprint must therefore comply with the following requirements until further Order by the
+Commission:
+
+      A.    Sprint shall file tariff provisions pursuant to Section 203 of the
+Communications Act, 47 U.S.C.  203, and Part 61 of the Commission's rules, 47 C.F.R.
+Part 61, for the provision of U.S. basic international services between the United States and
+France and the United States and Germany.  Absent contrary Commission action, the tariffs
+will become effective 14 days after filing;
+
+      B.    Sprint shall seek, pursuant to Section 63.01 of the Commission's rules,
+47 C.F.R.  63.01, additional authorization under Section 214 of the Communications Act ,
+47 U.S.C.  214, before adding or discontinuing circuits between the United States and
+France and the United States and Germany;
+
+      C.    Sprint shall file, pursuant to Section 218 of the Act, 47 U.S.C.  218,
+quarterly reports of revenue, number of messages and number of minutes of both originating
+and terminating traffic (each reported separately and not aggregated) for the U.S.-France and
+U.S.-Germany routes within 90 days from the end of each calendar quarter; and
+
+      D.    Sprint shall, pursuant to Section 218 of the Act, 47 U.S.C.  218,
+maintain complete records on the provisioning and maintenance of network facilities and
+services it procures from FT or DT, including, but not limited to, those it procures on behalf
+of customers of Joint Venture offerings.
+
+ 141. IT IS FURTHER ORDERED that, pursuant to Section 214 of the Act, 47
+U.S.C.  214, the Commission will not allow Sprint to operate additional circuits on the
+U.S.-France and U.S.-Germany routes to provide facilities-based services until the
+Commission finds that France and Germany: 
+
+      A.    Permit the provision of alternative infrastructure to be used to provide 
+already liberalized services, in which U.S.-affiliated entities are permitted to participate; and
+
+      B.    Permit the provision of basic switched voice resale, including U.S.-
+originated and -terminated international public switched voice services.  Such resale
+opportunities must be available to all similarly situated U.S.-affiliated entities on the same
+terms and conditions.  
+
+This condition may be removed on a route-by-route basis as Sprint demonstrates that a
+country has liberalized its telecommunications markets in the manner specified in (A) and (B)
+above.
+
+ 142. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, Sprint
+shall file with the Commission, within 15 days of the effective date of this Order, a circuit
+status report on the U.S.-France and U.S.-Germany routes, specifying the number of circuits
+in which Sprint has an ownership, indefeasible right of use, or leasehold interest, and the
+number of circuits it is operating on these routes.
+
+ 143. IT IS FURTHER ORDERED that, pursuant to Section 63.14 of the
+Commission's Rules, 47 C.F.R.  63.14, Sprint is prohibited from agreeing to accept special
+concession directly or indirectly from any foreign carrier or administration with respect to
+traffic or revenue flows between the United States and any foreign country, or agreeing to
+enter into such arrangements in the future.
+
+ 144. IT IS FURTHER ORDERED that Sprint, pursuant to our requirement to
+accept no special concessions directly or indirectly from FT or DT, shall obtain a written
+commitment from FT and DT not to offer or provide any special concessions to Sprint or the
+Joint Venture, relating to the provision of basic services or facilities.  A copy of such written
+agreement shall be filed with this Commission 15 days prior to the consummation of this
+transaction.
+
+ 145. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, Sprint
+shall file with the Commission quarterly reports summarizing its records on the provisioning
+and maintenance of facilities and services by FT and DT to Sprint, including, but not limited
+to, correspondent or other basic services or facilities procured on behalf of customers of
+Joint Venture offerings, in France and Germany.  These reports shall include information
+about any distribution or interconnection arrangements, including pricing, technical
+specifications, functional capabilities and other quality or operational characteristics, such as
+provisioning and maintenance times.
+
+ 146. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, Sprint
+shall file its circuit status reports for U.S.-France and U.S.-Germany circuits on a monthly
+basis and shall make such reports publicly available on a quarterly basis.
+
+ 147. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, and
+Section 43.51 of the Commission's Rules, 47 C.F.R.  43.51, Sprint shall file with the
+Commission copies of all contracts, agreements, and arrangements with FT or DT that relate
+to the routing of traffic (including transiting traffic) and settlement of accounts on the U.S.-
+France and U.S.-Germany routes.
+
+ 148. IT IS FURTHER ORDERED, pursuant to Section 218 of the Act, 47 U.S.C.
+ 218, Sprint shall obtain prior Commission approval before increasing FT's or DT's
+ownership or voting interest in Sprint.
+
+ 149. IT IS FURTHER ORDERED that, pursuant to Section 310 of the Act, Sprint
+shall conduct periodic surveys of its public shareholders to ensure continuing compliance
+with the maximum level of foreign ownership in Sprint found not to be inconsistent with the
+public interest pursuant to Section 310(b)(4) of the Act.
+
+ 150. IT IS FURTHER ORDERED that, pursuant to our authority under Section 218
+of the Act, 47 U.S.C.  218, Sprint shall file any and all substantive amendments or
+modifications to:  (1) the Investment Agreement; (2) the Stockholders' Agreement; (3) the
+Joint Venture Agreement; (4) the Certificate of Amendment to Sprint's Articles of
+Incorporation; (5) the Proposed Amendments to Sprint's Bylaws; and (6) the Standstill
+Agreement with the Commission within 30 days of execution.
+
+ 151. IT IS FURTHER ORDERED that Sprint shall obtain a written commitment
+from FT to lower the accounting rate between the United States and France to the same
+range as the U.S.-U.K. and U.S.-Germany accounting rates.  The written commitment
+should indicate that FT will implement these reductions in the near future and in no event
+later than two years from the effective date of this Order.  A copy of the written commitment
+shall be filed with the Commission 15 days prior to the consummation of the transaction.  
+
+ 152. IT IS FURTHER ORDERED that, pursuant to Section 218 of the Act, 47
+U.S.C.  218, Sprint shall file progress reports on liberalization developments in France and
+Germany no later than July 31 of each year, beginning in 1996.  The report provided in 1998
+shall be filed no later than March 31.  These reports shall contain the information specified
+in paragraph 129 of this Order.
+
+ 153. IT IS FURTHER ORDERED that all references to Sprint, FT, DT and the
+Joint Venture in this Order shall also refer to their respective officers, directors and
+employees, as well as to any affiliated companies and their officers, directors and employees.
+
+ 154. IT IS FURTHER ORDERED that Sprint shall file with the Secretary of this
+Commission, within 30 days of the effective date of this Order or prior to the consummation
+of this transaction, whichever is sooner, a letter accepting the terms and conditions of this
+Commission ruling.
+
+      155.  This Order is effective the day after all rules, regulations and policies adopted
+in the Foreign Carrier Entry Order become effective.  Petitions for reconsideration under
+Section 1.106 of the Commission's Rules may be filed within 30 days of the date of public
+notice of this Order (see Section 1.4(b)(2)).
+
+      FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+      William F. Caton
+      Acting Secretary

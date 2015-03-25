@@ -1,0 +1,178 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*****************************************************************
+********
+             
+
+                         NOTICE
+
+
+*****************************************************************
+********
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed
+too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory
+\pub\Public_Notices\Miscellaneous.
+
+*****************************************************************
+********
+                                Before the 
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C. 20554
+                                                       DA 96-1561
+In the matter of                   )
+                                   )
+VIATEL, INC.                       )
+                                   )
+Application for authority to       ) File No. I-T-C-96-423
+acquire and operate facilities     )
+for service to the United Kingdom. )
+
+                   ORDER, AUTHORIZATION AND CERTIFICATE
+
+Adopted: September 13, 1996        Released: September 20, 1996
+
+By the Chief, Telecommunications Division:
+
+          1.   On July 26, 1996, Viatel, Inc. (Viatel) filed the
+above-captioned application requesting authority, pursuant to
+Section 214 of the Communications Act of 1934, as amended, to
+provide facilities-based switched and private line services
+between the United States and the United Kingdom.    The
+application was placed on public notice on August 2, 1996.  No
+comments were received.
+
+          2.   Viatel, a Delaware corporation, is authorized to
+provide resale services between the United States and the United
+Kingdom.  It now seeks authority to provide facilities-based
+services.  Viatel states that it is affiliated with Viatel U.K.
+Ltd., a foreign carrier as defined in Section 63.18(h)(1)(ii) of
+the Commission's Rules.  Viatel further states that Viatel U.K.
+Ltd. is a non-dominant resale carrier and thus has no market
+power in the United Kingdom.
+
+          3.   Since Viatel is affiliated with a foreign carrier
+under the Commission's rules, the Commission must determine
+whether or not to conduct an effective competitive opportunities
+analysis of the United Kingdom international services market. 
+The Commission stated in the Foreign Carrier Entry Order that it
+would apply this analysis only to applications from foreign
+carriers that have market power, or to U.S. carriers that are
+affiliated with such carriers, in the destination markets they
+seek to serve.  If the affiliation is with a non-dominant foreign
+carrier, the Commission would not apply an effective competitive
+opportunities analysis to the application.  Because Viatel U.K.
+Ltd. is a resale carrier with no control of bottleneck
+facilities, we find that it is a non-dominant carrier and
+therefore we do not need to conduct an analysis of the United
+Kingdom market.  
+
+          4.   Upon consideration of the application and in view
+of the foregoing, IT IS HEREBY CERTIFIED that the present and
+future public convenience and necessity require the provision of
+facilities-based services between the United States and the
+United Kingdom by Viatel.
+
+          5.   Accordingly, it is ordered that application File
+No. I-T-C-96-423 IS GRANTED, and Viatel is authorized to:
+
+     a.   acquire on an Indefeasible Right of User basis a one-
+     half interest in and operate one circuit in the CANUS-1 and
+     CANTAT-III Cable Systems, between the United States and
+     Canada, and between Canada and the United Kingdom;
+
+     b.   lease and operate any necessary connecting facilities
+     in the United States; 
+
+     c.   lease a one-half interest in and operate any necessary
+     overseas connecting facilities; and
+
+     d.   use said facilities to provide regularly authorized
+     services, including switched voice and data and private line
+     services, between the United States and the United Kingdom.
+
+          5.   IT IS FURTHER ORDERED that our authorization of
+Viatel to provide private line service between the United States
+and the United Kingdom as part of its authorized services is
+limited to the provision of service between the United States and
+the United Kingdom -- that is, non-interconnected private lines
+or private lines which carry switched traffic that originates in
+the United States and that terminates in the United Kingdom or 
+that originates in the United Kingdom and that terminates in the
+United States. However, the applicant may engage in "switched
+hubbing" consistent with the rules adopted in the Foreign Carrier
+Entry Order, 11 FCC Rcd 3873, paras. 169-170.  See also Cable &
+Wireless, et al., 11 FCC Rcd 1766 (1996), para. 36.  
+
+          6.   IT IS FURTHER ORDERED that grant of this
+application is conditioned upon the United Kingdom continuing to
+afford resale opportunities equivalent to those available under
+U.S. law.   
+          
+          7.   IT IS FURTHER ORDERED that the applicant shall
+file copies of any operating agreements it enters into with its
+foreign correspondents with the Commission within 30 days of
+their execution, and shall otherwise comply with the filing
+requirements contained in Section 43.51 of the Commission's
+Rules, 47 C.F.R. 43.51.
+          8.   IT IS FURTHER ORDERED that the applicant shall
+file a tariff pursuant to Section 203 of the Communications Act,
+47 U.S.C.  203, and Part 61 of the Commission's Rules, 47 C.F.R.
+Part 61, for the service authorized in this Order.
+
+          9.    IT IS FURTHER ORDERED that the applicant shall
+file the annual reports of overseas telecommunications traffic
+required by Section 43.61 of the Commission's Rules, 47 C.F.R.
+43.61.
+
+          10.  IT IS FURTHER ORDERED that the applicant shall
+file annual circuit status reports in accordance with the
+requirements set forth in Rules for Filing of International
+Circuit Status Reports, CC Docket No. 93-157, Report and Order,
+10 FCC Rcd 8605 (1995).
+
+          11.  IT IS FURTHER ORDERED that this authorization is
+issued subject to the terms and conditions of any license for the 
+CANUS-1  cable system issued herein under the Act entitled "An
+Act relating to the landing and operation of submarine cables in
+the United States," 47 U.S.C.  34-39.
+
+          12.  This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this order (see Section
+1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Diane J. Cornell
+                         Chief, Telecommunications Division
+                         International Bureau                    
+             

@@ -1,0 +1,220 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+Teleglobe USA, Inc.                 )   File No. SCL-T/C-20000330-00012
+OPTEL Telecommunications, Inc.       )  File No. SCL-T/C-20000330-00013
+                                     )                 
+Application for Authority, Pursuant to       )         
+Submarine Cable Landing License Act,         )
+To Transfer Control of Cable Landing         )
+Licenses to BCE, Inc.               )
+                                     
+
+                  MEMORANDUM OPINION AND ORDER
+
+     Adopted:  August 8, 2000           Released:  August 9, 2000
+
+By the Associate Chief, Telecommunications Division, International Bureau:
+
+                         I.INTRODUCTION
+          
+     
+ 1.  In this Order, we grant the application of Teleglobe USA, Inc. ("Teleglobe USA"),
+OPTEL Telecommunications, Inc. ("OPTEL") (collectively, "Licensees"), and BCE, Inc.
+("BCE") (collectively, "Applicants") seeking authority to transfer control of the Licensees to
+BCE.  On March 30, 2000, Applicants filed the instant application pursuant to the Cable
+Landing License Act, and Section 1.767 of the Commission's rules.  The Applicants agree to
+comply with the dominant carrier regulations under Section 63.10(c) of the Commission's rules
+with respect to common carrier cable facilities on the U.S.-Canada route.  We placed the
+application on public notice on April 17, 2000.   We did not receive any comments.  For the
+reasons discussed below we grant the Applicants' request. 
+
+                         II.BACKGROUND
+
+      1.  Teleglobe USA, a Delaware corporation, operates primarily as a facilities-based
+international carrier providing voice and data, private line, and other services on a wholesale
+basis to carriers in the United States and Canada.  OPTEL, a Delaware corporation, operates a
+non-common carrier undersea cable system providing telecommunications capacity on a
+wholesale basis to carriers in the United States.  The Licensees are both subsidiaries of
+Teleglobe, Inc. (Teleglobe), which is a Canadian corporation publicly traded on the New York
+and Toronto Stock Exchanges. Teleglobe USA holds cable landing licenses for the Japan-US,
+Columbus III, CHINA-US, AMERICAS-II, TAT-14, and MAYA I cable systems, and OPTEL
+holds a cable landing license for the CANUS-1 cable system.
+      2.  BCE is a Canadian holding company which is publicly traded on the New York
+Stock Exchange, and, according to the Applicants, there are no shareholders of BCE who directy
+or indirectly own 10 percent or more of the equity of BCE.   BCE's investments include a  23
+percent ownership of Teleglobe through Bell Canada.  BCE has an 80 percent interest in Bell
+Canada, with SBC Corporation holding the other 20 percent.  Outside of the U.S. and Canada,
+BCE has indirect investments in affiliates that develop and operate telecommunications systems
+in various markets, primarily in Latin America and the Asia-Pacific region. 
+
+      3.  BCE proposes to acquire the 77 percent of Teleglobe that it does not already own
+through Bell Canada. At the conclusion of a three-step process, BCE will directly own 80 percent
+of Teleglobe with the other 20 percent to be owned by Bell Canada, which is itself 80 percent
+owned by BCE.  Consequently, BCE will control Teleglobe and through Teleglobe will control
+the Licensees.
+
+      4.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing
+License Act, and Executive Order No. 10530, we informed the Department of State of the
+application.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, has no
+objection to the proposed ownership change.
+
+                         III.DISCUSSION
+
+      5.  Applicants argue that the proposed transaction will serve the U.S. public interest
+by enhancing competition, increasing consumer choices, and stimulating service and
+technological innovations without causing any undue concentration in any one market segment.
+They state that the combined company will offer a full range of services and will provide
+increased choice to consumers for competitively priced international telecommunications and
+Internet services.  They contend that neither Teleglobe nor BCE controls any bottleneck
+facilities in the United States or has market power in any U.S. market sector.  They also agree
+to comply with the dominant carrier regulations under Section 63.10(c) with respect to common
+carrier cable facilities on the U.S.-Canada route.  No comments were filed on the application.
+
+      6.  Pursuant to Section 1.767(a)(8) of the Commission's rules,  BCE is required to
+disclose its affiliations with foreign carriers.  According to the Application, BCE is affiliated
+with foreign carriers in Canada, Colombia, India, Mexico, Venezuela, and Brazil.  Because
+Canada, Colombia, India, Mexico, Venezuela, and Brazil are Members of the World Trade
+Organization, it is presumed that the BCE's affiliations with these carriers do not pose any
+concerns that would justify conditioning or denying this applications.  Moreover, with respect
+to the carriers in Colombia, India, Mexico, Venezuela, and Brazil, the Applicants have certified
+that these carriers do not have market power in their respective markets or the ability to
+discriminate against unaffiliated U.S. carriers on the foreign end of routes through the control of
+bottleneck facilities or services.
+
+      7.   We conclude that grant of the application would be consistent with the Cable
+Landing License Act.  We therefore consent to the transfer of control of Teleglobe and OPTEL to
+BCE.  We modify the conditions of the initial authorizations to reflect this transfer of control. 
+We do not modify any of the other conditions of the authorizations.
+
+      8.  In addition to the application for the transfer of control of the cable landing
+licenses, as part of BCE's planned acquisition of Teleglobe, the Applicants and their affiliates
+filed a request for transfer of control of several Section 214 authorizations.  Grant of those
+applications was conditioned on issuance of written Order granting transfer of cable landing
+licenses.  As we are granting the transfer of control of the cable landing licenses by this Order,
+the release of this Order also makes effective the grant of the transfer of control of the Section
+214 authorizations.
+
+                      IV.Ordering Clauses
+
+      9.  In consideration of the foregoing, IT IS ORDERED that the applications, File Nos.
+SCL-T/C-20000330-00012 and SCL-T/C-20000330-00013, ARE GRANTED, and the Applicants are
+authorized to transfer control of Teleglobe USA Inc. and OPTEL Telecommunications, Inc. to BCE,
+Inc.  The cable landing licenses set forth in Appendix A ARE MODIFIED to reflect this transfer of
+control.
+      10. This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115,
+may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Jacquelynn Ruff
+                              Associate Chief, Telecommunications Division
+                              International Bureau
+                           APPENDIX A
+                                
+ CABLE LANDING LICENSES OF TELEGLOBE INC. AND ITS SUBSIDIARIES
+                                
+                                
+
+
+Licensee
+FCC File Number
+Description
+
+
+Teleglobe USA Inc.
+SCL-LIC-19981117-
+00025*
+Japan-US Cable Landing License
+
+
+
+SCL-LIC-19980527-
+00007*
+Columbus III Cable Landing License
+
+
+
+SCL-LIC-19980309-
+00005*
+Authority to land and operate in the United
+States a digital submarine cable system
+(CHINA-US) extending between the United
+States, China, Taiwan, Japan, South Korea,
+and Guam
+
+
+
+SCL-LIC-19980430-
+00006*
+SCL-AMD-
+19980430-00006*
+
+Authority to land and operate a digital
+submarine cable system (AMERICAS-II)
+among Florida, Puerto Rico, the U.S. Virgin
+Islands, Martinique, Curacao, Trinidad,
+Venezuela, French Guinea, and Brazil
+
+
+
+SCL-LIC-19990303-
+00004*
+TAT-14 Cable Landing License
+
+
+
+SCL-LIC-19990325-
+00006*
+MAYA I Cable Landing License
+
+
+OPTEL
+Telecommunications
+Inc.
+SCL-LIC-19930503-
+00004
+Final Cable Landing License for CANUS-1
+
+
+
+SCL-T/C-19980115-
+00001
+
+Transfer of control of CANUS-1 from
+OPTEL Telecommunications Inc. to
+Teleglobe Inc.
+
+
+
+  *  These licenses were acquired by group applications filed by AT&T and others.

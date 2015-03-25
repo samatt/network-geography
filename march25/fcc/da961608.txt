@@ -1,0 +1,283 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+
+       DA 96-1608
+                                
+                           Before the
+               FEDERAL COMMUNICATIONS COMMISSION
+                     Washington, D.C. 20554
+
+     In the Matter of )
+       )
+     ASIA DIRECT     ) 
+   COMMUNICATIONS,  L.L.C.)
+        )File No. SCL-95-013
+  Application for a license to land and)
+  operate a submarine fiber optic cable )
+   system extending between the west) 
+  coast of the United States and Canada, )
+ Japan, the People's Republic of China      )
+ and the Republic of Korea           )
+
+
+
+
+                     CABLE LANDING LICENSE
+
+         Adopted:  September 23, 1996 Released:  September 25, 1996
+
+By the Chief, Telecommunications Division:
+
+        1.In this Order, we grant the application of Asia Direct Communications, L.L.C.,
+(Asia Direct) under the Cable Landing License Act for authority to land and operate a digital
+fiber optic submarine cable system extending between the west coast of United States and
+Canada, Japan, the People's Republic of China and the Republic of Korea (Asia Direct cable
+system), with landing points on the west coast of the continental United States and Canada, and
+in Japan, the People's Republic of China, and the Republic of Korea, on a non-common carrier
+basis.  The proposed cable would promote the public interest by providing needed additional
+voice, video, and high speed data transmission capacity between and among the United States,
+Canada, Japan, the People's Republic of China and the Republic of Korea.  We find that Asia
+Direct has provided sufficient information to comply with the Cable Landing License Act, and
+therefore grant the cable landing license, subject to the conditions listed below.  
+
+                          Application
+
+        2.Asia Direct is a limited liability company organized under the laws of the
+Commonwealth of Virginia.  All of its owners and officers are U.S. citizens.  The applicant
+proposes to land and operate the Asia Direct cable system as a non-common carrier system in
+which capacity would be sold or leased to users on a non-tariffed, non-common carrier basis. 
+The cable system would be owned by Asia Direct and entities authorized to land and operate an
+international submarine fiber optic cable system in the following countries:  Canada, Japan, the
+People's Republic of China and the Republic of Korea.  All of the proposed cable system's plant
+and equipment located in the United States would be owned by Asia Direct.  All of the proposed
+cable system's plant and equipment located in Canada, Japan, the People's Republic of China and
+the Republic of Korea would be owned by entities authorized to land and operate an international
+submarine fiber optic cable system in those countries.  The precise landing points of the proposed
+cable system on the west coast of the continental United States, in Canada, Japan, the People's
+Republic of China and the Republic of Korea have yet to be selected.  Asia Direct asserts that the
+landing points will be in conformity with plans approved by the Secretary of the Army and all
+necessary and appropriate agencies of the Governments of Canada, Japan, the People's Republic
+of China and the Republic of Korea.  The proposed cable system is scheduled to be operational in
+the fourth quarter of 1998.
+
+        3.The proposed cable system will consist of twelve segments:  A through L. 
+Segment A is located in U.S. territory.  Segment A is the cable landing station to be located on
+the west coast of the United States.  Segment B is the cable landing station to be located in or
+near Shanghai, People's Republic of China.  Segment C is the cable landing station to be located
+in the southeastern portion of the Republic of Korea.  Segment D is the cable landing station to
+be located in the southern portion of Japan.  Segment E is the cable landing station to be located
+in the southwestern portion of Canada.  Segment F consists of the whole of the submarine cable
+system between the system interface at Segment A and branching unit 1 (BU1).  Segment G
+consists of the whole of the submarine cable system between BU1 and the system interface at
+Segment E.  Segment H consists of the whole of the submarine cable system between BU1 and
+branching unit 2 (BU2).  Segment I consists of the whole of the submarine cable between BU2
+and the system interface at Segment D.  Segment J consists of the whole of the submarine cable
+system between BU2 and branching unit 3 (BU3).  Segment K consists of the whole of the
+submarine cable system between BU3 and the system interface at Segment C.  Segment L
+consists of the whole of the submarine cable system between BU3 and the system interface at
+Segment B.  Segments F, H and J will each have four fiber pairs with a design capacity of 1,008
+MIUs per fiber pair for a total design capacity of 4,032 MIUs.  Segments K and L will each have
+three fiber pairs with a design capacity of 1,008 MIUs per fiber pair for a total design capacity of
+3,024 MIUs.  Segments G and I will each have two fiber pairs with a design capacity of 1,008
+MIUs per fiber pair for a total design capacity of 2,016 MIUs.
+
+        4.Asia Direct states that because it seeks to provide capacity in the proposed cable
+system on a non-common carrier basis and there is no public interest reason for the Commission
+to require the Asia Direct facilities to be offered on a common carrier basis, its application need
+not be evaluated pursuant to Title II of the Communications Act of 1934.  Asia Direct thus urges
+the Commission to consider the application only pursuant to the Cable Landing License Act.
+
+        5.Asia Direct also states that its proposed cable will yield significant public
+benefits.  The proposed cable, Asia Direct asserts, will provide needed additional international
+voice, data and video telecommunications services between and among the United States,
+Canada, Japan, the People's Republic of China and the Republic of Korea with greater cost
+efficiency than is presently available.  Asia Direct submits that the proposed cable will result in
+the expansion and introduction of new and improved service offerings, including private line
+services, electronic document interchange services, message services, and broadband services. 
+The proposed cable system, Asia Direct submits, will interconnect with the domestic and
+international interexchange telecommunications networks of the United States, Canada, Japan,
+the People's Republic of China and the Republic of Korea and points beyond.  Asia Direct also
+states that the proposed cable system will provide high reliability and low cost capacity,
+redundancy, security and restoration for communications between and among the United States,
+Canada, Japan, the People's Republic of China and the Republic of Korea. 
+
+                            Comments
+
+        6.  The Asia Direct application was placed on public notice on December 1, 1995. 
+No comments were received.  Pursuant to Section 1.767(b) of the Commission's Rules, the
+Cable Landing License Act and Executive Order No. 10530, we informed the Department of
+State of Asia Direct's application.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that
+it has no opposition to the grant of the cable landing license.
+                                
+                           Discussion
+
+        7.  Asia Direct requests a license under the Commission's private submarine cable
+policy to promote competition in the provision of international transmission facilities.  Pursuant
+to this policy, the Commission has authorized non-common carrier cables where there is no legal
+compulsion to serve the public indifferently and where there are no reasons, implicit in the nature
+of the operations, to expect an indifferent holding out to the eligible user public.  
+
+        8.Because of the wide availability of common carrier circuits on existing and future
+cables and satellite circuits between and among the United States, Canada, Japan, the People's
+Republic of China and the Republic of Korea there is no public interest reason to require that
+Asia Direct's proposed cable facilities be provided on a common carrier basis.  Also, in light of
+the significant demand for telecommunications facilities, we see no prospect of creating
+significant overcapacity by the introduction of non-common carrier facilities, so as to threaten
+the economic viability of existing common carrier cable or satellite facilities.  Thus, there is no
+reason to require Asia Direct to operate the proposed systems on a common carrier basis.
+
+        9.In addition, since Asia Direct will make "individualized decisions, whether and on
+what terms to deal" and does not undertake to "carry for all people indifferently," there is no
+reason to expect that the proposed cable circuits would be held out to the public by Asia Direct
+indifferently.  We thus conclude that Asia Direct will not in fact offer capacity in the Asia
+Direct Cable System to the public on a common carrier basis, and thus is not subject to
+regulation under Title II of the Communications Act.
+        
+        10.Consistent with prior decisions, we find that Asia Direct's descriptions that the
+proposed cable will land in the west coast of the continental United States and Canada, and in
+Japan, the People's Republic of China and the Republic of Korea to be sufficient to determine
+whether the proposed cable would comply with the provisions of the Cable Landing License Act
+and Commission rules.  In the Section 214 Streamlining Order, the Commission reduced the
+amount of information required in cable landing license applications.  Specifically, the Section
+214 Streamlining Order permits applicants in their initial applications to provide a general
+geographic description of the landing points.  It requires that grant of cable landing license
+applications be conditioned on final approval of a specific description of landing points no later
+than ninety days prior to construction.  The Commission will give public notice of this
+description, and grant of the license will be considered final unless we issue a public notice to the
+contrary no later than sixty days after receipt of the specific description of the landing points.  
+
+        11.Based on the information provided by Asia Direct, we conclude that the grant of 
+the requested authorizations will not have a significant effect on the environment as defined in
+Section 1.1307 of the Commission's rules and regulations implementing the National
+Environmental Policy Act of 1969.  Consequently, no environmental assessment is required to
+be submitted with these applications under Section 1.1311 of the Commission's rules. 
+ 
+        12. Accordingly, we conclude that U.S. interests under the Cable Landing License
+Act will be served by grant of the license to Asia Direct, as conditioned below.
+
+                         Ordering Clauses
+
+        13. Consistent with the foregoing, we hereby GRANT AND ISSUE, under the
+provisions of the Cable Landing License Act and Executive Order 10530, Asia Direct
+Communications, L.L.C., a license to land and operate a high-capacity fiber optic digital
+submarine cable (with four fiber pairs operating at a minimum 2.5 Gbps per fiber pair) extending
+between the continental United States, Canada, Japan, the People's Republic of China and the
+Republic of Korea, with landing points in the west coast of the continental United States and
+Canada, and in Japan, the People's Republic of China and the Republic of Korea.  This grant is
+subject to all rules and regulations of the Federal Communications Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a
+party; any action by the Commission or the Congress of the United States rescinding, changing,
+modifying or amending any rights accruing to any person hereunder; and the following
+conditions:
+
+       (1) The location of the cable within the territorial waters of the United States of America,
+       its territories and possessions, and upon its shore, shall be in conformity with plans
+       approved by the Secretary of the Army, and the cable shall be moved or shifted by the
+       Licensee at its expense upon the request of the Secretary of the Army whenever he or she
+       considers such course necessary in the public interest, for reasons of national defense, or
+       for the maintenance or improvement of harbors for navigational purposes;    
+
+       (2) The Licensee shall at all times comply with any requirements of United States
+       government authorities regarding the location and concealment of the cable facilities,
+       buildings, and apparatus with a view of protecting and safeguarding the cable from injury
+       or destruction by enemies of the United States of America;
+
+       (3) The Licensee or any persons or companies directly or indirectly controlling it or
+       controlled by it, or under direct or indirect common control with it, shall not acquire or
+       enjoy any right, for the purpose of handling or interchanging traffic to or from the United
+       States, its territories or possessions, to land, connect or operate cables or landlines, to
+       construct or operate radio stations, or to interchange traffic, which is denied to any other
+       United States carrier by reason of any concession, contract, understanding, or working
+       arrangement to which the Licensee or any persons controlling it or controlled by it are
+        parties;
+
+       (4) Neither this license nor the rights granted herein, shall be transferred, assigned, or in
+       any manner either voluntarily or involuntarily disposed of or disposed of indirectly by
+       transfer of control of the Licensee to any persons, unless the Federal Communications
+       Commission shall give prior consent in writing;
+
+       (5) The Licensee shall notify the Commission in writing of the precise locations at which
+       the cables will land no less than ninety days prior to commencing construction of cable
+       landing stations at those locations.  The Commission will give public notice of the filing
+       of these descriptions, and grant of this license will be considered final unless the
+       Commission issues a notice to the contrary no later than sixty days after receipt of the
+       specific descriptions of landing points;  
+
+       (6) The Commission reserves the right to require the Licensee to file an environmental
+       impact statement should it determine that the landing of the cable at those locations and
+       construction of necessary cable landing stations would have a significant impact upon the
+       environment within the meaning of Sections 1.1305 1.1307 of the Commission's rules
+       and regulations implementing the National Environmental Policy Act of 1969, 42 U.S.C.
+       Sections 4321 4335; this license is subject to modification by the Commission upon its
+       review of any environmental impact statement that it may require pursuant to its rules;
+
+       (7) The Licensee shall maintain no less than a 50 percent ownership interest and voting
+       control share in the proposed cable, including 100 percent ownership in the cable station
+       in the United States and in the U.S. land portion of the cable from the station to the U.S.
+       beach joint of the submersible portion of the proposed cable;
+  
+       (8) The Licensee shall, by application, obtain Commission approval prior to the sale or
+       transfer to a foreign entity of five percent or more in the aggregate of U.S.-owned and -
+       controlled stock;
+
+       (9) The license is revocable by the Commission after due notice and opportunity for
+       hearing pursuant to section 2 of "An Act Relating to the Landing and Operation of
+       Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply with the
+       terms of the authorizations;
+
+       (10) The Licensee shall notify the Commission in writing of the date on which the cable
+       is placed in service and the license shall expire 25 years from such date, unless renewed
+       or extended upon proper application, and, upon expiration of the license, all rights
+       granted under it shall be terminated; and
+
+       (11) The terms and conditions upon which this license is given shall be accepted by the
+       Licensee by filing a letter with the Secretary, Federal Communications Commission,
+       Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+       
+        14. This Order is issued under Section 0.261 of the Commission's Rules, 47 C.F.R.
+ 0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's Rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R
+ 1.4(b)(2)).
+       
+       FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+       Diane J. Cornell
+       Telecommunications Division
+       International Bureau

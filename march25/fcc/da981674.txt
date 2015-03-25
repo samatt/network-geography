@@ -1,0 +1,117 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                           Before the 
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                        )
+                                   )
+Ursus Telecom Corp.                     )         File No. SCL-96-003(M)
+                                   )
+Application to Amend the Submarine Cable          )
+Landing License for the Bahamas II Cable          )
+System to Add Ursus Telecom Corp. as a       )
+Licensee                           )
+
+
+              MODIFICATION OF CABLE LANDING LICENSE
+
+Adopted:  August 20, 1998                        Released:  August 21, 1988
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.  In this Order, we modify the cable landing license for the Bahamas II Cable System (Bahamas
+II).  We grant the application of Ursus Telecom Corp. (UTC) under the Cable Landing License Act to
+add UTC as a licensee of Bahamas II.  Bahamas II extends between Florida and the Bahamas and is
+licensed on a common carrier basis.  We find that UTC has provided sufficient information under our rules
+to comply with the Cable Landing License Act and therefore grant the cable landing license modification
+subject to the conditions described herein.
+
+                         II.  Application
+
+     2.  UTC is a limited liability corporation organized and operating under the laws of Florida.  UTC
+is a common carrier that was granted global authorization under Section 214 of the Communications Act of
+1934, as amended, to provide facilities-based services.
+
+     3.  Bahamas II is a common carrier cable system.  The original cable landing license was issued to
+AT&T Corp. MCI International, Inc., the St. Thomas and San Juan Telephone Company, Inc., and
+Telefonica Larga Distancia de Puerto Rico, Inc.  The cable system extends between a landing point at Vero
+Beach, Florida, and Nassau, the Bahamas, with an intermediate point at Eight Mile Rock, the Bahamas, for
+the purpose of lightwave amplification.  A description of the cable system is contained in our original order
+granting a cable landing license for Bahamas II.
+
+                          III.  Comments
+
+     4.  UTC's application was placed on public notice on March 11, 1998.  No comments were
+received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department of
+State advised the Commission that it has no objection to the grant of the requested modification.
+
+                         IV.  Discussion
+
+     5.  UTC has certified that it is not affiliated with any foreign carrier.  UTC is 90 percent owned by
+Fincogest S.A., a Swiss fiduciary corporation whose sole beneficiary is Mr. Luca Giussani, a private
+Italian citizen.  In light of the policies adopted by the Commission in its recent Foreign Participation
+Order, we find that UTC's foreign ownership does not raise concerns that could persuade us to deny the
+application under Section 2 of the Cable Landing License Act.
+
+     6.  By granting this modification, we authorize UTC to own and operate in the United States a
+share of the Bahamas II cable system.  UTC shall be considered a Licensee of Bahamas II for the purpose
+of condition 5 of the Bahamas II cable landing license.  UTC has notified the Commission that it intends
+to purchase from the Bahamas Telephone Company (BATELCO) one half of a minimum investment unit
+(MIU) in the U.S. half of the cable system.  As a result, BATELCO's ownership and voting interest would
+be reduced from 41 MIUs to 40.5 MIUs.  We will place a copy of UTC's letter and this order in the file of
+the Section 214 authorization allowing construction of the Bahamas II cable system, File No. ITC-96-234.
+
+     7.  Accordingly, we conclude that U.S. interests under the Cable License Landing Act will be
+served by grant of authority to UTC to land and operate Bahamas II, subject to all of the terms and
+conditions in the original cable landing license, DA 96-1233, File No. SCL-96-003.
+     
+                       V.  Ordering Clauses
+
+     8.  In consideration of the foregoing, IT IS ORDERED that the application, File No. SCL-96-
+003(M), is GRANTED, and the Bahamas II cable landing license, SCL-96-003, is MODIFIED to add
+Ursus Telecom Corp. as a licensee.  This grant is subject to all rules and regulations of the Federal
+Communications Commission; any treaties or conventions relating to communications to which the United
+States is or may hereafter become a party; any action by the Commission or the Congress of the United
+States rescinding, changing, modifying or amending any rights accruing to any person hereunder; and the
+conditions contained in the cable landing license, SCL-96-003.
+
+     9.  UTC shall accept the terms and conditions of this license by filing a letter with the Secretary,
+Federal Communications Commission, Washington, D.C. 20554 within 30 days of the release of this
+modification.
+
+     10.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                                                            FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                                            Diane J. Cornell
+                                                            Chief, Telecommunications Division
+                              International Bureau

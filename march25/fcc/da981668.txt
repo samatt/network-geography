@@ -1,0 +1,261 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+fONOROLA FIBER DEVELOPMENT INC.    )
+                                   )
+LEDCOR INDUSTRIES INC.             )
+                                   )         File No. SCL-98-001
+Application for a license to land and operate in the   )
+United States a private fiber optic submarine cable    )
+system extending between the United States and    )
+Canada                             )
+
+                      CABLE LANDING LICENSE
+
+Adopted:  August 19, 1998                           Released:  August 21, 1998
+
+By the Chief, Telecommunications Division:
+
+                           Introduction
+
+     1.    In this Order, we grant the application of fONOROLA Fiber Development Inc.
+(fONOROLA Fiber) and Ledcor Industries Inc. (Ledcor) under the Cable Landing License Act for
+authority to land and operate a private fiber optic submarine cable system to be called "America-Canada-1"
+or "AmeriCan-1," extending between the United States and Canada.  This system will be operated on a
+non common carrier basis.  We find that fONOROLA Fiber and Ledcor have provided sufficient
+information under our rules to comply with the Cable Landing License Act and therefore grant the cable
+landing license subject to the conditions listed below. 
+
+                           Application 
+
+     2.   fONOROLA Fiber, a Delaware corporation, is a wholly owned subsidiary of fONOROLA
+Holdco Inc., a Delaware corporation, which, in turn, is a wholly owned subsidiary of  fONOROLA
+Telecommunications Limited Partnership, which is organized under the laws of Canada.  The partnership is
+wholly owned by fONOROLA Inc. (fONOROLA), a Canadian corporation, which, through its various
+subsidiaries, provides long-distance services throughout North America.  In the United States, a wholly
+owned Delaware subsidiary, fONOROLA Corporation, provides a variety of telecommunications services,
+including private lines interconnected with the public switched networks between the United States and
+Canada.
+
+     3.   At the time this application was filed, fONOROLA was a publicly traded Canadian
+corporation, and its only shareholder with a 10 percent or greater interest was a trust company.  On May
+21, Call-Net Enterprises Inc. (Call-Net) filed an application to transfer control of the Section 214
+authorizations and pending application for a cable landing license held indirectly by fONOROLA to Call-
+Net.  On July 3, 1998, we granted Call-Net's application to transfer control of fONOROLA's Section 214
+authorizations.  We have been informed that Call-Net has completed its acquisition of all of the shares of
+fONOROLA.
+
+     4.   Call-Net is a telecommunications holding corporation organized under the laws of Canada. 
+Its wholly owned subsidiary, Sprint Canada Inc., provides long-distance voice, data, Internet access, and
+network management services to consumers, businesses, and governments across Canada.  Sprint Canada
+has 11 percent of the Canadian long-distance market.  Call-Net also certifies that it is affiliated with Sprint
+U.S. through Sprint Communications Company LP's ownership of an interest in Call-Net.
+
+     5.   Ledcor, a Washington corporation, is a wholly owned subsidiary of Ledcor Industries
+(USA) Ltd., a Washington corporation, which, in turn, is a wholly owned subsidiary of Ledcor Industries
+Limited, a Canadian corporation.  Ledcor Industries Limited is wholly owned by Ledcor Inc., a privately
+held Canadian corporation owned by its shareholder employees.  Ledcor Inc. is one of  the largest multi-
+disciplined construction companies in Canada.  None of the Ledcor companies provides
+telecommunications services or holds any FCC licenses.
+
+     6.    The AmeriCan-1 System will be constructed using state-of-the-art SONET OC-192
+optically amplified technology with a system speed per fiber pair of 10 Gbps.  The cable will consist of
+three bundles of 12 fibers each, for a total of 36 fibers.  AmeriCan-1's capacity is 129,000 lines (or line
+equivalents).  The cable will be double armored in all areas where water depth is less than 150 feet and
+single armored in all other areas.  The system consists of three segments:  Segment A is the cable landing
+station to be located near Seattle, Washington; Segment B is the cable landing station to be located in
+Victoria, Canada; and Segment C is the entire submarine cable portion, including the system interfaces at
+Segments A and B.  fONOROLA Fiber will own and control Segment A, the U.S. portion of the system. 
+Segment B, the Canadian portion, will be owned by the Partnership, and fONOROLA Fiber and Ledcor
+will each own one and one half bundles of Segment C, the submarine cable portion.  
+
+     7.   fONOROLA Fiber and Ledcor propose to operate the AmeriCan-1 System as a
+non common carrier system in which capacity will not be offered indifferently to the user public. 
+fONOROLA Fiber and Ledcor will offer bulk capacity in the AmeriCan-1 system to a specific class of
+eligible users, including common carriers, on an original ownership, indefeasible right of user or lease of
+capacity basis.  fONOROLA Fiber and Ledcor request a license under the Commission's private submarine
+cable policy, which is intended to promote competition in the provision of international transmission
+facilities.  Pursuant to this policy, the Commission has authorized non common carrier cables where (1)
+there is no legal compulsion to serve the public indifferently and (2) there are no reasons implicit in the
+nature of the operations to expect an indifferent holding-out to the eligible user public.
+
+                             Comments
+
+     8.    The application was placed on public notice on February 11, 1998.  No comments were
+received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department of
+State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to issuance of the cable landing license.
+
+                            Discussion
+
+     9.    The Commission has previously concluded that private cable systems introduce
+meaningful competition that benefits consumers.  No one has suggested that the public interest requires a
+cable such as AmeriCan-1 to be offered on a common carrier basis.  There are many common carrier cable,
+terrestrial, and microwave facilities between the United States and Canada.  Because of the sufficient
+availability of common carrier circuits between the United States and Canada, we conclude that there is no
+public interest reason to require that the applicants' proposed cable facilities be provided on a common
+carrier basis.
+
+     10.   Regarding the second prong of the test, fONOROLA Fiber and Ledcor state that capacity
+will not be sold indifferently to the user public.  Instead, capacity will be assigned pursuant to
+individualized decisions, and bulk capacity will be offered to a specific class of eligible users.  Thus, there
+is no reason to expect that capacity in the proposed cable system would be held out to the public
+indifferently.  
+
+     11.       Based on the above analysis, we conclude that fONOROLA Fiber and Ledcor will not
+offer capacity in AmeriCan-1 to the public on a common carrier basis and that the public interest does not
+require that they do so.  Accordingly, we find that the applicants will not provide a telecommunications
+service for a fee to such class of users as to be "effectively available directly to the public" and thus will not
+be "telecommunications carriers" under the 1996 Act.  We therefore conclude that it is appropriate to
+license the AmeriCan-1 System on a non common carrier basis.
+
+     12.       fONOROLA Fiber and Ledcor have provided the ownership information required by
+Section 1.767(a)(6), Section 63.18(e)(6), and Section 63.18(h) of the Commission's rules.   fONOROLA
+Fiber certifies that it is affiliated with a foreign carrier in Canada within the meaning of Section
+63.18(h)(1).  fONOROLA and several of its subsidiaries provide telecommunications services in Canada. 
+We have previously found that one wholly owned subsidiary, fONOROLA Corporation, is non-dominant in
+the provision of its authorized switched services through the resale of private line services between the
+United States and Canada.  Call-Net states that its subsidiary, Sprint Canada, has 11 percent of the
+Canadian long-distance market and that fONOROLA's subsidiaries have a 5 percent share of that same
+market.  Based on the information submitted by the applicants and Call-Net, we conclude that fONOROLA
+Fiber's affiliates in Canada lack sufficient market power to adversely affect competition in the U.S. market. 
+Furthermore, we observe that Canada is a member of the World Trade Organization, and our open entry
+policies therefore apply to this application.  Ledcor certifies that it is not affiliated with any foreign
+carrier.
+
+     13.  The applicants expect that the cable system will land in three U.S. points near Seattle,
+Washington   Point Roberts, Whidbey Island, and Seattle   and in Victoria, Canada.  We find the
+applicants' description of the likely landing points to be sufficient to determine that the proposed cable
+system will comply with the provisions of the Cable Landing License Act and Commission rules.  Section
+1.767(a) of the Commission's rules permits applicants in an initial application to provide a general
+description of the landing points.  The applicants must file a specific description of the landing points,
+including a map, no later than 90 days prior to construction.  The Commission will give public notice of the
+filing of the description, and grant of the license will be considered final unless the Commission notifies the
+applicants to the contrary no later than 60 days after receipt of the specific description of the landing
+points.
+
+     14.       Based on the information provided by the applicants and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant of
+the requested authorization would not significantly affect the environment.  Consequently, fONOROLA
+Fiber and Ledcor are not required to submit an environmental assessment, and this application is
+categorically excluded from environmental processing.
+
+     15.       Accordingly, we conclude that U.S. interests under the Cable Landing License Act will be
+served by grant of the license to fONOROLA Fiber and Ledcor as conditioned below.
+
+                        Ordering Clauses 
+
+     16.       Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE fONOROLA Fiber Development Inc. and
+Ledcor Industries Inc. a license to land and operate a non common carrier fiber optic cable system 
+(operating at 10 Gbps per fiber pair on three bundles of 12 fibers each) extending from the United States to
+Canada.  This grant is subject to all rules and regulations of the Federal Communications Commission; any
+treaties or conventions relating to communications to which the United States is or may hereafter become a
+party; any action by the Commission or the Congress of the United States rescinding, changing, modifying,
+or amending any rights accruing to any person hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States of America,
+     its territories and possessions, and upon its shore shall be in conformity with plans approved by the
+     Secretary of the Army, and the cables shall be moved or shifted by the Licensees at their expense
+     upon the request of the Secretary of the Army whenever he or she considers such course necessary
+     in the public interest, for reasons of national defense, or for the maintenance or improvement of
+     harbors for navigational purposes;
+
+          (2)  The Licensees shall at all times comply with any requirements of United States government
+     authorities regarding the location and concealment of the cable facilities, buildings, and apparatus
+     for the purpose of protecting and safeguarding the cables from injury or destruction by enemies of
+     the United States of America;
+
+          (3)  The Licensees or any persons or companies controlling them, controlled by them, or under
+     direct or indirect common control with them do not enjoy and shall not acquire any right to handle
+     traffic to or from the United States, its territories, or its possessions unless such service be
+     authorized by the Commission pursuant to Section 214 of the Communications Act, as amended;
+
+          (4)  The Licensees or any persons or companies controlling them, controlled by them, or under
+     direct or indirect common control with them shall not acquire or enjoy any right for the purpose of
+     handling or interchanging traffic to or from the United States, its territories, or its possessions to
+     land, connect, or operate cables or land lines, to construct or operate radio stations, or to
+     interchange traffic, that is denied to any other United States company by reason of any concession,
+     contract, understanding, or working arrangement to which the Licensees or any persons controlling
+     them, controlled by them, or under direct or indirect common control with them are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensees to any persons, unless the Federal Communications Commission shall give
+     prior consent in writing;
+
+          (6)  The Licensees shall notify the Commission in writing of the precise locations at which the
+     cable system will land no later than ninety days prior to commencing construction of cable landing
+     stations at those locations.  The Commission will give public notice of the filing of these
+     descriptions, and grant of this license will be considered final unless the Commission issues a
+     notice to the contrary no later than sixty days after receipt of the specific descriptions of the
+     landing points;
+
+          (7)  The Commission reserves the right to require the Licensees to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cables at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+
+          (8)  The Licensees shall maintain no less than a 50-percent ownership interest and voting control
+     share in the portion of the cables located in U.S. territorial waters and 100-percent ownership in
+     the cable stations in the United States and in the U.S. land portion of the cables from the stations to
+     the U.S. beach joint of the submerged portion of the cables;
+
+          (9)  The Licensees shall, by application, obtain Commission approval prior to the sale or transfer
+     to a foreign entity of five percent or more in the aggregate of direct or indirect ownership in the
+     licensees;
+
+          (10)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to section 2 of "An Act Relating to the Landing and Operation of Submarine Cables in
+     the United States," 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+          (11)  The Licensees shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (12)  The terms and conditions upon which this license is given shall be accepted by the Licensees
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+
+     17.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

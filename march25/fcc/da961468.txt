@@ -1,0 +1,203 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+International Telecommunications     )              File No. I-T-C-96-370-TC
+Corporation                          )
+                                     )
+Intelco, Global Information          )
+Services, Ltd.                       )
+                                     )
+Cyberlink, Inc.                      )
+                                     )
+Application for authority pursuant to Section)
+214 of the Communications Act of 1934, as)
+amended, to transfer control of International)
+Telecommunications Group, Ltd.       )
+
+
+                         ORDER AND AUTHORIZATION
+
+
+   Adopted:  August 28, 1996                                     Released:  August 30, 1996
+
+
+
+By the Chief, Telecommunications Division:
+
+     1.  On July 2, 1996, International Telecommunicatons Corporation ("ITC"); Intelco,
+Global Information Services, Ltd. ("IGIS"); and Cyberlink, Inc. ("Cyberlink") (collectively "the
+Applicants") filed the above-captioned application pursuant to Section 214 of the
+Communications Act of 1934, as amended, and "An Act Relating to the Landing and Operation
+of Submarine Cables in the United States," 47 U.S.C.  34-39, requesting authority to transfer
+control of their parent corporation, International Telecommunications Group, Ltd. ("ITG") to RSL
+Communications Limited ("RSL").  The Applicants also requested Special Temporary Authority
+to effectuate the transfer of control by July 12, 1996.  The above-captioned application was
+placed on public notice on July 15, 1996.  No comments were received.
+
+     2.  On July 12, 1996, we granted the Applicants' request for special temporary authority
+to transfer control.  By this order, we grant the Applicants final authority to transfer control of
+ITG to RSL.
+
+                                  Parties
+
+     3.  ITG, a Delaware corporation, does not itself hold any authorizations under Section 214
+of the Communications Act.  Its operating subsidiaries include the Applicants.  ITG's principal
+shareholders are RSL and Charles M. Piluso, who respectively own approximately 50% and
+44.25% of ITG's stock.
+
+     4.  ITC is authorized to provide domestic interstate and international services as a non-
+dominant carrier.  ITC has global Section 214 authority pursuant to Section 63.18(e)(1) and (e)(2)
+of the Commission's rules to provide all international facilities-based and resale services to all
+points in the world subject to the Commission's exclusion list.  ITC also holds various other
+Section 214 authorizations, as well as submarine cable landing licenses as listed in Appendix A.
+
+     5.  IGIS, a Delaware corporation, is a wholly owned subsidiary of ITC.  In a separate
+filing submitted on June 26, 1996, IGIS has requested authority pursuant to Section 214 and
+Section 63.18(e)(2) of the Commission's rules to resell the international telecommunications
+services of other authorized carriers.
+
+     6.  Cyberlink, a California corporation, is authorized under Section 214 to resell the
+switched message telephone service of existing carriers to provide international switched voice
+service between the United States and various overseas points, to resell non-interconnected
+private lines to provide private line service to various foreign points, to resell private lines to
+provide switched services between the United States and Canada, the United Kingdom and
+Sweden, and to provide facilities-based services (via INTELSAT and other facilities) between the
+United States and various foreign points.  Cyberlink's principal shareholder, owning 51% of its
+capital stock, is ITC.
+
+     7.  RSL, a privately held international holding company organized under the laws of the
+United Kingdom, is not currently a carrier under Section 214.  Its parent corporation, RSL
+Communications, Inc. ("RSL Com"), is a British Virgin Islands corporation authorized under
+Section 214 to resell international switched telecommunications services.  The majority
+shareholder of RSL Com is R.S. Lauder, Gaspar and Company, L.P. ("RSLAG"), a limited
+partnership organized under the laws of Delaware.  The general partner of RSLAG is Bukfenc,
+Inc., a New York corporation whose president and majority, controlling shareholder is Andrew
+Gaspar.  The majority interest holders of RSLAG are Ronald S. Lauder and members of the
+Lauder family.  Messrs. Gaspar and Lauder and all other interest holders in RSLAG are United
+States citizens, as are all officers and directors of RSL.  United States citizens also hold
+approximately 98% of the capital stock of RSL Com.  Mr. Nir Tarlovsky, a citizen of Israel, is
+a director and Vice President of RSL Com.
+
+                                Discussion
+
+     8.  ITG, RSL, and Charles M. Piluso have entered into a Stock Purchase Agreement
+whereby RSL has agreed to purchase 106,985 shares of common stock of ITG held by Mr.
+Piluso, giving RSL a controlling interest (84.2% on a fully diluted basis) in the company.  In
+consideration for these shares, Mr. Piluso will receive specified cash payments.  Pursuant to the
+terms of a separate Exchange Agreement, Mr. Piluso will also have the right to sell to RSL an
+additional number of ITG shares, equivalent to 5% of the company's outstanding capital stock,
+in exchange for 5% of the total number of shares of common stock of RSL Com outstanding. 
+The application states that this latter acquisition of shares would not result in a transfer of control
+of RSL Com.
+
+     9.  The Applicants request authorization for the transfer of control of ITG that would
+result from execution of the Stock Purchase Agreement.  The Applicants state that a grant of this
+application would serve the public interest in permitting competitive international service
+companies such as ITC, IGIS, and Cyberlink to operate in the international service market.  They
+state that ITC and Cyberlink critically need an immediate infusion of capital in order to meet
+their operating and other costs and avoid termination of service to customers, and that RSL is
+prepared to provide the needed capital if the proposed transaction takes place.
+
+     10.  After due consideration of the facts and circumstances presented by this application,
+we conclude that the proposed transfer of control of ITG to RSL would serve the public interest,
+convenience, and necessity.  As argued by the Applicants, we believe that the proposed
+acquisition will serve the public interest by promoting competition in the market for international
+services by allowing the Applicants to meet their financial obligations and to draw upon the
+substantial technical and managerial expertise of RSL Com.
+
+                             Ordering Clauses
+
+     11.  Accordingly, IT IS ORDERED, pursuant to Section 214 of the Communications Act
+of 1934, as amended, 47 U.S.C.  214; and Section 63.18 of the Commission's Rules, 47 C.F.R.
+ 63.18, that the application of ITC, IGIS, and Cyberlink, File No. I-T-C-96-370-TC, IS
+GRANTED, and we consent to the transfer of control, nunc pro tunc as of July 12, 1996, to RSL
+of ITG, the parent corporation of the holders of the pending and granted international Section 214
+authorizations and interests in cable landing licenses listed in Appendix A.
+
+     12.  IT IS FURTHER ORDERED that all terms and conditions of all Commission orders
+granting authority to ITC, IGIS, and Cyberlink to provide common carrier services remain in
+effect.
+
+     13.  This Order is issued under Section 0.261 of the Commission's Rules, 47 C.F.R.
+ 0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115,
+may be filed within 30 days of public notice of this order (see Section 1.4(b)(2), 47 C.F.R.
+ 1.4(b)(2)).
+
+                                          FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                          Diane J. Cornell
+                                          Chief, Telecommunications Division
+                                          International Bureau                                APPENDIX A
+
+ Pending and Granted Section 214 Authorizations and Cable Landing Licenses
+
+     International Telecommunications Corporation
+
+File No.    Cite           Purpose
+I-T-C-92-072               7 FCC Rcd 2311 (1992)        International Switched Voice Resale    
+I-T-C-92-105               7 FCC Rcd 4060 (1992)        INTELSAT Business Services and International
+                                                        Television Services
+I-T-C-93-332               9 FCC Rcd 109 (1993)         PTAT-1 Cable System
+I-T-C-95-568               11 FCC Rcd 6327 (1996)       TAT-12/13, RIOJA, ODIN, and
+ & S-C-L-93-004(M)         EURAFRICA Cable Systems
+I-T-C-95-408               DA 96-870, 6/21/96           PTAT-1, CANTAT-3, CANUS-1, COLUMBUS-11,
+ & S-C-L-92-005(M)         AMERICAS-1, and TPC-5 Cable Systems
+I-T-C-92-112               7 FCC Rcd 3559 (1992)        International Direct Service
+I-T-C-92-175               7 FCC Rcd 6491 (1992)        International Direct Service
+S-C-L-95-012               DA 96-1052, 7/2/96           ANTILLAS I Cable System
+I-T-C-95-580               DA 96-1053, 7/2/96           ANTILLAS I Cable System
+I-T-C-96-362               DA 96-1283, 8/15/96          Global Facilities-Based and Resale
+
+     Intelco, Global Information Services, Ltd.
+
+I-T-C-96-465               Pending                      Global International Resale
+
+     Cyberlink, Inc.
+
+I-T-C-95-588(TC)           11 FCC Rcd 5309 (1996)       Transfer control of Cyberlink to ITC
+I-T-C-94-177               P.N. No. I-6955, 4/13/94     International Switched Voice Resale
+I-T-C-94-448               P.N. No. I-7047, 10/12/94    International Switched and Private Line Resale
+I-T-C-95-016               P.N. No. I-7077, 12/7/94     International Interconnected Private Line Resale
+I-T-C-94-513               10 FCC Rcd 36 (1994)         International Direct Service
+I-T-C-94-505               11 FCC Rcd 1766 (1996)       International Private Line Resale

@@ -1,0 +1,154 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )    
+                              )
+Alaska Northstar Communications, L.L.C. )         File Nos.    SCL-94-004-TC
+Transferor,                        )                                  SCL-96-002-TC
+                              )
+and                           )
+                              )
+WCI Cable, Inc.                    )
+Transferee                         )
+                              )
+Application for Modification of Submarine    )
+Cable Landing Licenses             )
+
+                   MEMORANDUM OPINION AND ORDER
+
+   Adopted:  December 5, 1997           Released:  December 8, 1997
+
+By the Chief, Telecommunications Division:
+
+     1.   On October 24, 1997, Alaska Northstar Communications, L.L.C. ("Alaska Northstar")
+and WCI Cable, Inc. ("WCI") (collectively "joint applicants") filed an application for approval of the
+transfer of control of Alaska Northstar to WCI.  The applicants submitted the application pursuant to the
+Cable Landing License Act and Section 1.767 of the Commission's rules.  We grant the applicants'
+request.
+
+                          I.  BACKGROUND
+
+     2.   Alaska Northstar is a Delaware corporation.  Alaska Northstar is currently owned by two
+individuals both of whom are U.S. citizens.  Alaska Northstar holds two cable landing licenses for non-
+common carrier submarine cables between: (1) Alaska and the contiguous 48 states ("Main Cable"); and
+(2) Whittier and Valdez, Alaska ("Whittier-Valdez Cable") (collectively referred to as the "Northstar
+Cable System").
+
+     3.   WCI, a Delaware corporation, is 81.9 percent owned by the Australian Mutual Provident
+Society, a large Australian financial institution, and several other non-telecommunications Australian-
+based entities and individuals.  No entity or individual other than the Australian Mutual Provident
+Society has more than 10 percent ownership interest in WCI.  All the owners and officers of WCI are
+Australian citizens.  WCI, which is not a telecommunications carrier, is separately developing an
+intrastate fiber facility extending from Anchorage to Whittier, Alaska, which will be operated on a non-
+common carrier basis.
+
+     4.   Alaska Northstar and WCI request authority for WCI to acquire all of the ownership
+interests of Alaska Northstar.  Alaska Northstar, however, will continue to exist and will remain the
+licensee following completion of the proposed transaction.  The application was placed on public notice
+on November 7, 1997.  On November 14, 1997, the United Native American Telecommunications, Inc.
+filed comments "reserv[ing] the right to file reply comments on these applications or, to file comments
+along with a motion for leave to submit late-filed comments at a later date."  No other comments were
+received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department
+of State, after coordinating with the National Telecommunications and Information Administration and
+the Department of Defense, approved of the proposed ownership change.
+
+                         II.  DISCUSSION
+
+     5.   The joint applicants state that consummation of the proposed transaction would serve the
+public interest for all the same reasons the Commission recognized in granting the two cable landing
+licenses to Alaska Northstar.  For example, the Northstar Cable System provides additional capacity
+between Alaska and the contiguous 48 states.  Also, as evidenced by the recent authorization to General
+Communications, Inc. for the Alaska United Cable System, the Northstar Cable System will provide
+competition in the telecommunications market in Alaska.  The joint applicants state that granting their
+request would not undermine the beneficial aspects of the Northstar Cable System nor would it be novel
+or inconsistent with the Commission's rules.
+
+     6.   The joint applicants argue that because WCI is neither a telecommunications carrier nor
+affiliated with a telecommunications carrier the Commission's effective competitive opportunities test
+does not apply to the proposed transaction.  The joint applicants also argue that the reciprocity provisions
+of the Cable Landing License Act do not apply because the cable system is "purely domestic."  Even if
+the Commission does decide that reciprocity provisions apply, the joint applicants argue that the
+Commission has previously authorized foreign ownership and control of the U.S. segments of
+international submarine cables.
+
+     7.   We agree with the joint applicants that an effective competitive opportunities analysis
+does not apply to this application.  In two decisions, the Commission explained that if an applicant or its
+affiliate has market power in the destination market of the relevant cable, it would examine the legal
+ability of U.S. carriers to have ownership interests in submarine cables landing in that market.  If no
+explicit legal restrictions on ownership exist, it would examine any practical barriers to entry.  WCI is
+not a foreign carrier and is not affiliated with a foreign carrier and therefore cannot possess market
+power.  Thus, we do not need to conduct an effective competitive opportunities analysis.  
+
+     8.   Under our Cable Landing License Act analysis, however, we must determine whether
+there are other factors that weigh in favor of, or against, granting this application under the Cable
+Landing License Act.  We make this determination whether or not the applicant or its affiliate has market
+power in the destination market.
+
+     9.   The joint applicants request a waiver of the ownership condition imposed on the
+Whittier-Valdez license, which requires Alaska Northstar to maintain "no less than 50-percent ownership
+interest and voting control share in the cable, including 100-percent ownership in the cable stations and
+in the land portion of the cables from the stations to the beach joint of the submerged portion of the
+cable."  The joint applicants argue that because there is no foreign landing point there is no opportunity
+for a foreign carrier or government to engage in activities that would compromise U.S. national security
+interests.  The joint applicants also argue that in the Foreign Participation proceeding the Commission
+proposed to eliminate foreign ownership limitations on submarine cables and not apply the effective
+competitive opportunities analysis (or any other reciprocity criteria) as part of its review of applications
+under the Cable Landing License Act from World Trade Organization ("WTO") Member Countries.    
+
+     10.  As stated above, we received a communication from the Department of State approving
+the grant of the transfer of control.  In their letter, the Department of State did not object to removal of
+the ownership restrictions imposed on the Whittier-Valdez license.  We see no other public interest
+reason to require these ownership restrictions.  Accordingly, we no longer require that the "licensee
+maintain no less than 50-percent ownership interest and voting control share in the [Whittier-Valdez]
+cable, including 100-percent ownership in the cable stations and in the land portion of the cables from
+the stations to the beach joint of the submerged portion of the cable" as required in the original cable
+landing license authorization.
+
+     11.  Accordingly, we conclude that a grant of the application would be consistent with the
+Cable Landing License Act.  We therefore consent to the proposed transfer of control of Alaska
+Northstar to WCI.
+
+                      III.  ORDERING CLAUSES
+
+     12.  In consideration of the foregoing, IT IS ORDERED that the application, File Nos. SCL-
+94-004-TC and SCL-96-002-TC IS GRANTED, and Alaska Northstar Communications, L.L.C. is
+authorized to transfer control of Alaska Northstar Communications, L.L.C. to WCI Cable, Inc.  The cable
+landing licenses, SCL-94-004 and SCL-96-002, ARE MODIFIED to reflect this transfer of control.  
+
+     13.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30
+days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

@@ -1,0 +1,214 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+
+                               Before the
+                    FEDERAL COMMUNICATIONS COMMISSION
+                         Washington, D.C.  20554
+                                    
+
+
+In the Matter of                             )
+      )
+TELEF NICA LARGA DISTANCIA DE                )    File No. ITC-98-105
+PUERTO RICO, INC.                            )
+      )
+Application for authority pursuant to Section 214 )                             
+of the Communications Act of 1934, as amended,    )
+to acquire and operate facilities to provide      )
+international service between the United States   )                             
+and Spain on the COLUMBUS II Cable System    )    
+
+MEMORANDUM OPINION, ORDER AND AUTHORIZATION
+    
+                   Adopted: May 11, 1998                  Released: May 15, 1998
+
+                         
+                 By the Chief, Telecommunications Division:
+
+I.  Introduction
+         
+ 1.   In this Order, we grant Telef¢nica Larga Distancia de Puerto Rico, Inc.
+("TLD") authority, pursuant to Section 214 of the Communications Act, to acquire and
+operate capacity on a common carrier high capacity digital submarine cable system, the
+COLUMBUS II Cable System ("COLUMBUS II"), for the provision of international
+telecommunications services between the United States and Spain.  We find that TLD has
+provided sufficient information to comply with Section 214 of the Communications Act and
+therefore grant the authority to acquire and operate capacity in COLUMBUS II, subject to the
+conditions described below.  We also find that TLD should be regulated as dominant on the
+U.S.-Spain route.  Finally, we condition TLD's authorization to use this cable system for
+service to Spain upon TLD's affiliates offering U.S. carriers settlement rates at or below the
+relevant benchmark.
+
+
+II.  Application  
+
+                                    2.     TLD is a corporation organized under the laws of the Commonwealth of Puerto
+Rico.  The Puerto Rico Telephone Authority ("PRTA") owns 19% of TLD's stock.  Another
+2% of TLD is held by an employee stock ownership plan.  The remaining 79% of TLD is
+owned by Telef¢nica International Holding, B.V. ("TI Holding").  TI Holding is a Netherlands
+corporation which is a wholly-owned subsidiary of Telef¢nica de Espa¤a, S.A. ("TI"), a
+corporation organized under the laws of Spain.  TI is 100% owned by Telef¢nica de Espa¤a,
+S.A. ("Telef¢nica de Espa¤a"), which is the incumbent provider of domestic and international
+communications services in Spain.  TLD has authorization under Section 214 of the
+Communications Act to provide global facilities-based and resale services.
+
+III.  Background
+
+ 3.     On November 10, 1992, eight U.S. carriers, including TLD's predecessor, LD,
+filed joint Section 214 and submarine cable landing license applications for authority to
+construct and operate the COLUMBUS II cable system.  On July 26 and 28, 1993, the
+Common Carrier Bureau approved the joint Section 214 and cable landing license applications
+for seven U.S. carriers but deferred action on TLD's application pending a determination by
+the full Commission.  On August 8, 1994, the Commission granted TLD's request for
+authority to participate in the construction, acquisition of capacity in, and operation of
+COLUMBUS II, but deferred ruling on TLD's request for Section 214 authority to provide
+service to Spain on COLUMBUS II.  
+
+ 4.     On May 2, 1997, the Commission denied TLD's application for Section 214
+authority to provide service to Spain on COLUMBUS II.  The Commission found that U.S.
+carriers were barred from providing IMTS service to Spanish customers.  The Spanish market,
+therefore, did not pass the first prong of the effective competitive opportunities ("ECO")
+analysis that looked at the legal, or de jure, ability of U.S. carriers to enter the foreign
+market.  The Commission also found that the inability of U.S. carriers to enter the
+communications market in Spain outweighed any potential public interest benefits from
+granting TLD's application.
+
+ 5.     On January 30, 1998, TLD filed the instant application to obtain Section 214
+authority to acquire and operate facilities to provide international facilities-based services
+between the United States and Spain.  This authority would allow TLD to provide service to
+a country, Spain, where it is affiliated with a foreign carrier, Telef¢nica de Espa¤a.   TLD
+certifies that it is affiliated within the meaning of Section 63.18(h)(l)(i) of the Commission's
+Rules with Telef¢nica de Espa¤a.
+
+  6.       We placed TLD's application on public notice.  Sprint Communications
+Company, L.P. ("Sprint") filed comments requesting that the Commission condition any grant
+of TLD's application upon compliance with the Commission's accounting rate benchmarks
+and other competitive safeguards.  No other comments were filed.
+
+        IV.                             Discussion
+
+  7.       On November 26, 1997 the Commission adopted final rules in the Foreign
+Participation proceeding to create a new regulatory framework in light of the United States'
+World Trade Organization ("WTO") market access commitments and the market-opening
+commitments of U.S. trading partners.  Pursuant to the Foreign Participation Order, the
+Commission removed the ECO standard as a factor of its existing public interest analysis and
+replaced the standard with a rebuttable presumption in favor of entry for applicants from
+WTO Member countries.  Thus, under the new rules, the Commission applies a rebuttable
+presumption that applications for Section 214 authority from carriers from WTO Member
+Countries do not pose concerns that would justify denial of an application on competition
+grounds.  Absent serious concerns raised by the Executive  Branch regarding national
+security, law enforcement, foreign policy, or trade issues or, in the exceptional case where a
+carrier's entry presents a very high risk to competition in the U.S. market, we will
+expeditiously grant Section 214 applications of carriers from WTO Member countries.
+
+  8.       The Executive Branch did not raise any concerns with this application.  Also,
+we find that none of the arguments raised by Sprint in this proceeding demonstrate that
+TLD's entry into the U.S. market presents a very high risk to competition in the U.S. market. 
+Sprint, which does not oppose a grant of TLD's application, requests that we apply the
+competitive safeguards to ensure that TLD and its affiliates do not leverage their market
+power to harm competition in the United States.  
+
+ 9.     We find that Telef¢nica de Espa¤a has sufficient market power to affect
+competition adversely in the U.S. market under the Commission's Rules.  Accordingly, we
+will regulate TLD as dominant on the U.S.-Spain route.  As a dominant carrier on the U.S.-
+Spain route, TLD must comply with the dominant carrier safeguards set forth in Section
+63.10(c)(3) of the Commission's rules as well as the Commission's generally applicable
+safeguards for U.S. international carriers.  
+  
+  10.      Sprint also asks that TLD be subject to the rules set forth in the Commission's
+Benchmarks Order.  Pursuant to the Benchmarks Order and the Foreign Participation
+Order, we will condition any Section 214 authorization for facilities-based service to an
+affiliated market on the affiliated carrier offering U.S. international carriers a settlement rate
+for the affiliated market that is at or below the relevant benchmark (15›) adopted in the
+Benchmarks Order.  In this instance, we note that Telef¢nica de Espa¤a's settlement rate with
+U.S. carriers is .125 SDR (17›) and will go to .1 SDR (13.5›) on July 1, 1998.  Therefore, on
+July 1, 1998, this condition will be satisfied.  
+
+ 11.    Accordingly, we conclude that the public interest will be served by granting
+TLD's application.  Therefore, IT IS HEREBY CERTIFIED that the present and future public
+convenience and necessity require a grant of the application as conditioned below.
+
+V.  Ordering Clauses
+
+ 12.    IT IS ORDERED that application File No. ITC-98-105 is GRANTED and
+Telef¢nica Larga Distancia de Puerto Rico, Inc. ("TLD") is authorized, pursuant to Section
+214 of the Communications Act, as amended, to:  (1) operate a digital submarine cable
+system known as the COLUMBUS II Cable System between the United States and Spain; (2)
+acquire capacity in COLUMBUS II for the provision of service between the United States and
+Spain; (3) acquire, by lease, such extension facilities as may be required to extend capacity in
+COLUMBUS II; (4) activate and operate capacity in COLUMBUS II and in the extension
+facilities for the provision of authorized services to Spain; (5) convey to its correspondents or
+to non-owners, half-interests, on an indefeasible right of user ("IRU") basis, as necessary for
+said IRU recipients to provide their authorized services over the COLUMBUS II Cable
+System; and (6) multiply, through the use of Digital Circuit Multiplication Equipment
+("DCME"), the bearer channels acquired therein, thereby deriving up to the maximum
+attainable channels.   
+
+ 13.    IT IS FURTHER ORDERED that TLD's tariffs must state that its customers
+may not resell international private lines or connect them to the public switched network for
+the provision of international basic telecommunications services unless authorized to do so by
+the Commission upon a country-specific finding that the Commission will permit the
+provision of switched services over private lines between the United States and that country. 
+See Market Entry and Regulation of Foreign-Affiliated Entities, Report and Order, 11 FCC
+Rcd 3873 (1995); Rules and Policies on Foreign Participation in the U.S. Telecommunications
+Market, Report and Order and Order on Reconsideration, 12 FCC Rcd 23,891 (1997).  The
+limitations in this paragraph are subject to the exceptions contained in Section 63.18(e)(4)(ii)
+of the Commission's rules, 47 C.F.R. 63.18(e)(4)(ii) (1997).
+
+ 14.    IT IS FURTHER ORDERED that the licensees of COLUMBUS II shall make
+available half-interests in COLUMBUS II capacity to such present and future U.S. carriers as
+may be authorized by the Commission to acquire such capacity.
+
+ 15.    IT IS FURTHER ORDERED that the Commission retains jurisdiction to
+reallocate U.S. carriers' interests in capacity herein authorized, as the public interest may
+require and with any requisite concurrence of the foreign administration or carriers concerned,
+in order to accommodate additional carriers or for other reasons.
+
+ 16.    IT IS FURTHER ORDERED that TLD shall comply with Sections 43.82,
+63.19, and 63.21 and with all other relevant Commission rules and policies.
+
+ 17.    IT IS FURTHER ORDERED that TLD's authorization to provide facilities-
+based service to Spain is subject to the conditions specified in International Settlement Rates,
+Report and Order, 12 FCC Rcd 19,806 (1997), that is, TLD may provide facilities-based
+service to a region served by an affiliate that terminates U.S. international switched traffic
+only if that affiliate has in effect a settlement rate with U.S. international carriers that is at or
+below the Commission's relevant benchmark.  See id.  231.  
+
+ 18.    IT IS FURTHER ORDERED that TLD shall be regulated as a dominant carrier
+under Section 63.10 of the rules and shall comply with the requirements of paragraph (c) of
+that section for services between the United States and Spain.  
+
+ 19.    This Order is issued under Section 0.261 of the Commission's Rules, 47 C.F.R.
+ 0.261 (1996), and is effective upon adoption.  Petitions for reconsideration under Section 
+1.106 of the Commission's Rules, 47 C.F.R.  1.106, or applications for review under Section
+1.115 of the Commissions' Rules, 47 C.F.R.  1.115, may be filed within 30 days of the
+public notice of this Memorandum Opinion, Order and Certificate (see 47 C.F.R.  1.4(b)(2)).
+
+ FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+ Diane J. Cornell
+ Chief, Telecommunications Division
+ International Bureau

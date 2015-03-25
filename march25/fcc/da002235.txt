@@ -1,0 +1,146 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                      Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+C/S Venture Investors, L.P.         )
+Carlyle U.S. Venture Partners, L.P.,         )
+Carlyle Venture Partners, L.P.,     )
+Carlyle Venture Coinvestment, L.L.C.,        )
+Transferors,                         )
+                                     )       File No. SCL-T/C-20000519-00020
+and                                 )
+                                     )
+Neptune Global Systems, LLC         )
+Transferee                           )
+                                     )
+Application for Approval of the Transfer of      )
+(Indirect) Control of Neptune Pacific License          )
+Corporation, a Corporation Holding a License to        )
+Land and Operate in the United States a          )
+Submarine Fiber Optic Cable         )   
+Between the United States and Japan         )
+                                     )
+
+
+                  MEMORANDUM OPINION AND ORDER
+
+
+   Adopted:     September 29, 2000      Released:      October 2, 2000
+
+
+By the Chief, Telecommunications Division:
+
+                             I.  INTRODUCTION
+
+     1.   On May 19, 2000,  Neptune Global Systems, LLC ("Neptune Global") and C/S
+Venture Investors, L.P., Carlyle U.S. Venture Partners, L.P., Carlyle Venture Partners, L.P., and
+Carlyle Venture Coinvestment, L.L.C. (collectively, Carlyle, and together with Neptune Global, the
+Applicants), filed an application for approval of the transfer of control of Neptune Pacific License
+Corporation ("NPLC"), along with its license to land and operate a non-common carrier submarine
+cable between Pacific City, Oregon and Japan, with a branching unit to Seward, Alaska (the North
+Pacific Cable) from Carlyle to Neptune Global.   The Applicants submitted the application
+pursuant to the Cable Landing License Act and Section 1.767 of the Commission's Rules.  For the
+following reasons we grant the Applicants' request. 
+
+
+                              II. BACKGROUND
+
+     2.   Neptune Global is a Delaware limited liability company, and is owned exclusively
+by U.S. citizens.  All of the directors and officers of NPLC are U.S. citizens, and all of the entities
+that own, directly or indirectly, any interest in NPLC are controlled by U.S. citizens.  Applicants
+assert that  Neptune Global was formed by individuals with extensive experience in the design,
+construction, operation, and maintenance of submarine fiber optic cable systems.  Neptune Global
+is not a telecommunications carrier nor is it affiliated with a foreign carrier.
+
+     3.   NPLC holds the license for a non-common carrier submarine cable between Pacific
+City, Oregon and Japan, with a branching unit to Seward, Alaska.  Under the proposal, the transfer
+of control of NPLC will result from the transfer of control of Neptune Communications, LLC
+("Neptune Communications"), which is the indirect parent company of NPLC (Neptune
+Communications has 100 percent ownership of Neptune Pacific Holdings, Inc., which has 100
+percent ownership of NPLC).  Neptune Communications currently is owned by Neptune Global
+(28.48 percent) and Carlyle (71.52 percent).  Neptune Global proposes to acquire Carlyle's 71.52
+percent ownership interest in Neptune Communications.  As a result of the proposed transaction,
+Neptune Communications would be a wholly owned subsidiary of Neptune Global, and indirect
+control of NPLC would pass to Neptune Global.  The cable landing license will remain with NPLC,
+and NPLC will continue to operate the North Pacific Cable on a non-common carrier basis.
+
+
+                        III.  DISCUSSION
+
+     4.   Applicants request approval for the acquisition by Neptune Global of all of the
+ownership interest of Neptune Communications held by Carlyle pursuant to the above-described
+transaction.  The application was placed on public notice on June 2, 2000, and no parties filed
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the application. 
+The Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, stated that it had no objections to the transfer of
+control of the cable landing license.
+
+     5.   Under Section 1.767(a)(8) of the Commission's rules, Neptune Global is required to
+disclose its affiliations with foreign carriers.  Neptune Global certifies that it is not, and is not
+affiliated with, a foreign carrier.
+                                     
+     6.   Applicants assert that consummation of the proposed transaction would serve the
+public interest for the same reasons the Commission recognized in granting the initial cable landing
+license in 1987.  For example, Applicants assert that the North Pacific Cable provides additional
+capacity, enhances competition and service reliability, and promotes technological development in
+the provision of telecommunications service in the Pacific Ocean region.  Applicants assert further
+that Neptune Global will ensure the continued involvement of experienced personnel in the
+operation of NPLC and ensure the North Pacific Cable's continued viability.  We agree that
+approval of this transaction will result in public interest benefits by promoting competition in the
+Pacific Ocean region.
+
+     7.   Upon consideration of the application and in view of the foregoing, we conclude
+that a grant of the application would be consistent with the Cable Landing License Act.  We
+therefore consent to the transfer of control of NPLC from Carlyle to Neptune Global.   This Order
+constitutes a modification of the initial authorization to reflect this transfer of control.  We do not
+modify the initial authorization in any other respect.
+
+
+                            IV.  ORDERING CLAUSES
+
+     8.   In consideration of the foregoing and pursuant to the Cable Landing License Act and
+Executive order No. 10550, 47 U.S.C.  34-39, 3 U.S.C.  301, IT IS ORDERED that the
+application, File No. SCL-T/C-20000519-00020 IS GRANTED, and the cable landing license,
+SCL-86-002, IS MODIFIED to reflect this transfer of control.  
+
+     10.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115,
+may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+                              Jacquelynn Ruff
+                              Associate Chief, Telecommunications Division
+                              International Bureau
+

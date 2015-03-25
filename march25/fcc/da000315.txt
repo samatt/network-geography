@@ -1,0 +1,103 @@
+********************************************************    
+                                       NOTICE
+  ********************************************************
+                              
+              This document was converted from
+         WordPerfect or Word to ASCII Text format.
+                              
+ Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+           will not show up in this text version.
+                              
+All text attributes such as bold, italic, underlining, etc. from the
+  original document will not show up in this text version.
+                              
+      Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+         will not be preserved in the text version.
+                              
+      If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+                              
+*****************************************************************
+     Before the
+     Federal Communications Commission
+     Washington, D.C. 20554
+
+In the Matter of                        )
+                                        )
+fONOROLA FIBER DEVELOPMENT INC.         )
+                                   )
+LEDCOR INDUSTRIES, INC.                 )
+                                   )    File No. SCL-MOD-19990901-00016
+                                        )    
+Application for modification of license to land and              )
+operate in the United States a fiber optic submarine   )
+cable system extending between the United States       )
+and Canada                              )
+
+                 THIRD MODIFICATION OF CABLE LANDING LICENSE
+
+Adopted: February 17, 2000                     Released:  February 18, 2000  
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+     1.    In this Order, we modify the cable landing license held by fONOROLA Fiber Development
+Inc. (fONOROLA Fiber), Ledcor Industries, Inc. (Ledcor) and Fiberco Telecommunications Corporation
+(Fiberco) to add MetroNet Fiber US, Inc. (MetroNet) as a fourth licensee.  The original license authorized
+fONOROLA Fiber and Ledcor to land and operate a fiber optic submarine cable system between the United
+States and Canada called America-Canada-1
+(AmeriCan-1).  The license was later amended to add Fiberco as a third licensee.  Pursuant to the modified
+license, AmeriCan-1 will continue to be operated on a non-common carrier basis.
+
+                              II.  Comments 
+
+     2.   On September 1, 1999, MetroNet filed an Application seeking to modify the existing cable
+landing license held by fONOROLA, Ledcor and Fiberco to add MetroNet as a fourth licensee for the U.S.
+portion of the cable.  We placed the Application on public notice on September 17, 1999.  We received no
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the Application.  After coordinating with
+the National Telecommunications and Information Administration and the Department of Defense, the
+Department of State stated that it has no objection to amending the cable landing license, which was initially
+granted on August 19, 1998.
+     
+                        III.  Discussion
+     
+     3.   MetroNet requests the modification in order to purchase a portion of AmeriCan-1,
+including one of the four fiber bundles and an undivided interest in certain support structures including
+cable landing stations in the United States.
+
+     4.   We find that the proposed modification is in the public interest.  MetroNet, a Delaware
+corporation, is a wholly owned subsidiary of AT&T Canada Telecom Services Company (AT&T Canada),
+a corporation organized under the laws of Canada.  Because Canada is a Member of the World Trade
+Organization (WTO), we presume that the addition of MetroNet as a licensee does not raise concerns that
+would justify denial of its application on competition grounds.  Indeed, as the application states, the
+addition of MetroNet to the instant license will further expand facilities-based competition for services
+between the United States and Canada.  Accordingly, we grant MetroNet's request to be added as a fourth
+licensee of AmeriCan-1.
+
+                     IV.  Ordering Clauses
+                                
+     5.   Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, IT IS ORDERED that application File No. SCL-MOD-19990901-00016, IS
+GRANTED and the AmeriCan-1 landing license is MODIFIED to add MetroNet as a licensee of
+AmeriCan-1.
+
+     6.   This Modification of Cable Landing License does not modify any other terms or conditions
+imposed in the license released on August 21, 1998.
+
+     7.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and
+is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order.
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+

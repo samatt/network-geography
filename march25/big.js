@@ -22,10 +22,10 @@ window.onload = function() {
         document.title = e.textContent || e.innerText;
         if (e.firstChild && e.firstChild.nodeName === 'IMG') {
             //document.body.style.backgroundImage = 'url("' + e.firstChild.src + '")';
-            e.firstChild.style.display = 'block';
-            e.firstChild.style.marginLeft = '12.5%';
-            e.style.margin = 'auto';
-            e.style.padding = '0'
+            e.firstChild.style.marginLeft = (window.innerWidth - e.firstChild.width)/2 +'px';
+            e.firstChild.style.marginRight = (window.innerWidth - e.firstChild.width)/2 +'px';          
+            e.style.padding = '0';
+            e.style.margin = '0';
         }
     }
     document.onclick = function() { go(++big.current % (s.length)); };

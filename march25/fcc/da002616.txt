@@ -1,0 +1,286 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+360pacific (USA) inc.
+
+Application for a License to Land and Operate in
+the United States a Private Submarine Fiber Optic
+Cable between the United States and Japan
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+                  SCL-LIC-20000620-00024
+
+
+
+
+                     CABLE LANDING LICENSE
+
+   Adopted:  November 17, 2000               Released:  November 20, 2000
+
+Before the:  Chief, Telecommunications Division
+
+                      I.Introduction
+                                
+1.In this order, we grant the Application of 360pacific (USA) inc.
+("360pacific"), under the Cable Landing License Act and Executive Order No.
+10530, for authority to land and operate a private fiber optic submarine cable
+system to be called the 360pacific Cable Network ("360pacific CN"), extending
+between the United States and Japan. We find that Applicants have provided
+sufficient evidence to demonstrate that the capacity of the 360pacific CN will be
+sold or leased to users on a non-common carrier basis.  We conclude that
+360pacific has provided sufficient information under our rules to comply with
+the Cable Landing License Act and that it would serve the public interest to
+grant the cable landing license subject to the routine conditions listed below.
+                      II.Application
+2.According to the Application, 360pacific, a Nevada corporation, is a wholly-owned subsidiary
+of 360pacific (Denmark) ApS, a Denmark corporation. 360pacific (Denmark) ApS is a wholly-owned
+subsidiary of 360pacific (Bermuda) ltd., a Bermuda company, which is, in turn, a wholly-owned
+subsidiary of 360pacific (Bermuda) holdings ltd., a Bermuda company.  360pacific (Bermuda) holdings
+ltd. is wholly owned by360atlantic (Bermuda1) holdings ltd., a Bermuda company.  360atlantic
+(Bermuda 1) holdings ltd. is wholly owned by 360networks (infrastructure holdings) ltd., a Canadian
+company.  360networks (infrastructure holdings) ltd. is wholly owned by 360networks inc.
+("360networks") (formerly known as Worldwide Fiber Inc.), a Canadian company.  360networks is a
+publicly traded company on the Nasdaq and Toronto Stock Exchanges.  Worldwide Fiber Holdings Ltd.,
+a Canadian company with interests in the construction and communications industries, and Ledcor
+Limited Partnership, a Canadian partnership, own approximately 66 percent of 360networks.  The
+remaining shares of 360networks are held by officers and directors of 360networks or are widely held. 
+The general partner of Ledcor Limited Partnership is Ledcor Industries Limited, a Canadian company
+and a wholly-owned subsidiary of Ledcor Inc., a privately held Canadian company.  One hundred
+percent of the common shares of Worldwide Fiber Holdings Ltd. are held by Ledcor Industries Limited. 
+The majority ownership of Ledcor Inc. is held by the Lede family, who are Canadian citizens.
+3.As shown in Exhibit A attached to this Order, the proposed 360pacific CN system will connect
+landing points at: Bandon, Oregon; Seattle, Washington; Oahu, Hawaii   North; Oahu, Hawaii   South;
+Shim, Japan; and Maruyama, Japan.  Two paired landing stations, north and south, are planned in Japan. 
+From Japan, the 360pacific CN will connect with another planned cable network, the 360asia Cable
+Network, which is planned to connect Japan, South Korea, China, Malaysia, the Philippines, Hong Kong,
+Singapore, and India.  Additional landing points in Bangladesh, Vietnam, and Brunei may also be added
+               to the 360asia CN in the future.  
+4.Applicants assert that the 360pacific CN will be configured as two protected rings, allowing
+protection switching to occur in each ring independently and enhancing network survivability.  It will be
+comprised of six fiber pairs with an initial capacity of 320 Gb/s, upgradable according to customer
+demand to 3.84 Tb/s.  The system length will be approximately 22,323 kilometers.  The cable will be
+armored wherever the water depth is less than 1,500 meters and buried to a depth of 1.5 meters wherever
+the water depth is less than 1,500 meters and seabed conditions permit, in conformity with normal
+industry practices.  The system will be engineered at an availability of 99.99 percent (less than 52
+minutes outages per year) and a Bit Error Rate of less than 1E-13.  360pacific seeks to place the
+ 360pacific CN in commercial service in the third quarter 2002.
+                        V.Comments
+6.We placed the Application on public notice on June 30, 2000.  We received no comments. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the Application.  The Department of State,
+after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to the issuance of the cable landing license.
+                      VII.Discussion
+           A.Private Submarine Cable Policy
+8.360pacific proposes to use its cable system on a non-common carrier basis, offering bulk
+capacity to a specific class of eligible users, including common carriers, on an original ownership,
+indefeasible right of use (IRU), or lease-of-capacity basis.  Applicants assert that capacity will not be
+offered indifferently to the public.  Given this, 360pacific requests a license under the Commission's
+private submarine cable policy, which is intended to promote competition in the provision of
+international transmission facilities.  Pursuant to this policy, the Commission has authorized non-
+common carrier cables where:  (1) there is no legal compulsion to serve the public indifferently; and (2)
+there are no reasons implicit in the nature of the operations to expect that the applicant would make
+capacity available to the public indifferently and indiscriminately.
+9.In applying the first prong of the test to submarine cable authorizations, the Commission has
+stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest
+analysis has generally focused on the availability of alternative common carrier facilities.  Where there
+are sufficient alternatives, the Commission has found that the public interest does not require the licensee
+to offer capacity on the proposed cable on a common carrier basis, but rather that, in those circumstances,
+the public interest would be served by allowing a submarine cable to be operated on a non-common
+                        carrier basis. 
+10.360pacific asserts that there are sufficient existing and planned facilities on the U.S.-Japan
+route to prevent it from exercising market power in offering services to the public.  Specifically,
+360pacific asserts that alternative common and non-common carrier submarine cables serving this route
+include: HAW-4/TPC-3; NPC (authorized an a non-common carrier basis to serve the U.S. Mainland,
+Alaska, and Japan); TPC-4 (authorized on a common carrier basis to serve the U.S. mainland, Canada,
+and Japan);  and TPC-5 (authorized on a common carrier basis to serve the U.S. Mainland, Hawaii,
+Guam, and Japan).  Additionally, 360pacific asserts that Tyco International, Ltd., recently announced
+plans to build a transatlantic and transpacific cable network that will compete with the 360pacific CN for
+customers. 360pacific contends that, given the existence of multiple common carriers on the relevant
+route and the fact that 360pacific CN's offerings will not be made available indifferently to the public,
+there is no public interest reason to require 360pacific CN to be operated on a common carrier basis. 
+With regard to the first prong, therefore, we do not find a legal compulsion for 360pacific to serve the
+                     public indifferently.
+11.Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  360pacific states that
+capacity will not be sold indifferently to the user public.  Rather, capacity will be assigned pursuant to
+individualized decisions in particular cases, whether and on what terms to deal, and bulk capacity will be
+offered to a significantly restricted class of users, including common carriers.
+12.Under Section 1.767(a)(8) of the Commission's rules, 360pacific is required to disclose its
+affiliations with foreign carriers.  360pacific certifies that it is affiliated with the following foreign
+carriers: 360networks (fiber1) ltd. (Canada); Ledcor Industries Limited (Canada); 360atlantic (Canada)
+Inc. (Canada); 360atlantic (Ireland) limited (Ireland); 360atlantic (U.K.) limited (United Kingdom; CGC
+Services Ltda. (Brazil).  360pacific asserts that none of the countries in which 360pacific's foreign
+carrier affiliates operate are landing points for the 360pacific CN. 
+13.There were no comments filed on the application, and 360pacific has provided unopposed
+evidence of the availability of alternative cables serving the U.S.-Japan route.  Given this unopposed
+evidence, we find that the public interest does not require that we impose common carrier regulation on
+the operations of the 360pacific CN system at this time.  Accordingly, we conclude that it is appropriate
+to license the 360pacific CN system on a non-common carrier basis.  We also find that the Applicant will
+not provide a telecommunications service for a fee to such class of users as to be "effectively available
+directly to the public" and thus will not be a "telecommunications carrier" under the 1996 Act.  We
+note, however, that we maintain the ability to impose common carrier, or common-carrier-like,
+obligations on the operations of this or any other submarine cable system if the public interest so
+                           requires. 
+            A.Ownership and Landing Points
+14.We find that 360pacific has provided the ownership information required by Sections
+1.767(a)(6) and 63.18 of the Commission's rules.  360pacific will own and control the U.S. landing
+stations and that portion of the 360pacific CN system located in U.S. territorial waters.  360pacific
+(Barbados) inc., a corporation organized under the laws of Barbados and a wholly-owned indirect
+subsidiary of 360networks inc., will own the portion of the cable located in international waters. 
+Applicants assert that the cable landing stations in Japan will be owned or leased by a wholly owned
+indirect subsidiary of 360 networks, which will be organized under the laws of Japan. The portions of the
+cable located in territorial waters in Japan will also be owned by this Japanese affiliate.   
+15.360pacific has provided the ownership information required by Section 63.18(h) of the
+Commission's rules.  360pacific provided the following list of 360pacific's 10 percent or greater
+shareholders, and 360pacific asserts that no other individual or entity directly or indirectly owns more
+than 10 percent of 360pacific: 360pacific (Denmark) ApS owns 100 percent of 360pacific (USA) inc.;
+360pacific (Bermuda) ltd. owns 100 percent of 360pacific (Denmark) ApS; 360pacific (Bermuda)
+holdings ltd. owns 100 percent of 360pacific (Bermuda) ltd.; 360atlantic (Bermuda 1) holdings ltd. owns
+100 percent of 360pacific (Bermuda) holdings ltd.; 360networks (infrastructure holdings ) ltd. owns 100
+percent of 360atlantic (Bermuda 1) holdings ltd.; 360networks inc. owns 100 percent of 360netwroks
+(infrastructure holdings) ltd.; Worldwide Fiber Holdings Ltd. and Ledcor Limited partnership together
+hold approximately 66 percent of the beneficial ownership of 360networks inc.
+                     D.Environmental Impact
+16.The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore should
+be expressly excluded from its procedures implementing the National Environmental Policy Act of
+1969.  Therefore, 360pacific is not required to submit an environmental assessment, and this
+application is categorically excluded from environmental processing.
+                 E.Other Information
+6.360pacific states that Ledcor Industries Inc., an affiliate of 360pacific, has been granted a cable
+landing license, jointly with fONOROLA Fiber Development Inc., for the AmeriCan-1 cable, which
+extends, or will extend, between Seattle, Washington, and Vancouver, British Columbia. 
+360atlantic(USA) inc., also an affiliate of 360pacific, has received a license to construct and operate the
+360atlantic cable system (formerly the Hibernia cable system), which will connect cable stations in
+Boston, Massachusetts, and Halifax, Nova Scotia, with cable stations in Dublin, Ireland, and Liverpool,
+                            England.
+7.360pacific notes that the Commission recently granted 360networks and GlobeNet
+Communications Group Limited ("GlobeNet") authority to transfer control to 360networks of the
+submarine cable landing licenses and Section 214 authorizations held by subsidiaries of GlobeNet. 
+360pacific asserts that the acquisition was scheduled to close on June 20, 2000, and that, pursuant to this
+transaction, 360networks will acquire control of all GlobeNet's subsidiaries, including: Atlantica USA
+LLC; the licensee of the Atlantica-1 cable; TeleBermuda International limited, partial owner of the
+TAT-14 cable; and TeleBermuda International, L.L.C., licensee of the BUS-1 cable.  Additionally,
+360pacific asserts that 360networks will obtain control of GlobeNet's operating subsidiaries in Brazil
+and Venezuela, which are currently have pending applications for authority to provide certain
+                  telecommunications services.
+                      VIII.Conclusion
+9.For the reasons discussed above, we grant 360pacific's Application for authority to land and
+operate a non-common carrier fiber optic submarine cable extending between the United States and
+     Japan, subject to the routine conditions listed below.
+                    X.Ordering Clauses
+11.Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, we hereby GRANT AND ISSUE 360pacific a license to land and operate a non-common
+carrier fiber optic cable comprised of six fiber pairs with an initial capacity of 320 Gb/s, upgradable
+according to customer demand to 3.84 Tb/s, extending between the United States and Japan.  This grant
+is subject to all rules and regulations of the Commission; any treaties or conventions relating to
+communications to which the United States is or may hereafter become a party; any action by the
+Commission or the Congress of the United States rescinding, changing, modifying, or amending any
+rights accruing to any person hereunder; and the following conditions:
+(1) The location of the cable system within the territorial waters of the United States, its territories and
+possessions, and upon its shore shall be in conformity with plans approved by the Secretary of the Army,
+and the cable shall be moved or shifted by the Licensee at its expense upon the request of the Secretary of
+the Army, whenever he or she considers such course necessary in the public interest, for reasons of national
+defense, or for the maintenance or improvement of harbors for navigational purposes;
+(2)  The Licensee shall at all times comply with any requirements of U.S. government authorities
+regarding the location and concealment of the cable facilities, buildings, and apparatus for the purpose of
+protecting and safeguarding the cable from injury or destruction by enemies of the United States;
+(3) The Licensee or any persons or companies controlling it, controlled by it, or under direct or indirect
+common control with it do not enjoy and shall not acquire any right to handle traffic to or from the
+United States, its territories, or its possessions unless such service be authorized by the Commission
+ pursuant to Section 214 of the Communications Act, as amended;
+(4) The Licensee or any persons or companies controlling it, controlled by it, or under direct or indirect
+common control with it shall not acquire or enjoy any right to land, connect, or operate submarine cables,
+that is denied to any other United States company by reason of any concession, contract, understanding,
+or working arrangement to which the Licensee or any persons controlling it, controlled by it, or under
+direct or indirect common control with it are parties;
+(5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any manner
+either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of control of the
+Licensee to any persons, unless the Commission shall give prior consent in writing; 
+(6) The Licensee shall notify the Commission in writing of the precise locations at which the cable will
+land in Japan.  Such notification with respect to any given landing location shall occur no later than
+90 days prior to commencing construction at the landing location.  The Commission will give public
+notice of the filing of each description, and grant of this license will be considered final with respect
+to that landing location unless the Commission issues a notice to the contrary no later than 60 days
+          after receipt of the specific description;
+(7)Pursuant to Section 1.767(a)(8) of the Commission's Rules and in conformity with Section 63.18 (i)  
+(k), Licensee shall submit to the Commission in writing an updated certification of its foreign carrier
+affiliates within 14 days of acquiring a new foreign carrier affiliation.
+(8) The Commission reserves the right to require the Licensee to file an environmental assessment or
+environmental impact statement should it determine that the landing of the cable at those locations and
+construction of necessary cable landing stations would significantly affect the environment within the
+meaning of Section 1.1307 of the Commission's procedures implementing the National Environmental
+Policy Act of 1969; this license is subject to modification by the Commission upon its review of any
+environmental assessment or environmental impact statement that it may require pursuant to its rules;
+(9) Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No. 10530,
+as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.  214, the
+Commission reserves the right to impose common carrier regulation or other regulation consistent with
+the Cable Landing License Act on the operations of the cable system if it finds that the public interest so
+requires; 
+(10) The Licensee shall maintain de jure and de facto control of the U.S. portion of the cable system,
+including the cable landing stations in the United States, sufficient to comply with the requirements of
+                        this license;  
+(11) This license is revocable by the Commission after due notice and opportunity for hearing pursuant to
+Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to comply with the terms of
+                      the authorizations;
+(12) The Licensee shall notify the Commission in writing of the date on which the cable is placed in
+service, and this license shall expire 25 years from such date, unless renewed or extended upon proper
+application, and, upon expiration of this license, all rights granted under it shall be terminated; and
+(13) The terms and conditions upon which this license is given shall be accepted by the Licensee by
+filing a letter with the Secretary, Federal Communications Commission, Washington, D.C. 20554, within
+      30 days of the release of the cable landing license.
+                                                                
+8.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+                                
+               FEDERAL COMMUNICATIONS COMMISSION
+                                
+                                
+                                
+                        Rebecca Arbogast
+               Chief, Telecommunications Division
+                      International Bureau
+                                                           EXHIBIT A
+                                

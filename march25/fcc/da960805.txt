@@ -1,0 +1,219 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+    *********************************************************    
+
+       
+
+                         NOTICE
+
+
+   *********************************************************
+
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed
+too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+ how2ftp.
+
+File  how2ftp (.txt & .wp) is in directory
+/pub/Bureaus/Miscellaneous/Public_Notices/
+
+*****************************************************************
+********
+$// O&A, ITC Intl Ext of Lines, DA-95-805//$
+
+$/ 63.01 Contents of Applications/$
+$/300.214 Extension of Lines/$
+$/ 1.767 Cable Landing Licenses/$
+
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C.  20554
+
+In the Matter of                   )
+                                   )
+INTERNATIONAL TELECOMMUNI-         )    
+   CATIONS CORPORATION             )
+                                   )
+Application for authority to       )  File No. I-T-C-95-568
+acquire and operate facilities     )
+in the TAT-12/13, RIOJA, ODIN      )    
+and EURAFRICA Cable Systems        )
+for service between the United     )
+States and various overseas points )
+                                   )
+Application for modification of    )  File No. S-C-L-93-004(M)
+the Cable Landing License for the  )
+TAT-12/13 Cable System.            )
+
+                          ORDER AND AUTHORIZATION
+
+Adopted: May 17, 1996              Released:
+
+By the Chief, Telecommunications Division:
+
+          1.   International Telecommunications Corporation (ITC)
+filed an application, pursuant to Section 214 of the
+Communications Act of 1934, as amended, for authority to acquire
+and operate facilities in the TAT-12/13, RIOJA, ODIN and
+EURAFRICA Cable Systems.  ITC also filed an application to amend
+the Cable Landing License for the TAT-12/13 Cable System to
+include ITC as an owner.  The applications were placed on public
+notice on October 20, and 27, 1995, respectively.  No comments
+were received.
+
+          2.   ITC, a Delaware corporation, is in the business of
+providing common carrier communications services between the
+United States and overseas points.  ITC seeks to acquire on an
+ownership basis facilities in the TAT-12/13, RIOJA and ODIN Cable
+Systems, and on an Indefeasible Right of User (IRU) basis
+facilities in the EURAFRICA Cables System, for provision of its
+authorized international services.  Since it is seeking to
+acquire the TAT-12/13 facilities on an ownership basis, it must
+additionally seek modification of the Cable Landing License to
+add itself as an owner.
+          3.   In the matter before us, the Department of State,
+in coordination with the National Telecommunications and
+Information Administration and the Department of Defense, has
+advised the Commission that it has no objection to the issuance
+of an amended TAT-12/13 Cable Landing License.
+
+            4.    Upon consideration of the applications and in view
+of the foregoing, we find that the present and future public
+convenience and necessity require a grant of the instant
+applications.
+
+            5.    Accordingly, IT IS ORDERED that applications File
+Nos. I-T-C-95-568 and S-C-L-93-004(M) ARE GRANTED, and:
+      
+      a.    ITC is authorized to:
+
+            i.    acquire on an ownership basis a one-half interest
+            in and operate  one E-1 circuit in the TAT-12/13 Cable
+            System for provision of its regularly authorized
+            services between the United States, on the one hand, 
+            and Austria, Belgium, Cyprus, Czech Republic, Denmark,
+            Finland, France, Germany, Gibraltar, Greece, Hungary,
+            Iceland, Ireland, Israel, Italy, Luxembourg, Monaco,
+            Netherlands, Norway, Poland, Portugal, Slovakia,
+            Sweden, Switzerland, Turkey and the United Kingdom, on
+            the other hand;
+
+            ii.   acquire on an ownership basis a one-half interest
+            in and operate one E-1 circuit in the RIOJA and ODIN
+            Cable Systems for provision of its regularly authorized
+            services between the United States, on the one hand,
+            and Denmark, Finland and Norway, on the other hand;  
+
+            iii.  acquire on an (IRU) basis a one-half interest in
+            and operate  one E-1 circuit in the EURAFRICA Cable
+            System for provision of its regularly authorized
+            services between the United States and France, Madeira
+            Islands, Portugal and Spain, on the other hand;
+      
+            iv. lease and operate any necessary domestic connecting
+            facilities and a one-half interest in any necessary
+            overseas connecting facilities.
+
+      b.    the TAT-12/13 Cable Landing License is amended to 
+      include ITC as an owner and a licensee under the provisions
+      of "An Act Relating to the Landing and Operation of
+      Submarine Cables in the United States", 47 U.S.C. Sections
+      34-39 and Executive Order 10530, dated May 10, 1954, 3
+      C.F.R. 1954-58 (Comp., p. 189(1961)), reprinted in 3
+      U.S.C.A. Section 301 at 1052 (1985).
+
+                  6.     IT IS FURTHER ORDERED that our authorization
+of  ITC to provide private lines as part of its authorized
+services is limited to the provision of such private lines only
+between the United States and one of the countries authorized
+herein -- that is, private lines which originate in the United
+States and terminate in one of the countries authorized herein or
+which originate in one of the countries authorized herein and
+terminate in the United States.  In addition, ITC may  not-- and 
+ITC's tariff must state that its customers may not -- connect
+private lines provided over these facilities to the public
+switched network at either the U.S. or foreign end, or both, for
+the provision of international basic switched services, unless
+authorized to do so by the Commission upon a finding that the
+destination country affords resale opportunities equivalent to
+those available under U.S. law, in accordance with Regulation of
+International Accounting Rates, Phase II, First Report and Order,
+7 FCC Rcd 559 (1991), Order on Reconsideration and Third Further
+Notice of Proposed Rulemaking, 7 FCC Rcd 7927 (1992), petition
+for reconsideration pending.   The limitations in this paragraph
+are subject to the exceptions contained in Sections
+63.01(k)(6)(i) and 63.17 of the Commission's Rules, 47 C.F.R.
+63.01 and 63.17.  See also Cable & Wireless et al., 11 FCC Rcd
+1766 (1996), para. 36.
+            
+            7.    IT IS FURTHER ORDERED that applicant shall file
+copies of any operating agreements it enters into with its
+foreign correspondents with the Commission within 30 days of its
+execution, and shall otherwise comply with the filing
+requirements contained in Section 43.51 of the Commission's
+Rules, 47 C.F.R. 43.51.
+
+            8.    IT IS FURTHER ORDERED that the applicant shall
+file  a tariff pursuant to Section 203 of the Communications Act,
+47 U.S.C.  203, and Part 61 of the Commission's Rules, 47 C.F.R.
+Part 61.
+
+      9.      IT IS FURTHER ORDERED that the applicant shall
+file the annual reports of overseas telecommunications traffic
+required by Section 43.61 of the Commission's Rules, 47 C.F.R.
+43.61.
+
+            10.   IT IS FURTHER ORDERED that the applicant shall
+file annual circuit status reports in accordance with the
+requirements set forth in Rules for Filing of International
+Circuit Status Reports, CC Docket No. 93-157, Report and Order,
+10 FCC Rcd 8605 (1995).
+
+            11.   IT IS FURTHER ORDERED that ITC shall comply with
+any Department of Treasury licensing which may be required.
+            
+
+            12.   IT IS FURTHER ORDERED that AT&T shall file with
+the Commission all necessary amendments and adjustments to the
+C&MA of the TAT-12/13 Cable System as required by the
+authorization herein to ITC.
+
+            13.   IT IS FURTHER ORDERED that AT&T is authorized to
+conform the assignment of capacity in the TAT-12/13 cable system
+as summarized herein.
+
+            14.   This order is issued under Section 0.261 of the
+Commission's Rules and is effective upon adoption.  Petitions for
+reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's Rules may be filed within
+30 days of the date of public notice of this order (see Section
+1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau    

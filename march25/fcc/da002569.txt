@@ -1,0 +1,159 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+Level 3 Landing Station, Inc. and
+GT Landing II Corp.
+
+
+Application for Modification of License to
+Land and Operate in the United States a Private
+Fiber Optic Submarine Cable System Extending
+Between the United States and the United Kingdom 
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+                 SCL-MOD-20000511-00018
+
+
+
+
+
+
+
+
+             MODIFICATION OF CABLE LANDING LICENSE
+
+   Adopted:  November 8, 2000           Released: November 9, 2000
+
+By the Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.In this Order, we modify the cable landing license held by Level 3
+Landing Station, Inc. (Level 3 Landing) to add GT Landing II Corp. (GT
+Landing II) (collectively the Joint Applicants) as an additional party to the cable
+landing license.  The original license authorized Level 3 International, Inc.
+(Level 3), pursuant to the Cable Landing License Act, and Executive Order No.
+10530, to land and operate a fiber optic submarine cable system, called the U.S.-
+U.K. Cable, extending between the United States and the United Kingdom.  The
+Commission subsequently granted the application of Level 3 for a pro forma
+assignment of the license to Level 3's wholly-owned subsidiary, Level 3
+                    Landing.
+2.The Application requests authority to add GT Landing II as an additional party to the license. 
+GT Landing II, together with its Global Crossing affiliates, Atlantic Crossing II Ltd. and GT U.K. Ltd. (a
+subsidiary of Atlantic Crossing Ltd., the owner of AC-1), will separately own and operate two of the four
+fiber pairs on the U.S.-U.K. cable.  GT Landing II's two fiber pairs will be called Atlantic Crossing 2 or
+AC-2, and will be fully integrated into the Global Crossing Network.  Level 3 Landing's two fiber pairs
+will be called Project Yellow, Yellow Cable System, or Yellow System.  
+3.Level 3 Landing and GT Landing II will each separately own and operate two of the four fibers
+pairs on the U.S.-U.K. cable extending from the U.S. landing site up to and including the territorial limits
+of the United States, and will separately own the U.S. cable station terminal equipment associated with
+each party's respective fiber pair.  According to the Application, Level 3 Landing will own the U.S.
+cable station and cable station ancillary equipment, such as cable station electrical equipment, HVAC,
+fire protection, and security.  Level 3 Landing will maintain space in the cable station and GT Landing II
+will lease space in the cable station for the installation and operation of their respective terminal
+equipment.  The Joint Applicants will each own an undivided one-half interest in the remaining portions
+of the system (i.e., the cable, repeaters, and other system fixtures and equipment other than the fibers,
+terminal equipment and cable station), extending from the U.S. cable station to the territorial limits of the
+United States.  A U.K. affiliate of Level 3 Landing and a U.K. affiliate of GT Landing II will hold
+corresponding interests on the U.K. segment of the cable.  Level 3 (Bermuda) Ltd. and Atlantic Crossing
+II Ltd. will each separately own two of the four fiber pairs in international waters, and an undivided one-
+half interest in the remaining portions of the cable in international waters.
+4.The system, including the two fiber pairs operated by GT Landing II, will continue to be
+operated on a non-common carrier basis.  The system description, as well as the operational
+characteristics of the cable and the landing points, will remain unchanged.  
+5.GT Landing II is a Delaware corporation and a wholly-owned subsidiary of Global Crossing
+North America, Inc. (formerly Frontier Corporation), a New York corporation, which, in turn, is a
+wholly-owned subsidiary of Global Crossing, Ltd., a Bermuda company.  The only shareholder holding
+10 percent or more in Global Crossing Ltd. is Pacific Capital Group, Inc., which is 100 percent owned by
+      Gary Winnick, a U.S. citizen, as owner and trustee.
+6.In the U.K., GT Landing II is affiliated with the landing party for the Atlantic Crossing cable
+system, which is an indirect wholly-owned subsidiary of Global Crossing, as well as the former Racal
+Telecom, which has been acquired by Global Crossing.  The Commission has previously found that the
+AC-1 U.K. landing party is a start-up entity without market power.  According to the Application, the
+former Racal Telecom, now known as Global Crossing (U.K.) Telecommunications Networks, operates a
+high-speed intercity fiber optic backbone in the U.K., has less than 50 percent market share in
+international transport, intercity facilities and services, and local access.  According to the Applicants,
+under Section 63.10 of the Commission's rules, Global Crossing U.K. is therefore considered non-
+             dominant under the Commission's rules.
+                       VII.Comments
+8.We placed the Application on public notice on May 19, 2000.  No comments were received. 
+Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the Modification request.  The Department of
+State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to approving the Joint Applicants' request to add
+GT Landing II as an additional licensee to the cable landing license.
+                       IX.Discussion
+10.We grant the Joint Applicants' request to modify the cable landing license to add GT Landing
+II as a licensee.  We conclude that adding GT Landing II to the U.S.-U.K. cable raises no competitive
+concerns, and does not provide a basis for altering the non-common carrier status of the cable. 
+Specifically, we conclude that Global Crossing's ownership of two additional fiber pairs on the U.S.-
+U.K. route will not cause competitive concerns.  A large number of cables have served the U.S.-U.K.
+route for some time, and more are coming on line.  In addition, GT Landing II's affiliates in the United
+Kingdom lack market power.  According to the Application, the Joint Applicants and their affiliates will
+separately own and operate their own fibers, will not jointly market capacity on the cable, and will not
+have any restrictions on how capacity will be offered.  Joint Applicants assert that the cable's proposed
+structure will provide an efficient way for two non-dominant companies to share risk and deploy new and
+competitive facilities.  Accordingly, we find that grant of the Application is in the public interest.
+                    XI.Ordering Clauses
+9.Consistent with the foregoing and pursuant to the Cable Landing License Act and Executive
+Order 10530, IT IS ORDERED that the Application, File No. SCL-MOD-20000511-00018, IS
+GRANTED and the U.S.-U.K. cable landing license is MODIFIED to add GT Landing II Corp. as an
+       additional licensee on the cable landing license.
+                                
+10.This Modification of Cable Landing License does not modify any other terms or conditions
+                    imposed in the license.
+
+11.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review under
+Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the date
+of public notice of this Order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau
+
+

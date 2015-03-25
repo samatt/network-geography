@@ -1,0 +1,134 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+
+In the Matter of
+
+Enron Broadband Services, Inc.
+
+Application for Modification of the Cable
+Landing License and Section 214 Authorization
+for the Pan American Cable System
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+SCL-MOD-20010305-00008
+ITC-MOD-20010305-00112
+
+
+
+MODIFICATION OF CABLE LANDING LICENSE AND SECTION 214 AUTHORIZATION
+
+   Adopted:  August 22, 2001            Released: August 23, 2001
+
+By the Associate Chief, Telecommunications Division, International Bureau:
+
+                      I.Introduction
+1.In this Order, we modify the cable landing license for the Pan American Cable System (Pan
+American) to add Enron Broadband Services, Inc. (Enron or Applicant) as an additional party to the
+license. The original license authorized several parties, pursuant to the Cable Landing License Act, and
+Executive Order No. 10530, to land and operate Pan American, a common carrier fiber optic submarine
+cable system extending between the U.S. Virgin Islands, Chile, Peru, Ecuador, Panama, Colombia,
+Venezuela, and Aruba.  We also modify the section 214 authorization for Pan American to include
+Enron as an authorization holder.  The original authorization authorized several parties, pursuant to
+section 214 of the Communications Act of 1934, as amended, to construct, acquire and operate capacity
+                        in Pan American.
+2.On March 5, 2001, Enron filed the instant Application, and on April 26, 2001 Enron
+supplemented its Application.   In its Application, Enron states it only recently confirmed that it holds a
+small equity share in Pan American, and asks the Commission to grant its Application pursuant to the
+enforcement amnesty announced by the Commission's International and Enforcement bureaus.   In its
+April 26 Letter, Enron provides a table from the construction, maintenance and administration (C&MA)
+agreement for the Pan American cable system, which lists the voting interests of the owners.  The C&MA
+table shows that Enron holds a 0.20435 percent voting interest in the Pan American cable system, in
+               proportion to its equity stake.  
+3.Applicant states that it currently holds a section 214 authorization to provide global facilities-
+based and global resale services.  Applicant also states that it is a wholly-owned subsidiary of Enron
+Corp., an Oregon corporation engaged in the business of providing wholesale and retail energy services,
+pipeline transportation services, and communications services in the United States and abroad, and that
+Enron Corp., which is publicly traded, has no 10-percent-or-greater shareholders.  According to the
+Application, Enron has no interlocking directorates with foreign carriers and is not a foreign carrier or
+affiliated with a foreign carrier.  Applicant asks to be treated as a non-dominant carrier for purposes of
+this Application.  Applicant also certifies that it has not agreed, and will not agree, to accept any direct
+or indirect special concessions from a foreign carrier with respect to any U.S. international route where
+the foreign carrier possesses market power on the foreign end of the route.
+                        IV.Comments
+5.We placed the Application on public notice on March 23, 2001.  We received no comments. 
+Pursuant to section 1.767(b) of the Commission's rules, the Cable Landing License Act, and Executive
+Order No. 10530, we informed the Department of State of the Application.  The Department of State,
+after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to approving the Applicant's request to be added to
+                  the cable landing license.  
+                       VI.Discussion
+7.We grant the Applicant's requests to modify the Pan American cable system landing license to
+add Enron as a licensee and to modify the Pan American cable system section 214 authorization to add
+Enron as an authorization holder.  Applicant asserts that grant of its Application is in the public interest
+because it would permit other carriers and business customers to have greater access to, and choice
+among, innovative services offered at lower prices on U.S.-Caribbean and U.S.-Latin America routes,
+and would provide international connectivity for Applicant's domestic terrestrial network.  Applicant
+further notes that the Application raises no foreign affiliation or competitive issues warranting
+Commission scrutiny on public interest grounds.  Finally, Applicant advises that although it failed to
+seek Commission approval prior to acquiring its small equity stake in the Pan American cable system, it
+has not used the capacity to date to provide services between the United States and foreign points.
+8.We note that, while it is unusual for a party that is not a current licensee to seek to amend a
+cable landing license, in this case Enron has provided documentation regarding its current status as an
+equity shareholder in the Pan American cable system in support of its Application to correct its earlier
+failure to seek Commission approval.  We conclude that adding Enron to the cable landing license for the
+Pan American cable system raises no competitive concerns.  Specifically, we conclude that Enron's
+0.20435 percent voting and equity interest will not cause competitive harm. Accordingly, we find that
+grant of the Application is consistent with the Cable Landing License Act and with section 214 and the
+Commission's regulations governing that section, and is in the public interest.
+                    IX.Ordering Clauses
+10.Consistent with the foregoing and pursuant to the Cable Landing License Act, Executive
+Order No. 10530, and section 214 of the Communications Act, as amended, 47 U.S.C.  34-39, 3 U.S.C.
+ 301, 47 U.S.C.  214, IT IS ORDERED that the Application, File Nos. SCL-MOD-20010305-00008
+and ITC-MOD-20010305-00112, IS GRANTED and the Pan American cable landing license and Pan
+American cable section 214 authorization ARE MODIFIED, respectively, to add Enron as a joint
+               licensee and authorization holder.
+11.This Modification of Cable Landing License and section 214 Authorization does not modify
+any other terms or conditions imposed in the license or authorization.
+12.This Order is issued under section 0.261 of the Commission's rules, 47 C.F.R.  0.261, and is
+effective upon release.  Petitions for reconsideration under section 1.106 or applications for review under
+section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+                         FEDERAL COMMUNICATIONS COMMISSION
+                         
+                         
+                         
+                         Jacquelynn Ruff
+                         Associate Chief, Telecommunications Division
+                         International Bureau
+
+

@@ -1,0 +1,118 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+
+
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+                              
+In the Matter of                   )
+                              )
+TELEBERMUDA                   )         
+INTERNATIONAL, L.L.C.              )         
+                              )         File No. SCL-95-009
+Application for a License to Land and   )
+Operate a Private Submarine Fiber Optic )         
+Cable between the United States and     )
+Bermuda                       )
+                              
+
+                 MEMORANDUM, OPINION AND ORDER
+
+
+   Adopted:  March 7, 1997              Released:  March 10, 1997
+
+By the Chief, Telecommunications Division:
+
+     1.   On December 6, 1996, we granted TeleBermuda International, L.L.C. (TBI-US)
+authorization under the Cable Landing License Act to land and operate a digital private fiber
+optic submarine cable system, BUS-1, extending between the United States and Bermuda. 
+Under the terms of the license, TBI-US was required to "notify the Commission in writing of the
+precise locations at which the cable will land. . . ."  The Commission would then give public
+notice of the filing of the landing points and grant of the license would be considered final
+"unless the Commission issues a notice to the contrary no later than sixty days after receipt of the
+specific description. . . ."
+
+     2.   On January 10, 1997, TBI-US notified the Commission of the precise landing
+points of the BUS-1 cable in the United States and Bermuda.  The notification included a map
+plotting the locations at Tuckerton, New Jersey and St. David's, Bermuda.  We gave public
+notice of these filings on January 15, 1997.
+
+     3.   On February 12, 1997, OPTEL Communications, Inc. (OPTEL) filed a petition to
+deny TBI-US' original application.  OPTEL is the licensee of the U.S. portion of the CANUS-1
+cable system extending between the United States and Canada with a planned branch to
+Bermuda.  The proposed owner of the Bermuda branch of CANUS-1 is Cable & Wireless, plc
+(C&W).  OPTEL argues that the Bermuda Government is currently not processing requests for
+approval to land cables in a straightforward manner.  Specifically, OPTEL argues that C&W's
+request to land and make necessary expenditures for its cable in Bermuda has been pending with
+the Bermudian Government since October 1994.  OPTEL argues that the "unexplained,
+unreasonable delay" on the part of the Bermudian Government injures OPTEL because it
+prevents OPTEL from using part of CANUS-1 (i.e., the Bermuda branch).  The Commission thus
+should defer final approval of TBI-US' license to land its cable in the United States until the
+Bermuda Government issues its approval to C&W, according to OPTEL.  At a minimum,
+OPTEL argues, the Commission should condition final approval upon a requirement of routine
+and regular processing of cable landing license applications in Bermuda.
+
+     4.   In response to OPTEL's petition, TBI-US argues that OPTEL has failed to raise
+any material questions regarding TBI-US' filing of the precise landing points of the BUS-1 cable,
+and thus the Commission should take no further action on this matter.  Specifically, TBI-US
+asserts that: (1) OPTEL's request goes beyond the Commission's request for comment in its
+public notice; (2) the Commission has already considered and rejected OPTEL's request in
+granting TBI-US its cable landing license; and (3) grant of OPTEL's request would require the
+Commission to repudiate its analytical framework for consideration of applications for private
+submarine cable landing licenses.  In addition, TBI-US states that OPTEL appears to be acting
+on behalf of C&W, the monopoly provider of telecommunications services between the United
+States and Bermuda and asks the Commission to consider the competitive implications of
+OPTEL's request.
+
+     5.   We deny OPTEL's petition.  OPTEL's petition, in essence, is an untimely petition
+for reconsideration of our decision to grant TBI-US a cable landing license.  OPTEL appears to
+argue that because of TBI-Bermuda's 20 percent ownership interest in TBI-US, we should defer
+final approval of this license until the Bermuda Government acts on the 
+CANUS-1 application.  In our decision earlier in this proceeding, we found that TBI-Bermuda's
+20 percent ownership interest in TBI-US did not implicate the reciprocity provisions of the Cable
+Landing License Act.  Thus, we did not apply a reciprocity analysis to this application. 
+Petitions for reconsideration of our decision were due January 6, 1997.  None were filed.  Thus,
+the only remaining issue and the only issue raised by our January 15, 1997 public notice is the
+proposed landing points for the BUS-1 cable.  Because OPTEL did not address the proposed
+landing points, and no other comments have been received, we find no basis to delay or defer
+final grant of TBI-US' cable landing license.  Accordingly, TBI-US' license will be considered
+final sixty-one days after our receipt of TBI-US' notification.
+
+     6.   Accordingly, IT IS ORDERED that OPTEL's petition to deny TBI-US'
+application is DENIED.
+
+     7.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.
+ 1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                         Diane J. Cornell
+                         Chief, Telecommunications Division
+                         International Bureau

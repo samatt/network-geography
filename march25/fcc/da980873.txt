@@ -1,0 +1,204 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+OPTEL TELECOMMUNICATIONS, INC.       )
+                                     )
+TELEGLOBE INC.                       )         SCL-92-004-TC
+                                     )
+Application for Authority to Transfer  )                 
+Control of the CANUS-1 Submarine Cable  )
+Landing License                      )
+
+
+
+                          ORDER AND AUTHORIZATION
+
+
+                Adopted:  May 8, 1998            Released:  May 8, 1998
+
+
+By the Chief, International Bureau:
+
+                             I.  INTRODUCTION
+
+        1.      In this Order, we grant the application of Optel Telecommunications, Inc. ("Optel")
+and Teleglobe Inc. ("Teleglobe") to transfer control of Optel from the current shareholders to
+Teleglobe.  At the same time, we modify the conditions imposed on Optel with regard to the operation
+of the CANUS-1 submarine cable system.
+
+                             II.  BACKGROUND  
+
+        2.      Optel is a Delaware corporation, in which 80 percent of the shares are owned by six
+shareholders and 20 percent by Teleglobe, a Canadian corporation.  Teleglobe has numerous
+subsidiaries, including Teleglobe USA Inc. ("Teleglobe USA") and Teleglobe Canada Inc.  Optel
+holds a license from the Commission to land and operate in the United States the CANUS-1
+submarine cable system, a fiber optic cable with landing points in New Jersey and Nova Scotia.  The
+shareholders of Optel have agreed to sell all of their interests in Optel to Teleglobe, at which time
+Teleglobe would be the sole shareholder of Optel.  Optel would continue to be the licensee of
+CANUS-1.  
+
+        3.      On January 15, 1998, Optel and Teleglobe filed for authority under the Submarine
+Cable Landing Act to transfer control to Teleglobe.  We placed the application on public notice. 
+MCI filed comments.  Optel and Teleglobe replied and MCI filed a response.  Pursuant to Section
+1.767(b) of the Commissions rules, and Executive Order No. 10530, we informed the Department of
+State of the application.  The Department of State, after coordinating with the Department of
+Commerce's National Telecommunications and Information Administration and the Department of
+Defense, stated it had no objection to the transfer of control of CANUS-1 and did not request any
+special conditions for national security purposes.  
+
+        4.      Teleglobe USA currently has authority to provide facilities-based and resale services
+between the United States and Canada with no restriction on the type of facility used.  Prior to that,
+Teleglobe USA received authority to acquire unlimited capacity specifically on CANUS-1 to provide
+services to international points other than Canada.
+
+                             III.  DISCUSSION
+
+A.      Transfer of Control
+
+        5.      The Optel Order states that Optel must obtain Commission approval as required by
+Ordering Clauses (4), (8) and (9) to:  (1) transfer control of Optel; (2) permit Teleglobe to increase
+its level of ownership from 19.99 percent to 100 percent; and (3) permit Optel to transfer to
+Teleglobe, a Canadian corporation, greater than five percent of shares presently held by U.S. interests. 
+Teleglobe and Optel argue that the Commission's Foreign Participation Order, which became
+effective on February 9, 1998,  establishes the applicable standard of review of their application. 
+That Order adopted, as a factor of the public interest analysis, a rebuttable presumption that
+applications for licenses to land and operate cables from entities from members of the World Trade
+Organization (WTO) do not pose concerns that would justify denial of an application on competition
+grounds.  In addition, the Commission concluded that it would no longer automatically impose a
+restriction on foreign ownership of cable landing stations.  Thus, absent serious concerns raised by
+the Executive Branch regarding national security, law enforcement, foreign policy or trade issues, or,
+in the exceptional case where no conditions would adequately address a very high risk to competition,
+we will grant applications to land and operate cables from entities from WTO Members. 
+
+        6.      We agree with Teleglobe and Optel that the policies enunciated in the Foreign
+Participation Order apply to this application.   We concluded in the Foreign Participation Order that
+additional foreign investment can promote competition in the U.S. market.  We adopted an open
+entry policy for applications to land and operate submarine cables.  Canada is a member of the
+WTO.   Therefore, we conclude that the public interest will be served by permitting Teleglobe to
+acquire 100 percent of Optel.    We also note that we have already found Teleglobe's entry into the
+U.S. market for international services to be in the public interest.
+
+B.      Regulatory Conditions
+
+        7.      In the Optel Order, the Commission imposed a number of conditions in addition to
+those regarding a change in control of Optel.  The Commission did so at that time because we were
+concerned that the Canadian regulatory policy requiring "maximum use of Canadian facilities" could
+place U.S. carriers at a disadvantage.  The Optel Order noted that U.S. carriers were precluded from
+using CANUS-1 for intra-Canada or Canada-overseas traffic requirements, while at the same time
+CANUS-1 could be used to compete for the routing of intra-U.S. and U.S. international traffic through
+Canada.  Thus,we required that: 1) Optel not sell or lease any capacity on CANUS-1 to Teleglobe
+unless the Commission approves the acquisition of additional capacity; and 2) that Optel file copies of
+any contracts entered into with Teleglobe for the sale or lease of any capacity on CANUS-1.   By
+requiring Teleglobe to seek additional authorization, the Commission reasoned that it would address
+any potential anticompetitive conduct through the Section 214 licensing process.   
+
+        8.      MCI claims that these conditions are still necessary to prevent Teleglobe from acting
+anticompetitively.  It also requests that the Commission require Teleglobe to report on a monthly basis
+the outbound and inbound minutes carried by it or its affiliates over the CANUS-1 cable so as to
+enable the Commission to detect anticompetitive behavior caused by Teleglobe's use of CANUS-1. 
+MCI argues that Teleglobe could bypass U.S.-third country accounting rates by refiling through
+Canada.  
+
+        9.      We decline to maintain the condition requiring prior approval for Teleglobe to add
+capacity on CANUS-1.   In the Optel Order and the Commission's reconsideration of that order, the
+Commission noted that it imposed this condition in order to ensure that Teleglobe's use of CANUS-1
+would be subject to Section 214 review.  We have since granted Section 214 authorizations to
+Teleglobe to provide facilities-based service between the United States, Canada and foreign points.  
+We thus agree with Optel and Teleglobe that this condition has been superseded by those Section 214
+orders.    
+
+        10.     We also decline to require Teleglobe to provide monthly traffic reports of traffic
+routed over CANUS-1.  We are not persuaded by MCI that transfer of control of CANUS-1 would
+significantly enhance Teleglobe's ability to bypass U.S.-third country accounting rates.  As Optel and
+Teleglobe note, there is significant circuit capacity between the United States and Canada.  We agree
+that CANUS-1 is not a bottleneck facility -- either between the United States and Canada or anywhere
+else.   There are many other facilities that Teleglobe could use.   In fact, we rejected this bypass
+argument in reconsidering the grant of Optel's license and in the Teleglobe USA 1998 Authorization. 
+On reconsideration, AT&T argued that Teleglobe could use CANUS-1 to circumvent the normal U.S.-
+European settlements process.  The Commission stated that existing rules address any concern about
+bypass.  In the Teleglobe USA 1998 Authorization, the Commission noted that it is unlikely that
+Teleglobe Canada would have a bargaining advantage over U.S. carriers such that it could negotiate a
+settlement rate with a third country that was so low that, when combined with the U.S.-Canada
+settlement rate or other transport cost, it would be more economically attractive than the direct U.S.-
+third country settlement rate.  Given the available circuit capacity, we fail to see why Teleglobe's
+control of CANUS-1 makes it more likely that Teleglobe would engage in bypass.   Therefore, we do
+not see the need to impose reporting requirements as part of the cable landing license.  
+
+        11.     Consistent with the request of the State Department, we will maintain the condition
+in Optel's license that requires it to file any contracts it may enter into with Teleglobe for provision of
+capacity on CANUS-1.  We find applying this condition only to Teleglobe to be appropriate, even in a
+most-favored-nation environment because Teleglobe controls both ends of the cable.  It owns 100
+percent of the cable landing station in Canada directly and, with its acquisition of 100 percent of the
+stock of Optel, will indirectly control the landing station in the United States.  We believe that control
+of both ends of the cable may create a potential for anticompetitive discrimination against other
+carriers that such a reporting requirement can prevent.  It is not necessary to require other U.S.
+carriers using CANUS-1 to abide by the same condition because only Teleglobe is in the position of
+controlling both ends of the cable.   Finally, we agree with Optel and Teleglobe that the condition
+need not be modified to impose the applicable filing requirement on Teleglobe because Optel remains
+the licensee.  
+
+        12.     MCI noted in its Reply that the same kind of national security arrangement required in
+the BT/MCI Order would also be applicable in this case.  As Optel and Teleglobe state, neither the
+Department of Defense nor the Federal Bureau of Investigation have raised any issues with this
+application.  Moreover, the Department of State consulted the Department of Defense prior to
+informing the Commission that it had no objections to the transfer of control.  Therefore, we decline
+to require any special national security arrangements.
+
+                              IV.  CONCLUSION
+
+        13.     In light of the above, we find that a grant of the application of Optel and Teleglobe to
+transfer control of Optel from the current shareholders to Teleglobe will serve the public interest.  At
+the same time, we modify the conditions imposed on Optel with regard to the operation of the
+CANUS-1 submarine cable system to reflect recent Section 214 authorizations granted to Teleglobe. 
+We decline to apply any additional reporting requirements.
+
+                           V.  ORDERING CLAUSES
+
+        14.     We hereby GRANT Optel Telecommunications, Inc. and Teleglobe Inc. authority
+under the Submarine Cable Landing Act to transfer control of Optel from the current shareholders to
+Teleglobe.
+
+        15.     Optel's license to operate CANUS-1 is modified by deleting conditions (6) and (8). 
+Except as so modified, Optel's license remains in full force and effect, including the conditions
+therein. 
+
+        16.     Optel must notify the Commission within five business days of the effective date of
+the transfer of control of Optel or of a decision not to effect such transfer of control. 
+
+        17.     This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261
+(1996), and is effective upon adoption.  Petitions for reconsideration under Section 1.106 of the
+Commission's rules, 47 C.F.R.  1.106 (1996), or applications for review under Section 1.115 of the
+Commission's rules, 47 C.F.R.  1.115 (1996), may be filed within 30 days of the date of public
+notice of this Order and Authorization (see 47 C.F.R.  1.4(b)(2)).  
+
+                        FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                        Regina M. Keeney, Chief
+                        International Bureau

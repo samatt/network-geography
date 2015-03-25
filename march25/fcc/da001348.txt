@@ -1,0 +1,135 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************                                Before the
+                      Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                        )
+                                        )
+ACQUISITION OF GLOBENET                 )
+COMMUNICATIONS GROUP LIMITED BY         )
+360NETWORKS INC.                        )    
+                                   )    
+Application for Transfer of Control of                 )    File No. ITC-T/C-20000328-00186
+Submarine Cable Landing Licenses             )    File No. SCL-T/C-20000328-00010
+                                   )
+Application for Transfer of Control of            )
+International Section 214 Authority               )
+                                        )
+
+                       MEMORANDUM OPINION AND ORDER
+
+    Adopted: June 19, 2000                     Released:  June 20, 2000  
+
+By the Chief, Telecommunications Division:
+
+                             I.  Introduction
+
+     1.   In this Order, we grant the application of 360networks inc. ("360networks") and
+GlobeNet Communications Group Limited ("GlobeNet" and together "Applicants") seeking authority to
+transfer control of the international Section 214 authorization held by TeleBermuda International
+Limited ("TeleBermuda"), a subsidiary of GlobeNet, as well as interests in certain submarine cable
+landing licenses held by subsidiaries of GlobeNet to 360networks, in connection with the proposed
+acquisition of GlobeNet by 360networks.
+
+                               II.  Background
+
+     2.   360networks, a Canadian corporation headquartered in Vancouver, British Columbia, is
+an indirect subsidiary of Ledcor Inc., a privately-held Canadian corporation with interests in the
+construction and communications industries.  Through its subsidiaries, 360networks offers fiber optic
+capacity to communications carriers, Internet service providers and other large end-users.  GlobeNet, a
+Bermudian corporation headquartered in Hamilton, Bermuda, is an independent developer of fiber-optic
+cable facilities.
+
+     3.   On March 11, 2000, 360networks and GlobeNet entered into an agreement whereby
+360networks would acquire GlobeNet through the exchange of shares of 360networks for shares of
+GlobeNet, pending shareholder and governmental approvals.  After the transaction is completed,
+GlobeNet will become a wholly-owned, direct subsidiary of 360networks.  Through the acquisition of
+GlobeNet, 360networks will acquire control of GlobeNet's subsidiaries, including TeleBermuda, which
+currently holds an international Section 214 authorization to provide global facilities-based and resale
+service, controls an interest in the TAT-14 cable, and operates the BUS-1 cable.  Furthermore,
+GlobeNet, through its subsidiary, Atlantica USA LLC, is licensed to land and operate the Atlantica-1
+cable, which is currently under construction and, when complete, will connect the United States,
+Venezuela, Brazil and Bermuda.
+
+                        III.  Discussion
+
+     4.   On March 28, 2000, Applicants submitted the above-captioned Applications
+("Applications") requesting authority to transfer control of the international Section 214 authorization
+held by TeleBermuda and various cable landing licenses held by GlobeNet's subsidiaries for the BUS-1,
+Atlantica-1, and TAT-14 submarine cables to 360networks.  We placed the Applications on public
+notice on April 7, 2000.  We received no comments.
+
+     5.   Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the application to
+transfer control of the submarine cable landing licenses.  After coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, the Department of
+State stated that it has no objection to transferring control of the submarine cable landing licenses held by
+GlobeNet to 360networks.
+
+     6.   Pursuant to Section 1.767(a)(8) of the Commission's rules, 360networks is required to
+disclose its affiliations with foreign carriers.  According to the Applications, 360networks is affiliated
+with non-dominant foreign carriers in Canada, Ireland and the United Kingdom.  Because Canada,
+Ireland and the United Kingdom are Members of the World Trade Organization, it is presumed that
+360network's affiliations with these carriers do not pose any concerns that would justify conditioning or
+denying this application.  Moreover, the foreign carrier affiliates of 360networks do not have market
+power in their respective markets or the ability to discriminate against unaffiliated U.S. carriers on the
+foreign end of routes through the control of bottleneck facilities or services.
+
+     7.   As the Applications state, approval of this transaction will result in economies of scale
+that will allow customers to secure a broader range of value-added services for consumers while
+reducing transaction costs for end-users of submarine cable capacity.
+
+     8.   Upon consideration of the Applications and in view of the foregoing, we conclude that
+this transfer of control does not raise any of the concerns listed in the Cable Landing License Act, and
+that consent to transfer control of GlobeNet's interest in the above-mentioned cables to 360networks will
+serve the public interest, convenience and necessity.  We therefore grant Applicants' request for
+authority to transfer control of the international Section 214 authorization held by TeleBermuda as well
+as GlobeNet's interests in the BUS-1, Atlantica-1, and TAT-14 submarine cables to 360networks.
+
+                     IV.  Ordering Clauses
+
+     9.   Consistent with the foregoing and pursuant to the Cable Landing License Act, Section
+214 of the Communications Act of 1934, as amended, and Executive Order 10530, IT IS ORDERED that
+Application File Nos. ITC-T/C-20000328-00186 and SCL-T/C-20000328-00010 ARE GRANTED, and
+that the transfer of control of the international Section 214 authorization held by TeleBermuda
+International Limited is authorized and that the transfer of control of the interests of GlobeNet
+Communications Group Limited in the BUS-1, Atlantica-1 and TAT-14 cables is authorized.  The Cable
+Landing Licenses of the BUS-1 cable, File No. SCL-95-009, the TAT-14 cable, File No. SCL-LIC-
+19990303-00004 and the Atlantica-1 cable, File No. SCL-LIC-19990602-00010 ARE MODIFIED to
+reflect this transfer of control.
+
+     10.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30
+days of the date of public notice of this order.
+
+
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

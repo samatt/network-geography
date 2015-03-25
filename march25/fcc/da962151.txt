@@ -1,0 +1,189 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+MFS Globenet, Inc.              )
+                                  )File No. SCL-96-004(M)
+Cable & Wireless plc            )
+                                )
+Notification Pursuant to        )
+Submarine Cable Landing License Conditions)
+
+
+              MODIFICATION OF CABLE LANDING LICENSE
+
+
+    Adopted:  December 18, 1996Released:  December 18, 1996
+
+By the Chief, Telecommunications Division:
+
+
+     1.On October 25, 1996, MFS Globenet, Inc., (MFS Globenet) and Cable & Wireless
+plc (C&W) filed the above-captioned "Notification" with the Commission regarding proposed
+changes in ownership of certain of the facilities of the MFS-1 and MFS-2 Cable System (now
+known as the Gemini Cable System).  The parties stated that they were filing the notification
+pursuant to the terms and conditions of the conditional submarine cable landing license granted
+to MFS Globenet and Section 1.767 of the Commission's rules, 47 C.F.R.  1.767.  The parties
+request consent for C&W to own 50 percent of the corporate entity that will own the undersea
+portion of the cable system's facilities outside U.S. and U.K. territorial waters.  We grant this
+request.
+
+                             Parties
+
+     2.MFS Globenet is a Delaware corporation and a wholly owned subsidiary of MFS
+International, Inc., also a Delaware corporation, which is in turn a wholly owned subsidiary of
+MFS Communications Company, Inc.  MFS Communications Company, Inc., is a widely held
+Delaware corporation; no single shareholder owns 10 percent or more of its shares.  Pursuant to
+the cable landing license granted October 3, MFS Globenet or its subsidiaries were to own and
+operate the entire cable system, including the beach head cable segments, the U.S. landing station
+facilities, and the undersea portion of the cable system.
+
+     3.CableCo International Ltd. (CableCo International), a Bermuda corporation, is
+currently wholly owned by MFS CableCo (Bermuda) Ltd., a Bermuda corporation that is wholly
+owned by MFS CableCo U.S., Inc., a Delaware corporation that is wholly owned by MFS
+Globenet.  CableCo International is the MFS Globenet subsidiary that will own and operate the
+undersea portion of the Gemini Cable System.
+
+     4.C&W is a corporation incorporated under the laws of England and Wales whose
+officers are citizens of the United Kingdom.  One subsidiary of C&W, Mercury
+Communications, Ltd., is a public telecommunications operator in the United Kingdom.  Another
+subsidiary, Cable & Wireless, Inc., is a U.S. corporation authorized by the Commission to
+provide international facilities-based and resale services between the United States and various
+overseas points.
+
+                         The Transaction
+
+     5.Under the proposed transaction, a 50 percent voting equity interest in CableCo
+International would be transferred to C&W.  CableCo International would be responsible for
+systems integration and marketing and for constructing, owning, operating, and managing the
+undersea portion of the cable system.  MFS Globenet would retain sole ownership of the U.S.
+landing stations and the U.S. land portion of the cable system from the landing stations to the
+U.S. beach joint of the submerged portion of the cables.  MFS Globenet would also retain control
+of the cable landing license granted to it for the Gemini Cable System and would be responsible
+for compliance with all terms and conditions of the license.
+
+     6.The conditional cable landing license stated that MFS Communications Limited, a
+wholly owned subsidiary of MFS Globenet, was expected to be the owner of the U.K. landing
+stations and beach head cable segments.  The present notification states that MFS Globenet does
+not now expect to be able to obtain in the necessary time frame environmental approvals for
+construction of new U.K. landing stations.  Accordingly, CableCo International now expects to
+obtain U.K. landing stations and associated facilities from a previously licensed C&W affiliate.
+
+     7.As a result of the transaction and the modification in plans related to the U.K. landing
+stations, MFS Globenet and C&W each would hold direct and indirect ownership interests in 50
+percent of the entire cable system.
+
+                             Comments
+
+     8.The application was placed on public notice on October 29, 1996.  No comments
+were received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing
+License Act, and Executive Order No. 10,530, we informed the Department of State of the
+application.  The Department of State, after coordinating with the National Telecommunications
+and Information Administration and the Department of Defense, stated that it approves of the
+proposed ownership change.
+
+                            Discussion
+
+     9.The parties state that consummation of the proposed transaction would serve the
+public interest by helping MFS Globenet construct and operate an advanced fiber optic cable
+system between the United States and the United Kingdom on an expedited basis.  The
+participation of C&W would bring marketing benefits and enable the Gemini Cable System to be
+constructed and enter into operation more quickly.  Once operational, the cable system will
+provide alternative cost-efficient routing and additional cable capacity, route diversity, and
+restoration capabilities and will promote increased competition and innovative services.
+
+     10.The parties contend that the proposed transaction does not raise any reciprocity
+concerns under the Cable Landing License Act because the U.S. landing stations would be
+wholly owned by MFS Globenet.  Under that statute, the Commission "may withhold or revoke
+[a cable landing license] when . . . such action will assist in securing rights for the landing or
+operation of cables in foreign countries, or in maintaining the rights or interests of the United
+States or of its citizens in foreign countries . . . ."  47 U.S.C.  35. 
+
+     11.In Optel Communications, Inc., the Commission found that a 20 percent ownership
+interest by Teleglobe Canada, Inc., a Canadian carrier, in Optel (the U.S. licensee) did not
+represent facilities-based entry into the U.S. market and thus did not raise the issue of reciprocity
+under the Cable Landing License Act.  In the arrangement approved by the Commission in
+Optel, the U.S. landing station was to be owned by Optel (and thus be 20 percent foreign owned),
+the international portion of the cable was to be owned 50 percent by Optel and 50 percent by
+Teleglobe (and thus be 60 percent foreign owned), and the landing station in Canada was to be
+100 percent owned by Teleglobe.  Similarly, in TeleBermuda International, L.L.C., the
+Telecommunications Division found that allowing 20 percent foreign ownership of the U.S.
+licensee was consistent with Optel and, because it did not represent facilities-based entry into the
+U.S. market, did not implicate the reciprocity provision of the Cable Landing License Act.
+
+     12.Here, the proposed transaction would not bring about any foreign ownership of the
+U.S. landing station.  Rather, the U.S. landing station would be 100 percent owned by MFS
+Globenet, a U.S. corporation that is entirely U.S. owned.  This transaction would affect only the
+"wet" portion of the cable system, over which the U.S. licensee would retain a 50 percent
+ownership interest.  The foreign carrier, C&W, would hold an interest only in 50 percent of the
+"wet" portion and in the U.K. landing stations.
+
+     13.Consistent with Optel and TeleBermuda, we find that the proposed transaction does
+not represent facilities-based entry into the U.S. market and therefore does not trigger our
+reciprocity inquiry.  As in Optel, a 50 percent ownership interest in the "wet" portion of the cable
+system does not itself give rise to the kind of foreign presence that prompted Congress to enact
+the reciprocity provision of the Cable Landing License Act.
+
+     14.We also find that the proposed transaction would be consistent with the seventh
+condition imposed on the Gemini Cable System's cable landing license, which reads as follows:
+
+     The Licensee shall maintain no less than a 50-percent ownership interest and
+     voting control share in the cables, including 100-percent ownership in the cable
+     stations in the United States and in the U.S. land portion of the cables from the
+     stations to the U.S. beach joint of the submerged portion of the cables.
+
+The licensee, MFS Globenet, would own 50 percent of the company that would own the
+undersea (or "wet") portion of the cable system and would continue to own 100 percent of the
+U.S. cable stations.  It would therefore own an interest of at least 50 percent in the entire cable
+system.
+
+     15.Accordingly, we conclude that a grant of the application would be consistent with
+the Cable Landing License Act.  We therefore consent to the proposed changes in ownership of
+the undersea portion of the Gemini Cable System.
+
+                         Ordering Clauses
+
+     16.In consideration of the foregoing, IT IS ORDERED that the application, File No.
+SCL-96-004(M), is GRANTED, and MFS Globenet, Inc., is authorized to transfer 50 percent
+ownership of CableCo International, the entity that will own the undersea portion of the Gemini
+Cable System, to Cable & Wireless plc.  The cable landing license, SCL-96-004, is MODIFIED
+to reflect 100 percent ownership of the undersea portion of the cable system by a Bermuda
+corporation that is 50 percent owned by a wholly owned subsidiary of MFS Globenet and 50
+percent owned by Cable & Wireless.
+
+     17.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 may be filed within 30 days of the date of public
+notice of this Order (see Section 1.4(b)(2)).
+
+     FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+     Diane J. Cornell
+     Chief, Telecommunications Division
+     International Bureau

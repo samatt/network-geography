@@ -1,0 +1,267 @@
+  ********************************************************    
+                                         NOTICE
+    ********************************************************
+                                
+                This document was converted from
+               WordPerfect to ASCII Text format.
+                                
+   Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+             will not show up in this text version.
+                                
+All text attributes such as bold, italic, underlining, etc. from the
+    original document will not show up in this text version.
+                                
+        Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+           will not be preserved in the text version.
+                                
+        If you need the complete document, download the
+  WordPerfect version or Adobe Acrobat version, if available.
+                                
+*****************************************************************
+                                                           Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+                                
+In the Matter of                     )
+                                     )
+GST INTERNATIONAL, INC.              )                                  )         File No. SCL-96-006
+Application for a license to land and operate  )
+a submarine fiber optic cable extending        )
+between the United States and Mexico,          )
+Guatemala, Costa Rica, and Panama.        )
+
+
+                     CABLE LANDING LICENSE
+                                
+                                
+       Adopted:  April 28, 1997           Released:  April 30, 1997
+
+By the Chief, Telecommunications Division:
+
+                        I. Introduction
+                                
+                1.    In this Order, we grant the application of GST International, Inc., (GST) under the
+Cable Landing License Act  for authority to land and operate a digital fiber optic submarine
+cable to be called the "Hawaii-Americas-1 System" extending between the United States and
+Mexico, Guatemala, Costa Rica, and Panama.  The cable will be operated on a non-common
+carrier basis.  We find that GST has provided sufficient information under our rules to comply
+with the Cable Landing License Act and therefore grant the cable landing license subject to the
+conditions listed below.
+                                
+                    II. Amended Application
+                                
+                2.    GST, a corporation organized under the laws of Delaware, is a wholly owned
+subsidiary of GST USA, Inc., itself a Delaware corporation and the wholly owned subsidiary of
+GST Telecommunications, Inc. (GSTTI).  GSTTI, a corporation organized under the laws of
+Canada, is a publicly held non-carrier holding company.  U.S. citizens or U.S. companies own a
+majority (approximately 69.04%) of GSTTI's stock, which is traded over both the American
+(AMEX) and Vancouver stock exchanges.  Aside from John Warta, a U.S. citizen who owns
+10.5% of GSTTI's stock, no person or entity owns 10% or more of GSTTI.
+
+                3.    The applicant proposes to land and operate the Hawaii-Americas-1 (HIAM-1) System
+as a non-common carrier system in which capacity would be sold or leased to users on a non-
+tariffed, non-common carrier basis.  The cable system would be owned by the applicant and by
+entities authorized to land and operate an international submarine fiber optic cable system in
+Mexico, Guatemala, Costa Rica, and Panama.  All of the proposed cable system's plant and
+equipment located in the United States would be owned by GST.  All plant and equipment
+located in Mexico, Guatemala, Costa Rica, and Panama would be owned by entities authorized to
+land and operate an international submarine fiber optic cable system in those jurisdictions.  GST
+initially plans to offer direct service between landing points at San Luis Obispo, California;
+Oahu, Hawaii; Acapulco, Mexico; and Balboa, Panama.  GST considers Guatemala and Costa
+Rica to be potential destinations for future extensions of the cable system.  GST states that U.S.
+landing points will provide efficient and economical access to other international cables landing
+nearby or in collocated facilities.  GST does not specify the expected date by which the proposed
+cable system would be operational but commits to providing a specific description of the landing
+sites no later than ninety days prior to construction.
+
+                4.    GST's HIAM-1 System will employ SONET/SDH optically amplified fiber optic
+cable and will consist of 8 fibers.  Terminal equipment and underwater repeaters with wavelength
+division multiplexing (WDM) capability will enable the system capacity to grow with demand. 
+The cable system will be designed to operate at 2.5 Gbps and to support the industry standard
+capacity increments of E1 to DS3.
+
+                5.    GST will offer bulk capacity in the HIAM-1 System to a specific class of eligible
+users, including common carriers, on an original ownership, IRU, or lease of capacity basis. 
+GST does not seek Title II authority since it will not offer services as a common carrier. 
+Specifically, GST expects to make "individualized decisions, in particular cases, [on] whether
+and on what terms to deal" and will not "hold itself out indifferently to serve the user public." 
+GST states that since its proposed system would not constitute a bottleneck facility, no public
+interest reason exists to require imposing common carrier obligations on the operation of GST's
+proposed cable facilities.  Thus, GST states that only the Cable Landing License Act
+requirements are relevant to this application.
+
+                         III. Comments
+
+                6.    The GST application was placed on public notice on December 4, 1996.  No
+comments were received.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of
+GST's application.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that
+it has no objection to issuance of the cable landing license.
+
+                         IV. Discussion
+
+                7.    GST requests a license under the Commission's private submarine cable policy to
+promote competition in the provision of international transmission facilities.  Pursuant to this
+policy, the Commission has authorized non-common carrier cables where there is no legal
+compulsion to serve the public indifferently and where there are no reasons implicit in the nature
+of the operations to expect an indifferent holding-out to the eligible user public.
+
+                8.    Because of the wide availability of common carrier circuits on existing and future
+cables and satellite circuits between the U.S. west coast and Hawaii, Mexico, and Panama, no
+public interest reason exists that requires imposing common carrier obligations on the operation
+of  GST's proposed cable facilities.  Specifically, we agree with GST that the existence of several
+competing options prevents GST's proposed system from constituting a bottleneck.  GST states
+that its proposed submarine cable system will route traffic between Asia, Australia and the
+United States; between Asia, Australia and South America; and between the United States and
+Central and South America.  Competitive alternatives to the proposed HIAM-1 System include,
+among others, Pacific submarine cable facilities connecting the U.S. west coast with Hawaii and
+the TPC, HAW, and PacRim systems; terrestrial facilities connecting the United States and
+Mexico; satellite and terrestrial facilities connecting the United States and Panama; and
+Caribbean submarine cable facilities.
+
+                9.    GST states both its intention to compete with such services and its inability to restrict
+output or raise prices without losing customers to such services.   GST will make
+"individualized decisions, [on] whether and on what terms to deal" and will not "hold itself out
+indifferently to serve the user public."  We conclude that GST will not in fact act as a common
+carrier in operating the HIAM-1 System and thus is not subject to regulation under Title II of the
+Communications Act.
+
+               10.    GSTTI owns a minority interest of approximately 28.7 percent of GST Global, which
+wholly owns GST Mextel, Inc.  GST Mextel, Inc., currently owns 25 percent of Bestel, S.A. de
+C.V. (Bestel), and has the right to acquire up to 49 percent of Bestel.  Although it is authorized to
+construct and operate telecommunications facilities in Mexico, Bestel (a company organized
+under the laws of Mexico) does not yet provide service.  Pursuant to Section 63.18(h) of our
+rules, even if GST Mextel, Inc., exercises its right to acquire 49 percent of Bestel, only a 14.06
+percent interest in Bestel would be attributed to GSTTI.  Therefore, GST is not affiliated with
+Bestel within our rules.  Under these circumstances, GST's relationship with Bestel does not raise
+concerns that could persuade us to deny the application under Section 2 of the Cable Landing
+License Act.  
+
+               11.    Consistent with prior decisions, we find GST's statement that the HIAM-1 System
+will land in California, Hawaii, Mexico, and Panama sufficient to determine whether the
+proposed cable would comply with the provisions of the Cable Landing License Act and
+Commission rules.  Section 1.767(a) of the Commission's rules permits applicants in their initial
+applications to provide a general geographic description of the landing points.  It requires that
+grant of cable landing license applications be conditioned on final approval of a specific
+description of landing points no later than ninety days prior to construction.  The Commission
+will give public notice of this description, and grant of the license will be considered final unless
+we issue a public notice to the contrary no later than sixty days after receipt of the specific
+description of the landing points.
+
+               12.    Based on the information provided by GST and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the
+grant of the requested authorization would not significantly affect the environment. 
+Consequently, GST is not required to submit an environmental assessment, and this application
+is categorically excluded from environmental processing.
+
+               13.    Accordingly, we conclude that U.S. interests under the Cable Landing License Act
+will be served by grant of the license to GST, as conditioned below.
+
+                      V. Ordering Clauses
+                                
+               14.    Consistent with the foregoing, we hereby GRANT AND ISSUE, under the provisions
+of the Cable Landing License Act and Executive Order 10530, GST International, Inc., a license
+to land and operate a digital non-common carrier fiber optic submarine cable system (designed to
+operate at 2.5 Gbps) extending from the United States to Mexico, Guatemala, Costa Rica, and
+Panama and including landing points in San Louis Obispo, California; Oahu, Hawaii; Acapulco,
+Mexico; and Balboa, Panama.  This grant is subject to all rules and regulations of the Federal
+Communications Commission; any treaties or conventions relating to communications to which
+the United States is or may hereafter become a party; any action by the Commission or the
+Congress of the United States rescinding, changing, modifying or amending any rights accruing
+to any person hereunder; and the following conditions:
+
+                (1) The location of the cable system within the territorial waters of the United
+                States of America, its territories and possessions, and upon its shore shall be in
+                conformity with plans approved by the Secretary of the Army, and the cables
+                shall be moved or shifted by the Licensee at its expense upon the request of the
+                Secretary of the Army whenever he or she considers such course necessary in
+                the public interest, for reasons of national defense, or for the maintenance or
+                improvement of harbors for navigational purposes;
+                
+                (2) The Licensee shall at all times comply with any requirements of United
+                States government authorities regarding the location and concealment of the
+                cable facilities, buildings, and apparatus for the purpose of protecting and
+                safeguarding the cables from injury or destruction by enemies of the United
+                States of America;
+                
+                (3) The Licensee or any persons or companies controlling it, controlled by it, or
+                under direct or indirect common control with it does not enjoy and shall not
+                acquire any right to handle traffic to or from the United States, its territories, or
+                its possessions unless such service be authorized by the Commission pursuant to
+                Section 214 of the Communications Act, as amended;
+                
+                (4) The Licensee or any persons or companies controlling it, controlled by it, or
+                under direct or indirect common control with it shall not acquire or enjoy any
+                right for the purpose of handling or interchanging traffic to or from the United
+                States, its territories, or its possessions to land, connect, or operate cables or
+                landlines, to construct or operate radio stations, or to interchange traffic, that is
+                denied to any other United States company by reason of any concession,
+                contract, understanding, or working arrangement to which the Licensee or any
+                persons controlling it, controlled by it, or under direct or indirect common
+                control with it are parties;
+                
+                (5) Neither this license nor the rights granted herein shall be transferred,
+                assigned, or in any manner either voluntarily or involuntarily disposed of or
+                disposed of indirectly by transfer of control of the Licensee to any persons,
+                unless the Federal Communications Commission shall give prior consent in
+                writing;
+                
+                (6) The Licensee shall notify the Commission in writing of the precise locations
+                at which the cables will land no later than ninety days prior to commencing
+                construction of cable landing stations at those locations.  The Commission will
+                give public notice of the filing of these descriptions, and grant of this license
+                will be considered final unless the Commission issues a notice to the contrary
+                no later than sixty days after receipt of the specific descriptions of landing
+                points;
+                
+                (7) The Commission reserves the right to require the Licensee to file an
+                environmental assessment or environmental impact statement should it
+                determine that the landing of the cables at those locations and construction of
+                necessary cable landing stations would significantly affect the environment
+                within the meaning of Section 1.1307 of the Commission's procedures
+                implementing the National Environmental Policy Act of 1969; this license is
+                subject to modification by the Commission upon its review of any
+                environmental assessment or environmental impact statement that it may require
+                pursuant to its rules;
+                
+                (8) The Licensee shall maintain no less than a 50-percent ownership interest and
+                voting control share in the cables, including 100-percent ownership in the cable
+                stations in the United States and in the U.S. land portion of the cables from the
+                stations to the U.S. beach joint of the submerged portion of the cables;
+                
+                (9) The Licensee shall, by application, obtain Commission approval prior to the
+                sale or transfer to a foreign entity of five percent or more in the aggregate of
+                U.S.-owned and -controlled stock;
+                
+                (10) This license is revocable by the Commission after due notice and
+                opportunity for hearing pursuant to section 2 of "An Act Relating to the Landing
+                and Operation of Submarine Cables in the United States," 47 U.S.C.  35, or for
+                failure to comply with the terms of the authorizations;
+                
+                (11) The Licensee shall notify the Commission in writing of the date on which
+                the cable is placed in service, and this license shall expire 25 years from such
+                date, unless renewed or extended upon proper application, and, upon expiration
+                of this license, all rights granted under it shall be terminated; and
+                
+                (12) The terms and conditions upon which this license is given shall be accepted
+                by the Licensee by filing a letter with the Secretary, Federal Communications
+                Commission, Washington, D.C. 20554, within 30 days of the release of the
+                cable landing license.
+                                  
+                         15.    This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+     0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106
+    or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.
+     1.106, 1.115, may be filed within 30 days of the date of public notice of this order (see
+    47 C.F.R.  1.4(b)(2)).
+      
+                                              FEDERAL COMMUNICATIONS COMMISSION
+    
+    
+    
+    
+                                              Diane J. Cornell
+                                              Chief, Telecommunications Division
+                                              International Bureau

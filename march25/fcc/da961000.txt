@@ -1,0 +1,258 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                                                           DA 96-1815
+
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+ALASKA NORTHSTAR                     )
+COMMUNICATIONS, L.L.C.               )
+                                     )              File No. SCL-96-002
+Application for a license to land and)
+operate a submarine fiber optic cable)
+extending between two cable landing points)
+in South Central Alaska, United States)
+
+
+                          CABLE LANDING LICENSE
+
+
+   Adopted:  November 1, 1996                                    Released:  November 5, 1996
+
+By the Chief, Telecommunications Division:
+
+     1.In this Order, we grant the application of Alaska Northstar Communications, L.L.C.,
+(Alaska Northstar) under the Cable Landing License Act for authority to land and operate in
+the United States a coastal submarine fiber optic cable system, to be named the "Northstar Cable
+System - Extension," between two points in South Central Alaska.  The capacity of the Northstar
+Cable System - Extension will be sold or leased to users on a non common carrier basis.  We
+find that Alaska Northstar has provided sufficient information under our rules to comply with
+the Cable Landing License Act and therefore grant the cable landing license, subject to the
+conditions listed below.
+
+                              The Application
+
+     2.Alaska Northstar is a limited liability company organized and existing under the laws
+of the Commonwealth of Virginia.  The company is owned by its two officers, both of whom
+are U.S. citizens.  Alaska Northstar will own and operate the entire cable system.
+
+     3.The exact landing points for the Northstar Cable System - Extension have yet to be
+determined.  One landing station will be at or near Whittier or Seward, and the other will be at
+or near Valdez.  The applicant states that the landing points will be chosen to ensure secure
+submarine and land routes and to facilitate connection to U.S. domestic private and
+interexchange systems.  The sites will conform to plans approved by the Secretary of the Army.
+
+     4.The planning and development of the Northstar Cable System - Extension will be
+based upon the use of submarine fiber optic technology judged suitable for implementation at
+the projected ready for commercial service date, employing the appropriate transmission rate to
+meet the capacity requirements of the users of the system.  The applicant expects that the system
+capacity will be a minimum of 1.244 gigabits per second (Gbps).  The cable system will employ
+1.55-micrometer wavelength technology and will be designed to include a minimum of two fiber
+pairs.  Each fiber pair will operate at a minimum of 622 megabits per second (Mbps) per fiber
+pair.  The capacity on each fiber pair will be provided in a minimum of four 155-Mbps streams,
+with each 155-Mbps stream containing 84 minimum investment units (MIUs) and with each MIU
+consisting of a 1.544-Mbps bit stream.  Alaska Northstar may choose to deploy more than two
+fiber pairs or to increase the operating bit rate per fiber pair.  With two fiber pairs at 622 Mbps,
+the minimum design capacity would be 336 MIUs per fiber pair.  Alaska Northstar will ensure
+system reliability through the deployment of the appropriate cable system design.
+
+     5.Alaska Northstar states that it will sell or lease bulk capacity of the cable system to
+large users and telecommunications providers on a long-term, highly individualized basis. 
+Thus, the applicant states, it will make "`individualized decisions, in particular cases, whether
+and on what terms to deal' and does not intend to undertake `to carry for all people
+indifferently.'"  Alaska Northstar also states that there are existing common carrier transmission
+facilities serving Whittier, Valdez, and Seward.  It states that it is therefore not required to apply
+for authority under section 214 of the Communications Act of 1934, and it urges us to consider
+its application pursuant only to the Cable Landing License Act.
+
+     6.Alaska Northstar states that the Northstar Cable System - Extension will provide
+needed additional voice, video and high-speed data transmission capacity and will offer secure,
+high-quality, high-speed communications to a variety of users by interconnecting with existing
+and planned Alaskan and U.S. domestic interexchange telecommunications networks.  The
+introduction of high-quality, reliable, redundant, and cost-effective facilities, the applicant
+asserts, will cause an immediate and significant increase in demand for and usage of improved
+telecommunications capabilities.  As the first non common carrier cable along its route, it will
+facilitate the introduction and expansion of new and improved telecommunicaions service
+offerings.
+
+                                 Comments
+
+     7.The Alaska Northstar application was placed on public notice on March 15, 1996. 
+No comments were received.  Pursuant to Section 1.767(b) of the Commission's rules, the
+Cable Landing License Act, and Executive Order No. 10530, we informed the Department of
+State of Alaska Northstar's application.  The Department of State, after coordinating with the
+National Telecommunications and Information Administration and the Department of Defense,
+stated that it has no objection to the issuance of the requested cable landing license.
+
+                                Discussion
+
+     8.Alaska Northstar requests a license under the Commission's private submarine cable
+policy to promote competition in the provision of international transmission facilities.  Pursuant
+to this policy, the Commission has authorized non common carrier cables where there is no
+legal compulsion to serve the public indifferently and no reason implicit in the nature of the
+operations to expect an indifferent holding-out to the eligible user public.
+
+     9.South Central Alaska is served by the NPC cable system, circuits on the Telstar 303
+and Aurora 2 satellites, and terrestrial microwave service.  Because of the sufficient availability
+of common carrier circuits along the proposed route of the Northstar Cable System - Extension,
+there is no public-interest reason to require that it be operated on a common carrier basis. 
+Also, in light of the sizable present and anticipated future demand for telecommunications
+facilities, we see no prospect of creating significant overcapacity by the introduction of
+non common carrier facilities so as to threaten the economic viability of existing common carrier
+cable or satellite facilities.  Thus, there is no reason to require Alaska Northstar to operate the
+proposed cable system on a common carrier basis.
+
+     10.In addition, because Alaska Northstar will make "individualized decisions, whether
+and on what terms to deal" and does not undertake to "carry for all people indifferently," there
+is no reason to expect that the proposed cable circuits would be held out to the public
+indifferently.  We thus conclude that Alaska Northstar will not offer capacity in Northstar
+Cable System - Extension to the public on a common carrier basis and thus is not subject to
+regulation under Title II of the Communications Act.
+
+     11.Consistent with prior decisions, we find that Alaska Northstar's descriptions that
+the Northstar Cable System - Extension will land at or near Whittier or Seward, Alaska, and at
+or near Valdez, Alaska, to be sufficient to determine whether the proposed cable would comply
+with the provisions of the Cable Landing License Act and Commission rules.  Pursuant to
+Section 1.767(a)(5) of the Commission's rules, Alaska Northstar must provide a specific
+description of the landing locations, including a map, no later than ninety days prior to
+construction, and we condition this license upon final approval of the landing points.  The
+Commission will give public notice of this description, and grant of the license will be
+considered final unless we issue a public notice to the contrary no later than sixty days after
+receipt of the specific description of the landing points.
+
+     12.Based on the information provided by Alaska Northstar and pursuant to the
+Commission's procedures implementing the National Environmental Policy Act of 1969, we
+conclude that a grant of the requested license would not significantly affect the environment. 
+Consequently, Alaska Northstar is not required to submit an environmental assessment, and this
+application is categorically excluded from environmental processing.
+
+     13.Accordingly, we conclude that U.S. interests under the Cable Landing License Act
+will be served by grant of the license to Alaska Northstar, as conditioned below.
+
+                             Ordering Clauses
+
+     14.Consistent with the foregoing, we hereby GRANT AND ISSUE, under the
+provisions of the Cable Landing License Act and Executive Order 10530, Alaska Northstar
+Communications, L.L.C., a license to land and operate a high-capacity fiber optic digital
+submarine cable (two or more fiber pairs operating at a minimum of 622 Mbps per fiber pair)
+extending between two points in South Central Alaska, one of which will be at or near Whittier
+or Seward and the other one of which will be at or near Valdez.  This grant is subject to all
+rules and regulations of the Federal Communications Commission; any treaties or conventions
+relating to communications to which the United States is or hereafter may become a party; any
+action by the Commission or the Congress of the United States rescinding, changing, modifying,
+or amending any rights accruing to any person hereunder; and the following conditions:
+
+     (1)The location of the cable system within the territorial waters of the United States
+     of America, its territories and possessions, and upon its shore shall be in conformity with
+     plans approved by the Secretary of the Army, and the cable shall be moved or shifted
+     by the Licensee at its expense upon the request of the Secretary of the Army whenever
+     he or she considers such course necessary in the public interest, for reasons of national
+     defense, or for the maintenance or improvement of harbors for navigational purposes;
+
+     (2)The Licensee shall at all times comply with any requirements of United States
+     government authorities regarding the location and concealment of the cable facilities,
+     buildings, and apparatus for the purpose of protecting and safeguarding the cables from
+     injury or destruction by enemies of the United States of America;
+
+     (3)The Licensee or any persons or companies directly or indirectly controlling it or
+     controlled by it or under direct or indirect common control with it shall not acquire or
+     enjoy any right, for the purpose of handling or interchanging traffic to or from the
+     United States, its territories or possessions, to land, connect, or operate cables or
+     landlines, to construct or operate radio stations, or to interchange traffic, that is denied
+     to any other United States carrier by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it or controlled
+     by it are parties;
+
+     (4)Neither this license nor the rights granted herein shall be transferred, assigned, or
+     in any manner either voluntarily or involuntarily disposed of or disposed of indirectly by
+     transfer of control of the Licensee to any persons, unless the Federal Communications
+     Commission shall give prior consent in writing;
+
+     (5)The Licensee shall notify the Commission in writing of the precise locations at
+     which the cable will land no later than ninety days prior to commencing construction of
+     cable landing stations at those locations.  The Commission will give public notice of the
+     filing of these descriptions, and grant of this license will be considered final unless the
+     Commission issues a notice to the contrary no later than sixty days after receipt of the
+     specific descriptions of landing points;
+
+     (6)The Commission reserves the right to require the Licensee to file an environmental
+     assessment or environmental impact statement should it determine that the landing of the
+     cable at those locations and construction of necessary cable landing stations would
+     significantly affect the environment within the meaning of Section 1.1307 of the
+     Commission's procedures implementing the National Environmental Policy Act of 1969;
+     this license is subject to modification by the Commission upon its review of any
+     environmental assessment or environmental impact statement that it may require pursuant
+     to its rules;
+
+     (7)The Licensee shall maintain no less than a 50-percent ownership interest and voting
+     control share in the cable, including 100-percent ownership in the cable stations and in
+     the land portion of the cables from the stations to the beach joint of the submerged
+     portion of the cable;
+
+     (8)The Licensee shall, by application, obtain Commission approval prior to the sale or
+     transfer to a foreign entity of five percent or more in the aggregate of U.S.-owned and -
+     controlled stock;
+
+     (9)This license is revocable by the Commission after due notice and opportunity for
+     hearing pursuant to section 2 of "An Act Relating to the Landing and Operation of
+     Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply with
+     the terms of the authorizations;
+
+     (10)The Licensee shall notify the Commission in writing of the date on which the cable
+     is placed in service, and this license shall expire 25 years from such date, unless renewed
+     or extended upon proper application, and, upon expiration of this license, all rights
+     granted under it shall be terminated; and
+
+     (11)The terms and conditions upon which this license is given shall be accepted by the
+     Licensee by filing a letter with the Secretary, Federal Communications Commission,
+     Washington, D.C. 20554, within 30 days of the release of the cable landing license.
+
+     15.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.
+ 1.4(b)(2)).
+
+                                          FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                          Diane Cornell
+                                          Chief, Telecommunications Division
+                                          International Bureau

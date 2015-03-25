@@ -1,0 +1,260 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+     Before the
+     Federal Communications Commission
+     Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+LEVEL 3 INTERNATIONAL, INC.             )
+                                   )
+Application For a License to Land and Operate in the   )    File No.  SCL-LIC-19990913-00019
+United States a Private Fiber Optic Submarine Cable    )
+System Extending Between the United States and the     )
+United Kingdom                          )
+
+                            CABLE LANDING LICENSE
+
+Adopted:  January 20, 2000                           Released:  January 21, 2000
+
+By the Chief, Telecommunications Division:
+
+                        I.  Introduction
+
+     1.   In this Order, we grant the Application of Level 3 International, Inc. (Level 3) under the
+Cable Landing License Act and Executive Order No. 10530 for authority to land and operate a
+private fiber optic submarine cable system extending between the United States and the United
+Kingdom.  This system will be operated on a non common carrier basis.  We find that Level 3 has
+provided sufficient information under our rules to comply with the Cable Landing License Act and
+that it would serve the public interest to grant the cable landing license subject to the conditions
+listed below. 
+
+                        II.  Application
+
+     2.   According to the Application, Level 3, a Delaware corporation, is a wholly-owned
+subsidiary of  PKS Information Services, Inc. (PKS), a Delaware corporation, which, in turn, is a
+wholly-owned subsidiary of Level 3 Communications, Inc. (Level 3 Communications), a Delaware
+corporation. Level 3 is affiliated with various foreign carriers, all of which are non-dominant
+carriers that do not operate in the United Kingdom, the only foreign landing point for the Level 3
+cable.
+
+     3.   According to the Application, the proposed Level 3 system will consist of eight
+fiber cables designed to carry 32 wavelengths each, with the potential to carry 40 to 48
+wavelengths each; 32 OC-192s increasing to 128 OC-192s at 1.2 terabits per second.  The cable
+will connect Shirley/Bellport, New York and Widemouth Bay, England.
+                         III.  Comments
+
+     4    We placed the Application on public notice on September 29, 1999.  We did not
+receive any comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of
+the Application.  The Department of State, after coordinating with the National
+Telecommunications and Information Administration and the Department of Defense, stated that
+it has no objection to issuance of the cable landing license.
+     
+                        IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     5.   Level 3 proposes to operate the cable as a non common carrier submarine cable
+system in which capacity will not be offered indifferently to the user public.  Level 3 requests a
+license under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non common carrier cables where: (1) there is no legal compulsion to
+serve the public indifferently; and (2) there are no reasons implicit in the nature of the operations
+to expect the applicant would make capacity available to the public indifferently and
+indiscriminately.
+          6.   In applying the first prong of the test to submarine cable
+          authorizations, the Commission has stated that there will be no legal compulsion to
+          serve the public indifferently where there is no public interest reason to require
+          facilities to be offered on a common carrier basis.  This public interest analysis
+          has generally focused on whether an applicant will be able to exercise market
+          power because of the lack of alternative facilities.  Where there are sufficient
+          alternatives, the Commission has found that the licensee will lack market power
+          and will not be able to charge monopoly rates for cable capacity.  The
+          Commission has found that, in those circumstances, the public interest would be
+          served by allowing a submarine cable to be offered on a non-common carrier
+          basis.
+     
+          7.   We note that there are sufficient existing and planned facilties on
+          the route to prevent Level 3 from exercising market power in offering services to
+          the public.  The cable systems in this region include the following cables extending
+          between the United States and various points in Western Europe including the
+          United Kingdom:  (1) TAT-8, (2) TAT-9; (3) TAT 11; (4) TAT-12/13; (5)
+          Atlantic Crossing-1 (AC-1), (6) FLAG Atlantic-1; (7) Project Oxygen, and (8)
+          TAT-14.  TAT-8, TAT-9, TAT-11, TAT-12/13, and AC-1 are all operational
+          cables.  The FLAG Atlantic-1, TAT-14 and Project Oxygen cable systems have
+          been authorized by the Commission, but we are not yet aware of whether or not
+          these cables are operational.  The FLAG Atlantic-1, TAT-14, and Project Oxygen
+          cable systems will extend between the United States and the United Kingdom and
+          other international points.
+          8.   No one has advocated that the public interest requires Level 3 to operate
+          its cable on a common carrier basis.  In addition, Level 3 is affiliated with several foreign
+          carriers in Europe, none of which has market power or does business in the United
+          Kingdom, the only landing point of the proposed cable.  Therefore Level 3 does not control
+          any bottleneck facilities in the markets the Level 3 system proposes to serve.
+          9.   Given the unopposed evidence of the availability of alternative cables and
+          Level 3's representation that none of its affiliates has market power in any of the cable
+          landing countries, we find that it would not serve the public interest to impose common
+          carrier regulation on the operations of the Level 3 system at this time.  We note, however,
+          that we maintain the ability to impose common carrier or common-carrier-like obligations
+          on the operations of this or any other submarine cable system if the public interest so
+          requires.  Furthermore, we have always maintained the authority to classify facilities as
+          common carrier facilities subject to Title II of the Communications Act if the public
+          interest requires that the facilities be offered to the public indifferently.
+          10.  Regarding the second prong of the test, we conclude that there is no
+          reason to expect that capacity in the proposed cable system would be held out to the public
+          indifferently.  Level 3 states that capacity will not be sold indifferently to the user public. 
+          Instead, capacity will be assigned pursuant to "individualized decisions."  We therefore
+          conclude that Level 3 will operate the Level 3 system on a non-common carrier basis. 
+          11.  We conclude that Level 3 will not offer capacity in the Level 3 system to
+          the public on a common carrier basis and that the public interest does not require that they
+          do so.  Accordingly, we conclude that it is appropriate to license the Level 3 system on a
+          non-common carrier basis.  We also find that Level 3 will not provide a
+          telecommunications service for a fee to such a class of users as to be "effectively available
+          directly to the public" and thus will not be a "telecommunications carrier" under the
+          Telecommunications Act of 1996.
+     B.   Ownership and Landing Points
+
+     12.  Level 3 has provided the ownership information required by Section 1.767(a)(6) and
+Section 63.18 of the Commission's rules.  The Applicant will own the United States landing site as well as
+the wet portion of the cable within U.S. territorial waters.  The wet portion of the cable in international
+waters will be owned by Level 3 (Bermuda) Ltd.  The United Kingdom landing site as well as the wet
+portion of the cable within the territorial waters of the United Kingdom will be owned by Level 3
+Communications Limited (UK).
+           
+     13.  The Application states that the Level 3 system cable landing station in the United States
+will be located at 957 Station Road, Bellport, New York.  The beach landing site will be located at
+coordinates 40 degrees 44.10390' north, 72 degrees 51.96073' west.  In the United Kingdom, the beach
+landing site will be located at coordinates 50 degrees 47.596' north, 4 degrees 33.407' west.  The cable
+landing station will be located near Widemouth Bay.  The exact location of the landing station has not yet
+been established, but it is anticipated to be within 5 kilometers of the beach landing site at the following
+coordinates:  50 degrees 49.45' north, 4 degrees 32.25' west.  Applicant will provide the exact location of
+the cable landing station when it is known.  Maps of both cable landing sites are included with the
+Application.  
+
+          C.   Environmental Impact
+
+     14.  The Commission has found that the construction of new submarine cable systems,
+individually and cumulatively, will not have a significant effect on the environment and therefore should be
+expressly excluded from our procedures implementing the National Environmental Policy Act of 1969. 
+Therefore, the Applicant is not required to submit an environmental assessment, and this
+Application is categorically excluded from environmental processing.
+
+                         V.  Conclusion
+
+     15.  We grant Level 3's Application for authority to land and operate a non-common
+carrier fiber optic submarine cable extending between the United States and the United Kingdom,
+subject to the conditions listed below. 
+                                
+                     VI.  Ordering Clauses
+
+     16.  Consistent with the foregoing, we hereby GRANT AND ISSUE Level 3 a license
+to land and operate a non common carrier fiber optic submarine cable system  (consisting of eight
+fiber cables, extending between landing points at cable stations at Shirley, New York, and
+Widemouth Bay, United Kingdom) under the provisions of the Cable Landing License Act and
+Executive Order 10530.  This grant is subject to all rules and regulations of the Commission; any
+treaties or conventions relating to communications to which the United States is or may hereafter
+become a party; any action by the Commission or the Congress of the United States rescinding,
+changing, modifying, or amending any rights accruing to any person hereunder; and the following
+conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States, its
+     territories and possessions, and upon its shore shall be in conformity with plans approved
+     by the Secretary of the Army, and the cable shall be moved or shifted by the Licensee at its
+     expense upon the request of the Secretary of the Army whenever he or she considers such
+     course necessary in the public interest, for reasons of national defense, or for the
+     maintenance or improvement of harbors for navigational purposes;
+
+          (2)  The Licensee shall at all times comply with any requirements of U.S. government
+     authorities regarding the location and concealment of the cable facilities, buildings, and
+     apparatus for the purpose of protecting and safeguarding the cable from injury or
+     destruction by enemies of the United States;
+
+          (3)  The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it do not enjoy and shall not acquire any right to
+     handle traffic on a common carrier basis to or from the United States, its territories, or its
+     possessions unless such service be authorized by the Commission pursuant to Section 214
+     of the Communications Act, as amended;
+
+          (4)  The Licensee or any persons or companies controlling it, controlled by it, or under
+     direct or indirect common control with it shall not acquire or enjoy any right to land,
+     connect, or operate cables that is denied to any other United States company by reason of
+     any concession, contract, understanding, or working arrangement to which the Licensee or
+     any persons controlling it, controlled by it, or under direct or indirect common control
+     with it are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in
+     any manner either voluntarily or involuntarily disposed of or disposed of indirectly by
+     transfer of control of the Licensee to any persons, unless the Commission shall give prior
+     consent in writing;
+
+          (6) The Licensee shall notify the Commission in writing of the precise location of the cable landing
+     station in the United Kingdom.  Such notification with respect to any given landing location shall
+     occur no later than 90 days prior to commencing construction at that landing location.  The
+     Commission will give public notice of the filing of each description, and grant of this license will
+     be considered final with respect to that landing location unless the Commission issues a notice to
+     the contrary no later than 60 days after receipt of the specific description;
+
+          (7)  The Commission reserves the right to require the Licensee to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cable at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+          
+          (8)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose additional common carrier or common-carrier-
+     like regulation on the operations of the cable system if it finds that the public interest so requires;
+     
+          (9)  The Licensee shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+          (10)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to Section 2 of  "An Act relating to the Landing and Operation of Submarine Cables in
+     the United States"; 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+          (11)  The Licensee shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (12)  The terms and conditions upon which this license is given shall be accepted by the Licensee
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+     
+     17.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

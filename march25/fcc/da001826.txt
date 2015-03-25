@@ -1,0 +1,648 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+
+In the Matter of
+
+Telef¢nica SAM USA, Inc.
+
+And
+
+Telef¢nica SAM de Puerto Rico, Inc.
+
+Application for a License to Land and Operate
+in the United States a Private Submarine Fiber
+Optic Cable Network Extending Between
+Florida, Puerto Rico, Brazil, Argentina, Chile,
+Peru, and Guatemala
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+
+                 SCL-LIC-20000204-00003
+
+
+
+
+
+
+
+
+                     CABLE LANDING LICENSE
+
+   Adopted: August 9, 2000              Released: August 10, 2000
+
+Before the:  Chief, Telecommunications Division, International Bureau
+
+                      I.Introduction
+          1.   In this Order, we grant the application, subject to certain
+          conditions, of Telef¢nica SAM USA, Inc. (Telef¢nica SAM USA) and Telef¢nica
+          SAM de Puerto Rico, Inc. (Telef¢nica SAM de Puerto Rico), (collectively
+          "Applicants" or "Telef¢nica SAM,") under the Cable Landing License Act and
+          Executive Order No. 10530, for authority to land and operate a private fiber optic
+          submarine cable system to be called the South America-1 Cable Network (SAm-1
+          or "cable system"), extending between: Boca Raton, Florida; Isla Verde, Puerto
+          Rico; Fortaleza, Brazil; Salvador, Brazil; Rio de Janeiro, Brazil; Santos, Brazil;
+          Las Toninas, Argentina; Valparaiso, Chile; Arica, Chile; Lurin, Peru; Puerto San
+          Jos‚, Guatemala; and Puerto Barrios, Guatemala.  A map of the SAm-1 cable
+          system is attached as Exhibit A.  Applicants propose to operate the cable system
+          on a non-common carrier basis.  We find that Applicants have provided sufficient
+          information under our rules to comply with the Cable Landing License Act and
+          that it would serve the public interest to grant the cable landing license subject to
+          the conditions discussed below.
+                         II.Application
+          2.   According to the Application, as updated by Applicants' August 8,
+          2000 letter, Telef¢nica SAM USA, a Florida corporation, and Telef¢nica SAM de
+          Puerto Rico, a Puerto Rico corporation, through a series of intermediate holding
+          companies, are indirect, wholly-owned subsidiaries of Telef¢nica, S.A.
+          (Telef¢nica), a Spanish corporation.  Telef¢nica SAM USA and Telef¢nica SAM
+          Puerto Rico are wholly-owned by Telef¢nica SAM Uruguay, S.A. (Telef¢nica
+          SAM Uruguay), a corporation organized under the laws of Uruguay.  Telef¢nica
+          SAM Uruguay is wholly-owned by Emergia Holding N.V. (Emergia), a
+          Netherlands entity.  Emergia, in turn, is wholly-owned by Telef¢nica, the
+          dominant provider of domestic and international communications in Spain. 
+          Telef¢nica, through a series of 100-percent-owned subsidiaries, will indirectly
+          own the cable and each of the cable landing stations.
+          3.   As stated in the Application, Telef¢nica Internacional, S.A.
+          (TISA) entered into a joint venture with Tyco International Ltd., a Bermuda
+          corporation (Tyco), which provides for the transfer of 15 percent of the shares of
+          Telef¢nica SAM Uruguay to Tyco Gamma Ltd. (Tyco Gamma), a Bermuda
+          corporation and a wholly-owned subsidiary of Tyco, a diversified manufacturing
+          company that is publicly traded on the New York Stock Exchange.  In its letter of
+          August 8, 2000,  Telef¢nica SAM confirms that this transaction, through which
+          Tyco Gamma purchased 15 percent of the outstanding shares of Telef¢nica SAM
+          Uruguay, has closed into escrow pending European Union approval.  Telef¢nica
+          SAM states that, moreover, subject to future change, Tyco is expected to
+          exchange its 15 percent interest in Telef¢nica SAM Uruguay for six percent of the
+          shares of Emergia, and notes also that Emergia expects to go public on NASDAQ
+          with an initial public offering in the near future.  Applicants indicate that they
+          will notify the Commission once this transaction is completed.
+          4.   According to the Application, SAm-1 will be a 25,000 km long
+          system (22,000 km of submarine cable and 3,000 km of terrestrial links across
+          Argentina, Chile and Guatemala) in a self-healing ring architecture comprised of
+          four fiber pairs ultimately capable of carrying 48 channels at 10 Gbps each. 
+          Initial capacity on the SAm-1 system will be 40 Gbps.  Multiple upgrades will be
+          possible using dense wave division multiplexing (DWDM) up to 1.92 Tbps. 
+          Applicants anticipate having the system in service by November 30, 2000. 
+          SAm-1's undersea cable segments and their capacity are summarized in Exhibit B
+          attached to this Order.
+                                
+                           1Comments
+2.We placed the Application on public notice on February 18, 2000. 
+Tyco Submarine Systems Ltd. (Tyco Submarine) filed comments in support of the
+application on March 17, 2000.  Pursuant to Section 1.767(b) of the
+Commission's rules, the Cable Landing License Act, and Executive Order No.
+10530, we informed the Department of State of the Application.  The
+Department of State, after coordinating with the National Telecommunications
+and Information Administration and the Department of Defense, stated that it has
+no objection to the issuance of the cable landing license.
+                         IV.Discussion
+          3.   Section 35 of the Cable Landing License Act provides that licenses
+          may be granted upon "such terms as shall be necessary to assure just and
+          reasonable rates and service in the operation and use of cables so licensed."  In
+          the Foreign Participation Order, the Commission adopted a presumption in
+          favor of granting applications by applicants that are affiliated with carriers in
+          destination markets that are World Trade Organization (WTO) members.  The
+          Commission observed that if a particular application presents unusual risks to
+          competition, the Commission can address most potential problems by imposing
+          conditions on the license.  Each of the five countries in which the proposed cable
+          would land where Applicants have foreign carrier affiliations as described below
+          is a WTO member.
+          4.   Applicants list the following foreign carriers with whom they are
+          affiliated in the countries where they propose to operate the SAm-1 cable. 
+          Applicants have certified that they are controlled by Telef¢nica, which controls
+          foreign carriers in Argentina, Brazil, Chile, Guatemala, and Peru, all destination
+          countries for SAm-1.  In three of these countries, Argentina, Chile, and Peru, the
+          foreign carriers possess market power as more fully-described below:
+     (a) Argentina:  Telef¢nica indirectly owns 71.5 percent of Telef¢nica de Argentina, S.A.
+     (TASA), which provides telephone service throughout Argentina.  TASA also owns 99.9
+     percent of Telef¢nica Larga Distancia de Argentina, which provides international services
+     in Argentina.  TISA manages TASA pursuant to a management agreement.
+     
+     (b) Brazil:  TISA holds a controlling interest in the following three local wireless carriers:
+     (1) Telerj Celular S.A. (Rio de Janeiro); (2) Telest Celular S.A. (Spirito Santo); and (3)
+     Celular CRT S.A. (previously a part of the local wireline carrier, Companhia
+     Riograndense de Telecomunica‡ es S.A.).  Telef¢nica indirectly owns 85.6 percent of
+     Telesp S.A., which provides local and domestic long distance services, and 86 percent of
+     Tele Sudeste Celular.
+     
+     (c) Chile:  Telef¢nica International Holding (TI Holding) owns approximately 43.64
+     percent of Compa¤ia Tel‚fonos de Chile (CTC).  This approximately 43.64 percent
+     ownership of CTC results from TI Holding's 100 percent ownership of Telef¢nica Chile
+     Holding B.V., which in turn owns 100  percent of CTC's immediate parent, Telef¢nica
+     Internacional de Chile, S.A., which owns 43.64 percent of CTC.  CTC provides local
+     exchange, long distance and international services. 
+
+     (d) Guatemala:  TISA holds a controlling 51 percent interest, through TCG Holdings
+     S.A., in (1) Tele Escucha S.A., which provides paging services in Guatemala; and (2)
+     Telef¢nica CentroAmerica Guatemala S.A., which provides long distance and wireless
+     services in Guatemala.
+     
+     (e) Peru:  Telef¢nica indirectly owns 93.2 percent of Telef¢nica del Peru, S.A. (TDP), a
+     provider of local, long distance and international services in Peru. Telef¢nica Peru
+     Holding, S.A. controls a majority of the TDP Board and TISA has a management contract
+     to operate TDP.
+          5.   Because the proposed cable's foreign carrier affiliates are in
+          countries that are WTO members, there is a presumption in favor of granting
+          Telefonica SAM's application to land and operate the SAm-1 cable in the United
+          States.  We find no reason, based on the record before us, to rebut this
+          presumption.  However, as discussed below, where these affiliations are with
+          dominant carriers, we imposed certain conditions designed to address possible
+          harms to competition.
+          6.   The Commission allows submarine cables to be operated on either
+          a common carrier or non-common carrier basis, and requires a cable landing
+          license applicant to indicate under which of these two regulatory categories it
+          seeks to operate.   Applicants seek authorization to operate SAm-1 on a non-
+          common carrier basis.  As a non-common carrier cable, SAm-1 would not be
+          required to make its capacity available indifferently to the user public. 
+          7.   The Commission's private submarine cable policy is intended to
+          promote competition in the provision of international transmission facilities.  In
+          determining whether a cable system qualifies to be operated on a non-common
+          carrier basis, the Commission uses the two-part test set forth by the United States
+          Court of Appeals for the District of Columbia Circuit in NARUC I.  Pursuant to
+          this policy, the Commission has authorized non-common carrier cables where: 1)
+          there is no legal compulsion to serve the public indifferently; and 2) there are no
+          reasons implicit in the nature of the operations of the submarine cable system to
+          expect an indifferent holding-out to the eligible user public.
+          8.   In applying the first prong of NARUC I to submarine cable
+          authorizations, the Commission has stated that there will be no legal compulsion
+          to serve the public indifferently where there is no public interest reason to require
+          the facilities to be offered on a common carrier basis.  This public interest
+          analysis has focused on the availability of alternative facilities, although the
+          Commission has stated it is not limited to that reasoning.  Where there are
+          sufficient alternatives, the Commission has found that the public interest does not
+          require the licensee to offer capacity on the proposed cable on a common carrier
+          basis, but rather, in those circumstances, the public interest would be served by
+          allowing a submarine cable to be operated on a non-common carrier basis. 
+          9.   If the Commission finds that there is no public interest reason to
+          require the submarine cable facilities to be offered on a common carrier basis,
+          then, under the second prong of the NARUC I test, the Commission considers
+          whether there is reason to expect an indifferent holding-out by the applicant to the
+          eligible user public.  If the Commission finds that an applicant has shown that it
+          will make individualized decisions whether and on what terms to provide service
+          and will not undertake to serve all customers indifferently, the Commission has
+          held that the second prong of the test has been met. 
+          10.  Notwithstanding a Commission decision not to require a submarine
+          cable system to be operated on a common carrier basis, the Commission retains
+          the authority to impose common carrier or common-carrier-like obligations on the
+          operations of that cable system, if the public interest so requires.  Furthermore,
+          the Commission has always maintained the authority subsequently to classify
+          facilities as common carrier facilities subject to Title II of the Communications
+          Act if the public interest requires that the facilities be offered to the public
+          indifferently. 
+          11.  In this case, with respect to the second prong of the test, Applicants
+          propose to operate the SAm-1 network on a non-common carrier basis and will
+          not hold themselves out to serve the public indifferently, but will make
+          individualized decisions in particular cases whether and on what terms to deal
+          with prospective customers.  Based on these representations, we conclude that
+          there is no reason to expect an indifferent holding-out to the eligible user public.
+          12.  With respect to the first prong of the test, Applicants assert that
+          there are sufficient existing and planned facilities on the route to prevent them
+          from exercising market power in offering services to the public.  Applicants
+          assert that there are a number of planned common carrier and private cable
+          systems in the region, including the following cables extending to one or more
+          of the countries other than the United States in which SAm-1 would land:  (1)
+          Americas-I (authorized on a common carrier basis to serve the U.S. Mainland, the
+          U.S. Virgin Islands, Brazil, Trinidad, and Venezuela);  (2) Americas-II
+          (authorized on a common carrier basis to serve Florida, Puerto Rico, the U.S.
+          Virgin Islands, Martinique, Curacao, Trinidad, Venezuela, French Guiana, and
+          Brazil); (3) ARCOS-1 (authorized on a non-common carrier basis to serve the
+          U.S. Mainland, Puerto Rico, the Bahamas, the Dominican Republic, the Turks and
+          Caicos Islands, Mexico, Belize, Guatemala, Honduras, Nicaragua, Costa Rica,
+          Panama, Colombia, Venezuela and Curacao); (4) Atlantica-I (authorized on a
+          non-common carrier basis to serve the U.S., Venezuela, Brazil and Bermuda);
+          (5) Pan American (authorized on a common carrier basis to serve the U.S. Virgin
+          Islands, Aruba, Venezuela, Colombia, Panama, Ecuador, Peru, and Chile);  (6)
+          Project Oxygen (authorized on a non-common carrier basis to serve, among other
+          landing points, Puerto Rico, Colombia, Venezuela, Brazil, Uruguay, Argentina,
+          Chile, and Peru); and (7) South American Crossing or SAC (authorized on a
+          non-common carrier basis to serve the U.S. Virgin Islands, Brazil, Argentina,
+          Chile, Peru, Colombia, and Panama).  
+          13.  We find that the public interest would be served by the provision
+          of additional capacity on the routes proposed to be served by SAm-1, particularly
+          on the U.S.-Argentina, U.S.-Chile, and U.S.-Peru routes.  Currently, only one U.S.
+          cable, Pan American, directly serves Chile and Peru, and no U.S. cable directly
+          serves Argentina.  As noted above, we recently authorized SAC Landing Corp. to
+          land and operate in the United States the South American Crossing Cable, a
+          digital submarine cable system that will extend between the United States and
+          Argentina, Brazil, Chile, Colombia, Panama, and Peru.
+          14.  In its recent Notice of Proposed Rulemaking addressing
+          competition in the submarine cable market, the Commission noted the importance
+          of promoting the expansion of capacity and facilities-based competition, which
+          will result in innovation and lower prices for U.S. consumers of international
+          communications services.  At the same time, there is risk of competitive harm to
+          U.S. consumers and to competitive providers, including telecommunications
+          service providers and information service providers, on the U.S.-Argentina, U.S.-
+          Chile, and U.S.-Peru routes due to Telef¢nica SAM's affiliation with dominant
+          foreign carriers and foreign cable landing stations in those foreign destinations.  
+          15.  Telef¢nica SAM's U.S. affiliate, TLD, has been found to be
+          subject to the Commission's dominant carrier regulations on the U.S.-Chile and
+          U.S.-Peru routes because of these same foreign affiliations.  The Telef¢nica
+          SAM Applicants, like their U.S. affiliate TLD, are entities under the control of
+          Telef¢nica, the dominant telecommunications provider in Spain that also owns
+          and controls foreign carriers and the foreign cable landing stations in Argentina,
+          Chile, and Peru.  If Telef¢nica SAM had applied to land and operate SAm-1 on a
+          common carrier basis, under the Commission's existing rules and precedent, we
+          would apply the Commission's dominant carrier regulations to Telef¢nica SAM
+          for three of the five destination markets:  Argentina, Chile, and Peru.  On these
+          routes, we would impose dominant carrier regulation designed to detect and deter
+          anticompetitive behavior due to Telef¢nica SAM's affiliation with the foreign
+          carriers that have market power in the relevant markets, including anticompetitive
+          behavior with respect to access to cable landing stations and backhaul facilities, in
+          each of these three countries. We are concerned about terms for provisioning
+          facilities, repairs, and interconnection that might be detrimental to unaffiliated
+          entities, including telecommunications service providers and information service
+          providers, and U.S. consumers.  Specifically, we are concerned that:  (1) the
+          dominant foreign carriers and foreign cable landing station owners might favor
+          Telef¢nica SAM, TLD, or other affiliates such as Telef¢nica's information service
+          provider; and (2) Telef¢nica SAM might favor its affiliates.  We conclude,
+          however, that we can address these concerns through a limited set of conditions.  
+          16.  In the Telef¢nica SAM August 8, 2000 Letter, in which Applicants
+          provided additional information as described above, Applicants also indicated that
+          they would not oppose certain conditions for operation of the SAm-1 cable on the
+          U.S.-Argentina, U.S.-Chile, and U.S.-Peru routes, in response to concerns of the
+          International Bureau due to Applicants' affiliation with dominant carriers and
+          foreign landing stations in these three destination countries.
+          17.  Reporting Conditions.  Section 63.10(c) of the Commission's rules
+          imposes requirements on common carriers classified as dominant for the
+          provision of particular services on particular routes.  Among other things, Section
+          63.10(c) requires a dominant carrier to file quarterly reports summarizing: (1) the
+          provisioning and maintenance of all telecommunications network facilities and
+          services procured from its foreign carrier affiliate or from an allied foreign
+          affiliate; and (2) the status of circuit activation, in the format set out by the
+          Section 43.82 annual circuit status manual.  Section 63.21(h) of the
+          Commission's rules requires carriers regulated as dominant to provide the
+          Commission with certain information within 30 days after conveyance of
+          transmission capacity on submarine cables. These conditions are designed to
+          detect and deter anticompetitive behavior in the U.S. market by foreign carriers
+          and their affiliated U.S. carriers by requiring these U.S. carriers to file reports that
+          allow the Commission and others to determine whether they receive favorable
+          treatment at the expense of unaffiliated U.S. carriers and U.S. consumers. 
+          18.  Applicants have agreed to a condition under which they would
+          provide the Commission with the following three reports:
+     (1)  Quarterly circuit status reports (within 90 days from the end of each calendar
+     quarter) in the format set out by the Section 43.82 annual circuit status manual;
+     (2)  Quarterly reports (within 90 days from the end of each calendar quarter)
+     summarizing the provisioning and maintenance of all network facilities and services
+     procured from Applicants' dominant affiliates and foreign cable landing stations in
+     Argentina, Chile, and Peru, including, but not limited to those services procured on behalf
+     of customers or any joint venture in which Applicants and any dominant affiliates
+     participate.  This report will contain the information required in Section 63.10(c)(4) of the
+     Commission's Rules, 47 C.F.R.  63.10(c)(4); and
+     (3)  Reports (within 30 days after conveyance of transmission capacity on the SAm-1
+     cable system) identifying the party to whom capacity was conveyed, and the amount and
+     price of the capacity conveyed. 
+          19.  These reports are designed to help detect and deter possible
+          anticompetitive behavior in the provisioning, maintenance, activation, and
+          conveyance of transmission capacity on the routes between the United States and
+          Argentina, Chile, and Peru.
+          20.  No Special Concessions Condition.  Section 63.14 of the
+          Commission's rules, prohibits any U.S. carrier authorized to provide international
+          service from agreeing to accept special concessions from any foreign carrier with
+          respect to any U.S. international route where the foreign carrier possesses
+          sufficient market power at the foreign end of the route to affect competition
+          adversely in the U.S. market and from agreeing to accept special concessions in
+          the future.  This rule is designed to prevent the leveraging of foreign market
+          power into the U.S. international services market.
+          21.  Applicants state that they are willing to commit not to either
+          directly or indirectly accept from nor offer to an affiliated dominant carrier or
+          foreign landing station in Argentina, Chile, or Peru a "special concession," as that
+          term is defined in Section 63.14(b) of the Commission's rules, 47 C.F.R. 
+          63.14(b).  
+          22.  This condition is designed to address the ability and incentive of
+          affiliated service providers and cable station operators at both the U.S. and foreign
+          ends of SAm-1 to engage jointly in anticompetitive conduct to the detriment of
+          U.S. consumers.
+          23.  Availability of Capacity and Access to Backhaul Conditions.  In its
+          Section 214 authorizations for common carrier cables, the Commission routinely
+          orders the licensees to make available half-interests in capacity to such present
+          and future U.S. carriers as may be authorized by the Commission to acquire such
+          capacity.
+          24.  Applicants state that they will make capacity on the SAm-1 cable
+          available, on a nondiscriminatory basis, to all potential customers, including all
+          information service providers, licensed carriers, and others.  Applicants also
+          state that their standard cable capacity lease agreement allows for unrestricted
+          resale or transfer of cable capacity.  We adopt as conditions to the cable landing
+          license: a requirement that Applicants make capacity on the SAm-1 cable
+          available, on a nondiscriminatory basis, to all customers, including all information
+          service providers, licensed carriers, and others; and a requirement that Applicants'
+          standard cable capacity lease agreement allow for unrestricted resale or transfer of
+          cable capacity.
+          25.   Applicants also state that Telef¢nica SAm will provide backhaul
+          itself in Argentina, Chile, and Peru.  Applicants state further that this backhaul
+          capacity has been acquired from their affiliates on an arms-length basis, and that
+          Applicants are negotiating with third parties to acquire backhaul facilities. 
+          Applicants also state that they are committed to allowing unaffiliated parties to
+          provide backhaul capacity and that the terms and conditions that will govern the
+          lease of cable capacity will permit, on a nondiscriminatory basis, collocation
+          space in the cable landing stations as well as access to cable capacity and
+          backhaul.  Applicants also agree to provide the Commission with their standard
+          cable capacity lease agreement.  We adopt as conditions to the cable landing
+          license: a requirement that Applicants allow unaffiliated parties to provide
+          backhaul capacity and permit, on a nondiscriminatory basis, collocation space in
+          the cable landing stations as well as access to cable capacity and backhaul; and a
+          requirement that Applicants provide the Commission with their standard cable
+          capacity lease agreement.
+          26.  These safeguards regarding capacity and backhaul should help
+          ensure that Applicants make capacity on SAm-1 available to unaffiliated entities
+          on a nondiscriminatory basis.
+          27.  The conditions agreed to by Applicants, along with the conditions
+          regularly attached to the grant of non-common carrier cables, should serve to
+          address our concerns that Telef¢nica SAM's foreign affiliates with market power
+          in Argentina, Chile, and Peru might favor SAm-1 or affiliated
+          telecommunications and information service providers on these routes, or that
+          Telef¢nica SAM might favor its affiliates to the detriment of unaffiliated U.S.
+          service providers. We note that Applicants may propose the lifting of one or more
+          of the conditions specific to the SAm-1 cable system (in ordering clauses 13
+          through 18) based on a showing that the predicates for the conditions have
+          changed materially.
+          28.  We conclude that Applicants will not offer capacity in SAm-1 to
+          the public on a common carrier basis and that the public interest does not require
+          that they do so.  Accordingly, we conclude that it is appropriate to license SAm-1
+          on a non-common carrier basis, but with certain common-carrier-like conditions
+          designed to detect and deter anticompetitive activity detrimental to U.S.
+          consumers.  If the public interest should require, we retain the authority to modify
+          these conditions and to classify these facilities as common carrier facilities subject
+          to Title II of the Communications Act.  We also find that Applicants will not
+          provide a telecommunications service for a fee to such class of users as to be
+          "effectively available directly to the public" and thus will not be
+          "telecommunications carriers" under the 1996 Act. 
+              V.Ownership and Landing Points
+29.Applicants have provided the ownership information required by
+Sections 1.767(a)(6) and 63.18 of the Commission's rules. According to the
+Application, as updated by Applicants' August 8, 2000 letter, Telef¢nica SAM
+USA and Telef¢nica SAM de Puerto Rico, through a series of intermediate
+holding companies, are indirect, wholly-owned subsidiaries of Telef¢nica. 
+Telef¢nica SAM USA and Telef¢nica SAM Puerto Rico are wholly-owned by
+Telef¢nica SAM Uruguay.  Telef¢nica SAM Uruguay is wholly-owned by
+Emergia.  Emergia, in turn, is wholly-owned by Telef¢nica, the dominant provider
+of domestic and international communications in Spain.  Telef¢nica, through a
+series of 100-percent-owned subsidiaries, will indirectly own the cable and each
+           of the cable landing stations. 
+30.Applicants have stated that the SAm-1 cable will land at Boca Raton,
+Florida; Isla Verde, Puerto Rico; Fortaleza, Brazil; Salvador, Brazil; Rio de
+Janeiro, Brazil; Santos, Brazil; Las Toninas, Argentina; Valparaiso, Chile; Arica,
+Chile; Lurin, Peru; Puerto San Jos‚, Guatemala; and Puerto Barrios, Guatemala. 
+We find Applicants' description of the likely landing points satisfies Section
+1.767 of the Commission's rules.  Section 1.767(a) of the Commission's rules
+permits applicants in an initial application to provide a general description of the
+landing points.  Applicants must file a specific description of any landing point,
+including a map, no later than 90 days prior to construction at that landing point. 
+The Commission will give public notice of the filing of the specific description,
+and grant of the license will be considered final with respect to that landing point
+unless the Commission notifies Applicants to the contrary no later than 60 days
+after receipt of the specific description of the landing point.
+                    VI.Environmental Impact
+          31.  The Commission has found that the construction of new submarine
+          cable systems, individually and cumulatively, will not have a significant effect on
+          the environment and therefore should be expressly excluded from our procedures
+          implementing the National Environmental Policy Act of 1969.  Therefore,
+          Applicants are not required to submit an environmental assessment, and this
+          application is categorically excluded from environmental processing.
+
+                          1Conclusion
+                                
+2.We grant Telef¢nica SAM USA and Telef¢nica SAM Puerto Rico's
+Application for authority to land and operate a non-common carrier fiber optic
+submarine cable extending between Boca Raton, Florida; Isla Verde, Puerto Rico;
+Fortaleza, Brazil; Salvador, Brazil; Rio de Janeiro, Brazil; Santos, Brazil; Las
+Toninas, Argentina; Valparaiso, Chile; Arica, Chile; Lurin, Peru; Puerto San Jos‚,
+Guatemala; and Puerto Barrios, Guatemala, subject to the conditions listed below.
+                                
+                   III.Ordering Clauses
+                                
+4.Consistent with the foregoing and pursuant to the Cable Landing License
+Act and Executive Order 10530, we hereby GRANT AND ISSUE Applicants a
+license to land and operate the SAm-1 Cable Network optical fiber submarine
+cable system (consisting of four fiber pairs initially operating at 40 Gbps in a self-
+healing ring configuration, expandable to 48 channels at 10 Gbps each, for a total
+design capacity of 480 Gbps, and with multiple upgrade capability using dense
+wave division multiplexing up to 1.92 terabits per second) extending between
+landing points at cable stations in Boca Raton, Florida; Isla Verde, Puerto Rico;
+Santos, Brazil; Rio de Janeiro, Brazil; Salvador, Brazil; Fortaleza, Brazil; Las
+Toninas, Argentina; Arica, Chile; Lurin, Peru; Puerto San Jos‚, Guatemala; and
+Puerto Barrios, Guatemala.  This grant is subject to all rules and regulations of the
+Federal Communications Commission; any treaties or conventions relating to
+communications to which the United States is or may hereafter become a party;
+any action by the Commission or the Congress of the United States rescinding,
+changing, modifying or amending any rights accruing to any person hereunder;
+            and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States, its
+     territories and possessions, and upon its shore shall be in conformity with plans approved
+     by the Secretary of the Army, and the cable shall be moved or shifted by the Licensees at
+     their expense upon the request of the Secretary of the Army whenever he or she considers
+     such course necessary in the public interest, for reasons of national defense, or for the
+     maintenance or improvement of harbors for navigational purposes;
+          (2)  The Licensees shall at all times comply with any requirements of U.S. government
+     authorities regarding the location and concealment of the cable facilities, buildings, and
+     apparatus for the purpose of protecting and safeguarding the cable from injury or
+     destruction by enemies of the United States;
+          (3)  The Licensees or any persons or companies controlling them, controlled by them, or
+     under direct or indirect common control with them do not enjoy and shall not acquire any
+     right to handle traffic on a common carrier basis to or from the United States, its
+     territories, or its possessions unless such service be authorized by the Commission
+     pursuant to Section 214 of the Communications Act, as amended;
+          (4)  The Licensees or any persons or companies controlling them, controlled by them, or
+     under direct or indirect common control with them shall not acquire or enjoy any right for
+     the purpose of handling or interchanging traffic to or from the United States, its
+     territories, or its possessions to land, connect, or operate cables or land lines, to construct
+     or operate radio stations, or to interchange traffic, that is denied to any other United
+     States company by reason of any concession, contract, understanding, or working
+     arrangement to which the Licensees or any persons controlling them, controlled by them,
+     or under direct or indirect common control with them are parties;
+     (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in
+     any manner either voluntarily or involuntarily disposed of or disposed of indirectly by
+     transfer of control of the Licensees to any persons, unless the Commission shall give
+     prior consent in writing;
+          (6)  The Licensees shall notify the Commission in writing of the precise locations at
+     which the cable will land in Boca Raton, Florida; Isla Verde, Puerto Rico; Fortaleza,
+     Brazil; Salvador, Brazil; Rio de Janeiro, Brazil; Santos, Brazil; Las Toninas, Argentina;
+     Valparaiso, Chile; Arica, Chile; Lurin, Peru; Puerto San Jos‚, Guatemala; and Puerto
+     Barrios, Guatemala.  Such notification with respect to any given landing location shall
+     occur no later than 90 days prior to commencing construction at that landing location. 
+     The Commission will give public notice of the filing of each description, and grant of this
+     license will be considered final with respect to that landing location unless the
+     Commission issues a notice to the contrary no later than 60 days after receipt of the
+     specific description; 
+          (7)  The Commission reserves the right to require the Licensees to file an environmental
+     assessment or environmental impact statement should it determine that the landing of the
+     cable at those locations and construction of necessary cable landing stations would
+     significantly affect the environment within the meaning of Section 1.1307 of the
+     Commission's procedures implementing the National Environmental Policy Act of 1969;
+     this license is subject to modification by the Commission upon its review of any
+     environmental assessment or environmental impact statement that it may require pursuant
+     to its rules;
+          (8)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive
+     Order No. 10530, as amended; and Section 214 of the Communications Act of 1934, as
+     amended, 47 U.S.C.  214, the Commission reserves the right to impose common carrier
+     or common-carrier-like regulation on the operations of the cable system if it finds that the
+     public interest so requires; 
+          (9)  The Licensees shall maintain de jure and de facto control of the U.S. portion of the
+     cable system, including the cable landing stations in the United States, sufficient to comply
+     with the requirements of this license;  
+          (10)  This license is revocable by the Commission after due notice and opportunity for
+     hearing pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for
+     failure to comply with the terms of the authorizations;
+          (11)  The Licensees shall notify the Commission in writing of the date on which the cable
+     is placed in service, and this license shall expire 25 years from such date, unless renewed or
+     extended upon proper application, and, upon expiration of this license, all rights granted
+     under it shall be terminated;
+     (12)  The terms and conditions upon which this license is given shall be accepted by the
+     Licensees by filing a letter with the Secretary, Federal Communications Commission,
+     Washington, D.C. 20554, within 30 days of the release of the cable landing license;
+     (13)  The Licensees shall make capacity on the SAm-1 cable available, on a
+     nondiscriminatory basis, to all customers, including all information service providers,
+     licensed carriers, and others.  The Licensees' standard cable capacity lease agreement
+     shall allow for unrestricted resale or transfer of cable capacity;
+     (14)  The Licensees shall allow unaffiliated parties to provide backhaul capacity and shall
+     permit, on a nondiscriminatory basis, collocation space in the cable landing stations as
+     well as access to cable capacity and backhaul.  The Licensees shall also provide the
+     Commission with their standard cable capacity lease agreement;
+     (15)  The Licensees shall not either directly or indirectly accept from nor offer to an
+     affiliated dominant carrier or foreign landing station in Argentina, Chile, or Peru a
+     "special concession," as that term is defined in Section 63.14(b) of the Commission's
+     rules, 47 C.F.R.  63.14(b); and
+     (16)  The Licensees shall provide the Commission with the following three reports:
+          (a) Quarterly circuit status reports (within 90 days from the end of each
+          calendar quarter) in the format set out by the Section 43.82 annual
+          circuit status manual;
+          
+          (b) Quarterly reports (within 90 days from the end of each calendar
+          quarter) summarizing the provisioning and maintenance of all
+          network facilities and services procured from the Licensees'
+          dominant affiliates and foreign cable landing stations in Argentina,
+          Chile, and Peru, including, but not limited to those services
+          procured on behalf of customers or any joint venture in which the
+          Licensees and any dominant affiliates participate; this report will
+          contain the information required in Section 63.10(c)(4) of the
+          Commission's Rules, 47 C.F.R.  63.10(c)(4); and
+               
+          (c) Reports (within 30 days after conveyance of transmission capacity on the
+          SAm-1 cable system) identifying the party to whom capacity was conveyed, and
+          the amount and price of the capacity conveyed.
+          
+          5.   This order is issued under Section 0.261 of the Commission's rules,
+          47 C.F.R.  0.261, and is effective upon adoption.  Petitions for reconsideration
+          under Section 1.106 or applications for review under Section 1.115 of the
+          Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of the
+          date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                         International Bureau
+
+
+
+                           Exhibit A
+                                                           Exhibit B
+        SAm-1 Undersea Cable Segments and their Capacity
+                                
+                                
+                                
+                     Undersea Line Segment
+                          Fiber Pairs
+                          Capacity per
+                           Fiber Pair
+                             (Gbps)
+                                
+                                
+            Santos, Brazil to Las Toninas, Argentina
+                               4
+                              480
+                                
+                                
+            Rio de Janeiro, Brazil to Santos, Brazil
+                               2
+                              480
+                                
+                                
+           Salvador, Brazil to Rio De Janeiro, Brazil
+                               2
+                              480
+                                
+                                
+             Fortaleza, Brazil to Salvador, Brazil
+                               2
+                              480
+                                
+                                
+              Fortaleza, Brazil to Santos, Brazil
+                               2
+                              480
+                                
+                                
+          Isla Verde, Puerto Rico to Fortaleza, Brazil
+                               4
+                              480
+                                
+                                
+         Boca Raton, Florida to Isla Verde, Puerto Rico
+                               4
+                              480
+                                
+                                
+        Puerto Barrios, Guatemala to Boca Raton, Florida
+                               4
+                              480
+                                
+                                
+           Lurin, Peru to Puerto San Jos‚, Guatemala
+                               4
+                              480
+                                
+                                
+                  Arica, Chile to Lurin, Peru
+                               4
+                              480
+                                
+                                
+               Valparaiso, Chile to Arica, Chile
+                               4
+                              480
+                                
+                                

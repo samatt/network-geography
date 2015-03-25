@@ -1,0 +1,516 @@
+                            APPENDIX D
+              Final Regulatory Flexibility Analysis
+
+     1.   As required by the Regulatory Flexibility Act (RFA), an Initial Regulatory Flexibility
+Analysis (IRFA) was included in the Notice of Proposed Rulemaking in this proceeding.  The Commission
+sought written public comment on the proposals in the Notice, including comment on the IRFA.  This Final
+Regulatory Flexibility Analysis (FRFA) conforms to the RFA.  This analysis also serves as the FRFA for
+the issues disposed of here on reconsideration of the Foreign Carrier Entry Order.
+
+Need for, and Objectives of, the Rules and Policies Adopted Here
+
+     2.   This Report and Order and Order on Reconsideration adopts a liberalized standard for
+participation by foreign and foreign-affiliated entities in the U.S. telecommunications markets.  This open
+entry standard will apply to the provision of international telecommunications services under Section 214 of
+the Communications Act, indirect foreign ownership of common carrier radio licensees under Section
+310(b)(4), and cable landing licenses under the Submarine Cable Landing License Act.  It also revises the
+Commission's regulatory safeguards governing the provision of international telecommunications services
+in light of recent changes in the world's telecommunications market and the Commission's liberalized
+standard for participation by foreign and foreign-affiliated entities.  The Commission has deemed these
+changes appropriate in light of the recent World Trade Organization (WTO) Basic Telecommunications
+Services Agreement and the worldwide trend toward deregulation and competition in the provision of
+telecommunications services.  Our objective is to increase competition in the U.S. telecommunications
+markets while minimizing the risk of anticompetitive harm and encouraging foreign governments to open
+their telecommunications markets.  In light of the changed circumstances that will result from the WTO
+Basic Telecom Agreement and our nearly two years of experience with our current rules on market entry
+and regulation of foreign-affiliated entities, we find that reducing entry barriers for applicants affiliated
+with entities from WTO Member countries is the appropriate way to accomplish that objective.  The
+Commission believes that it is no longer necessary to apply the "effective competitive opportunities" (ECO)
+test developed in the 1995 Foreign Carrier Entry Order to countries that are Members of the WTO. 
+Instead, we will rely primarily on regulatory safeguards and benchmark settlement rates to reduce the
+potential for anticompetitive conduct in the U.S. market.  We revise some of those safeguards in this Order.
+
+Summary of Significant Issues Raised by Public Comments in Response to the IRFA
+
+     3.   No comments were submitted specifically in response to the IRFA.  Nevertheless, we have
+considered, in developing these rules and policies, any potential significant economic impact on small
+entities.  We have attempted to minimize the burdens imposed on all entities, including small entities, in
+order to promote participation by new entrants in the U.S. telecommunications markets.
+
+     4.   NextWave raised comments in response to the Notice specific to the impact of our policy
+toward indirect foreign investment in C-block and F-block licensees.  Those blocks, known as
+"entrepreneur" blocks, are reserved for small businesses and entrepreneurs.  NextWave states that it and
+other entrepreneurial carriers are dependent on financing from a variety of sources, including foreign
+investment, and that access to foreign capital is vital to their financial viability.  NextWave argues that
+indirect foreign investment in C-block and F-block licensees presents "no conceivable risk to competition"
+because those licenses are held by entrepreneurs who are new entrants into the markets.  NextWave
+proposes that, for that reason, the Commission should conclude that indirect foreign investment in C-block
+and F-block personal communications systems (PCS) licensees by any entity whose home market is a WTO
+Member country serves the public interest and should not be subject to prior Commission approval. 
+NextWave also urges the Commission, in the alternative, to establish an expedited process and timetable
+for addressing applications to exceed the 25 percent benchmark for indirect foreign ownership of common
+carrier wireless licensees.
+
+     5.   Telephone and Data Systems (TDS) proposed that the Commission permit without prior
+approval any amount of indirect foreign ownership of common carrier radio licensees held in the form of
+registered securities when the foreign investor is not a carrier and comes from one of the 64 other WTO
+Member countries that has committed to enforce fair rules of competition for basic telecommunications. 
+Under TDS's proposal, the Commission would continue to require prior approval for investors from other
+WTO Member countries, for investors from non-WTO countries, and from all foreign carriers.  TDS
+suggested that we scrutinize filings with the Securities and Exchange Commission to monitor foreign
+ownership of registered securities and that we rely on revocation, instead of prior approval, to protect the
+public interest pursuant to Section 310(b)(4).  TDS states that adoption of its proposal would significantly
+reduce burdens on common carrier radio licensees, who currently must research the nationalities of their
+individual shareholders in order to remain in compliance with the restrictions on foreign ownership.
+
+Description and Estimate of the Number of Small Entities to Which the Rules Will Apply
+
+     6.   We received no comments in response to our estimates in the IRFA of the number of small
+entities to which the proposed rules would apply.  We conclude that the IRFA's estimates are the best
+available estimates of the number of small entities that the rules we adopt here will affect and that those
+estimates are sufficiently useful in enabling us to attempt to minimize the economic impact of our rules on
+small entities.
+
+     7.   The RFA generally defines small entity as having the same meaning as the terms small
+business, small organization, and small governmental jurisdiction and defines small business as having
+the same meaning as the term small business concern under section 3 of the Small Business Act unless the
+Commission has developed one or more definitions that are appropriate for its activities.  The Small
+Business Act defines small business concern as one that (1) is independently owned and operated; (2) is
+not dominant in its field of operation; and (3) satisfies any additional criteria established by the Small
+Business Administration (SBA).
+
+     8.   The rules adopted in this Order apply only to entities providing international common
+carrier services pursuant to Section 214 of the Communications Act; entities providing domestic or
+international wireless common carrier, aeronautical enroute, or aeronautical fixed services under Section
+309 of the Act; and entities licensed to construct and operate submarine cables under the Cable Landing
+License Act.
+
+     9.   Because the small incumbent local exchange carriers (LECs) subject to these rules are
+either dominant in their fields of operations or are not independently owned and operated, consistent with
+our prior practice, they are excluded from the definitions of small entity and small business concern. 
+Accordingly, our use of the terms small entities and small businesses does not encompass small incumbent
+LECs.  Out of an abundance of caution, however, for the purposes of this FRFA, we will consider small
+incumbent LECs to be within this analysis, where a small incumbent LEC is any incumbent LEC that
+arguably might be defined by the SBA as a "small business concern."
+
+     a.  Section 214 International Common Carrier Services
+
+     10.  Entities providing international common carrier service pursuant to Section 214 of the Act
+fall into the SBA's Standard Industrial Classification (SIC) categories for Radiotelephone Communications
+(SIC 4812) and Telephone Communications, Except Radiotelephone (SIC 4813).  The SBA's definition of
+small entity for those categories is one with fewer than 1,500 employees.  We discuss below the number
+of small entities falling within these two subcategories that may be affected by the rules adopted in this
+Order.
+
+     11.  The most reliable source of information regarding the number of international common
+carriers is the data that we collect annually in connection with the Telecommunications Industry Revenue: 
+Telecommunications Relay Service Fund Worksheet Data (TRS Worksheet).  In 1995, 445 toll carriers
+filed TRS fund worksheets.  We believe that between 50 and 200 carriers failed to file TRS fund
+worksheets.  We believe also that fewer than 10 toll carriers had 1,500 or more employees.  Thus, at most
+635 international carriers would be classified as small entities.  Many TRS filers, however, are affiliated
+with other carriers, and therefore the number of aggregated carriers is far fewer than the preceding
+estimate.  Of the 445 toll filers, 239 reported no carrier affiliates.  Adding 50 non-filers gives a lower
+estimate of 289 international carriers that would be classified as small entities.  Thus, our best estimate of
+the total number of small entities is between 289 and 635.  We are unable at this time to estimate with
+greater precision the number of international carriers that would qualify as small business entities under the
+SBA's definition.  While not all of these entities may have provided international service in 1995, we expect
+that many of these entities will seek to do so in the future, as will additional entrants into the market.
+
+     b.  Title III Common Carrier Services
+
+     12.  Cellular licensees.  Neither the Commission nor the SBA has developed a definition of
+small entities applicable to cellular licensees.  The closest applicable definition of small entity is the
+definition under the SBA rules applicable to radiotelephone (wireless) companies (SIC 4812).  The most
+reliable source of information regarding the number of cellular services carriers nationwide of which we are
+aware appears to be the data that the Commission collects annually in connection with the TRS
+Worksheet.  According to the most recent data, 792 companies reported that they were engaged in the
+provision of cellular services.  Although it seems certain that some of these carriers are not independently
+owned and operated, or have more than 1,500 employees, we are unable at this time to estimate with
+greater precision the number of cellular services carriers that would qualify as small business concerns
+under the SBA's definition.  Consequently, we estimate that there are fewer than 792 small cellular service
+carriers.
+
+     13.  220 MHz Radio Services.  Because the Commission has not yet defined a small business
+with respect to 220 MHz radio services, we will utilize the SBA's definition applicable to radiotelephone
+companies   i.e., an entity employing less than 1,500 persons.  With respect to the 220 MHz services,
+the Commission has proposed a two-tiered definition of small business for purposes of auctions:  (1) for
+Economic Area (EA) licensees, a firm with average annual gross revenues of not more than $6 million for
+the preceding three years, and (2) for regional and nationwide licensees, a firm with average annual gross
+revenues of not more than $15 million for the preceding three years.  Since this definition has not yet been
+approved by the SBA, we will utilize the SBA's definition applicable to radiotelephone companies.  Given
+the fact that nearly all radiotelephone companies employ fewer than 1,000 employees, with respect to the
+approximately 3,800 incumbent licensees in this service, we will consider them to be small businesses
+under the SBA definition.
+
+     14.  Common Carrier Paging.  The Commission has proposed a two-tier definition of small
+businesses in the context of auctioning licenses in the Common Carrier Paging services.  Because the SBA
+has not yet approved this definition for paging services, we will utilize the SBA's definition applicable to
+radiotelephone companies, i.e., an entity employing fewer than 1,500 persons.  At present, there are
+approximately 74,000 Common Carrier Paging licensees.  We estimate that the majority of common carrier
+paging providers would qualify as small businesses under the SBA definition.
+
+     15.  Mobile Service Carriers.  Neither the Commission nor the SBA has developed a definition
+of small entities specifically applicable to mobile service carriers such as paging companies.  The closest
+applicable definition under the SBA rules is for radiotelephone (wireless) companies. The most reliable
+source of information regarding the number of mobile service carriers nationwide of which we are aware
+appears to be the data that the Commission collects annually in connection with the TRS Worksheet. 
+According to the most recent data, 117 companies reported that they were engaged in the provision of
+mobile services.  Although it seems certain that some of these carriers are not independently owned and
+operated, or have more than 1,500 employees, we are unable at this time to estimate with greater precision
+the number of mobile service carriers that would qualify under the SBA's definition.  Consequently, we
+estimate that fewer than 117 mobile service carriers are small entities.
+
+     16.  Broadband Personal Communications Services (PCS).  The broadband PCS spectrum is
+divided into six frequency blocks designated A through F, and the Commission has held auctions for each
+block.  The Commission has defined small entity in the auctions for Blocks C and F as an entity that has
+average gross revenues of less than $40 million in the three previous calendar years.  For Block F, an
+additional classification for "very small business" was added and is defined as an entity that, together with
+its affiliates, has average gross revenue of not more than $15 million for the preceding three calendar
+years.  These regulations defining small entity in the context of broadband PCS auctions have been
+approved by the SBA.  No small business within the SBA-approved definition bid successfully for licenses
+in Blocks A and B.  There were 90 winning bidders that qualified as small entities in the Block C auctions. 
+A total of 93 small and very small businesses won approximately 40 percent of the 1,479 licenses for
+Blocks D, E, and F.  However, licenses for Blocks C through F have not been awarded fully; therefore,
+there are few, if any, small businesses currently providing PCS services.  Based on this information, we
+conclude that the number of small broadband PCS licensees will include the 90 winning bidders and the 93
+qualifying bidders in the D, E, and F Blocks, for a total of 183 small PCS providers as defined by the SBA
+and the Commission's auction rules.
+
+     17.  Narrowband PCS.  The Commission does not know how many narrowband PCS licenses
+will be granted or auctioned, as it has not yet determined the size or number of such licenses.  Two auctions
+of narrowband PCS licenses have been conducted for a total of 41 licenses, out of which 11 were obtained
+by small businesses owned by members of minority groups and/or women.  Small businesses were defined
+as those with average gross revenues for the prior three fiscal years of $40 million or less.  For purposes
+of this FRFA, the Commission is utilizing the SBA definition applicable to radiotelephone companies, i.e.,
+an entity employing less than 1,500 persons.  Not all of the narrowband PCS licenses have yet been
+awarded.  There is therefore no basis to determine the number of licenses that will be awarded to small
+entities in future auctions.  Given the facts that nearly all radiotelephone companies have fewer than 1,000
+employees and that no reliable estimate of the number of prospective narrowband PCS licensees can be
+made, we assume, for purposes of the evaluations and conclusions in this FRFA, that all the remaining
+narrowband PCS licenses will be awarded to small entities.
+
+     18.  Rural Radiotelephone Service.  The Commission has not adopted a definition of small
+business specific to the Rural Radiotelephone Service, which is defined in Section 22.99 of the
+Commission's Rules.  A significant subset of the Rural Radiotelephone Service is BETRS, or Basic
+Exchange Telephone Radio Systems (the parameters of which are defined in Sections 22.757 and 22.759 of
+the Commission's Rules).  Accordingly, we will use the SBA's definition applicable to radiotelephone
+companies, i.e., an entity employing fewer than 1,500 persons.  There are approximately 1,000 licensees in
+the Rural Radiotelephone Service, and we estimate that almost all of them have fewer than 1,500
+employees.
+
+     19.  Air-Ground Radiotelephone.  The Commission has not adopted a definition of small
+business specific to the Air-Ground Radiotelephone Service, which is defined in Section 22.99 of the
+Commission's Rules.  Accordingly, we will use the SBA's definition applicable to radiotelephone
+companies, i.e., an entity employing fewer than 1,500 persons.  There are approximately 100 licensees in
+the Air-Ground Radiotelephone Service, and we estimate that almost all of them qualify as small under the
+SBA definition.
+
+     20.  Specialized Mobile Radio Licensees (SMR).  Pursuant to Section 90.814(b)(1) of our
+rules, the Commission awards bidding credits in auctions for geographic area 800 MHz and 900 MHz
+Specialized Mobile Radio (SMR) licenses to firms that had revenues of less than $15 million in each of the
+three previous calendar years.  This regulation defining "small entity" in the context of 800 MHz and 900
+MHz SMR has been approved by the SBA.  We do not know how many firms provide 800 MHz or 900
+MHz geographic area SMR service pursuant to extended implementation authorizations or how many of
+these providers have annual revenues of less than $15 million.  We do know that one of these firms has
+over $15 million in revenues.  We assume that all of the remaining existing extended implementation
+authorizations are held by small entities, as that term is defined by the SBA.  The Commission recently held
+auctions for geographic area licenses in the 900 MHz SMR band.  There were 60 winning bidders who
+qualified as small entities in the 900 MHz auction.  Based on this information, we conclude that the number
+of geographic area SMR licensees affected includes these 60 small entities.
+
+     21.  Microwave Video Services.  Microwave services includes common carrier, private
+operational fixed, and broadcast auxiliary radio services.  At present, there are 22,015 common carrier
+licensees.  Inasmuch as the Commission has not yet defined small business with respect to microwave
+services, we will utilize the SBA's definition applicable to radiotelephone companies   i.e., an entity with
+less than 1,500 employees.  Although some of these companies may have more than 1,500 employees, we
+are unable at this time to estimate with greater precision the number of common carrier microwave service
+providers that would qualify under the SBA's definition.  We therefore estimate that there are fewer than
+22,015 small common carrier licensees in the microwave video services.
+
+     22.  Offshore Radiotelephone Service.  This service operates on several UHF TV broadcast
+channels that are not used for TV broadcasting in the coastal area of the states bordering the Gulf of
+Mexico.  At present, there are approximately 55 licensees in this service.  Some of those licensees are
+common carriers.  We are unable at this time to estimate the number of licensees that would qualify as
+small under the SBA's definition.
+
+     23.  Local Multipoint Distribution Service (LMDS).  The Commission has so far licensed only
+one licensee in this service, and that licensee is not providing service as a common carrier.  There will be a
+total of 986 LMDS licenses.  Licensees will be permitted to decide whether to provide common carrier
+service, and we have no way of estimating how many will choose to do so.  Because there will be no
+restrictions on the number of licenses a given entity may acquire, we have no way of estimating how many
+total licensees there will be.  We also cannot estimate the number of common carrier licensees that will
+qualify as small entities.
+
+     24.  Space Stations (Geostationary).  Very few systems are currently operated on a common
+carrier basis.  Because we do not collect information on annual revenue or number of employees of all these
+licensees, we cannot estimate with precision the number of such licensees that may constitute a small
+business entity.  It is likely that no more than one such entity that is currently operating as a common
+carrier would constitute a small business entity.  There may be a small increase in the number of such
+entities in the future as a result of recent licensing action in the Ka-band.
+
+     25.  Space Stations (Non-geostationary).  These systems by and large do not operate as
+common carriers.  Because we do not collect information on annual revenue or number of employees, we
+cannot estimate with precision whether any carrier that may choose to operate on a common carrier basis
+constitutes a small business entity.  The trend is for such systems to operate on a non common carrier
+basis.  These systems, of which there will be a limited number, by and large are not yet operational and are
+still being licensed and constructed.
+
+     26.  Earth Stations.  The vast majority of earth stations licensed by the Commission are not
+operated on a common carrier basis.  Earth stations that communicate with non-geostationary and Ka-band
+satellite systems may operate on a common carrier basis but these systems are not yet operational and are
+still being licensed and constructed.  We are unable to estimate at this time the number of earth stations
+communicating with such systems that may operate on a common carrier basis and, of those, the number
+that will be licensed to small business entities.
+
+     c.  Aeronautical Enroute and Aeronautical Fixed Licenses
+
+     27.  The Commission has not adopted a definition of small business specific to the aeronautical
+enroute and aeronautical fixed services.  Accordingly, we will use the SBA's definition applicable to
+radiotelephone companies, i.e., an entity employing fewer than 1,500 persons.  There are 45 licensees
+providing aeronautical enroute and aeronautical fixed services, including Aeronautical Radio Inc. (ARINC)
+and its affiliates.  All of the licensees are small businesses except ARINC, which has approximately 2,000
+employees.  We therefore conclude that there are 44 small businesses providing aeronautical enroute and
+aeronautical fixed services.
+
+     d.  Submarine Cable Landing Licenses
+
+     28.  The new rules and policies adopted in this Order will affect all holders of and future
+applicants for cable landing licenses, whether or not they operate their cables as common carriers.  It is
+difficult to estimate how many applications for cable landing licenses will be filed in coming years, but that
+number will likely increase if we adopt our proposal to lower the barriers to granting licenses for cables to
+WTO Member countries.  Since 1992, there have been approximately 40 applications for cable landing
+licenses.  The total number of licensees is difficult to determine, because many licenses are jointly held by
+several licensees.  Our rules will also permit more current licensees to accept additional investment from
+entities from WTO Member countries.
+
+Description of Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+     29.  The rules and policies adopted in this Report and Order and Order on Reconsideration
+will affect large and small entities.  We will require that U.S. carriers whose foreign affiliates have market
+power maintain or provide certain records regarding their foreign affiliates.  Our rules will in most cases
+reduce the burdens that are currently imposed on such carriers, and we anticipate that the remaining
+requirements will not impose a significant economic burden, particularly on small entities.  A variety of
+skills may be required to comply with the proposed requirements, but all of the skills that may be required
+are of the type needed to conduct a carrier's normal course of business.  No additional outside professional
+skills should be required, with the possible exception of preparing an initial Section 214 or cable landing
+license application and of preparing a submission for our consideration under Section 310(b)(4), most of
+which will be simplified by the rules and policies we adopt here.
+
+     30.  An applicant for a Section 214 authorization or a cable landing license will no longer be
+required to show either that an affiliated foreign carrier lacks market power or that the destination country
+provides effective competitive opportunities (ECO) to U.S. carriers so long as it shows that the destination
+country is a Member of the World Trade Organization.  Similarly, entities holding or seeking to hold
+common carrier wireless licenses or aeronautical enroute or aeronautical fixed licenses that have more than
+25 percent indirect foreign investment will not need to demonstrate that the home markets of the foreign
+investor or investors from WTO Members offer effective competitive opportunities for U.S. investors in the
+analogous service sector.  See supra Section III.
+
+     31.  Authorized international common carriers will no longer be required to notify the
+Commission before accepting investments by foreign carriers (or their affiliates) between 10 percent and 25
+percent.  We have retained a requirement that authorized carriers notify the Commission before accepting
+investment greater than 25 percent.  We have added a requirement that authorized carriers notify the
+Commission before they (or their affiliates) acquire a direct or indirect controlling interest in a foreign
+carrier; previously, those interests were subject only to a post hoc notification requirement.  We continue to
+require authorized carriers to notify the Commission within 30 days after acquiring a direct or indirect
+interest greater than 25 percent in a foreign carrier if the acquisition of that interest has not otherwise been
+reported.  See supra Section VI.B.
+
+     32.  We have narrowed the application of our "No Special Concessions" rule, which prohibits
+carriers from entering into exclusive arrangements with foreign carriers.  That rule will now apply only to
+carriers' dealings with foreign carriers that have sufficient market power in their home markets to adversely
+affect competition in the U.S. market.  See supra Section V.B.1.  Carriers wishing to enter into alternative
+settlement arrangements with foreign carriers operating in WTO Member countries will presumptively be
+allowed to do so.  That presumption may be overcome where an opponent demonstrates that there are not
+multiple facilities-based carriers operating in the foreign carrier's market.  See supra Section V.E.
+
+     33.  To ensure fair competition among authorized carriers and to be consistent with our policy
+governing the confidentiality of competing carrier information, all U.S. carriers will be prohibited from
+receiving proprietary or confidential information about competing U.S. carriers obtained by any foreign
+carrier in the course of its regular business dealings with the competing U.S. carrier, unless the U.S. carrier
+provides specific written permission.  See supra Section V.B.2.a.  We will also require U.S. carriers
+desiring to make use of foreign-derived customer proprietary network information (CPNI) pertaining to a
+specific U.S. customer to first obtain approval from that customer and notify that customer that the
+customer may require the carrier to disclose the CPNI to unaffiliated third parties.  See supra Section
+V.B.2.b.
+
+     34.  An authorized carrier affiliated with a foreign carrier will be subject to additional
+requirements.  Its authorization to serve the affiliated market will be conditioned on the foreign affiliate's
+offering to all U.S.-licensed carriers a settlement rate at or below the benchmark adopted for that country in
+the Commission's recent Benchmarks Order.  Foreign-affiliated carriers classified as dominant are subject
+to additional reporting, recordkeeping, and compliance requirements.  In this Order, we substantially
+reduce the initial showing that a foreign-affiliated carrier must make in order to be presumptively classified
+as non-dominant by adopting a presumption that a foreign carrier with less than 50 percent market share in
+certain relevant terminating markets does not have sufficient market power to affect competition adversely
+in the U.S. market.  We remove existing dominant carrier requirements that we find to be unnecessarily
+burdensome and adopt a narrowly tailored dominant carrier framework designed to address specific
+concerns of anticompetitive behavior.  We replace the requirement that dominant carriers file tariffs on
+fourteen days' advance notice with a one-day advance notice requirement, and we will accord these tariff
+filings a presumption of lawfulness.  We will no longer require foreign-affiliated carriers to obtain
+Commission approval before adding or discontinuing circuits on the dominant route.  We require dominant
+carriers to provide service on the affiliated route through a corporation that is separate from its foreign
+affiliate, maintain separate books of account, and not jointly own switching or transmission facilities with
+its foreign affiliate.  Carriers regulated as dominant will be required to file quarterly traffic and revenue
+reports, provisioning and maintenance reports, and circuit status reports on the dominant affiliated route. 
+We decline to adopt the proposal in the Notice to ban exclusive arrangements involving joint marketing,
+customer steering, and the use of foreign market telephone customer information.  See supra Section V.C.2.
+
+     35.  Finally, we impose a reporting requirement on switched resellers that are affiliated with a
+foreign carrier that has sufficient market power on the foreign end of a route to affect competition adversely
+in the U.S. market.  We will require these resellers to file quarterly traffic and revenue reports for their
+switched resale traffic on the affiliated route.  See supra Section V.C.1.b.
+
+Federal Rules that May Duplicate, Overlap, or Conflict with the Rules Adopted Here
+
+     36.  None.
+
+Steps Taken to Minimize Significant Economic Impact on Small Entities, and Significant Alternatives
+Considered
+
+     37.  We have taken significant steps to minimize the procedural burdens imposed on all
+affected entities.  The application of the rules we adopt in this Order does not vary depending on the size of
+the entities involved.  Some regulations may be more burdensome on large carriers than on small carriers
+because large carriers may be more likely to be dominant or to operate on a facilities basis than are small
+carriers.  That is, small carriers may be more likely to operate as resellers of switched international
+services, which are less likely to be subject to our most stringent regulation.
+
+     38.  The revisions to our policies toward evaluating Section 214 and cable landing license
+applications will significantly reduce burdens on many current and potential international common carriers. 
+A foreign-affiliated carrier seeking to serve an affiliated route will no longer be required to show either that
+its affiliate lacks market power or that the destination country provides effective competitive opportunities
+(ECO) to U.S. carriers so long it shows that the destination country is a Member of the World Trade
+Organization.  We believe this to be a minimal burden for most small entities and a significantly lesser
+burden than the detailed showings required to demonstrate either that the affiliate lacks market power or
+that the destination country provides ECO.  The ECO test, in particular, has proven to be unusually
+burdensome both on applicants and on the Commission.
+
+     39.  Similarly, the revisions to our policy toward evaluating Section 310(b)(4) requests by
+common carrier radio licensees and aeronautical licensees to accept indirect foreign investment greater than
+25 percent will significantly reduce the burdens on licensees (and prospective licensees) seeking to accept
+investment from entities in WTO Member countries.  Those applicants will no longer be required to show
+that the home market of the investor offers effective competitive opportunities for U.S. investors in the
+analogous service sector.  This will make those applications much simpler and less time-consuming and,
+more importantly, will make it much easier for licensees to accept foreign investment and for prospective
+licensees to plan their business affairs.  Common carrier radio licensees will continue to be required to seek
+Commission approval before accepting indirect foreign investment above a level for which they have
+previously received Commission approval.
+
+     40.  We have taken steps to facilitate entry into the U.S. market for international
+telecommunications services by small carriers.  Small carriers often enter the market, at least initially, by
+reselling the switched services of other authorized international carriers.  In this Order, we change our
+procedural rules to afford streamlined processing to any applicant whose foreign affiliate is from a WTO
+Member country if the applicant requests authority to serve that country solely by reselling the switched
+services of unaffiliated U.S. international carriers.  We also will streamline process the Section 214
+application of any foreign-affiliated applicant whose affiliate is from a WTO Member and that
+demonstrates clearly and convincingly that the foreign affiliate has less than a 50 percent market share in
+certain relevant terminating markets in the destination foreign country.  In addition, we will streamline
+process the Section 214 application of any applicant whose affiliate is from a WTO Member and is not
+otherwise eligible for streamlined processing if the applicant certifies that it will comply with our dominant
+carrier regulations.  Streamlined applications, unless they are removed from the streamlined process, are
+granted 35 days from the date they are placed on public notice.  See supra Section VI.A.
+
+     41.  In revising our regulations that apply to authorized international common carriers, we have
+developed a targeted approach designed to monitor and detect anticompetitive behavior in the U.S. market
+without imposing regulations that are more burdensome than necessary.  In doing so, we have attempted to
+minimize burdens on entities that are unlikely to pose a threat to competition.  We also have removed
+restrictions on whole categories of activities that we have concluded do not pose a threat to competition in
+the developing competitive marketplace.  Our approach relies in large part on reporting requirements,
+rather than restrictions on capacity changes or service options, to prevent affiliated carriers from causing
+competitive harms in the U.S. international services market.
+
+     42.  We have significantly reduced the scope of our rule that prohibits carriers from entering
+into certain exclusive arrangements with foreign carriers.  Our "No Special Concessions" rule will now
+prohibit accepting certain specified arrangements only from foreign carriers that have sufficient market
+power in their home markets to adversely affect competition in the U.S. market.  We adopt a presumption
+that foreign carriers with less than 50 percent market share in the relevant terminating markets do not have
+such sufficient market power.  We anticipate that delineating those arrangements that are subject to the
+prohibition and adopting this presumption will significantly clarify the circumstances in which authorized
+carriers will be permitted to accept special concessions from foreign carriers.  This more targeted rule also
+will allow authorized carriers substantially more flexibility in arranging their business affairs.
+
+     43.  Carriers wishing to enter into alternative settlement arrangements with foreign carriers
+operating in WTO Member countries will presumptively be allowed to do so.  This presumption may be
+overcome by a demonstration that there are not multiple facilities-based carriers operating in the foreign
+carrier's market.  We expect to allow alternative settlements more as a rule than as an exception, and the
+issue of whether there are multiple facilities-based carriers operating in the foreign market will be less
+burdensome than the issue of whether the foreign market offers effective competitive opportunities, which
+is the standard being replaced.
+
+     44.  We have declined, in this Order, to adopt certain proposals in the Notice that would have
+restricted the business strategies of carriers classified as dominant.  Instead, we will impose reporting
+requirements that will enable us to detect and deter anticompetitive behavior.  We have declined to adopt
+proposals in the Notice to ban exclusive arrangements involving joint marketing, customer steering, and the
+use of foreign market telephone customer information.  We have found that such proscriptive safeguards
+would be unduly burdensome and could unnecessarily impede business activities.  We choose to rely
+instead on the general prohibition on accepting special concessions combined with additional reporting and
+disclosure requirements, instead of proscriptive safeguards, for carriers with foreign affiliations.  We have
+also relieved carriers of the requirement to notify the Commission of investments by foreign carriers of 10
+percent or more; they now must report an investment by a foreign carrier only when that investment
+exceeds 25 percent.  We conclude that none of the safeguards we impose specifically on carriers classified
+as dominant will impose significant economic burdens.
+
+     45.  We have also declined to impose on switched resellers a condition that their foreign
+affiliates maintain settlement rates at or below the benchmark settlement rates we adopted in the
+Benchmarks Order.  We find that such a condition would be unnecessarily burdensome inasmuch as
+resellers have less ability to engage in anticompetitive conduct than facilities-based carriers and we have a
+greater ability to detect anticompetitive conduct by switched resellers.  Imposing a benchmark condition on
+switched resellers would impose significant economic impact on resellers, many of whom are small entities,
+that could prevent some new entrants from entering the U.S. market and affect the ability of existing
+carriers to provide service.  To address concerns about traffic distortions related to resale, however, we
+have decided to impose a requirement on switched resellers that are affiliated with a carrier that has
+sufficient market power to affect competition adversely in the U.S. market.  We will require those resellers
+to file quarterly traffic and revenue reports for their traffic on the affiliated route in order to enable the
+Commission to determine whether switched resellers are engaging in anticompetitive conduct.
+
+     46.  In the Notice, we sought comment on whether to adopt, as an additional dominant carrier
+safeguard, some level of structural separation between a U.S. carrier and its affiliated foreign carrier.  We
+adopt here a requirement that a foreign-affiliated U.S. international carrier regulated as dominant provide
+service in the U.S. market through a corporation that is separate from the foreign affiliate, maintain
+separate books of account, and not jointly own switching and transmission facilities with its foreign carrier
+affiliate.  We find that, without such separation, discrimination, cost-misallocation, and the possibility of a
+predatory price squeeze by such a foreign-affiliated carrier would have the potential to cause substantial
+harm to consumers, competition, and production efficiency in the U.S. international services market.  These
+requirements will not impose a significant burden on such carriers because most foreign-affiliated carriers
+operating in the United States do so in a manner that is consistent with the requirements we adopt here.  We
+have considered imposing more stringent structural separation requirements but have found them to be
+unnecessary and to potentially impose a significant burden on foreign-affiliated carriers that operate in the
+U.S. market.
+
+     47.  We are unable to adopt NextWave's proposal to state that indirect foreign investment in C-
+block and F-block PCS licensees by any entity whose home market is a WTO Member country serves the
+public interest and will not be subject to prior Commission approval.  We have found that prior approval is
+necessary in all instances of indirect foreign investment in excess of 25 percent because of the need to
+review such investments for national security, law enforcement, foreign policy, and trade concerns as well
+as for the exceptional case that poses a very high risk to competition.  We do, however, adopt NextWave's
+alternative proposal to establish an expedited process and timetable for addressing those applications: 
+These applications will generally be added to the International Bureau's streamlined process and usually
+granted within 35 days from the date the International Bureau places the application on public notice.  We
+expect that application of our open entry standard and streamlined process will both minimize procedural
+burdens on small entities and present substantial new opportunities for obtaining foreign capital.  See supra
+Section III.D.
+
+     48.  We are unable to adopt TDS's proposal to disregard investments in common carrier radio
+licensees by non-carriers held as publicly traded securities.  We accept the concerns of Executive Branch
+agencies that a prior approval process is necessary for all investments and that even small investments in
+publicly traded securities could, if aggregated, nevertheless create a degree of control or influence over a
+licensee that would be contrary to U.S. national security or law enforcement interests.  See supra Section
+III.D.
+
+     49.  We have also decided not to adopt a policy that a common carrier radio licensee need not
+seek Commission approval before accepting increases in indirect foreign ownership once they have
+obtained Commission authority to exceed 25 percent indirect foreign ownership.  We have determined that
+every such increase requires Commission review in order to consider the effect of the ownership on national
+security and law enforcement interests.  See supra Section III.D.
+
+     50.  We conclude that these steps we have taken to minimize significant economic impact on
+small entities will advance the small business goals of Section 257 of the Act, as added by the
+Telecommunications Act of 1996.
+
+Report to Congress
+
+     51.  The Commission will send a copy of this Report and Order and Order on
+Reconsideration, including this FRFA, in a report to be sent to Congress pursuant to the Small Business
+Regulatory Enforcement Fairness Act of 1996, see 5 U.S.C.  801(a)(1)(A).  A summary of this Report
+and Order and Order on Reconsideration, and a copy of this FRFA, will also be published in the Federal
+Register, see 5 U.S.C.  604(b), and will be sent to the Chief Counsel for Advocacy of the Small Business
+Administration.
+

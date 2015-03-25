@@ -1,0 +1,134 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+fONOROLA FIBER DEVELOPMENT INC.    )
+                                   )
+LEDCOR INDUSTRIES INC.             )
+                                   )    File No. SCL-AMD-19980831-00015
+Application for modification of License to land and    )
+operate in the United States a private fiber optic     )
+submarine cable system extending between the      )
+United States and Canada           )
+
+              MODIFICATION OF CABLE LANDING LICENSE
+
+Adopted:  December 17, 1998                           Released: December 21, 1998  
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.    In this Order, we modify the cable landing license recently granted to fONOROLA Fiber
+Development Inc. (fONOROLA Fiber) and Ledcor Industries Inc. (Ledcor).  That license authorized
+fONOROLA Fiber and Ledcor, under the Cable Landing License Act, to land and operate a fiber optic
+submarine cable system to be called "America-Canada-1" or "AmeriCan-1," extending between the United
+States and Canada.   AmeriCan-1 will be operated on a non-common carrier basis.  We here grant the
+licensees' request to modify the license to:  (1) increase the capacity of the cable system; (2) change the
+ownership of AmeriCan-1; and (3) set aside the requirement that the licensees seek Commission approval
+prior to the sale or transfer to a foreign entity of five percent or more in the aggregate of indirect ownership
+in the licensees.
+
+                          II.  Comments 
+
+     2.    The application was placed on public notice on September 4, 1998.  No comments were
+received.   Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department of
+State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to issuance of the cable landing license, provided that
+no party may acquire direct or indirect control of the cable system without prior approval by the
+Commission.
+     
+     3.   The application requests that the Cable Landing License be amended as follows:
+
+                    a.   To increase the capacity of the cable from three bundles of 12 strands each to four
+          bundles of twelve strands each, for a total of 48 strands;
+
+                    b.   To change the ownership of the cable to allow fONOROLA Fiber to own an
+          undivided 62.5 percent interest in the landing stations and cable (30 of 48 strands) and to
+          allow Ledcor to own the remaining 37.5 percent undivided interest in the landing stations
+          and cable (18 of 48 strands); and
+
+                    c.   To modify condition (9) of the license, which, among other things, requires prior
+          approval by the Commission to sell or transfer to a foreign entity five percent or more of
+          indirect ownership in the licensees.
+     
+                         III.  Discussion
+
+     4.   We grant the applicants' request to increase the capacity of the cable.  If the applicants had
+initially requested four bundles of twelve strands each, we would have had no reason not to grant their
+request.  We also grant the applicants' request to modify the ownership of the submarine cable and cable
+landing stations.  The proposed ownership structure does not alter the licensees' ability to control the cable
+system.  Accordingly, we see no reason not to grant the applicants' request to modify the ownership
+structure.
+
+     5.     Finally, we grant the applicants' request to modify condition (9) of the original license. 
+The applicants state that because fONOROLA's parent, Call-Net Enterprises, Inc., (Call-Net) is a publicly-
+traded Canadian corporation the licensees have no control over nor ability to obtain prior Commission
+approval for indirect transfers of ownership of five percent or more. 
+
+     6.   We have not routinely imposed this restriction on indirect ownership in the past, nor did we
+intend the consequences envisioned here.  We are satisfied that the remaining restrictions in the cable
+landing license, as herein modified, are sufficient to protect the public interest in this case.  For example,
+there can be no transfer of control of the licensees without prior Commission consent, and any change of
+direct ownership of five percent or more requires prior Commission consent.  Accordingly, we remove the
+words "or indirect" from the ninth condition attached to the cable landing license.  That is, we will not
+require fONOROLA Fiber or Ledcor to obtain Commission approval prior to the acquisition of five
+percent or more of Call-Net's shares by one or more foreign entities.  We will, however, maintain the
+requirement that fONOROLA Fiber and Ledcor obtain Commission approval before the sale or transfer of
+five percent or more of direct ownership of the Licensees.
+
+                     IV.  Ordering Clauses 
+                                
+     7.   Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, IT IS ORDERED that application, File No. SCL-AMD-19980831-00015, is
+GRANTED and the AmeriCan-1 landing license is MODIFIED to:  (1) increase the capacity of the cable
+system to four bundles of 12 fibers each; (2) alter the ownership such that fONOROLA Fiber would own
+an undivided 62.5 percent interest in the cable landing stations and the cable (30 of 48 strands) and Ledcor
+would own the remaining 37.5 percent undivided interest in the cable landing stations and the cable (18 of
+48 strands); and (3) set aside, in part, one condition imposed in the license granted to fONOROLA Fiber
+and Ledcor to land and operate AmeriCan-1 a non-common carrier cable system, DA 98-1668. 
+Specifically, we remove the words "or indirect" from the ninth condition attached to that license as
+paragraph 16(9).  That condition now provides as follows:  (9) The Licensees shall, by application, obtain
+Commission approval prior to the sale or transfer to a foreign entity of five percent or more in the
+aggregate of direct ownership in the licensees."
+
+     8.   This Modification of Cable Landing License does not modify any other terms or conditions
+imposed in the license issued on August 21, 1998.
+
+     9.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

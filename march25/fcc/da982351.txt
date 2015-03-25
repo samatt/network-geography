@@ -1,0 +1,277 @@
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+PC LANDING CORP.                   )
+                                   )
+Application for a license to land and operate in the   )    File No. SCL-98-006
+United States a private fiber optic submarine cable    )
+system extending between the United States and Japan   )
+
+                      CABLE LANDING LICENSE
+
+Adopted:  November 19, 1998                           Released:  November 23, 1998
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.   In this Order, we grant the application of PC Landing Corp. under the Cable Landing
+License Act for authority to land and operate a private fiber optic submarine cable system to be called
+"Pacific Crossing" or "PC-1," extending between the United States and Japan.  This system will be
+operated on a non common carrier basis.  We find that PC Landing Corp. has provided sufficient
+information under our rules to comply with the Cable Landing License Act and therefore grant the cable
+landing license subject to the conditions listed below. 
+
+                        II.  Application 
+
+     2.   PC Landing Corp., a Delaware corporation, is a wholly owned subsidiary of Pacific
+Crossing Ltd., a Bermuda joint venture company which will own and operate PC-1.  GCT Pacific Holdings
+Ltd. (Pacific Holdings), a Bermuda company that is an indirect wholly-owned subsidiary of Global
+Crossing, holds a 50% ownership in Pacific Crossing Ltd.  Marubeni Pacific Cable Limited, a Bermuda
+company which is a wholly-owned subsidiary of Marubeni Corporation, a Japanese company, owns 35.5%
+of the venture, and SCS (Bermuda) Ltd. (SCS), a Bermuda company, owns 14.5% of the venture. 
+Overall, Global Crossing, through its Pacific holdings subsidiary, has direct and indirect equity ownership
+interests of approximately 58% in PC-1.  
+
+     3.   The proposed PC-1 system will connect: (1) Harbour Pointe, Washington and Ajigaura,
+Japan; (2) Ajigaura, Japan and Shima, Japan; (3) Shima, Japan and Grover Beach, California; and (4)
+Grover Beach, California and Harbour Pointe, Washington.  PC-1 will be a state-of-the-art, optically
+amplified fiber system, consisting of four optical fiber pairs, two for service and two for protection,
+employing wavelength division multiplexing.  The system will be constructed in a self-healing ring
+architecture.  The wet plant design will initially support 20 gigabits per second (Gbps) of capacity on each
+fiber pair or 40 Gbps between terminal stations for service.  Upon completion of the system's ring
+configuration, the capacity will be 80 Gbps, upgradeable to a minimum of 160 Gbps using dense
+wavelength division multiplexing.    
+
+     4.   As shown in Exhibit A of the application that is attached to this order, PC-1 will consist of
+four segments as follows:  (1) Segment N will include the whole of the submarine cable system between
+and including system interface at the cable station at Harbour Pointe, Washington (a subdivision within the
+city of Mukilteo) and the system interface at the cable station at Ajigaura, Japan; (2) Segment W will
+include the whole of the submarine cable system between and including the system interface at the cable
+station at Ajigaura, Japan and the system interface at the cable station at Shima, Japan; (3) Segment S will
+include the whole of the submarine cable system between and including the system interface at the cable
+station at Shima, Japan and the system interface at the cable station at Grover Beach, California; and (4)
+Segment E will include the whole of the submarine cable system between and including the system interface
+at the cable station at Grover Beach, California and the system interface at the cable station in Harbour
+Pointe, Washington.  The initial capacity of the two optical fiber pairs used for service is comprised of 512
+STM-1 (155 Mbps) Minimum Investment Units (MIUs).  Operation of PC-1 is anticipated to begin in
+March 2000.
+
+                          III.  Comments
+
+     5.   The application was placed on public notice on August 19, 1998.  Tyco Submarine
+Systems Ltd. (Tyco) filed comments in support of the application.  The Port of San Luis Commercial
+Fisherman's Association (Fisherman's Association) filed a letter expressing concerns with the application
+and requesting that the Commission implement several "mitigation measures" to lessen the impact PC-1
+might have on commercial fishing practices in the area of the cable system.  PC Landing Corp. responded
+to the Fisherman's Association letter.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of the
+application.  The Department of State, after coordinating with the National Telecommunications and
+Information Administration and the Department of Defense, stated that it has no objection to issuance of
+the cable landing license.
+
+                         IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     6.   PC Landing Corp. proposes to operate PC-1 as a non common carrier system in which
+capacity will not be offered indifferently to the user public.  PC Landing Corp. will offer bulk capacity in
+the PC-1 system to a specific class of eligible users, including common carriers, on an original ownership,
+indefeasible right of user basis.  PC Landing Corp. requests a license under the Commission's private
+submarine cable policy, which is intended to promote competition in the provision of international
+transmission facilities.  Pursuant to this policy, the Commission has authorized non common carrier
+cables where (1) there is no legal compulsion to serve the public indifferently and (2) there are no reasons
+implicit in the nature of the operations to expect an indifferent holding-out to the eligible user public.
+
+     7.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on the availability of alternative facilities.  Where there are sufficient alternatives, the
+licensee will lack market power and will not be able to charge monopoly rates for cable capacity.  The
+Commission has found that, in those circumstances, the public interest would be served by allowing a
+submarine cable to be offered on a non-common carrier basis.
+
+     8.   No one has suggested that the public interest requires PC-1 to be operated on a common
+carrier basis.  There are many submarine cable and satellite facilities between the United States and
+Japan.  Because of the sufficient availability of common carrier circuits between the United States and
+Japan, we conclude that it is not necessary to require that PC-1 be operated on a common carrier basis at
+this time.  We note, however, that we always have the ability to impose common carrier or common-
+carrier-like obligations on the operations of this or any other submarine cable system if the public interest
+so requires.  Furthermore, we have always maintained the authority to classify facilities as common carrier
+facilities subject to Title II of the Communications Act if the public interest requires that the facilities be
+offered to the public indifferently.
+
+     9.   Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  PC Landing Corp.
+states that capacity will not be sold indifferently to the user public.  Instead, capacity will be assigned
+pursuant to individualized decisions, and bulk capacity will be offered to a specific class of eligible users. 
+Thus, PC Landing Corp. will operate PC-1 on a non-common carrier basis. 
+
+     10.  Accordingly, we conclude that it is appropriate to license PC-1 on a non-common carrier
+basis.  Based on the above analysis, we conclude that PC Landing Corp. will not offer capacity in PC-1 to
+the public on a common carrier basis and that the public interest does not require that they do so. 
+Accordingly, we find that the applicant will not provide a telecommunications service for a fee to such class
+of users as to be "effectively available directly to the public" and thus will not be "telecommunications
+carriers" under the 1996 Act.  
+
+     B.   Ownership and Landing Points
+
+     11.  PC Landing Corp. has provided the ownership information required by Section
+63.18(e)(6), 1.767(a)(6), and Section 63.18(h) of the Commission's rules.  PC Landing Corp. is ultimately
+controlled by Global Crossing.  PC Landing Corp. will own the U.S. cable landing stations, including the
+real property, holdings and terminal equipment, and will own the U.S. territory portions of PC-1 from the
+landing stations to the points that are one-half mile beyond the U.S. territorial limit.  A Japan subsidiary of
+Pacific Crossing Ltd. will own or lease space in the Japanese landing stations and will own corresponding
+portions of the system located in Japan.  Pacific Crossing Ltd. will own the remaining portions of PC-1.  
+
+     12.  PC Landing Corp. certifies that it is affiliated with foreign carriers in Japan within the
+meaning of Section 63.18(h)(1).   First, PC Landing Corp. is affiliated with Global Access Ltd., a start-up
+carrier that was recently granted a Japan Type-1 Telecommunications License.  Under such a license, a
+company may apply for permission to land a cable in Japan.  PC Landing Corp. is also affiliated with
+three Japanese cable television carriers which have also been granted Type-1 Telecommunications
+Licenses.  We do not find that any of these affiliations is with a company which controls bottleneck
+facilities or has the ability to discriminate against U.S. carriers on the U.S.-Japan route.  Therefore, we find
+that PC Landing Corp's foreign affiliations do not raise concerns that persuade us to deny the application
+under Section 2 of the Cable Landing License Act.
+
+     13.  PC Landing Corp. has complied with Section 1.767(a)(5) of the Commission's rules by
+providing specific information on the cable landing locations: Mukilteo (Harbour Pointe Development),
+Washington connects with Ajigaura, Japan; and Grover Beach, California connects with Shima, Japan. 
+This license is therefore not subject to any further public notice or Commission approval of the cable
+system's landing points pursuant to the procedure in Section 1.767(a)(5).
+
+     C.   Other Issues
+
+     14.  In its letter, the Fisherman's Association requests that we implement several "mitigation
+measures" because of the cable's impact on the area's "historically most productive fishing grounds." 
+Specifically, the Fisherman's Association requests: (1) that we require all cables on the Continental shelf to
+be buried deep enough not to interfere with traditional fishing methods; (2) absolve fishermen that might
+accidentally hook the cable of any liability; (3) require cable owners to compensate for any loss of gear and
+fishing time in a timely manner; (4) require that any unused or abandoned cable be removed from the sea-
+bed of the Continental shelf within a reasonable period of time; and (5) require a public hearing in the
+affected area and the local publication of public notices.  The Fisherman's Association also notes that they
+had met with Tyco, the installers of the cable system, to discuss their concerns.  They stated that Tyco
+made verbal assurances but would not provide any written assurances.  Tyco also suggested that the
+Fisherman's Association discuss their concerns with PC Landing Corp., the owners of the cable system.
+
+     15.  In response, PC Landing Corp. noted the untimely nature of the Fisherman's Association
+letter and stated that the issues raised in the letter were outside the scope of the Commisssion's authority. 
+PC Landing Corp. also noted that the issues raised by the Fisherman's Association were not unusual in
+cable landings and are typically dealt with through direct negotiations with the cable supplier (in this case
+Tyco) and state agencies or the Army Corp of Engineers.  PC Landing Corp. also stated that an official of
+the California Lands Commission had indicated that it would be reviewing the Fisherman's Association's
+concerns.  In addition, PC Landing Corp. stated that through its supplier, Tyco, it is "committed to working
+with the Fisherman's Association in an effort to resolve their concerns."
+
+     16.  As an initial matter, we recognize that the Fisherman's Association letter was filed with us
+on September 17, 1998, one day after the end of the pleading cycle.  Nevertheless, we will consider the
+letter as informal comments.  As to the Fisherman's Association's request for specific conditions, we find
+that these specific conditions which relate to how deep the cable is buried, when a cable should be removed
+from the sea-bed, and who is liable for either the damaged cable or damaged fishing gear are outside the
+scope of our consideration of this application under the Cable Landing License Act.  We also note that in
+addition to PC Landing Corp.'s assurance that the California Lands Commission has stated that it will
+review the Fisherman's Association's concerns, we have also forwarded the Fisherman's Association's letter
+to the Los Angeles District of the U.S. Army Corp. of Engineers Ventura Regulatory Field Office in
+California which is also looking into these issues in performing its licensing of the cable system.    
+
+     D.   Environmental Impact
+
+     17.  Based on the information provided by the applicant and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we conclude that the grant of
+the requested authorization would not significantly affect the environment.  Consequently, PC Landing
+Corp. is not required to submit an environmental assessment, and this application is categorically excluded
+from environmental processing.
+
+                         IV.  Conclusion
+
+     18.  We grant PC Landing Corp.'s application for authority to land and operate a non-common
+carrier fiber optic submarine cable extending between the United States and Japan, subject to the conditions
+listed below.
+
+                      V.  Ordering Clauses 
+
+     19.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE PC Landing Corp. a license to land and operate
+a non common carrier fiber optic cable system  (consisting of two operating fiber pairs, with 80 Gbps
+capacity upon completion, and upgradeable to 160 Gbps) extending from the United States to Japan.  This
+grant is subject to all rules and regulations of the Federal Communications Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party; any
+action by the Commission or the Congress of the United States rescinding, changing, modifying, or
+amending any rights accruing to any person hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States of America,
+     its territories and possessions, and upon its shore shall be in conformity with plans approved by the
+     Secretary of the Army, and the cable shall be moved or shifted by the Licensee at its expense upon
+     the request of the Secretary of the Army whenever he or she considers such course necessary in the
+     public interest, for reasons of national defense, or for the maintenance or improvement of harbors
+     for navigational purposes;
+
+          (2)  The Licensee shall at all times comply with any requirements of United States government
+     authorities regarding the location and concealment of the cable facilities, buildings, and apparatus
+     for the purpose of protecting and safeguarding the cable from injury or destruction by enemies of
+     the United States of America;
+
+          (3)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it do not enjoy and shall not acquire any right to handle traffic to or
+     from the United States, its territories, or its possessions unless such service be authorized by the
+     Commission pursuant to Section 214 of the Communications Act, as amended;
+
+          (4)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it shall not acquire or enjoy any right for the purpose of handling or
+     interchanging traffic to or from the United States, its territories, or its possessions to land, connect,
+     or operate cables or land lines, to construct or operate radio stations, or to interchange traffic, that
+     is denied to any other United States company by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it, controlled by it, or
+     under direct or indirect common control with it are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Federal Communications Commission shall give
+     prior consent in writing;
+
+          (6)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose additional common carrier or common-carrier-
+     like regulation on the operations of the cable system if it finds that the public interest so requires;  
+
+          (7)  The Commission reserves the right to require the Licensee to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cable at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+
+          (8)  The Licensees shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+          (9)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to section 2 of "An Act Relating to the Landing and Operation of Submarine Cables in
+     the United States," 47 U.S.C.  35, or for failure to comply with the terms of the authorizations;
+
+          (10)  The Licensee shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (11)  The terms and conditions upon which this license is given shall be accepted by the Licensee
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+
+     20.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Diane J. Cornell
+                              Chief, Telecommunications Division
+                              International Bureau

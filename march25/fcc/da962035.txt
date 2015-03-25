@@ -1,0 +1,354 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+
+
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+     
+    In the Matter of)
+     )
+  TELEBERMUDA         )       
+INTERNATIONAL, L.L.C.              )         File No. SCL-95-009
+                              )
+ Application for a License to Land and)
+ Operate a Private Submarine Fiber Optic)         
+ Cable between the United States and )
+Bermuda                       )
+     
+
+                     CABLE LANDING LICENSE
+
+
+    Adopted:  December 4, 1996  Released:  December 6, 1996  
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+      1.TeleBermuda International, L.L.C. (TBI-US) seeks authorization under the
+Cable Landing License Act to land and operate a digital private fiber optic submarine cable
+system, BUS-1, extending between the United States and Bermuda.  TBI-US proposes to
+operate BUS-1 on a non-tariffed, non-common carrier basis.  We find that TBI-US has
+provided sufficient information under our rules to comply with the Cable Landing License
+Act and grant this application, subject to the conditions listed below.
+
+                     II.  Amended Application
+
+      2.The applicant, TBI-US, is a Delaware limited liability company in which 80
+percent of the ownership shares is owned by Elbac Cable Corporation (ECC) and 20 percent
+is owned by TeleBermuda International Ltd. (TBI-Bermuda).  ECC, a Delaware corporation, is
+100 percent owned by the David A. Bayer Trust.  David A. Bayer, a U.S. citizen, is the
+grantor, sole trustee, and during his lifetime the sole beneficiary of the David A. Bayer
+Trust.  TBI-Bermuda, a Bermudian corporation, is 60 percent owned by Bermudian
+shareholders and 40 percent owned by Canadian shareholders.  
+
+      3.TBI-US will serve as the licensee for the U.S. landing license and will own all
+plant and equipment landing in the United States.  TBI-Bermuda will hold the cable
+landing license in Bermuda and will own all plant and equipment landing in Bermuda.   The
+international portion of the cable (BUS-1) will be owned by a separate corporation, BUS-1
+Cable, L.L.C., a Delaware corporation owned equally by TBI-US and TBI-Bermuda.  
+
+      4.BUS-1 will land on the U.S. end at AT&T's existing cable landing station in
+Tuckerton, New Jersey.  From this station, the cable will extend underwater to a branching
+unit, and from the branching unit to a cable station located at the southern coast of
+Bermuda.  The cable will be used to provide voice, data, and video services with a
+transmission speed of 2.5 Gbit/s, with the ability to upgrade the transmission speed and
+capacity for future use.  BUS-1 also will be able to provide restoration capabilities for
+other cables connecting the U.S. mainland and Bermuda.  BUS-1 is scheduled to be
+operational as soon as possible.
+
+      5.Capacity in BUS-1 will be sold through ownership, indefeasible right of user,
+or lease to users on a non-tariffed, non common carrier basis.  TBI-US states that it is
+not required to apply for authority under Title II of the Communications Act of 1934, as
+amended, (the Act) because the proposed services will not be offered on a common carrier
+basis.  Therefore, the Commission should consider its application pursuant only to the Cable
+Landing License Act.
+
+                          III.  Comments
+
+      6.We placed the initial application on public notice.  Atlantic Express
+Communications II, L.L.C. (Atlantic Express) and ComSouth Cable International, Inc. (CSCI)
+filed petitions to deny.  TBI-Bermuda filed a response, to which Atlantic Express replied. 
+TBI-Bermuda and TBI-US subsequently filed an amendment to the original application.  We
+placed the amendment on public notice.  Atlantic Express filed a petition to deny and Optel
+Communications, Inc. (Optel) filed comments.  TBI-US filed a reply to Atlantic Express and
+Optel.
+
+      7.In their petitions to deny the original application, Atlantic Express and CSCI
+generally argued that, because TBI-Bermuda is foreign-owned, the application should be
+denied until reciprocal opportunities exist for U.S. carriers to land and operate cables in
+Bermuda.  In response, TBI-Bermuda stated that Bermuda has allowed U.S. firms to own
+and operate capacity in submarine cables that land in Bermuda.  TBI-Bermuda also
+asserted that the Bermudian Government is committed to opening its telecommunications
+market.
+
+      8.TBI-Bermuda's amendment changed the proposed licensee to TBI-US.  TBI-US
+will own 100 percent of the U.S. plant and equipment and 50 percent of BUS-1.  TBI-
+Bermuda will own 100 percent of the Bermudian plant and equipment and 50 percent of
+BUS-1.  In response, Atlantic Express and Optel asserted that TBI-US must file a new
+application to change the applicant.  In addition, Atlantic Express argued that the
+amendment was not signed by the new applicant, TBI-US, and that TBI-US had not
+complied with the Commission's rules with regard to the Federal Drug Abuse Act of 1988, 21
+U.S.C.  862.
+
+      9.Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing
+License Act, and Executive Order No. 10530, we informed the Department of State of this
+application.  On November 19, 1996, the Department of State, after coordinating with the
+Department of Commerce's National Telecommunications and Information Administration
+and the Department of Defense, stated that it approves of the granting of the cable license,
+subject to the Commission imposing certain conditions.  These conditions include requiring: 
+(1) any common carrier seeking to acquire or use capacity on BUS-1 to obtain Section 214
+authorization from the Commission; and (2) TBI-US to "obtain prior Commission approval
+for the transfer of the cable landing license, the rights granted therein, or any change in
+ownership or control of the cable."  The Department of State also requested that the
+Commission notify it of any such applications or other filings by TBI-US and provide an
+adequate opportunity for the Department of State to review and comment to the
+Commission.
+
+                         IV.  Discussion
+
+     A.  Procedural Issues
+
+      10.Atlantic Express and Optel assert that TBI-Bermuda's amendment changed
+the proposed licensee to TBI-US.  Therefore, according to Atlantic Express and Optel, the
+new applicant, TBI-US, must file a new application.  Although the Commission's rules
+require that a separate application be filed for each individual cable system, no other
+Commission rules or decisions applicable to cable landing license applications limit the
+content of amendments to such applications, even as to the ownership and identity of the
+applicant.  We thus find that the proposed amendment to the original application, including
+the designation of a new applicant, is consistent with our rules.  Moreover, we note that
+parties have had full opportunity to comment on both the original application and the
+amendment.
+
+      11.Atlantic Express also argues that TBI-US did not comply with the
+Commission's rules because it failed to sign the application amendment and failed to certify
+that neither TBI-US nor any party to the application is subject to a denial of Federal
+benefits pursuant to the Federal Drug Abuse Act of 1988.  We note that Section 1.744 of the
+Commission's rules, 47 C.F.R.  1.744, requires an applicant to sign amendments in the
+same manner as the initial application.  Although TBI-US did not sign the original
+application or the amendment, it subsequently filed a signed certification stating that
+Thomas R. Rudd, on behalf of TBI-US, had reviewed the amendment and that it is, to the
+best of his knowledge, true and correct.  In addition, pursuant to Section 1.2002 of the
+Commission's rules, 47 C.F.R.  1.2002, TBI-US certified that neither TBI-US nor any of its
+principals is subject to a denial of Federal benefits pursuant to the Federal Drug Abuse Act
+of 1988, 21 U.S.C.  862.  We find that TBI-US' certifications are sufficient to comply with
+our rules.
+
+     B.  Private Submarine Cable Policy
+
+      12.TBI-US requests a license under the Commission's private submarine cable
+policy to promote competition in the provision of international transmission facilities. 
+Pursuant to this policy, the Commission has authorized non common carrier cables where
+there is no legal compulsion to serve the public indifferently and no reasons implicit in the
+nature of the operations to expect an indifferent holding-out to the eligible user public. 
+Because of the wide availability of common carrier circuits on existing and future cables
+and satellite circuits between the United States and Bermuda, there is no public-interest
+reason to require that TBI-US' proposed cable facilities be provided on a common carrier
+basis.  
+
+      13.In addition, because the applicant will individually negotiate with interested
+users and therefore will make "individualized decisions, whether and on what terms to
+deal," and will not undertake to "carry for all people indifferently," there is no reason to
+expect that the proposed cable circuits would be held out to the public indifferently.  We
+thus conclude that TBI-Bermuda will not offer capacity in the proposed cable system to the
+public on a common carrier basis and accordingly is not subject to regulation under Title II
+of the Communications Act.  
+
+     C.  Analysis Under the Cable Landing License Act
+
+      14.While there is no need to require that the proposed BUS-1 cable be operated
+on a common carrier basis, Atlantic Express and CSCI argue that TBI-US' application fails
+to satisfy the reciprocity standard of the Cable Landing License Act and thus should be
+denied.  Atlantic Express also submits that it is concerned that the opportunities open to
+competitors in the U.S. market are not matched by opportunities to compete in foreign
+markets.  Atlantic Express asserts that this concern is the foundation of our Foreign
+Carrier Entry Order and of the Cable Landing License Act.  TBI-US responds that it has
+met the reciprocity standard of the Cable Landing License Act and furthermore that an
+effective competitive opportunities (ECO) analysis as set forth in the Foreign Carrier Entry
+Order should not apply to this application.  
+
+      15.In the Foreign Carrier Entry Order, the Commission determined that it will
+examine whether effective competitive opportunities exist for U.S. carriers in the
+destination markets of foreign carriers with market power seeking to enter the U.S.
+international services market either directly or through an affiliation under Section 214 of
+the Act.  The Commission similarly would examine whether foreign markets offer effective
+competitive opportunities to U.S. entities in considering foreign investment in excess of the
+benchmarks contained in Section 310(b)(4) of the Act.  The Commission has not yet
+specifically applied an effective competitive opportunities analysis to non-common carrier
+submarine cables under the Cable Landing License Act.  Thus, we will examine this
+application under our existing cable landing license precedent.
+
+      16.We find that TBI-Bermuda's 20 percent ownership in TBI-US, the proposed
+licensee, is consistent with our previous decisions.  For example, in Optel, the Commission
+found that the 20 percent ownership interest by Teleglobe, a Canadian carrier, in Optel, the
+U.S. licensee of CANUS-1, did not represent facilities-based entry into the U.S. market by
+Teleglobe and thus did not raise the issue of reciprocity under the Cable Landing License
+Act.  The Commission found that Optel is a U.S. corporation operating within the territory
+of the United States, and that licensing of CANUS-1 to Optel does not itself give rise to the
+kind of foreign presence that prompted Congress to enact the reciprocity provisions of the
+Cable Landing License Act.
+
+      17.Similarly, we find that TBI-Bermuda's 20 percent ownership interest in TBI-
+US, as reflected in the amended application, does not implicate the reciprocity provisions of
+the Cable Landing License Act.  As in Optel, TBI-US is a U.S. corporation operating in the
+territory of the United States and licensing of BUS-1 to TBI-US does not itself give rise to
+the kind of foreign presence that prompted Congress to enact the reciprocity provisions of
+the Cable Landing License Act.  Thus, we need not apply a reciprocity analysis in this case.
+
+      18.We note that this analysis is consistent with our Foreign Carrier Entry Order. 
+The Foreign Carrier Entry Order adopted a level of 25 percent ownership of capital stock, or
+a controlling interest at any level, for classifying a U.S. carrier as an "affiliate" of a foreign
+carrier for the purpose of applying the ECO analysis under Section 214 of the Act.  Section
+310(b)(4) of the Act also establishes a 25 percent benchmark for applying a public interest
+analysis to certain radio licenses.  Under either standard, TBI-Bermuda's 20 percent
+ownership of TBI-US falls below the established benchmark.  
+
+     D.  Landing Points
+
+      19.Consistent with prior decisions, we find that TBI-US' description that BUS-1
+will land in Tuckerton, New Jersey and on the southern coast of Bermuda to be sufficient to
+determine whether the proposed cable system would comply with the provisions of the
+Cable Landing License Act and Commission rules.  Pursuant to Section 1.767(a)(5) of the
+Commission's rules, however, TBI-US must provide a specific description of the landing
+locations, including a map, no later than ninety days prior to construction.  We condition
+this license upon final approval of the landing points.  The Commission will give public
+notice of this description, and grant of the license will be considered final unless we issue a
+public notice to the contrary no later than sixty days after receipt of the specific
+description of the landing point.
+
+     E.  Environmental Impact
+
+      20.Based on the information provided by TBI-US and pursuant to the
+Commission's procedures implementing the National Environmental Policy Act of 1969, we
+conclude that the grant of the requested authorizations would have no significant effect on
+the quality of the human environment and is therefore categorically excluded from
+environmental processing.  Consequently, TBI-US is not required to submit an
+environmental assessment with this application.
+
+      21.Accordingly, we conclude that U.S. interests under the Cable Landing License
+Act will be served by grant of the license to TBI-US, as conditioned below.
+
+                       V.  Ordering Clauses
+
+      22.Consistent with the foregoing, we hereby GRANT AND ISSUE, under the
+provisions of the Cable Landing License Act and Executive Order 10530, TeleBermuda
+International, L.L.C. a license to land and operate a digital non-common carrier fiber optic
+submarine cable system extending between the United States and Bermuda, with landing
+points in Tuckerton, New Jersey and the southern coast of Bermuda.  The cable will be used
+to provide voice, data, and video services at a transmission speed of 2.5 Gbit/s, with the
+ability to upgrade the transmission speed and capacity for future use. This grant is subject
+to all rules and regulations of the Federal Communications Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter
+become a party; any action by the Commission or the Congress of the United States
+rescinding, changing, modifying, or amending any rights accruing to any person hereunder;
+and the following conditions:
+
+     (1)  The location of the cable system within the territorial waters of the United
+     States of America, its territories and possessions, and upon its shore shall be in
+     conformity with plans approved by the Secretary of the Army, and the cable shall be
+     moved or shifted by the Licensee at its expense upon the request of the Secretary of
+     the Army whenever he or she considers such course necessary in the public interest,
+     for reasons of national defense, or for the maintenance or improvement of harbors
+     for navigational purposes;
+
+     (2)  The Licensee shall at all times comply with any requirements of United States
+     government authorities regarding the location and concealment of the cable
+     facilities, buildings, and apparatus for the purpose of protecting and safeguarding
+     the cable from injury or destruction by enemies of the United States of America;
+
+     (3)  The Licensee or any persons or companies controlling it, controlled by it, or
+     under direct or indirect common control with it does not enjoy and shall not
+     acquire any right to handle traffic to or from the United States, its territories, or
+     its possessions unless such service be authorized by the Commission pursuant to
+     Section 214 of the Communications Act, as amended; 
+
+     (4)  The Licensee or any persons or companies controlling it, controlled by it, or
+     under direct or indirect common control with it shall not acquire or enjoy any right
+     for the purpose of handling or interchanging traffic to or from the United States, its
+     territories, or its possessions to land, connect, or operate cables or landlines, to
+     construct or operate radio stations, or to interchange traffic, that is denied to any
+     other United States company by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it,
+     controlled by it, or under direct or indirect common control with it are parties;
+
+     (5)  Neither this license nor the rights granted herein shall be transferred, assigned,
+     or in any manner either voluntarily or involuntarily disposed of or disposed of
+     indirectly by transfer of control of the Licensee to any persons, unless the Federal
+     Communications Commission shall give prior consent in writing;
+
+     (6)  The Licensee shall notify the Commission in writing of the precise locations at
+     which the cable will land no later than ninety days prior to commencing
+     construction of the cable landing station at those locations.  The Commission will
+     give public notice of the filing of these descriptions, and grant of this license will be
+     considered final unless the Commission issues a notice to the contrary no later than
+     sixty days after receipt of the specific description of the landing points;
+
+     (7)  The Commission reserves the right to require the Licensee to file an
+     environmental assessment or environmental impact statement should it determine
+     that the landing of the cable at those locations and construction of necessary cable
+     landing stations would significantly affect the environment within the meaning of
+     Section 1.1307 of the Commission's procedures implementing the National
+     Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental
+     impact statement that it may require pursuant to its rules;
+
+     (8)  The Licensee shall maintain no less than a 50-percent direct or indirect
+     ownership interest and voting control share in the cable, including 100-percent
+     direct ownership in the cable stations in the United States and in the U.S. land
+     portion of the cable from the stations to the U.S. beach joint of the submerged
+     portion of the cable;
+
+     (9)  The Licensee shall, by application, obtain Commission approval prior to the sale
+     or transfer to a foreign entity of five percent or more in the aggregate of U.S.-
+     owned and -controlled stock; 
+
+     (10)  This license is revocable by the Commission after due notice and opportunity
+     for hearing pursuant to section 2 of "An Act Relating to the Landing and Operation
+     of Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply
+     with the terms of the authorizations;
+
+     (11)  The Licensee shall notify the Commission in writing of the date on which the
+     cable is placed in service, and this license shall expire 25 years from such date,
+     unless renewed or extended upon proper application, and, upon expiration of this
+     license, all rights granted under it shall be terminated; and 
+
+     (12)  The terms and conditions upon which this license is given shall be accepted by
+     the Licensee by filing a letter with the Secretary, Federal Communications
+     Commission, Washington, D.C. 20554, within 30 days of the release of the cable
+     landing license.
+
+      23.This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.
+ 1.4(b)(2)).
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+     Diane J. Cornell
+     Chief, Telecommunications Division
+     International Bureau

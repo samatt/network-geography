@@ -1,0 +1,102 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                   )
+                                   )
+fONOROLA FIBER DEVELOPMENT INC.    )
+                                   )
+LEDCOR INDUSTRIES, INC.            )
+                                   )    File No. SCL-AMD-19981112-00026
+Application for modification of license to land and    )
+operate in the United States a fiber optic submarine   )
+cable system extending between the United States       )
+and Canada                         )
+
+           SECOND MODIFICATION OF CABLE LANDING LICENSE
+
+Adopted:  March 29, 1999                           Released:  March 31, 1999  
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.    In this Order, we modify the cable landing license recently granted to fONOROLA Fiber
+Development Inc. (fONOROLA Fiber) and Ledcor Industries, Inc. (Ledcor) to add Fiberco
+Telecommunications Corporation (Fiberco) as a third licensee.  The original license authorized
+fONOROLA Fiber and Ledcor to land and operate a fiber optic submarine cable system between the
+United States and Canada called "America-Canada-1" or "AmeriCan-1."  Pursuant to the modified license,
+AmeriCan-1 will continue to be operated on a non-common carrier basis.  
+
+                          II.  Comments 
+
+     2.   We placed the application on public notice on December 4, 1998.  We received no
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  After coordinating
+with the National Telecommunications and Information Administration and the Department of Defense, the
+Department of State stated that it has no objection to amending the cable landing license, which was
+initially granted on August 19, 1998.
+     
+                        III.  Discussion
+     
+     3.   We grant Fiberco's request to be added as a third licensee of AmeriCan-1.   Fiberco
+requests the modification in order to purchase a portion of AmeriCan-1, including one of the four fiber
+bundles and an undivided interest in certain support structures including cable landing stations in the
+United States.  
+
+     4.   We find that the proposed modification is in the public interest.  Fiberco, a Delaware
+corporation, is indirectly owned by BCE Inc., a publicly-traded Canadian holding company, which also
+owns 100% of Bell Canada.  Because Canada is a member of the World Trade Organization (WTO), we
+adopt a presumption that the addition of Fiberco as a licensee does not raise concerns that would justify
+denial of its application on competition grounds.  Indeed, as the application states, the addition of Fiberco
+to the instant license will further expand the extent of facilities-based competition for services between the
+United States and Canada.  According to Fiberco, its Canadian affiliate, Bell Canada, already competes
+with Call Net and other carriers in the cross-border market, and the scope of such competition is expected
+to increase pursuant to the October 1, 1998, decision of the Canadian Radio-television and
+Telecommunications Commission, which lifted remaining restrictions on Canada-overseas and Canada-
+Canada traffic carried via the United States.
+     
+                     IV.  Ordering Clauses 
+                                
+     5.   Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, IT IS ORDERED that application, File No. SCL-AMD-19981112-00026, IS
+GRANTED and the AmeriCan-1 landing license is MODIFIED to add Fiberco as a licensee of AmeriCan-
+1.
+
+     6.   This Modification of Cable Landing License does not modify any other terms or conditions
+imposed in the license released on August 21, 1998.
+
+     7.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be
+filed within 30 days of the date of public notice of this order.
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

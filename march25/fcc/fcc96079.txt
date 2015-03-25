@@ -1,0 +1,2172 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+    *********************************************************    
+
+       
+
+                         NOTICE
+
+
+   *********************************************************
+
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed
+too.
+
+If you need the complete document, download the Word Perfect
+version.
+
+For information about downloading documents (FTP) see file
+ how2ftp.
+
+File  how2ftp (.txt & .wp) is in directory
+/pub/Bureaus/Miscellaneous/Public_Notices/
+
+*****************************************************************
+********
+$//TRANSMITTED FOR FCC RECORD ONLY//$
+
+$//R&O, Streamlining 214 Authorization Process, FCC 96-79//$
+$/47 C.F.R.  1.767 Cable Landing Licenses/$
+$/47 C.F.R. 61 Tariffs/$
+
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION FCC-96-79
+                          Washington, D.C. 20554
+
+In the Matter of                   )
+                              )         
+Streamlining the International     )         IB  Docket No. 95-118
+Section 214 Authorization Process and   ) 
+Tariff Requirements             )
+
+                             REPORT AND ORDER
+
+     Adopted: February 29, 1996 Released: March 13, 1996
+
+By the Commission: 
+
+                             TABLE OF CONTENTS
+
+                                                                  Paragraph
+                                                                    Numbers
+                                     
+I. INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . .1-2
+
+II. STREAMLINING INTERNATIONAL SECTION 214 AUTHORIZATIONS. . 3-62
+1. Facilities-based carriers . . . . . . . . . . . . . . . . 3-20
+2. Resellers . . . . . . . . . . . . . . . . . . . . . . . .21-27
+3. Resale of private lines for switched services . . . . . .28-35
+4. Non-common carrier satellite and cable systems. . . . . .36-39
+5. Conveyance of cable capacity. . . . . . . . . . . . . . .40-45
+6. Discontinuances . . . . . . . . . . . . . . . . . . . . .46-50
+7. Cable landing license applications. . . . . . . . . . . .51-56
+8. Contents of international Section 214 applications. . . .57-60
+9. Conditions of international Section 214 authorizations. .61-63
+
+III. PETITIONS TO DENY . . . . . . . . . . . . . . . . . . .64-70
+
+IV. FORM OF INTERNATIONAL SECTION 214 APPLICATIONS . . . . .71-76
+
+V. TARIFFING REQUIREMENTS. . . . . . . . . . . . . . . . . .77-84
+
+VI. FORBEARANCE. . . . . . . . . . . . . . . . . . . . . . .85-86
+
+VII. MISCELLANEOUS ISSUES. . . . . . . . . . . . . . . . . .87-95
+1. Growth-based accounting rates . . . . . . . . . . . . . .87-90
+2. Correspondent Agreements. . . . . . . . . . . . . . . . .91-92
+3. "Fresh-look" for long-term service arrangements . . . . .93-95
+
+VIII. CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . 96
+
+IX. PROCEDURAL MATTERS; ORDERING CLAUSES . . . . . . . . . 97-101
+
+APPENDIX A - Final Rules . . . . . . . . . . . . . . . . . . . . 
+
+APPENDIX B - Final Regulatory Flexibility Analysis . . . . . . . 
+
+
+                              I. INTRODUCTION
+
+     1.   On July 17, 1995, we proposed to streamline the international Section 214
+authorization process and related regulatory procedures for international carriers.  Many
+proposals contained in the Notice were developed from recommendations made by the public
+and by industry representatives at roundtable discussions with the International Bureau.   
+This Order adopts the recommendations proposed in the Notice subject to modifications
+discussed below.  Implementation of these proposals will benefit U.S. consumers because
+they eliminate unnecessary regulatory delay and enhance the competitiveness of U.S. service
+providers in the world market.  
+
+     2.    The new regulations adopted by this Order will facilitate entrance into the
+international telecommunications market and expansion of international services.  Under the
+new rules, we will: (1) issue global international Section 214 authorizations to facilities-based
+carriers for the provision of international services, (2) reduce paperwork obligations, 
+(3) streamline our tariff requirements on non-dominant international carriers, and (4) ensure
+that essential information is readily available to all carriers and users.  Implementation of
+these proposals will significantly improve processing and operational efficiencies.  Moreover,
+these streamlining proposals further our mandate under the recent Telecommunications Act of
+1996 ("Telecom Act") to eliminate unnecessary government regulation of the
+telecommunications industry.  In the near future, we will be considering what further
+deregulatory steps we can take with our new authority to further reduce or eliminate
+unnecessary regulations and thereby increase competition in the marketplace.  We invite the
+public to suggest more areas in which we may minimize or forbear from existing regulation. 
+          
+        II. STREAMLINING INTERNATIONAL SECTION 214 AUTHORIZATIONS 
+
+                      1.  Facilities-based carriers 
+
+(a)  The Notice
+
+     3.   In our Notice, we proposed to amend Sections 63.01 and 63.15 of our Rules to
+enable U.S. facilities-based carriers regulated as non-dominant to obtain a global, rather than
+a country-specific, Section 214 authorization.  Global authorizations would exclude certain
+countries that are specified in a Commission published "exclusion" list.  This exclusion list
+may change from time to time as circumstances dictate.  We proposed to grant broad
+authority for carriers to use half-circuits on all previously and subsequently authorized U.S.
+common carrier and non-common carrier facilities and any necessary foreign connecting
+facilities.  We proposed to make applications for this type of authority eligible in most
+instances for our streamlined processing procedures.  We also proposed to amend Section
+63.05 of our Rules to remove the requirement that international common carriers commence
+operations within a specified period of time from the Section 214 authorization date.
+
+     4.   We are mindful of our statutory obligations under the Communications Act of
+1934 to guard against abuses of market power in situations where effective competition does
+not yet exist.  We meet these obligations through our Section 214 authorization process and
+apply dominant carrier and other safeguards where circumstances warrant.  In addition, we
+stated that the rules proposed in the Notice, which eliminate many filing and prior
+authorization requirements, should be read in conjunction with the Circuit Status Order. 
+Pursuant to the rules adopted in the Circuit Status Order, the Commission will continue to
+collect and make public information from carriers identifying the countries that international
+carriers actually are serving through circuit status and addition reports.  This information aids
+us in our efforts to foster a more open and competitive international telecommunications
+market.    
+
+(b)   Positions of the Parties
+
+      5.    Support for a global Section 214 authorization was very favorable.  Some
+commenters propose a few modifications to the mechanics of its application.  Several
+commenters urge us to require specific Section 214 applications from a carrier affiliated with
+a foreign carrier that has market power in its home country when the applicant intends to
+provide service between the United States and that country.  They also suggest that the
+unopposed applications of U.S. carriers with foreign affiliates that do not possess market
+power be granted automatically under the proposed streamlined processing procedures.  
+
+      6.    AT&T requests that we grant global Section 214 authority to all U.S.-based
+carriers without foreign affiliations, whether or not they are regulated as dominant.  AT&T
+argues that there is no basis to treat dominant and non-dominant unaffiliated U.S. carriers
+differently under Section 214.  AT&T states that, in the context of international facilities
+authorization, the conduct that dominant classification was meant to deter is more effectively
+handled through processes other than maintaining more burdensome Section 214 filing
+requirements for dominant unaffiliated U.S. carriers.  In addition, AT&T states that the
+rationale for adopting certain streamlining proposals is equally applicable to dominant,
+unaffiliated U.S. carriers as to non-dominant U.S. carriers.  MCI opposes AT&T's request
+stating that, with the array of economic and competitive advantages that are the product of
+AT&T's monopoly heritage, it is essential that the Commission continue to impose conditions
+on AT&T that are different from those imposed on non-dominant carriers in order to detect
+and prevent discriminatory and unlawful practices.
+      
+      7.    Sprint and MCI recommend that we modify the proposed rule on global
+Section 214 authorizations to specify that a dominant U.S. facilities-based carrier that has
+entered into a significant business relationship (e.g., a co-marketing or joint venture
+arrangement) with a dominant foreign carrier should not be granted global Section 214
+authority to that foreign carrier's home market, but must await specific approval. 
+
+      8.    There are several other proposed modifications.  MCI suggests that when an
+application is uncontested but requires further review, the International Bureau should inform
+the applicant of the delay by both correspondence and public notice and identify the staff
+person in charge of the review and the target date for completion of the review.  ACTA urges
+the Commission to include countries on the exclusion list only in the most imperative of
+circumstances.  WorldCom encourages us to expand our grant of global Section 214
+authorizations to include the use of non-U.S. separate satellite systems, including, but not
+limited to, the Mexican/Solidaridad system, the Canadian ANIK system and various Russian
+satellite systems.  WorldCom asserts that there is no reason to exclude these widely used non-
+U.S. satellite systems from a global Section 214 authorization and that the Commission can
+monitor use of these satellite systems through the Section 43.82 circuit status reports. 
+AmericaTel states that we should define "affiliation" with a foreign carrier for purposes of
+Section 214 authorizations based on control of that carrier.  Finally, ACC supports the
+elimination of the requirement in Section 63.05 of our Rules that common carriers commence
+operations within a specified time after obtaining Section 214 authority.  ACC concurs with
+our reasoning in the Notice that obtaining operating agreements from foreign carriers takes
+time and can delay initiation of service to particular countries.  
+
+(c)   Discussion
+
+      9.    We find that the public interest, convenience and necessity would be served by
+adopting, with some modifications, our proposed rules for global Section 214 authorizations
+for facilities-based carriers.  Such global authorizations will enable carriers to enter new
+markets rapidly and use new facilities without the delays and costs associated with filing
+separate Section 214 applications for each new market or facility.  These broader 
+authorizations also will lessen the administrative burdens on applicants and Commission staff. 
+WorldCom notes that to date it has filed over 500 Section 214 authorizations, but under the
+proposed new rules, it would require only one global Section 214 authorization and a handful
+of specialized authorizations.  The benefits to industry and government in such reductions
+will be substantial. 
+
+      10.   We note that the Telecom Act, states that the Commission "shall permit any
+common carrier to be exempt from the requirements of Section 214 of the Communications
+Act of 1934 for the extension of any line."  We do not view this provision as applicable to 
+our authority to require common carriers to obtain Section 214 authority to acquire, operate,
+or resell facilities or services to serve individual countries.  When we grant a carrier initial
+authority to acquire and operate facilities to a particular country, we do not grant that carrier
+authority for an "extension of lines" within the meaning of Section 214 of the
+Communications Act and Section 402(b)(2) of the Telecom Act, but instead grant that carrier
+authority to acquire and operate new lines to a particular geographic market.  To the extent
+there are any staff level decisions discussing extension of lines that could be interpreted as
+inconsistent with this view, they do not represent the views of the Commission.  This leaves
+the necessity and the benefits of streamlining Section 214 authorizations intact. 
+
+      11.   Some modifications to our proposed rules are appropriate.  First, the public
+interest would be served by expanding the types of global Section 214 applications eligible
+for streamlined processing to include those filed by U.S. carriers with foreign affiliations, as
+defined below, so long as the applications are tailored such that they do not request authority
+for service on routes where applicants have affiliations with foreign carriers and we have not
+made a determination that the affiliate lacks market power in the destination market. This
+expansion of streamlined processing will lessen the administrative burden on Commission
+staff.  More importantly, this would make it possible for these foreign-affiliated carriers to
+enter the U.S. market faster, which would be in harmony with our recently completed Foreign
+Carrier Entry Order.  In that Order, we defined affiliation as an ownership interest of
+greater than 25 percent, or a controlling interest at any level, by a U.S. carrier in a foreign
+carrier, or by a foreign carrier in a U.S. carrier.  We found that it would be in the public
+interest to allow a foreign-affiliated carrier routine access to the U.S. international services
+market on routes where the foreign carrier does not have market power.  We reached this
+conclusion after determining that, in conducting the Section 214 public interest analysis of an
+application by a foreign-affiliated carrier, we need only assess whether U.S. carriers have
+effective competitive opportunities to compete in a particular market if that carrier is applying
+for authority to serve a market where its foreign carrier affiliate has market power.  We stated
+that foreign carriers that do not have market power lack the ability to discriminate against
+unaffiliated U.S. carriers.   
+
+      12.   Accordingly, we find here that a foreign-affiliated U.S. carrier applying for a
+global Section 214 authorization should be treated no differently than a U.S. carrier without
+foreign affiliations to the extent the affiliated carrier is seeking authority to serve routes where
+it is not affiliated with a foreign carrier with market power.  We believe the public interest
+would be served by affording streamlined processing to that carrier's application.  These
+applications should be specifically tailored, however, to ask for limited global authority to
+provide service to points where either the carrier does not have affiliations, or we have
+previously determined that its affiliate does not possess market power in that destination
+market.  If a U.S. carrier desires to serve a market where it has an affiliation with a foreign
+carrier, and we have yet to determine whether that foreign carrier possesses market power
+there, then the U.S. carrier should file a separate application to serve that destination market. 
+This will give us the opportunity to determine whether we need to conduct an effective
+competitive opportunities analysis and whether specific safeguards are necessary to prevent
+the foreign carrier from discriminating against competing U.S. carriers on that route. 
+      
+      13.   We also adopt AT&T's proposal that U.S. carriers regulated as dominant for
+reasons other than having foreign affiliations be allowed global Section 214 authority.  We
+find that in today's competitive and regulatory environment, there is no longer a need to
+exclude dominant carriers without foreign affiliations from enjoying the benefits of a global
+Section 214 authorization.  We regulate U.S. carriers as dominant in order to help deter
+abuses of market power, such as acts of market exclusion, predatory pricing, unreasonable
+discrimination, and unreasonable termination or reduction of service to customers.  As part of
+our international dominant carrier safeguards, we have required that dominant carriers obtain
+specific international Section 214 authority prior to acquiring and operating any circuits to
+provide international service on any route.  This safeguard helps us monitor the facilities and
+capacity used by a dominant carrier in order to ensure that the carrier does not monopolize
+service on a particular route.  This safeguard also helps limit the ability of a dominant rate-
+base carrier to overbuild its facilities at ratepayers expense in order to enlarge its earnings. 
+The implementation of price cap regulation, however, has diminished the incentive for
+dominant carriers subject to price cap regulation to invest in facilities for which they have no
+immediate need because the carriers do not add the cost of the facilities to their rate base.
+And, with the large growth and variety of available facilities for international service, the
+opportunity to monopolize facilities on a route has nearly vanished.  These regulatory and
+market changes have reduced the need to use the Section 214 authorization process to guard
+against abuses of a dominant carrier's market power.  We believe the examination of
+accounting rate and service agreements between a carrier and its correspondent is a much
+better tool for preventing market exclusion.  We also believe there are better methods of
+detecting possible unlawful exploitation of U.S. domestic bottleneck facilities, such as the
+complaint process.  We note that U.S. carriers, currently found dominant for reasons other
+than having foreign affiliations or alliances, will still be subject to the restrictions on
+obtaining global Section 214 authority if they have affiliations with foreign carriers for which
+we have yet to make a market power determination. 
+      
+      14.   We accordingly adopt the following steps for the application and processing of
+global Section 214 authority for facilities-based carriers.  We amend Section 63.01 to make it
+applicable only to domestic authorizations, create a new Section 63.18 for international
+Section 214 authorizations, and revise Section 63.15 to facilitate applications for broad
+international Section 214 authority.  Both new carrier applicants, as well as any carriers
+operating under international Section 214 authority granted prior to this rulemaking, may
+obtain global Section 214 authority by submitting a new Section 214 application to operate as
+a facilities-based carrier pursuant to terms and conditions of Section 63.18(e)(1).  Subject to
+the exceptions outlined below, these applications will be processed using the same
+streamlined procedures used for resale applications.  That is, once we have reviewed the
+applications to determine eligibility for streamlined processing, we will place them on public
+notice as accepted for filing, and state whether they will be streamlined or not.  Petitions to
+deny streamlined applications must be filed within 21 days.  If streamlined applications are
+unopposed, they will be deemed granted 35 days after the date of the initial public notice of
+acceptance for filing, and the applicants may commence operations on the 36th day.  Shortly
+after the streamlined application has been granted, we will issue a second public notice that
+will be published in the FCC Record and will serve as the applicants' Section 214
+authorization.  The second public notice will list the applications granted and restrictions, if
+any, on providing service to particular countries and on the use of certain facilities.  The
+restrictions listed will consist of both general restrictions that apply to all carriers receiving
+global Section 214 authority, as well as specific restrictions to particular carriers, such as
+those with affiliations in destination markets.  It also will state that, as a condition of the
+Section 214 authorization, the carrier will be subject to any future modifications made to the
+exclusion list described below.  The notice also will state that, in cases where a carrier
+becomes affiliated with a foreign carrier after authorization is granted, it must notify the
+International Bureau promptly of the details of every such affiliation, pursuant to the
+provisions of Section 63.11.  The carrier would then be subject to possible reclassification as
+a dominant carrier on an affiliated route pursuant to the provisions of Section 63.10.
+      
+      15.   Applications that are contested or require the International Bureau either to
+conduct an effective competitive opportunities analysis or make a determination as to the
+degree of market power possessed by a foreign carrier affiliate will not be eligible for
+streamlined processing.  If we remove an application from streamlined processing, after
+originally giving public notice that it will be streamlined, the International Bureau will issue a
+public notice stating the change in processing status, and inform the applicant by sending it a
+copy of the public notice and by identifying the name of a staff contact person and date for a
+status conference.  This notification will be done within 28 days from the date of the initial
+public notice listing the application as being subject to streamlined processing (i.e., one week
+after the due date for petitions to deny).  Non-streamlined applications will be acted upon by
+written order, instead of public notice.
+
+      16.   Under these global Section 214 authorizations, authority will be given to use
+half-circuits on all U.S. common carrier and non-common carrier facilities previously and
+subsequently authorized by the Commission and on any necessary foreign connecting
+facilities.  This includes both common carrier and non-common carrier submarine cables
+landing in the United States, INTELSAT satellites, U.S. separate system satellites and the
+U.S. earth stations licensed by the Commission to communicate with these satellites.  If an
+applicant requests to use facilities not yet authorized then the applicant will have to file a
+separate Section 214 application.  For instance, we still require that proposed owners of new
+common carrier submarine cable systems obtain separate Section 214 authority to construct
+and operate the cable.  
+
+      17.   The International Bureau will maintain an exclusion list that identifies any
+restrictions on providing service to particular countries or using particular facilities, and
+whether separate Section 214 authority is needed for these countries and/or facilities.  The
+International Bureau will include the exclusion list as part of each public notice listing
+granted streamlined applications, or in the case of non-streamlined grants, in the granting
+order.  A copy will be maintained in the International Bureau's Reference Center.  The
+general exclusion list included with the most recent public notice listing streamline granted
+applications will apply to all carriers that have previously received global Section 214
+authority under this rule, whether by streamlined grant or specific written order.
+
+      18.   For situations where the public interest requires us to amend the exclusion list
+either to remove or impose restrictions on service to a particular country or use of specific
+facilities previously permitted under an existing global Section 214 authorization, we will first
+issue a public notice giving affected parties opportunity for comment and hearing on the
+proposed changes.  We will then release an order amending our exclusion list.  In response to
+ACTA, we envision such exclusions only taking place in the most imperative of
+circumstances.  If the President issues an Executive Order to prohibit or restrict service to a
+particular country or use of specific facilities, however, we will amend our exclusion list and
+issue a public notice to that effect without opportunity for comment or hearing.  In all such
+circumstances, carriers will be prohibited from providing service to countries or using
+facilities appearing on the exclusion list. 
+      
+      19.   We do not adopt at this time WorldCom's proposal to include the use of non-
+U.S. licensed satellite systems, including affiliates of INTELSAT and Inmarsat, in this global
+authorization.  The use of these systems is the subject of another proceeding.  If at a future
+date we determine the routine authorization of particular non-U.S. satellite systems is in the
+public interest, we will remove them from the exclusion list. 
+
+      20.   We also amend Section 63.05 which requires carriers to commence operation
+within a specified time after the Section 214 authorization date.  International carriers need to
+obtain operating agreements from foreign carriers.  Obtaining such agreements may be
+delayed by events outside U.S. carriers' control.  Consequently, we amend Section 63.05 so
+that international common carriers need not commence providing service within a specified
+time after the Section 214 authorization date.  Carriers' traffic reports will advise the
+Commission of the year that carriers actually initiate service to individual countries. 
+Consolidated traffic reports will relate such information annually to industry. 
+
+                              2.   Resellers
+
+(a)   The Notice
+      
+      21.   In the Notice, we proposed to expand the authority of resale carriers. 
+Currently, Section 63.01(k)(6)(ii) requires applicants that propose to provide service through
+the resale of international switched or private line services of another U.S. carrier to specify
+the names of the U.S. carriers and their specific tariffs to be resold.  Consequently, when
+resellers want to resell services of carriers that are not listed in their initial Section 214
+applications, resellers file new Section 214 applications to obtain the requisite authority.  In
+the Notice, we proposed to enable resellers to provide international resale services via any
+authorized U.S. carrier, except those affiliated with the reseller.  Under the proposal,
+applicants would obtain an initial Section 214 authorization for resale services and, then,
+would be able to add new unaffiliated underlying carriers without further Section 214
+authority.  We tentatively concluded that our prior authorization requirement was no longer
+needed because we receive sufficient information regarding resellers' activities from Section
+43.82 circuit addition reports and from Section 43.61 traffic reports.
+
+(b)   Positions of the Parties
+
+      22.   No party opposes our proposal or our rationale.  Three commenters, however,
+suggest modifications to our proposal.  TTH recommends that the Commission expand the
+category of carriers that a reseller may use under a blanket Section 214 authorization to
+include non-dominant, U.S. facilities-based carriers affiliated with the reseller.
+
+      23.   MFSI proposes that the Commission permit non-dominant, U.S. facilities-based
+carriers to provide service in correspondence with affiliated foreign resellers that lack market
+power, subject to applicable tariff and contract filing requirements and common carrier non-
+discrimination obligations.  MFSI states that, under the Commission's current policy, a U.S.
+carrier (dominant or non-dominant) that seeks to connect a U.S. half-circuit (owned,
+indefeasible right-of-user (IRU), or leased) with a leased, foreign private line half-circuit to
+provide a switched basic service must obtain country-by-country Section 214 authority and
+make an "equivalency showing."  MFSI states that this advances the interests of the largest
+carriers by reducing the level of effective competition in the marketplace without any
+countervailing public benefits.  Similarly, SPPT suggests streamlined processing for U.S. non-
+dominant carrier applicants that propose to use their own U.S. half-circuits in connection with
+leased foreign half-circuits to provide service between the United States and the foreign
+country where the leased half-circuits terminate.  
+              
+(c)   Discussion
+
+      24.   We find that the public interest would be served by adopting our proposed rule,
+as modified below, to allow resellers to provide international resale of switched or private line
+services via any authorized carrier, except U.S. facilities-based affiliates that are regulated as
+dominant on routes the carrier seeks to serve.  We agree with TTH that applicants that
+propose to resell services of an affiliated U.S. facilities-based carrier on routes where the
+affiliate is regulated as non-dominant do not raise discrimination or other anticompetitive
+concerns and can be subject to streamlined procedures.  First, if we have already determined
+that a carrier is non-dominant on a route, then by definition we have found that carrier to lack
+sufficient market power to engage in anticompetitive conduct.  Second, a reseller, whether
+affiliated with the underlying carrier or not, is purchasing services pursuant to a tariff or
+contract filed with the Commission, which means that any competing reseller may purchase
+the affiliated facilities-based carrier's services on the same terms and conditions as the
+affiliated reseller.  Last, the rule as originally proposed would create an inconsistency with
+another change we are making because the affiliated non-dominant facilities-based carrier
+would receive streamlined processing of its Section 214 application, but the affiliated reseller
+would be ineligible for streamlined processing. 
+
+      25.   Accordingly, we here amend existing Section 214 resale authorizations to allow
+carriers to resell international switched or private line services via any authorized carrier,
+except U.S. facilities-based affiliates that are regulated as dominant on routes the reseller
+seeks to serve.  Thus, existing resellers no longer need to obtain additional authorizations to
+resell services of carriers not identified in their initial authorization.  This change also will
+apply to all future Section 214 resale authorizations we issue.  Specific Section 214 authority
+is needed, however, to resell an affiliated dominant carriers' services. In particular, if a
+reseller desires to resell service of an affiliated underlying carrier that is regulated as
+dominant on some routes and not on others, the reseller is now authorized to resell that
+carrier's services on those routes on which the underlying carrier is non-dominant.  The
+reseller should file a separate Section 214 application, however, to provide resale service on
+routes where the underlying carrier is deemed dominant.  In addition, we will not streamline
+process any application for Section 214 resale authority if the applicant has an affiliation with
+a foreign carrier in a destination market, and we have yet to make a determination whether
+that foreign carrier possesses market power in that market. 
+
+      26.   This flexible approach will give resellers a greater selection of underlying
+carriers which will stimulate more competition in price and quality.  Also, resellers will be
+able to reduce their operating costs by using the most efficient resale arrangements available. 
+Reducing the administrative burdens of filing supplemental applications and regulatory time
+delays in implementing service should facilitate carriers' ability to provide competitive
+international services at lower prices. 
+
+      27.   We addressed MFSI's and SPPT's concerns in our Foreign Carrier Entry
+Order where we adopted their proposals in part.  In that Order, we clarified that a carrier will
+be considered facilities-based if it holds an ownership, indefeasible-right-of-user or leasehold
+interest in an international facility, regardless of whether the underlying facility is a common
+or non-common carrier submarine cable, or an INTELSAT or separate satellite system.  We
+stated that our definition of a facilities-based carrier focuses solely on the U.S. half-circuit. 
+We do not consider the nature of a U.S. carrier's interest, if any, in the corresponding foreign
+half-circuit.  We also stated that we would allow a U.S. facilities-based carrier to provide
+switched services over its private lines without a demonstration of equivalency, subject to two
+exceptions.  First, the U.S. carrier may not correspond with a carrier that directly or indirectly
+owns the foreign half-circuit in a market that we have not found to offer equivalent resale
+opportunities.  Second, the switched traffic carried over facilities-based private lines may only
+be interconnected to the public switched network on one end.  Where the U.S. carrier
+connects its facilities-based private line half-circuit with a foreign half-circuit in
+correspondence with a foreign carrier that owns the underlying half-circuit, we will require
+that it obtain additional Section 214 authority and demonstrate that equivalency exists. 
+Likewise, where a U.S. carrier seeks to interconnect its facilities-based private line to the
+public switched network on both ends, we will also require that it obtain additional Section
+214 authority and demonstrate equivalency.
+                  3.   Resale of private lines for switched services
+
+(a)   The Notice
+
+      28.   In the Notice, we proposed to allow private line resale carriers to resell
+switched services via interconnected private lines to all countries that the Commission
+designated as offering equivalent resale opportunities to U.S. carriers.  Under the proposal,
+carriers would need only obtain an initial Section 214 authorization to resell interconnected
+private lines to provide switched service.  This authorization would cover all countries that
+are designated equivalent at the time the application is granted and extend automatically to
+countries later found to be equivalent.  We proposed two exceptions: (1) where the U.S.
+carrier has an affiliation with the U.S. facilities-based carrier whose international private line
+services it desires to resell (either directly or indirectly through the resale of another reseller's
+services) and (2) where the carrier seeks authority to resell international private line services
+to a country in which the foreign carrier with which it has an affiliation owns or controls
+telecommunications facilities.  When these exceptions pertain, applications would be acted
+upon only by formal written order. 
+
+(b)   Positions of the Parties      
+
+      29.   All of those commenting support authorizing private line resellers to resell 
+interconnected private line service to provide switched services to any country deemed
+equivalent.  AT&T and Sprint, however, propose some modifications.  AT&T suggests
+that, in lieu of the Section 214 applications that would be eliminated by implementation of
+the proposal, we impose a notification requirement for international private line resellers on
+routes already found "equivalent."  AT&T proposes that private line resellers notify the
+Commission when they initiate service to an equivalent country and that the notifications be
+placed on public notice. AT&T believes this notification requirement is necessary to monitor:
+(1) the effect of private line resale on the U.S. net settlements outpayment, (2) progress
+towards the Commission's objective to place downward pressure on accounting rates through
+private line resale activity, and (3) international private line resellers that allegedly are not
+complying with the traffic and circuit addition reporting requirements. 
+
+      30.   Sprint requests a modification to the exception that a carrier previously
+authorized to resell interconnected private lines would not automatically be able to provide
+such resold services to newly designated equivalent countries if the carrier has an affiliation
+in the equivalent country.  Sprint asks that the exception be modified to ensure that it applies
+only in cases where the foreign carrier affiliate possesses market power in the equivalent
+country.
+
+(c)   Discussion
+
+      31.   We find that the public interest would be served by adopting, with
+modification, our proposed rules to enable carriers to resell private lines for switched services
+to certain new locations more rapidly and thus serve their customers more efficiently.  The
+proposal will increase competition in the international telecommunications market.  It also
+will further reduce administrative burdens and associated regulatory costs  incurred by carriers
+and the Commission.  We thus conclude that, subject to the exceptions below, carriers no
+longer need to obtain separate Section 214 authority to resell private lines to provide switched
+service to additional countries that are determined by the International Bureau, currently or
+subsequently, to provide equivalent resale opportunities for U.S.-based carriers, as defined in
+the Foreign Carrier Entry Order.    
+
+      32.   We do not find a need to adopt AT&T's proposed reporting requirements.  The
+Commission already imposes a reporting requirement on non-dominant international private
+line resellers that provide switched services.  For the first three years following an
+equivalency finding, we have required non-dominant international private line resellers
+providing switched or interconnected international private line services between the United
+States and a destination country to file with the Commission semi-annual traffic reports that
+contain the same information filed in the annual traffic reports.  After three years, the carriers
+file only the annual traffic reports pursuant to Section 43.61 of the Commission's Rules.  The
+current Section 43.61 traffic manual specifically requires that "facilities resale carriers," i.e.,
+private line resellers, report U.S. outbound and inbound traffic originating or terminating over
+resold U.S. private lines.  Private line resellers are required to report their traffic according to
+the ultimate point of termination or origination.  The Commission publishes this information
+annually.  
+
+      33.   We generally agree, however, with Sprint's proposed modification.  We believe
+the public interest, convenience and necessity would be served by authorizing U.S.
+interconnected private line resellers with foreign affiliations to be able to provide
+interconnected private line services to all countries found in the future to offer equivalent  
+resale opportunities, subject to one caveat.  If such a carrier is affiliated with a foreign carrier
+in the equivalent country, we must have already made a determination that the affiliated
+foreign carrier does not possess market power in that country.  In the absence of such a
+determination, the U.S. carrier shall file a Section 214 application for interconnected private
+line service to that country so that we may examine the foreign carrier's market power
+position in the equivalent country.  We believe that this approach will allow the Commission
+to weigh the potential for anticompetitive behavior by the foreign carrier, while at the same
+time fulfill the goal of this rulemaking of easing regulatory burdens.
+
+      34.   Accordingly, we adopt our proposed rule that allows automatic expansion of
+existing Section 214 authority for carriers to resell interconnected private lines to provide
+switched services to all countries designated equivalent.  We find that separate Section 214
+authority is no longer needed because we will receive information identifying the countries
+that individual international private line resellers are serving through traffic reports filed under
+Section 43.61 of the Commission's Rules and circuit addition reports filed under Section
+43.82 of the Commission's Rules.  Traffic reports will be filed on a semi-annual basis for the
+first three years following an equivalency finding.  Streamlined processing will not, however,
+be available to applicants with foreign carrier affiliates that are dominant in the destination
+market.  
+
+      35.   We additionally modify our rules in Section 63.18(e)(4) to permit the same
+automatic expansion of existing Section 214 authorities for facilities-based private line carriers
+to provide switched service to countries designated as equivalent.  Although we did not
+specifically propose automatic expansion of authority for facilities-based private line carriers
+in the Notice, we had not at that time adopted rules for the provision of switched basic
+services over facilities-based private lines.  Now that the Foreign Carrier Entry Order has
+established such rules, we see no reason not to extend to facilities-based private line carriers
+the same automatic expansion policy that we proposed and have adopted for interconnected
+private line resellers. 
+      
+                        4.   Non-common carrier satellite and cable systems 
+
+(a)   The Notice
+      
+      36.   Currently, we require all carriers to obtain Section 214 authority to acquire or
+lease capacity on non-common carrier facilities and additional Section 214 authority to add
+circuits on these facilities.  In the Notice, we proposed that once a non-dominant, facilities-
+based carrier obtains an initial Section 214 authorization, which may be for global or specific
+capacity on a non-common carrier system, it would not have to file additional Section 214
+applications to add circuits on previously authorized non-common carrier facilities.  This
+authorization would be subject to the provisions of the exclusion list identifying facilities on
+which the Commission has placed restrictions.  
+
+(b)   Positions of the Parties
+
+      37.   Generally, parties support our proposal.  AT&T believes, however, that U.S.
+carriers regulated as dominant, for reasons other than having foreign affiliations, should not
+be required to file individual Section 214 applications whenever they seek to acquire capacity
+on a non-common carrier cable or satellite system.  AT&T suggests that, if the Commission
+needs to monitor such purchases by these carriers, after-the-fact reporting of such capacity
+purchases would be adequate even if intervention was necessary.  WorldCom asks the
+Commission to clarify that this proposal applies equally to all non-common carrier facilities,
+whether U.S.- or foreign-authorized.  
+
+(c)   Discussion
+
+      38.   We find that the public interest will be served by adopting our proposal to
+eliminate the Section 214 authorization requirement to add circuits on U.S. licensed non-
+common carrier facilities.  As we stated in the Notice, Section 214 authorization was needed
+for our long-range facilities planning responsibilities as well as to assure compliance with
+Commission conditions placed on non-common carrier systems.  But, we discontinued the
+North American, Pacific and Caribbean facilities planning processes in 1988.  Additionally,
+necessary conditions on the non-common carrier facilities are normally placed on the original
+authorization for construction and operation of those facilities and not on the subsequent
+Section 214 facilities authorizations for acquiring capacity on them.  If, as in Optel, there is
+a need to place restrictions on the use of a non-common carrier system, we will place those
+restrictions in both our exclusion list and any specific Section 214 authorization to use the
+facility.  In light of these changes, there is no longer a need to maintain the individual Section
+214 applications for carriers seeking to acquire additional capacity on U.S. non-common
+carrier systems.
+                  
+      39.   We adopt in part AT&T's proposal that U.S. carriers regulated as dominant, for
+reasons other than having foreign affiliations, also be allowed to add circuits on non-common
+carrier facilities without seeking additional authorization.  As stated in our discussion about
+granting global Section 214 authorities to such carriers, there is no longer a regulatory need to
+treat these types of dominant carriers differently than non-dominant carriers when it comes to
+adding circuits on a facility.  These carriers, however, will still need to file a Section 214
+application if they seek to add circuits on a non-common carrier system to a point where they
+have an affiliate that possesses market power.
+
+                    5.   Conveyance of cable capacity 
+      
+(a)   The Notice
+      
+      40.   In our Notice, we proposed to no longer require dominant carriers to obtain
+Section 214 authority prior to conveying transmission capacity in submarine cables.  In the
+past, we required dominant carriers to obtain such authority in order to monitor the identity of
+non-dominant carriers acquiring such transmission capacity and to monitor dominant carriers'
+activities and ability to influence and control the use of the submarine cables.  Collecting
+such information and making the dominant carrier's activities public was appropriate when
+there was limited submarine cable transmission capacity.  Given the large increase in
+submarine cable transmission capacity to all major markets and the entrance of many new
+competitors in these markets, however, we tentatively concluded that the requirement was no
+longer necessary. 
+
+(b)   Positions of the Parties
+
+      41.   Several parties support the proposal.  MCI, however, submits that the existing
+Section 214 authorization requirement for the conveyance of cable capacity by dominant
+carriers is valuable because it affords an opportunity for public notice and comment in
+response to proposed transactions.  While MCI recognizes that the Communications Act does
+not require prior Commission authorization, MCI believes that the public interest, at least for
+the time being, requires that conveyance of capacity from a dominant U.S. carrier to another
+U.S. carrier be subject to such authorization.  MCI asserts that, even though terms and
+conditions relating to submarine cable conveyances are mutually derived and the amount of
+available capacity and the number of new users has increased in recent years, there is still
+incentive for dominant carriers to frustrate their non-dominant carrier competitors' ability to
+negotiate reasonable rates for purchase of submarine cable capacity.  
+
+      42.   MCI recommends that the Commission require dominant carriers like AT&T to
+provide the following information in connection with the conveyance of transmission capacity
+to other U.S. carriers: (1) name of the party to whom the capacity is to be conveyed; (2)
+name of the facility in which capacity is to be conveyed; (3) description of the amount of
+capacity to be conveyed, and (4) the price of the capacity to be conveyed.  MCI asserts that
+its proposal allows the Commission and interested members of the public to remain aware of
+these transactions.
+
+      43.   While ACTA supports the Commission's proposal, it agrees with MCI's 
+concerns.  ACTA believes that the Commission should be ready to eliminate any
+discrimination or unreasonable practices in the negotiations for transmission capacity in
+submarine cables.  
+
+(c)   Discussion
+
+      44.   We find that the public interest will be served by adopting a modification of
+the proposal set forth in the Notice.  We find that the best approach would be to replace the
+Section 214 authorization requirement with a notification requirement for dominant carriers
+seeking to dispose of transmission capacity in submarine cables.  These carriers will notify
+the Commission of their conveyances under Section 63.21(e).  The International Bureau will
+issue a public notice of these conveyances.  Dominant carriers should provide the following
+information in connection with the conveyance of transmission capacity to other U.S. carriers:
+(1) name of the party to whom the capacity is to be conveyed; (2) name of the facility in
+which capacity is to be conveyed; (3) description of the amount of capacity to be conveyed,
+and (4) the price of the capacity to be conveyed.  This notification shall be filed with us
+within thirty days after the conveyance.
+
+      45.   Replacing the Section 214 requirement with a notification requirement reduces
+the regulatory burdens imposed on dominant carriers.  As a result, dominant carriers will be
+able to act more quickly to upgrade their facilities which, in turn, will enable higher quality
+service for their customers.  At the same time, the minimal burden of a notification
+requirement will enhance competition by providing price and terms to non-dominant carriers,
+enabling them to negotiate reasonable prices for conveyance of cable capacity in submarine
+cables.  
+
+                          6.    Discontinuances 
+
+(a)   The Notice
+
+      46.   In the Notice, we proposed to clarify and to modify several sections of the
+Commission's Rules that prescribe procedures for carriers to follow when retiring,
+discontinuing, reducing or impairing service to a geographic market.  Currently, Section
+63.15(c) states that "[a]ny party certified to provide non-dominant international
+communications services to a particular geographic market is required to give one hundred
+and twenty days' notice prior to discontinuing service to that geographic market."  We have
+received many inquiries from the industry as to whether carriers should follow this simple
+notification requirement or the more extensive notification requirement in Section 63.71,
+which specifies to whom non-dominant international carriers should provide notification, what
+the contents of the notification should be, and whether and what notice should be given when
+the carrier's service is being discontinued, reduced or impaired but when overall service to
+the geographic market is not.  
+
+      47.   To address this situation, we proposed to clarify that non-dominant
+international carriers should follow the less burdensome of our notification rules, Section
+63.15(c), and not Section 63.71.  We also proposed to modify Section 63.15(c) to require
+non-dominant international carriers that seek to discontinue, reduce, or impair service to a
+community to: (1) notify their customers in writing at least sixty days in advance of their
+action, as opposed to the current one hundred and twenty days and (2) send a copy of this
+notification to the Commission.  Additionally, we proposed to simplify the requirements that
+carriers follow when they retire international facilities, but overall service to a geographic
+market is not being discontinued, reduced or impaired.   
+      
+(b)   Positions of the Parties
+
+      48.   Commenters support simplifying the process and reducing the notification
+period for discontinuances.  For example, AT&T states that a letter of notification to the
+Commission sixty days in advance when carriers retire international facilities where service to
+the geographic market is not being discontinued, reduced or impaired is sufficient.  TTH
+states that sufficient (sixty-day) notice to the Commission and customers is the only necessary
+restriction on retiring, discontinuing, reducing or impairing service. 
+      
+(c)   Discussion 
+
+      49.   We find that the public interest will be served by adopting the proposals set
+forth in the Notice.  The increase in the number of international carriers and competition in
+international services means that customers can switch to another international carrier if
+service is discontinued by their current carrier.  We believe it is necessary to have a sixty-day
+notification requirement so that customers will have sufficient time to secure an alternative
+service provider before their service is discontinued.  To avoid confusion, we will delete
+Section 63.15(c) and add a new subpart in Section 63.19 that clearly details the notification
+requirements for discontinuing, reducing or impairing service.  This new rule requires non-
+dominant international carriers that seek to discontinue, reduce, or impair service to a
+community to: (1) notify their customers in writing sixty days in advance as opposed to the
+current one hundred and twenty days and (2) send a copy of this notification at least sixty
+days in advance of their action to the Commission.  Where competition has increased both in
+the number of available facilities and the number of carriers providing common carrier and
+non-common carrier services, we conclude that impairment of service is unlikely and
+customers will be able to obtain alternative service within sixty days.  
+      
+      50.    Sections 63.62(a) and 63.500 are modified to state specifically that Section
+214 authority is not needed for dominant and non-dominant carriers retiring submarine cables
+where service to the geographic market is not being discontinued, reduced or impaired. 
+Customers' service is rarely impaired because carriers typically move their customers over to
+new facilities before retiring a cable.  Instead, international carriers that are retiring submarine
+cables that do not impair service to a community will follow the same notification
+requirement in Section 63.19 as non-dominant international carriers that are discontinuing
+service to a community.  Dominant carriers that seek to retire facilities that will impair or
+reduce service to a community, however, shall still file applications pursuant to Sections
+63.62(a) and 63.500. 
+
+                 7.   Cable landing license applications    
+
+(a)   The Notice
+
+      51.   In the Notice, we proposed to simplify the application process for carriers to
+obtain submarine cable landing licenses and the associated international Section 214
+authorizations by reducing the information carriers submit.  We proposed to eliminate the
+requirement in Section 1.767 that applicants specify the proposed use, need and desirability of
+the cable.  Additionally, we proposed to allow applicants to provide a general geographic
+description of the landing points in their initial applications as long as the precise landing
+points are provided at least ninety days prior to construction. 
+
+(b)   Positions of the Parties      
+
+      52.   Most commenters support simplifying the cable landing license application
+process.  MCI, however, believes that the Commission's proposal goes too far.  MCI is
+concerned that the relaxed requirements will spawn speculative applications from applicants
+that are not ready to build cable systems and intimidate others that may be more likely to
+build systems.  Also, MCI asserts that the proposal will diminish a company's ability to
+assess the future availability of cable capacity on any given route if applications are granted
+that do not identify precise landing points.  Thus, MCI recommends, at a minimum, that the
+Commission require applicants to: (1) file semi-annual or annual updates that include a
+projected date when the precise landing points will be identified, with the date always being
+no less than ninety days before the construction is to begin and/or (2) disclose to an interested
+party, upon written request, information concerning the location and timing for the
+construction of the cable facility.  MCI recommends that the Commission reserve the right
+to review any licenses, and, where appropriate, revoke them if their continuing pendency
+would be contrary to the public interest, subject to prior public notice and an attendant
+comment period.
+
+      53.   In contrast, AT&T agrees with the Notice's proposed rule that reduces the
+amount of information required in cable landing license applications.  AT&T suggests that the
+Commission go further.  AT&T recommends eliminating the same information, with one
+exception, from the cable landing license application for non-common carrier submarine
+systems as the Notice proposed to do for international Section 214 applications for new
+common carrier cable systems.  AT&T states that the Commission should retain the
+requirement that cable landing license applicants for non-common carrier submarine systems
+submit information relating to international comity, as federal law requires the Commission to
+consider international comity in determining whether to grant a submarine cable landing
+license.  AT&T contends that the market, and not the Commission, should determine
+whether and where there are current or anticipated needs for submarine cable systems,
+regardless of whether they are built on a non-common carrier or common carrier basis.
+
+(c)   Discussion
+
+      54.   We find that the public interest is served by reducing the amount of
+information submitted in cable landing license applications as proposed in the Notice with
+some modifications.  As proposed in the Notice, we no longer will require applicants to
+specify the proposed use, need and desirability of the cable in their cable landing license
+applications.  Additionally, applicants will have the option to provide a general geographic
+description of the landing points in their initial applications.  Grant of the application will be
+conditioned, however, on our final approval of a more specific description of the landing
+points to be filed by the applicant no later than ninety days prior to construction.  We will
+give public notice of the filing of this description, and grant of the license will be considered
+final unless we issue a public notice to the contrary no later than sixty days after receipt of
+the specific description of the landing points.  In addition, we will continue to require cable
+landing license applicants to give detailed ownership information, a description of the
+submarine cable, including the type, number of channels, capacity, information as to whether
+the cable will be operated on a common carrier or non-common carrier basis, and other
+information as necessary for us to act on the application.  
+
+      55.   We will modify our proposal, however, as we find merit to AT&T's and MCI's
+suggestions.  In regard to AT&T's comments, our past practice has not differentiated between
+the ownership information required for common carrier and non-common carrier cable
+licenses, and we retain that approach in our new rules.  Although our current rules require
+more detailed ownership information from common carrier applicants because they must
+respond to the additional ownership questions in the Section 214 application accompanying
+their submarine cable landing license application, it has been our practice to elicit this same
+information from non-common carrier applicants on an informal basis.  In light of AT&T's
+comments, however, we believe it will make things easier and clearer for non-common carrier
+applicants if we place in our new rules the type of ownership information needed to act on
+their applications.  This will save both non-common carrier applicants and the International
+Bureau staff the additional time needed to respond to post-filing requests for additional
+ownership information.
+       
+      56.   We also adopt in part MCI's recommended changes to our proposal.  We will
+require applicants promptly to disclose to any interested party, upon written request, accurate
+information concerning the location and timing for the construction of the cable facility. 
+We believe that this is the least intrusive way of meeting the need for industry to know for
+planning purposes what cable capacity is available now and in the near future, and this
+requirement should meet that need.  We do not believe the additional burden of filing updates
+with the Commission is necessary to meet this need.  We believe this revised proposal allows
+carriers to monitor the availability of future capacity but also accommodates the financial
+realities of the companies that lay the cables.    
+      
+         8.   Contents of international Section 214 applications 
+
+(a)   The Notice
+
+      57.    In the Notice, we proposed to simplify the application process for obtaining
+international Section 214 authorizations.  We proposed to eliminate much of the information
+required in an international Section 214 application, create a new rule specific to the
+information needed to process an international Section 214 application, and clarify our
+definition of a foreign carrier in the new rule.   
+      
+(b)   Positions of the Parties
+
+      58.   Commenters support reducing the amount of information filed in international
+Section 214 applications.  TTH and AT&T support the Commission's view that U.S.
+international carriers' investment in submarine cable facilities are business decisions taken at
+their own risk and as such need not require extensive review.  Additionally, TTH states that
+requiring carriers to disclose confidential financial information may inhibit them from
+constructing new facilities.  ACTA supports in particular our clarification to the definition of
+a foreign carrier. 
+
+(c)   Discussion  
+
+      59.   We adopt the rules proposed in the Notice.  International Section 214
+applicants now will file applications under the new Section 63.18 which focuses exclusively
+on the contents of Section 214 applications for international carriers.  This rule eliminates the
+requirement to file much information previously required under the old Section 63.01.  For
+example, international Section 214 applicants seeking authority to construct and operate 
+submarine cable facilities will no longer submit information on demand, cost, service quality,
+media and route diversity, restoration, intramodal and intermodal competition, and
+technological innovations.  By clarifying and reducing the information carriers must submit in
+an international Section 214 authorization, we will serve the public interest by significantly
+lessening the burden on existing carriers and new entrants.  
+ 
+      60.   Finally, our new rule clarifies the definition of a foreign carrier for purposes of
+Section 214 applications to include specifically entities authorized within a foreign country to
+engage in the provision of domestic telecommunications services if such carriers have the
+ability to originate or terminate telecommunications services to or from points outside of their
+country.  This definition is consistent with the International Telecommunication Regulations,
+as well as our recent Foreign Carrier Entry Order.  In that Order, we focused on the ability
+of a non-U.S. entity seeking U.S. carrier status to discriminate against other U.S. carriers in
+the origination and termination of traffic in a destination market.  A foreign domestic carrier
+that terminates international traffic could have such an ability if it was the dominant carrier in
+that market.  
+
+                                          9.   Conditions of international Section 214 authorizations 
+
+(a)   The Notice  
+
+      61.   In the Notice, we proposed to create a new section of the rules that would list
+the conditions we routinely include as part of an international Section 214 authorization. 
+We believed that having these conditions listed in one section of the rules would make it
+easier for carriers to determine the terms of their authorizations and for us to facilitate
+implementation of our proposed streamlined procedures.  
+
+(b)   Position of the Parties
+      
+      62.   No party opposes this proposal.  MCI suggests, however, that the Commission
+include a requirement that dominant carriers file cable capacity conveyances that contain the
+information described in Paragraphs 40-45 of this Order.
+
+(c)   Discussion
+      
+      63.   We find that the public interest will be served by adopting our proposal and
+listing the standard conditions applicable to international Section 214 authorizations in a new
+Section 63.21.  We also will include the notification requirement requested by MCI.  Our
+new rule will identify and clarify standard conditions placed in international Section 214
+authorizations to facilitate implementation of our proposed streamlined procedures.  The new
+rule will consist of: (1) the prohibition on the resale of private lines for the provision of
+international switched services unless the country has been designated as providing equivalent
+resale opportunities for U.S.-based carriers; (2) the requirement to file copies of operating
+agreements entered into with foreign correspondents and all other agreements specified under
+Section 43.51; (3) the requirement to file applicable tariffs; (4) the requirement to file
+annual reports of overseas telecommunications traffic; (5) the requirement to file annual
+circuit status and addition reports, and (6) the requirement for dominant carriers to file a
+notification of conveyances of submarine cable circuits to other carriers.  We will reference
+this rule in the public notice or order that serves as an applicant's international Section 214
+authorization.    
+      
+                          III. PETITIONS TO DENY 
+
+(a)   The Notice
+
+      64.   In the Notice, we proposed to shorten the comment period for Section 214
+applications.  We stated that our proposal would both accelerate the application process and 
+make it easier for both applicants and the Commission to calculate due dates, which we
+proposed to be in multiples of seven. 
+      
+(b)   Positions of the Parties
+
+      65.   WorldCom was the only commenter to oppose our proposed changes to the
+comment periods.  WorldCom argues that the Commission should not change the filing period
+for petitions to deny non-dominant carrier applications.  WorldCom states that the standard
+thirty day public comment period has served the public and the Commission well and there is
+no compelling reason to reduce it.  WorldCom believes that public comment periods of 21,
+28, and 30 days for different applications will be confusing and it does not believe that a 28-
+day comment period is substantially easier to calculate than a 30-day.  Furthermore,
+WorldCom states that, in the rare case that a petition to deny is warranted, 21 days does not
+provide adequate time to prepare the appropriate pleading and the additional nine days would
+not delay unduly the application process.  If a petition to deny is meritless, WorldCom states
+that the International Bureau should grant the application expeditiously.  If the petition raises
+material questions, it believes nine days will have little or no impact on the timing of the
+International Bureau's ultimate decision.  
+
+      66.   In addition, AT&T and SPPT proposed some modifications.  AT&T suggests
+that the Commission impose a uniform 21-day public notice period for filing all petitions to
+deny, for both streamlined and non-streamlined applications.  AT&T believes that all
+oppositions to petitions to deny should be filed in 14 days and all replies to oppositions
+should be filed in seven days.  AT&T states that all intervals should be based on calendar
+days for ease in calculating due dates. 
+
+      67.   SPPT believes that the streamlined processing procedures could be frustrated
+by frivolous petitions as a formal petition to deny would remove an application from
+streamlined processing.  SPPT notes that petitioners would be rewarded for their non-
+meritorious filings by causing delay in the commencement of an applicant's services.  SPPT
+states that the adjudication of petitions to deny is burdensome and time-consuming for the
+International Bureau's staff.  SPPT recommends that the Commission consider the assessment
+of filing fees on petitions to deny.  SPPT also recommends that the Commission amend
+Section 63.52(c) to require petitioners to verify by affidavit all of their interests, including
+economic interests, in having the application denied.  
+
+(c)   Discussion
+
+      68.   We adopt the proposals as set forth in the Notice with a few modifications. 
+We will add a new Section 63.20 to address streamlined Section 214 filing requirements and
+pleading periods.  In this rule, we will reduce the comment period on applications that are
+subject to streamlined processing for facilities-based and resale applicants to 21 days.  For
+non-streamlined applications, the comment period will be 28 days.  We find this distinction
+necessary because non-streamlined applications are often not routine, and can raise difficult
+issues.  Although we reject AT&T's request for a uniform 21-day comment period, we adopt
+AT&T's suggestion that the period for filing oppositions to petitions to deny for all
+applications be 14 days and the reply period 7 days.  
+
+      69.   We acknowledge WorldCom's concern that the change from 30 to 21 days for
+streamlined processing may impose a slight hardship on entities with limited resources.  If an
+entity believes it needs additional time to file comments, it may request an extension of time. 
+We believe that, on balance, it is less burdensome to consider requests for appropriate
+extensions of time on an ad hoc basis, than to hold up the vast majority of routine
+applications.  Reducing the time parties have to submit comments will accelerate the
+application process and enable carriers to enter the market faster.  This annual cumulative
+affect will be substantial to the industry as a whole.  Similarly, we find, contrary to
+WorldCom's assertion, that reducing the comment period from 30 to 28 days for non-
+streamlined applications will make due dates easier to calculate for both applicants and the
+Commission.  With rare exceptions to accommodate federal holidays, the due dates will be
+the same day of the week that the application appeared on public notice, only four weeks
+later.  
+
+      70.   We do not adopt SPPT's recommendation that we require full disclosure by
+petitioners or assess a filing fee on Commission licensees' petitions to deny.  We do not
+believe the record discloses the need to deter the filing of petitions to deny by imposing fees,
+nor does it demonstrate that imposing such fees would have the intended effect. 
+
+            IV. FORM FOR FILING OF INTERNATIONAL SECTION 214 APPLICATIONS 
+
+(a)   The Notice
+
+      71.   In the Notice, we proposed that applicants have the option of filing their
+Section 214 applications on computer diskettes.  Also, we proposed that information or
+documents in foreign languages that are submitted to the Commission in Section 214
+proceedings be accompanied by a certified translation in English.  As a result of meetings
+with industry, we further proposed to apply the procedures applicable to carriers' electronic
+filing of their circuit status and addition reports to the Section 214 applications.  Finally, we
+asked for comment on whether we should create a standard form for international Section 214
+applications.     
+            
+(b)   Positions of the Parties
+      
+      72.   Most commenters support the proposal of giving parties the option of filing
+their international Section 214 applications on computer diskettes.  WorldCom and SPPT,
+however, support it only as long as parties also are required to file paper copies of their
+applications that are made available to the public.  SPPT questions whether diskettes would
+be convenient to members of the public who wish to monitor the filing of Section 214
+applications or to government agencies who are entitled to be served with Section 214
+applications.  SPPT suggests that it might be advisable for the Commission to rethink its
+diskette proposal or to delegate to the International Bureau the authority to modify the
+diskette proposal when it compiles the "filing manual" called for under proposed Section
+63.53(b).
+
+      73.   WorldCom believes there is no need to create a standard form for filing
+Section 214 applications.  WorldCom states that the requirements in the proposed successor
+to Section 63.01 provide more than enough guidance for applicants to file a complete Section
+214 application.  Also, WorldCom states that given the variety in applicants, a form would be
+more burdensome than convenient.  
+      
+(c)   Discussion
+
+      74.   We adopt our proposal to give applicants the option of filing their Section 214
+applications on computer diskettes.  We will, however, continue to require that applicants file
+paper copies of their applications until such time as we determine that paper copies are no
+longer needed to facilitate public access.  To the extent that they apply, we will apply the
+same procedures adopted in the Circuit Status Order proceeding to determine how these
+applications should be filed.  Namely, we direct the International Bureau to prepare a filing
+manual specifying the type and format of computer diskettes to be used and to hold meetings
+with the public and industry to solicit suggestions on the methods and procedures to
+implement this new rule and to keep the manual current.  This approach will enable us to
+facilitate public access to these applications via the Internet and eventually other means of
+electronic communications.  Having applications on computer diskettes also will save the
+International Bureau time inputting information to be included in non-streamlined Section 214
+authorizations, thus speeding up Section 214 application processing.  
+            
+      75.   Also, we adopt our proposal that information or documents in foreign
+languages that are submitted to us in Section 214 proceedings be accompanied by a certified
+translation in English.  Currently, we receive documents in foreign languages, which
+effectively precludes a large portion of the public from reading the materials.  Having English
+translations of relevant documents that are now submitted in foreign languages would save us
+and others the time and resources needed to translate the documents.  We believe that these
+changes will help us process Section 214 applications faster. 
+      
+      76.   Finally, although WorldCom has raised concerns about creating a new form for
+filing Section 214 applications, we believe there may be benefits to a uniform Section 214
+application form.  For instance, creating a form would enable direct placement on the Internet
+which would provide easy access to businesses and others seeking information about applying
+for Section 214 authorizations.  Therefore, we instruct the International Bureau to determine
+the practicality of a standardized form.  In addition, we will make available to the public
+through the Internet and other sources filing aids such as checklists, instruction sheets or
+sample applications. 
+
+                        V. TARIFFING REQUIREMENTS 
+      
+(a)   The Notice
+
+      77.   In the Notice, we proposed to streamline further the tariff requirements on
+international non-dominant international resale and facilities-based carriers by permitting them
+to file their international rates on one-day notice, instead of the current 14-day notice.  We
+believed this action would accelerate the entry of carriers into the international
+telecommunications market and allow for rapid reaction to market conditions by existing
+international carriers.  We further invited commenters to address whether non-dominant
+international tariff filings should be subject to relaxed form and content requirements, similar
+to those that govern the filing of non-dominant, domestic interstate tariffs.
+      
+(b)   Positions of the Parties
+
+      78.   Virtually all commenters, except AT&T, agree that non-dominant carriers
+should be permitted to file rates based on one-day notice.  MCI states that the earlier
+availability of new services and rate adjustments in the competitive arena clearly would serve
+the public interest.  MCI is not aware of any non-dominant carrier's international service
+tariff revision that has been challenged successfully.  MCI states that, if such an instance were
+to arise, the Commission and consumers would have ample opportunity to take remedial
+action after the tariff became effective.  MCI asserts that the current rules place an enormous
+administrative burden upon carriers, such as MCI, which maintain single tariffs containing
+provisions pertaining to both domestic and international service.  Several commenters assert
+that there is no reason to impose more burdensome tariffing requirements on a carrier's
+international as opposed to its domestic services. 
+
+      79.   Although AT&T opposes our proposal, AT&T states that it would support a
+one-day notice period for international tariff filings if it applied to all unaffiliated U.S.
+carriers, and not just to non-dominant carriers.  AT&T opposes widening the gap between the
+filing requirements imposed on dominant carriers and those imposed on non-dominant
+carriers.  AT&T states that, by permitting one day's notice for only non-dominant carriers, the
+Commission impedes AT&T's ability to compete and respond rapidly to its customers'
+needs.
+                        
+(c)   Discussion
+
+      80.   We adopt our proposal to streamline the tariff requirements on international
+non-dominant international resale and facilities-based carriers.  As detailed in the
+accompanying rules, we apply to international non-dominant carriers the relaxed form and
+content requirements used for non-dominant domestic carriers, including the filing of the
+tariffs on computer diskettes and a brief cover letter.  In addition to streamlining our tariff
+content requirements, we adopt our proposed rule to allow non-dominant international carriers
+to file their tariffs on one-day notice.  
+      
+      81.   We believe that streamlining the content requirements and the notice period for
+non-dominant international carriers serves the public interest.  Simplifying non-dominant
+international carriers' tariff requirements provides uniform tariffing procedures for all non-
+dominant carriers' services, both international and domestic.  Shorter filing periods will help
+accelerate the introduction of new international services by permitting non-dominant carriers
+to respond more rapidly to competitive forces.  We recognize that competition exists in the
+international services market for non-dominant carriers and find that competition combined
+with filing tariffs on one-day notice is a sufficient constraint on unreasonable prices.  Under
+our new streamlining rules, non-dominant carriers will not be subject to burdensome,
+unnecessary regulatory oversight.  
+
+      82.   We still need to ensure that carriers do not file international tariffs prior to
+obtaining Section 214 authority for the tariffed service.  Therefore, we require carriers to
+certify in their cover letter that they have international Section 214 authority, and list the file
+number of the Section 214 authorization.  This will ensure that carriers are authorized under
+the Communications Act to provide the proposed international service.
+      
+      83.   We do not adopt AT&T's suggestion to reduce the filing period to one-day
+notice for unaffiliated carriers that are regulated as dominant.  We do not see justification in
+this record to change these carriers' tariff content or filing requirements.  Carriers including
+those unaffiliated with foreign carriers, are classified as dominant if they possess market
+power, which gives them the ability to discriminate unreasonably or invoke unjust or
+unreasonable rates, terms, or conditions.  Eliminating the notice period requirement for such
+carriers would unduly limit our ability to review their tariffs.  Although a longer tariff filing
+requirement may be an impediment to a dominant carrier's ability to compete against non-
+dominant carriers, we are not persuaded at this time that a reduction in the filing requirements
+would be appropriate because of our traditional concerns about dominant carriers.    
+
+      84.   AT&T, GTE Hawaii and COMSAT, all of whom are regulated as dominant for
+certain international services, each have requests pending with us seeking modifications in the
+regulatory requirements applicable to them on the ground that they are subject to increasing
+competition in the international services market.  We believe their individual regulatory
+treatment is more appropriately addressed in those pending proceedings addressing each
+carrier's regulatory classification. 
+      
+                              VI. FORBEARANCE   
+
+      85.  In the Notice, we requested comment on what, if any, Section 214 authorization
+requirements we should forbear from applying if given forbearance authority by Congress. 
+Anticipating that Congress would pass a telecommunications reform law, ACC states that the
+Commission should forbear from requiring non-dominant carriers to file specific rate tariffs. 
+ACC states that this will serve the public interest by reducing the time and cost associated
+with regulatory compliance on both government and carriers.  CompTel recommends that
+the Commission eliminate the requirement that pure international switched resale carriers file
+applications for, and receive, Section 214 authority before providing international service. 
+CompTel notes that the Commission has removed Section 214 requirements for non-dominant,
+domestic carriers, and that the Commission has, as the Notice recognized, "considerable
+discretion" in implementing Section 214.  MCI recommends that the Commission conduct a
+further proceeding in the event it obtains forbearance authority.  MCI states that the
+Commission's legal ability to reduce regulation is not the equivalent of removing regulation
+altogether.  MCI contends that, if an act of Congress occurred making the above option
+available and the pending legislation cited by the Commission becomes law, the Commission
+would need to make certain determinations about carriers, consumers, and the public interest
+before exercising its forbearance authority.    
+
+      86.   Since the filing of comments in this proceeding, Congress passed the
+Telecommunications Act of 1996.  With its passage comes many new opportunities for the
+Commission to promote further competition through additional deregulatory actions.  In light
+of this legislation, we anticipate review of our international Section 214 authorization and
+tariffing procedures to identify new areas where additional streamlining may be appropriate. 
+We agree with MCI, however, that such steps should be taken in the context of a new
+proceeding where we can make additional determinations about the state of competition in the
+international market and receive more public input.  We will study the feasibility of the
+forbearance suggestions made in this proceeding and invite the public to make additional
+suggestions. 
+
+                         VII. MISCELLANEOUS ISSUES
+      
+                     1.  Growth-based accounting rates
+
+(a)   Notice and Position of Parties
+
+      87.   In response to the Commission's request in the Notice for suggestions for
+additional streamlined procedures, ACC and MFSI suggested that we change our international
+settlements policy concerning growth-based accounting rates.  The Commission's international
+settlements policy (ISP) provides that an accounting rate reduction offered to one U.S. carrier
+by a foreign correspondent must be made available to all competing U.S. carriers in a non-
+discriminatory fashion.  This policy is designed to avoid discrimination among U.S.
+carriers, but many disputes have arisen over compliance with the policy.  One area of
+particular dispute raised by both ACC and MFSI is "growth-based" accounting rates.  These
+types of accounting rate agreements call for reductions of the accounting rate as traffic grows. 
+ACC and MFSI argue that, if "growth" is only calculated based on sheer volume of the
+largest carriers, such rates can have an anticompetitive, discriminatory effect.  ACC states
+that the Commission should approve growth-based accounting rates only when the lower
+accounting rates are made available simultaneously to all corresponding U.S. carriers based on
+the aggregate volume of U.S. traffic to the same foreign point.  They state that accounting
+rates should be based on the growth of the overall U.S. traffic volume to a particular foreign
+point, not simply the additional volume of a large carrier that already has captured substantial
+volume. 
+
+      88.   In response, AT&T argues that the issue of growth-based accounting rates is
+outside the scope of the current proceeding.  AT&T states that this issue is properly before
+the Commission in four pending ISP waiver requests involving the Philippines and Malaysia,
+Spain, Bolivia and Uruguay, and should be determined there or in a separate rulemaking
+dedicated to accounting rate matters, not in a proceeding to streamline the international
+Section 214 process.  BTNA states that action on ACC's request raises legal issues about
+the sufficiency of notice under the Administrative Procedure Act (APA), and states that, if the
+Commission believes that these matters warrant further consideration, a separate proceeding is
+both necessary and appropriate.
+
+(b)   Discussion
+
+      89.   We agree with AT&T and BTNA that the issue of growth-based accounting
+rates was not addressed directly in the Notice.  This does not, however, preclude us from
+responding to ACC's and MFSI's comments to the extent that we clarify our existing policy.
+The issue of growth-based accounting rates under our ISP was recently addressed by the
+International Bureau in a letter to a foreign carrier, after the pleading cycle ended in this
+proceeding.  In that letter, the Bureau recognized that a growth-based rate structure could
+be beneficial and consistent with our ISP when implemented in a non-discriminatory fashion. 
+
+      90.   There are, however, many complex issues with implementing non-
+discriminatory growth-based accounting rate structures.  Although this proceeding is not the
+proper forum to resolve all these issues, we do, however, wish to take this opportunity to
+elaborate on one aspect of the growth-based accounting rate issue.  The average unit costs of
+providing international telecommunications service tend to fall as service volume increases
+because fixed costs are spread over more and more units of output.  We believe that
+growth-based accounting rate structures that are designed and implemented correctly will
+reflect this cost characteristic, offer significant potential benefits, and promote the
+Commission's objective of lower, more cost-based accounting rates.  In order to ensure
+non-discrimination among U.S. carriers and to promote economic efficiency, however,
+implementation of such rate structures must recognize differences in the volume of service
+provided by different U.S. carriers and not be based on a service volumes attainable only by
+the largest suppliers.  
+
+                       2.   Correspondent agreements
+
+(a)   Position of Parties
+
+      91.   ACC suggests that the Commission adopt new rules and policies to establish
+new guidelines for correspondent agreements.  ACC notes that currently the Commission
+requires carriers to certify in their correspondent agreements that they have not "bargained for
+preferential treatment."  ACC proposes that the Commission change the certification to state
+that a carrier "has not knowingly received and is aware of no preferential treatment afforded
+it."  It argues this language change would make clear to carriers that they cannot obtain
+preferential treatment even if it is not "bargained for."  ACC states that the Commission
+should require carriers to make such a certification for all markets in which they already hold
+agreements.  ACC further proposes that the Commission prohibit discriminatory buy-in
+provisions, such as those requiring more than one percent traffic levels, high capacity or
+switch modification fees as a condition of obtaining an operating agreement.  Again, BTNA
+objects to the Commission considering these issues in this proceeding, arguing insufficient
+notice was given under the APA.
+
+(b)   Discussion
+
+      92.   In our Foreign Carrier Entry Order, we amended Section 63.14 to prohibit all
+U.S. international carriers from agreeing to accept special concessions directly or indirectly
+from any foreign carrier or administration with respect to traffic or revenue flows between the
+United States and a foreign country.  We believe ACC's concerns are effectively addressed
+by our "no special concessions" clause.  U.S. carriers have an affirmative obligation to reject
+any preferential treatment from a foreign administration or carrier once the U.S. carrier is
+made aware of that treatment.  Amending Section 64.1001 to add a certification requirement
+of compliance with this obligation would only be an additional paperwork burden on
+applicants without any additional benefit.  Therefore, we decline to adopt ACC's proposed
+changes.
+
+           3.  "Fresh-look" for long-term service arrangements 
+
+(a)   Position of Parties
+
+      93.   Pacwest suggests that the Commission permit customers with long-term service
+arrangements to terminate such arrangements upon the introduction of new service offerings
+by competitive service providers.  Pacwest contends that long-term service arrangements with
+incumbent, monopoly service providers inhibit the development of competition and effectively
+prevent customers from using the facilities of competitive service providers such as Pacwest. 
+Pacwest asserts that the Commission should require local exchange carriers ("LECs") to
+include a "fresh look" period which would be triggered upon the introduction of competition. 
+Pacwest argues that this provision should be included in all interstate/international access
+tariffing because it would allow customers with long-term service arrangements with the
+LECs to consider new competitive providers for their telecommunications needs upon their
+introduction in the market.  
+
+      94.   BTNA and GTE state that Pacwest's proposal is outside the scope of this
+proceeding.  BTNA contends that Pacwest's proposal, if adopted, would be a federal
+abrogation of private contracts, which is a step not lightly taken or often used. In addition,
+BTNA states that the Communications Act requires a Section 205 hearing before taking such
+action, and that the instant notice and rulemaking is not an adequate substitute.  GTE adds
+that Pacwest made the same argument to the Commission over a year ago in a separate filing
+concerning GTE Hawaii's cable landing license.
+
+(b)   Discussion
+      
+      95.   We agree with BTNA and GTE that Pacwest's proposal goes far beyond the
+scope of this proceeding to streamline the Section 214 authorization process and tariff
+requirements.  Pacwest is seeking to change requirements for local exchange carriers.  These
+rule changes would be addressed better in a proceeding that was targeted towards competitive
+access providers (CAPs) and their relationships with LECs.  To make such a change here
+would deny many interested parties the opportunity to comment because these issues were not
+raised in the Notice, and these affected entities are not participating or likely to review the
+comments in this proceeding.  Therefore, we deny Pacwest's proposal.
+
+                              VIII. CONCLUSION
+
+      96.   In this Order, we modify our Section 214 application process and tariff
+requirements to eliminate unnecessary and burdensome regulations.  We adopt rules that will
+streamline our regulations on international carriers, reduce the processing time of Section 214
+applications, and clarify our rules relating to international carriers.  We anticipate that our
+new rules will make entry to and exit from the international services market easier and faster
+for international carriers.  This will lead to greater competition and, in turn, greater
+responsiveness to consumer needs.  Ultimately, consumers will receive lower prices, better
+quality and greater choices in their international services. 
+                  IX. PROCEDURAL MATTERS; ORDERING CLAUSES
+
+      97.   The analysis pursuant to the Regulatory Flexibility Act of 1980 is contained
+in Appendix B.
+
+      98.   Accordingly, IT IS ORDERED that the policies, rules, and requirements
+adopted herein, except those needing OMB approval, WILL BECOME EFFECTIVE thirty
+days after publication in the Federal Register. 
+
+      99.   Matters subject to OMB approval, pursuant to the Paperwork Reduction Act of
+1995, Pub. L. No. 104-13, WILL BECOME EFFECTIVE upon such approval.  
+
+      100.  This action is taken pursuant to Sections 4, 214, 219, 303(r) and 403 of the
+Communications Act of 1934, as amended, 47 U.S.C. 154, 214, 219, 303(r) and 403.  
+
+      101.  IT IS FURTHER ORDERED that this proceeding IS HEREBY
+TERMINATED. 
+
+      
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+            
+
+                              William F. Caton
+                              Acting Secretary 
+                                APPENDIX A
+
+                                FINAL RULES
+
+      Part 1, 61 and 63 of Title 47 of the Code of Federal Regulations is amended as
+follows:
+
+      PART 1 -- PRACTICE AND PROCEDURE
+
+      1.    The authority citation for Part 1 continues to read as follows:
+
+      AUTHORITY: ---  47 U.S.C. 151, 154, 303, and 309(j) unless otherwise noted.
+ 
+      2.    Section 1.767 is amended by revising paragraph (a) and adding new paragraphs
+(e) and (f) to read as follows:
+
+ 1.767 Cable landing licenses.
+
+      (a)   Applications for cable landing licenses under 47 U.S.C. 34-39 and Executive
+Order No. 10530, dated May 10, 1954, should be filed in duplicate and in accordance with
+the provisions of that Executive Order.  These applications should contain: 
+      (1)   The name, address and telephone number(s) of the applicant; 
+      (2)   The Government, State, or Territory under the laws of which each corporate or
+partnership applicant is organized; 
+      (3)   The name, title, post office address, and telephone number of the officer and
+any other contact point, such as legal counsel, to whom correspondence concerning the
+application is to be addressed;
+      (4)   A description of the submarine cable, including the type and number of
+channels and the capacity thereof; 
+      (5)   A specific description of the cable landing location on the shore of the United
+States and in foreign countries where the cable will land (including a map).  Applicants
+initially may file a general geographic description of the landing points; however, grant of the
+application will be conditioned on the Commission's final approval of a more specific
+description of the landing points to be filed by the applicant no later than 90 days prior to
+construction.  The Commission will give public notice of the filing of this description, and
+grant of the license will be considered final if the Commission does not notify the applicant
+otherwise in writing no later than 60 days after receipt of the specific description of the
+landing points.
+      (6)   A statement as to whether the cable will be operated on a common carrier or
+non-common carrier basis, and if operation will be on a non-common carrier basis, include
+the ownership information required in Section 63.18(e)(6) and (h)(1) through (2) of this
+chapter; and 
+      (7)   Any other information that may be necessary to enable the Commission to act
+on their application. 
+
+*****
+      (e)   A separate application shall be filed with respect to each individual cable
+system for which a license is requested, or for which modification or amendment of a
+previous license is requested.      
+      (f)   Applicants shall disclose to any interested member of the public, upon written
+request, accurate information concerning the location and timing for the construction of a
+submarine cable system authorized under this section.  This disclosure shall be made within
+30 days of receipt of the request. 
+
+PART 61 -- TARIFFS
+
+      1.  The authority citation for Part 61 continues to read as follows:
+
+      AUTHORITY: Secs. 1, 4(i), 4(j), 201-205, and 403 of the Communications Act of
+1934, as amended; 47 U.S.C. 151, 154(i), 154(j), 201-205, and 403, unless otherwise noted.
+
+      2.  Section 61.20 is amended by revising its preceding centered headings and
+paragraph (b) to read as follows:
+
+                               GENERAL RULES
+
+               GENERAL RULES FOR DOMESTIC AND INTERNATIONAL
+                           NONDOMINANT CARRIERS
+
+ 61.20 Method of filing publications.
+
+*****
+
+     (b)(1)    In addition, for all tariff publications requiring fees as set forth in part 1,
+subpart G of this chapter, issuing carriers must submit the original of the cover letter (without
+attachments), FCC Form 159, and the appropriate fee to the Mellon Bank, Pittsburgh, PA at
+the address set forth in Section 1.1105 of this chapter.  Issuing carriers should submit these
+fee materials on the same date as the submission in paragraph (a) of this section.
+     (2)  International carriers must certify in their original cover letter that they are
+authorized under Section 214 of the Communications Act of 1934, as amended, to provide
+service, and reference the FCC file number of that authorization. 
+
+*****
+
+     3.  Section 61.21 is amended by revising paragraph (a) to read as follows:
+
+ 61.21 Cover letters.
+
+     (a)(1)    Except as specified in Section 61.32(b), all publications filed with the
+Commission must be accompanied by a cover letter, 8.5 by 11 inches (21.6 cm x 27.9 cm) in
+size.  All cover letters should briefly explain the nature of the filing and indicate the date and
+method of filing of the original cover letter, as required by Section 61.20(b)(1).
+     (2)  International carriers must certify that they are authorized under Section 214 of
+the Communications Act of 1934, as amended, to provide service, and reference the FCC file
+number of that authorization. 
+
+*****
+
+
+     4.  Section 61.22 is amended by revising its preceding centered headings and
+paragraphs (b) and (d) to read as follows:  
+
+SPECIFIC RULES FOR DOMESTIC AND INTERNATIONAL
+                          NONDOMINANT CARRIERS
+
+ 61.22 Composition of tariffs.
+
+*****
+
+     (b)  The tariff must contain the carrier's name, the international Section 214
+authorization FCC file number (when applicable), and the information required by Section
+203 of the Act.
+
+*****
+
+     (d)  Domestic and international nondominant carriers subject to the provisions of
+this Section are not subject to the tariff filing requirements of Section 61.54.
+
+5.  Section 61.23(c) is revised to read as follows:
+
+ 61.23 Notice requirements.
+
+*****
+
+     (c)  Tariff filings of domestic and international non-dominant carriers must be made
+on at least one-day notice.
+
+
+
+      PART 63 -- EXTENSION OF LINES AND DISCONTINUANCE OF SERVICE
+BY CARRIERS AND GRANTS OF RECOGNIZED PRIVATE OPERATING AGENCY
+STATUS 
+
+     1.   The authority citation for Part 63 continues to read as follows:
+
+     AUTHORITY: ---  Sections 1, 4(i), 4(j), 201-205, 218, and 403 of the
+Communications Act of 1934, as amended, and Section 613 of the Cable Communications
+Policy Act of 1984, 47 U.S.C. secs. 151, 154(i), 15(j), 201-205, 218, 403, and 533 unless
+otherwise noted.
+
+     2.   Section 63.01 is amended by removing paragraphs (k)(5) through (7), (r), (s)
+and Notes 1 through 4, and revising the section heading and introductory paragraph, to read
+as follows:
+
+ 63.01 Contents of applications for domestic common carriers.
+
+     Except as otherwise provided in this part, any party proposing to undertake any
+construction of a new line, extension of any line, acquisition, lease, or operation of any line
+or extension thereof or engage in transmission over or by means of such line, and such line
+originates and terminates in the United States, for which authority is required under the
+provisions of Section 214 of the Communications Act of 1934, as amended, shall request such
+authority by formal application which shall be accompanied by a statement showing how the
+proposed construction, etc., will serve the public interest, convenience, and necessity. Such
+statement must include the following information as applicable:
+
+*****
+
+     3.   Section 63.05 is amended by revising the section heading to read as follows: 
+
+Section 63.05  Commencement and completion of construction for domestic common
+carriers.
+
+*****
+
+     4.   Section 63.10 is amended by revising the last sentence of paragraphs (a), (a)(3),
+and (a)(4), and all of (c)(3) to read as follows:
+
+Section 63.10  Regulatory classification of U.S. international carriers.
+
+     (a) *** For purposes of paragraph (a)(1) through (3) of this section, "affiliation" and
+"foreign carrier" are defined as set forth in Section 63.18(h)(1)(i) and (ii), respectively.
+
+*****
+     (3) *** Such a demonstration should address the factors that relate to the scope or
+degree of the foreign affiliate's bottleneck control, including those listed in Section
+63.18(h)(8).
+     (4) *** The existence of an affiliation with a U.S. facilities-based international carrier
+shall be assessed in accordance with the definition of affiliation contained in Section
+63.18(h)(i), except that the phrase "U.S. facilities-based international carrier" shall be
+substituted for the phrase "foreign carrier."
+
+*****
+     (c) ***
+     (3)  Obtain Commission approval pursuant to Section 63.18 before adding or
+discontinuing circuits; and
+
+*****   
+
+     5.   Section 63.11 is amended by revising paragraphs (a), (a)(2), (c)(1) through (3),
+(d), and the last sentence of (e)(2) to read as follows:
+
+ 63.11  Notification by and prior approval for U.S. international carriers that have or
+propose to acquire ten percent investments by, and/or an affiliation with, a foreign
+carrier.
+
+     (a)  Any carrier authorized to provide international communications service under
+this part that, as of the effective date of this rule as amended in IB Docket No. 95-22, is, or
+has an affiliation with, a foreign carrier within the meaning of Section 63.18(h)(1)(i)(A) or
+(h)(1)(i)(B), or that as of such date knows of an existing ten percent or greater interest,
+whether direct or indirect, in the capital stock of the authorized carrier by a foreign carrier, or
+that after the effective date of this rule becomes affiliated with a foreign carrier within the
+meaning of Section 63.18(h)(1)(i)(A), shall notify the Commission within thirty days of the
+effective date of this rule or within thirty days of the acquisition of the affiliation, whichever
+occurs later.  For purposes of this section, "foreign carrier" is defined as set forth in Section
+63.18(h)(1)(ii).
+
+*****
+     (2)  Any carrier that has previously notified the Commission of an affiliation with a
+foreign carrier, as defined by Section 63.18(h)(1) immediately prior to the rule's amendment
+in IB Docket No. 95-22, need not notify the Commission again of the same affiliation.
+
+*****
+     (c) ***
+     (1)   The carrier also should specify, where applicable, those countries named in
+paragraph (c) for which it provides a specified international communications service solely
+through the resale of the international switched or private line services of U.S. facilities-based
+carriers with which the resale carrier does not have an affiliation.  Such an affiliation is
+defined in Section 63.18(h)(1)(i), except that the phrase "U.S. facilities-based international
+carrier" shall be substituted for the phrase "foreign carrier."
+     (2)  The carrier shall also submit with its notification:
+     (i)  The ownership information as required to be submitted pursuant to 
+Section 63.18(h)(2);
+     (ii)      Where the carrier  is authorized as a private line reseller on a particular route
+for which it has an affiliation with a foreign carrier, as defined in Section 63.18(h)(1)(i), a
+certification as required to be submitted pursuant to Section 63.18(h)(4); and
+     (iii)     A "special concessions" certification as required to be submitted pursuant to
+Section 63.18(i).
+     (3)  The carrier is responsible for the continuing accuracy of the certifications
+provided under this section.  Whenever the substance of any certification provided under  this
+section is no longer accurate, the carrier shall as promptly as possible, and in any event
+within thirty days, file with the Secretary in duplicate a corrected certification referencing the
+FCC File No. under which the original certification was provided, except that the carrier shall
+immediately inform the Commission if at any time the representations in the "special
+concessions" certification provided under paragraph (c)(2)(iii) of this section are no longer
+true.  See  63.18(i))(2).  This information may be used by the Commission to determine
+whether a change in regulatory status may be warranted under Section 63.10.
+     (d)  Unless the carrier notifying the Commission of a foreign carrier affiliation
+under paragraph (a) of this section qualifies for the presumption of non-dominant regulation
+pursuant to Section 63.10(a)(4), it should submit the information specified in Section
+63.18(h)(8) to retain its non-dominant status on any affiliated route.
+     (e) ***
+     (2) ***  If notified that the acquisition raises a substantial and material question, then
+the carrier shall not consummate the planned investment until it has filed an application under
+Section 63.18 and submitted the information specified under paragraphs (h)(6) or (7), as
+applicable, and (8) of that section, and the Commission has approved the application by
+formal written order.
+
+     6.   Section 63.12 is revised to read as follows:
+
+ 63.12  Streamlined processing of certain international facilities-based and resale
+applications.
+
+     (a)  Except as provided by paragraph (c) of this section, a complete application
+seeking authorization under Section 63.18(e)(1) and (2) to acquire facilities to provide
+international services shall be granted by the Commission 35 days after the date of public
+notice listing the application as accepted for filing.
+     (b)  Issuance of public notice of the grant shall be deemed the issuance of Section
+214 certification to the applicant, which may commence operation on the 36th day after the
+date of public notice listing the application as accepted for filing, but only in accordance with
+the operations proposed in its application and the rules, regulations, and policies of the
+Commission.
+     (c)  The streamlined processing procedures provided by paragraphs (a) and (b) of
+this section shall not apply where:
+     (1)  The applicant seeks authority under either Section 63.18(e)(1) for global
+Section 214 authority to operate as a facilities-based carrier or Section 63.18(e)(2) to resell
+international services, and the applicant has an affiliation within the meaning of Section
+63.18(h)(1)(i) with a facilities-based foreign carrier in a destination market, and the
+Commission has not yet made a determination as to whether that foreign carrier possesses
+market power in that market; or 
+     (2)  The applicant has an affiliation within the meaning of Section 63.18(h)(1)(i)
+with a dominant U.S. facilities-based carrier whose international switched or private line
+services the applicant seeks authority to resell (either directly or indirectly through the resale
+of another reseller's services); or
+     (3)  The applicant seeks authority under Section 63.18(e)(2) to resell international
+private line services to a country for which the Commission has not determined as of the date
+of public notice of the application that equivalent resale opportunities exist between the
+United States and the destination country; or
+     (4)  The application is formally opposed within the meaning of Section 1.1202(e) of
+this chapter; or
+     (5)  The Commission has informed the applicant in writing, including by public
+notice, within 28 days after the date of public notice accepting the application for filing, that
+the application is not eligible for streamlined processing under this section.
+     (d)  Any complete application that is subject to paragraph (c) of this section will be
+acted upon only by formal written order and operation for which such authorization is sought
+may not commence except in accordance with such order.
+     Note:  The term "facilities-based carrier" as used in this section means one that holds
+an ownership, indefeasible-right-of-user, or leasehold interest in bare capacity in an
+international facility, regardless of whether the underlying facility is a common or non-
+common carrier submarine cable, or an INTELSAT or separate satellite system.
+
+     7.   Section 63.13 is amended by revising the last sentence of paragraphs (a)(3) and
+(a)(5), and revising (a)(4) to read as follows:
+
+ 63.13  Streamlined procedures for modifying regulatory classification of U.S.
+international carriers from dominant to non-dominant.
+
+*****
+     (a) ***
+     (3) ***  For purposes of this paragraph, "telecommunications facilities" are defined as
+in Section 63.18(h)(4).  
+     (4)       Any carrier filing a certified list pursuant to paragraph (a)(2) of this section
+must also provide the "special concessions" certification as required to be submitted pursuant
+to Section 63.18(i).
+     (5) *** See  63.18(i)(2).
+
+*****
+     8.   Section 63.14 is revised to read as follows:
+
+ 63.14  Prohibition on agreeing to accept special concessions.
+
+     Any carrier authorized to provide international communications service under this part
+shall be prohibited from agreeing to accept special concessions directly or indirectly from any
+foreign carrier or administration with respect to traffic or revenue flows between the United
+States and any foreign country served under the authority of this part and from agreeing to
+enter into such agreements in the future.  For purposes of this section, "foreign carrier" is
+defined as in Section 63.18(h)(1)(ii) and "special concession" is defined as in Section 63.18(i).
+
+     9.   Section 63.15 is revised to read as follows:
+
+ 63.15  Special procedures for international service providers.
+
+     Any party seeking to construct, acquire or operate lines in any new major common
+carrier facility project or non-U.S. licensed satellite or cable system for the provision of
+international common carrier services shall file an application pursuant to Section 63.18(e)(6)
+of this chapter.  If a carrier has global Section 214 authority pursuant to the provisions of
+Section 63.18(e)(1) of this chapter,  and the carrier desires to use non-U.S. licensed facilities
+pursuant to the provisions of Section 63.18(e)(1)(ii)(B), this filing requirement does not apply.
+     
+     10.  Section 63.17 is amended by revising paragraphs (b) and (b)(4) to read as
+follows:
+
+ 63.17  Special provisions for U.S. international common carriers
+
+*****
+
+     (b)  Except as provided in paragraph (b)(5) of this section, a U.S. common carrier,
+whether a reseller or facilities-based, may engage in "switched hubbing" to countries not
+found to offer equivalent resale opportunities under Section 63.18(e)(3) and (4) under the
+following conditions:
+
+*****
+
+     (4)  No U.S. common carrier may engage in switched hubbing under this section to
+a country where it has an affiliation with a foreign carrier unless and until it receives specific
+authority to do so under Section 63.18.  For purposes of this paragraph, "affiliation" and
+"foreign carrier" are defined in Section 63.18(h)(1)(i)(B) and (ii), respectively.
+     11.  New Section 63.18 is added to read as follows:
+
+ 63.18 Contents of applications for international common carriers.
+
+     Except as otherwise provided in this part, any party seeking authority pursuant to
+Section 214 of the Communications Act of 1934, as amended, to construct a new line, or
+acquire or operate any line, or engage in transmission over or by means of such additional
+line for the provision of common carrier communications services between the United States,
+its territories or possessions, and a foreign point shall request such authority by formal
+application which shall be accompanied by a statement showing how the grant of the
+application will serve the public interest, convenience, and necessity.  Such statement shall
+consist of the following information, as applicable: 
+     (a)  The name, address, and telephone number of each applicant;
+     (b)  The Government, State, or Territory under the laws of which each corporate or
+partnership applicant is organized;
+     (c)  The name, title, post office address, and telephone number of the officer and
+any other contact point, such as legal counsel, to whom correspondence concerning the
+application is to be addressed;
+     (d)  A statement as to whether the applicant has previously received authority under
+Section 214 of the Act and, if so, a general description of the categories of facilities and
+services authorized (i.e., authorized to provide international switched services on a facilities
+basis);
+     (e)  One or more of the following statements, as pertinent:
+     (1)       If applying for authority to acquire interests in facilities previously authorized
+by the Commission in order to provide international basic switched, private line, data,
+television and business services to all international points, the applicant shall:
+     (i)       State that it is requesting Section 214 authority to operate as a facilities-based
+carrier pursuant to the terms and conditions of paragraph (e)(1) of this section. 
+     (ii)      Comply with the following terms and conditions:
+     (A)  Authority to provide services to all international points under this part extends
+only to those countries for which the applicant qualifies for non-dominant regulation as set
+forth in Section 63.10.  If an applicant is affiliated with a facilities-based foreign carrier in a
+destination market and the Commission has not determined that the foreign carrier does not
+possess market power in that market, the applicant shall not commence service on any such
+route unless and until it receives specific authority to do so under paragraph (e)(6) of this
+section.  If an applicant becomes dominant on a particular route after receiving authority
+under this Section, the terms and conditions of Section 63.10(c) will apply to its provision of
+services on the dominant route.  An applicant should file separately under Section 63.18(e)(6)
+to provide service on routes on which it may not qualify for regulation as a non-dominant
+carrier.
+     (B)  The applicant may only provide service using half-circuits on appropriately
+licensed U.S. common and non-common carrier facilities (either under Title III of the
+Communications Act of 1934, as amended, or the Submarine Cable Landing License Act, 47
+U.S.C.  34 et. al.) provided that these facilities do not appear on an exclusion list published
+by the Commission and any necessary overseas connecting facilities. Applicants may not use
+non-U.S. licensed facilities unless and until the Commission specifically approves their use
+and so indicates on the exclusion list, and only then for service to the countries indicated
+thereon.
+     (C)  The applicant may provide service to any country not included on an exclusion
+list published by the Commission. 
+     (D)  The applicant may provide international basic switched, private line, data,
+television and business services.
+     (E)  The authority granted under this paragraph shall be subject to all Commission
+rules and regulations and any conditions stated in the Commission's public notice or order
+that serves as the applicant's Section 214 certificate.  See  63.12.  
+     (2)  If applying for authority to resell the international services of authorized U.S.
+common carriers for the provision of international basic switched, private line, data, television
+and business services to all international points, the applicant shall:
+     (i)       State that it is requesting Section 214 authority to operate as a resale carrier
+pursuant to the terms and conditions of Section 63.18(e)(2). 
+     (ii)      Comply with the following the terms and conditions:
+     (A)  The applicant may resell the international services of any authorized common
+carrier, except affiliated carriers regulated as dominant on the route to be served, pursuant to
+that carrier's tariff or contract duly filed with the Commission, for the provision of
+international basic switched, private line, data, television and business services to all
+international points;
+     (B)  The applicant may resell private line services for the provision of international
+basic switched services only to countries found by the Commission to provide equivalent
+resale opportunities, except in circumstances where the applicant is affiliated with a facilities-
+based foreign carrier in a destination market and the Commission has not determined that the
+foreign carrier does not possess market power in that market.  In such circumstances, the
+applicant shall not commence service on any such route unless and until it receives specific
+authority to do so under paragraph (e)(6) of this section.  The Commission will provide
+public notice of its determinations. 
+     (C)  The authority granted under this paragraph shall be subject to all Commission
+rules and regulations and any conditions stated in the Commission's public notice or order
+that serves as the applicant's Section 214 certificate.  See  63.12.
+     (3)  If applying for authority to resell private lines for the purpose of providing
+international basic switched services to countries not on the Commission's published list of
+equivalent countries, applicant shall demonstrate for each country to which it seeks to provide
+service that that country affords resale opportunities equivalent to those available under U.S.
+law.  In this regard, applicant shall:
+     (i)  Include evidence demonstrating that equivalent resale opportunities exist
+between the United States and the subject country, including any relevant bilateral agreements
+between the administrations involved.  Parties must demonstrate that the foreign country at
+the other end of the private line provides U.S.-based carriers with:  
+     (A)  The legal right to resell international private lines, interconnected at both ends,
+for the provision of switched services;
+     (B)  Nondiscriminatory charges, terms and conditions for interconnection to foreign
+domestic carrier facilities for termination and origination of international services, with
+adequate means of enforcement;
+     (C)  Competitive safeguards to protect against anticompetitive and discriminatory
+practices affecting private line resale; and
+     (D)  Fair and transparent regulatory procedures, including separation between the
+regulator and operator of international facilities-based services.
+     (ii) The procedures set forth in paragraph (e)(3) of this section are subject to
+Commission policies on resale of international private lines in CC Docket No. 90-337 as
+amended in IB Docket No. 95-22.  
+     (4)  Any carrier authorized under this section to acquire and operate international
+private line facilities other than through resale may use those private lines to provide switched
+basic services to countries found by the Commission to provide equivalent resale
+opportunities except in circumstances where the applicant is affiliated with a facilities-based
+foreign carrier in the country at the foreign end of the private line, and the Commission has
+not determined that the foreign carrier does not possess market power in that market.  In such
+circumstances, the applicant shall not commence service on such route unless and until it
+receives specific authority to do so under paragraph (e)(6) of this section.  The Commission
+will provide public notice of its equivalency findings. The applicant is subject to all
+applicable Commission rules and regulations and any conditions stated in the Commission's
+public notice or order that serves as the applicant's Section 214 certificate.  See  63.12.
+     (i)  Except as provided in paragraph (e)(4)(ii) of this section, any carrier that seeks
+to provide switched basic services over its authorized private line facilities to countries not
+identified in the Commission's published list of equivalent countries shall, for each country
+for which it seeks to provide switched basic service over its authorized private lines facilities,
+request such authority by formal application.  Such application shall be accompanied by a
+demonstration that that country affords resale opportunities equivalent to those available under
+U.S. law.  In this regard, applicant shall include the information required by paragraph (3) of
+this section.
+     (ii) No formal application is required under paragraph (e)(4) of this section in
+circumstances where the carrier's previously authorized private line facility is interconnected
+to the public switched network only on one end -- either the U.S. or the foreign end -- and
+where the carrier is not operating the facility in correspondence with a carrier that directly or
+indirectly owns the private line facility in the foreign country at the other end of the private
+line.
+     (5)  If applying for authority to acquire facilities through the transfer of control of a
+common carrier holding international Section 214 authorization, or through the assignment of
+another carrier's existing authorization, the applicant shall complete paragraph (a) through (d)
+of this section for both the transferor/assignor and the transferee/assignee.  Paragraph (g) of
+this section is not applicable, and only the transferee/assignee needs to complete paragraph (i)
+and (j) of this section.  At the beginning of the application, the applicant should also include
+a narrative of the means by which the transfer or assignment will take place.  The
+Commission reserves the right to request additional information as to the particulars of the
+transaction to aid it in making its public interest determination.
+     (6)  If applying for authority to acquire facilities or to provide services not covered
+by Sections 63.18(e)(1) through (5), the applicant shall provide a description of the facilities
+and services for which it seeks authorization.  Such description also shall include any
+additional information the Commission shall have specified previously in an order, public
+notice or other official action as necessary for authorization.  Applicants for new submarine
+cable facilities also shall include a list of the proposed owners of the cable, their voting
+interests and ownership interests by segment in the cable. 
+     (f)  Applicants may apply for any or all of the authority provided for in paragraph
+(e) of this section in the same application.  The applicant may want to file separate
+applications for those services not subject to streamlined processing under Section 63.12. 
+     (g)  Where the applicant is seeking facilities-based authority under paragraph (e)(6)
+of this section, a statement whether an authorization of the facilities is categorically excluded
+as defined by Section 1.1306 of this chapter.  If answered affirmatively, an environmental
+assessment as described in Section 1.1311 of this chapter need not be filed with the
+application.
+     (h)  A certification as to whether or not the applicant is, or has an affiliation with, a
+foreign carrier.
+     (1)  The certification shall state with specificity each foreign country in which the
+applicant is, or has an affiliation with, a foreign carrier.  For purposes of this certification:
+     (i)  Affiliation is defined to include: 
+     (A)  A greater than 25 percent ownership of capital stock, or controlling interest at
+any level, by the applicant, or by any entity that directly or indirectly controls or is controlled
+by it, or that is under direct or indirect common control with it, in a foreign carrier or in any
+entity that directly or indirectly controls a foreign carrier; or 
+     (B)  A greater than 25 percent ownership of capital stock, or controlling interest at
+any level, in the applicant by a foreign carrier, or by any entity that directly or indirectly
+controls or is controlled by a foreign carrier, or that is under direct or indirect common
+control with a foreign carrier; or by two or more foreign carriers investing in the applicant in
+the same manner in circumstances where the foreign carriers are parties to, or the
+beneficiaries of, a contractual relation (e.g., a joint venture or market alliance) affecting the
+provision or marketing of basic international telecommunications services in the United
+States.  A U.S. carrier also will be considered to be affiliated with a foreign carrier where the
+foreign carrier controls, is controlled by, or is under common control with a second foreign
+carrier already found to be affiliated with that U.S. carrier under this section.    
+     (ii)      Foreign carrier is defined as any entity that is authorized within a foreign
+country to engage in the provision of international telecommunications services offered to the
+public in that country within the meaning of the International Telecommunication
+Regulations, see Final Acts of the World Administrative Telegraph and Telephone
+Conference, Melbourne, 1988 (WATTC-88), Art. 1, which includes entities authorized to
+engage in the provision of domestic telecommunications services if such carriers have the
+ability to originate or terminate telecommunications services to of from points outside their
+country.
+     (2)  In support of the required certification, each applicant shall also provide the
+name, address, citizenship and principal businesses of its ten percent or greater direct and
+indirect shareholders or other equity holders and identify any interlocking directorates.
+     (3)  Each applicant that proposes to acquire facilities through the resale of the
+international switched or private line services of another U.S. carrier shall additionally certify
+as to whether or not the applicant has an affiliation with the U.S. carrier(s) whose
+facilities-based service(s) the applicant proposes to resell (either directly or indirectly through
+the resale of another reseller's service).  For purposes of this paragraph, affiliation is defined
+as in paragraph (h)(1)(i) of this section, except that the phrase "U.S. facilities-based
+international carrier" shall be substituted for the phrase "foreign carrier."
+     (4)  Each applicant that certifies under this section that it has an affiliation with a
+foreign carrier and that proposes to resell the international private line services of another
+U.S. carrier shall additionally certify as to whether the affiliated foreign carrier owns or
+controls telecommunications facilities in the particular country(ies) to which the applicant
+proposes to provide service (i.e., the destination country(ies)).  For purposes of this paragraph,
+telecommunications facilities are defined as the underlying telecommunications transport
+means, including intercity and local access facilities, used by a foreign carrier to provide
+international telecommunications services offered to the public.
+     (5)  Each applicant and carrier authorized to provide international communications
+service under this part is responsible for the continuing accuracy of the certifications required
+by paragraphs (h)(3) and (4) of this section.  Whenever the substance of any such certification
+is no longer accurate, the applicant/carrier shall as promptly as possible and in any event
+within thirty days file with the Secretary in duplicate a corrected certification referencing the
+FCC File No. under which the original certification was provided.  This information may be
+used by the Commission to determine whether a change in regulatory status may be warranted
+under Section 63.10.
+     (6)  Each applicant that certifies that it is, or that it has an affiliation with, a foreign
+carrier, as defined in paragraphs (h)(1)(i)(B) and (ii), respectively, in a named foreign country
+and that seeks to operate as a U.S. facilities-based international carrier to that country from
+the United States shall provide information in its application filed under this part to
+demonstrate that either:
+     (i)  The named foreign country (i.e., the destination foreign country) provides
+effective competitive opportunities to U.S. carriers to compete in that country's international
+facilities-based market; or
+     (ii)      Its affiliated foreign carrier does not have the ability to discriminate against
+unaffiliated U.S. international carriers through control of bottleneck services or facilities in the
+destination country.
+     (A)  The demonstration specified by paragraph (6)(i) of this subsection should
+address the following factors:
+     (1)  The legal ability of U.S. carriers to enter the foreign market and provide
+facilities-based international services, in particular international message telephone service
+(IMTS);
+     (2)  Whether there exist reasonable and nondiscriminatory charges, terms and
+conditions for interconnection to a foreign carrier's domestic facilities for termination and
+origination of international services;
+     (3)  Whether competitive safeguards exist in the foreign country to protect against
+anticompetitive practices, including safeguards such as:
+     (i)  Existence of cost-allocation rules in the foreign country to prevent cross-
+subsidization;
+     (ii) Timely and nondiscriminatory disclosure of technical information needed to
+use, or interconnect with, carriers' facilities; and 
+     (iii)     Protection of carrier and customer proprietary information;
+     (4)  Whether there is an effective regulatory framework in the foreign country to
+develop, implement and enforce legal requirements, interconnection arrangements and other
+safeguards; and
+     (5)  Any other factors the applicant deems relevant to its demonstration.
+     (B)  The demonstration specified in paragraph (h)(6)(ii) of this section should
+include the same information requested by paragraph(h)(8) of this section.
+     (7)   Each applicant that certifies that it is, or that it has an affiliation with, a
+foreign carrier, as defined in paragraph (h)(1)(i)(B) and (ii), respectively, in a named foreign
+country and that proposes to resell the international switched or non-interconnected private
+line services, respectively, of another U.S. carrier for the purpose of providing international
+communications services to the named foreign country from the United States shall provide
+information in its application filed under this part to demonstrate that either:
+     (i)  The named foreign country (i.e., the destination foreign country) provides
+effective competitive opportunities to U.S. carriers to resell international switched or non-
+interconnected private line services, respectively; or
+     (ii)      Its affiliated foreign carrier does not have the ability to discriminate against
+unaffiliated U.S. international carriers through control of bottleneck services or facilities in the
+destination country.
+     (A)  The demonstration specified by paragraph (h)(7)(i) of this section should
+address the following factors:
+     (1)  The legal ability of U.S. carriers to enter the foreign market and provide resold
+international switched services (for switched resale applications) or non-interconnected private
+line services (for non-interconnected private line resale applications);
+     (2)  Whether there exist reasonable and nondiscriminatory charges, terms and
+conditions for the provision of the relevant resale service;
+     (3)  Whether competitive safeguards exist in the foreign country to protect against
+anticompetitive practices, including safeguards such as:
+     (i)  Existence of cost-allocation rules in the foreign country to prevent cross-
+subsidization;
+     (ii) Timely and nondiscriminatory disclosure of technical information needed to
+use, or interconnect with, carriers' facilities; and  
+     (iii)     Protection of carrier and customer proprietary information;
+     (4)  Whether there is an effective regulatory framework in the foreign country to
+develop, implement and enforce legal requirements, interconnection arrangements and other
+safeguards; and
+     (5)  Any other factors the applicant deems relevant to its demonstration.
+     (B)  The demonstration specified in paragraph (h)(7)(ii) of this section should
+include the same information requested by paragraph (h)(8) of this subsection.
+     (8)  Each applicant that certifies that it has an affiliation with a foreign carrier in a
+named foreign country and that desires to be regulated as non-dominant for the provision of
+international communications service to that country may provide information in its
+application filed under this part to demonstrate that its affiliated foreign carrier does not have
+the ability to discriminate against unaffiliated U.S. international carriers through control of
+bottleneck services or facilities in the named foreign country.  See  63.10, Regulatory
+Classification of U.S. International Carriers.
+     (i)  Such a demonstration should address the factors that relate to the scope or
+degree of the foreign affiliate's bottleneck control, such as:
+     (A)  The monopoly, duopoly, or oligopoly status of the destination country; and 
+     (B)  Whether the foreign affiliate has the potential to discriminate against
+unaffiliated U.S. international carriers through such means as preferential operating
+agreements, preferential routing of traffic, exclusive or more favorable transiting agreements,
+or preferential domestic access and interconnection arrangements.
+     (ii)      Such a demonstration may also address other factors the applicant deems
+relevant, such as the effectiveness of regulation in the destination country.
+     (i)  Each applicant shall certify that the applicant has not agreed to accept special
+concessions directly or indirectly from any foreign carrier or administration with respect to
+traffic or revenue flows between the U.S. and any foreign country which the applicant may
+serve under the authority granted under this part and will not enter into such agreements in
+the future.
+     (1)  For purposes of paragraph (i) of this section, and of Sections 63.11(c)(2)(iii),
+63.13(a)(4), and 63.14, special concession is defined as any arrangement that affects traffic or
+revenue flows to or from the United States that is offered exclusively by a foreign carrier or
+administration to a particular U.S. international carrier and not also to similarly situated U.S.
+international carriers authorized to serve a particular route.
+     (2)  The special concessions certification required by paragraph (i) of this section
+and by Sections 63.11(c)(2)(iii) and 63.13(a)(4) shall be viewed as an ongoing representation
+to the Commission, and applicants/carriers shall immediately inform the Commission if at any
+time the representations in their certifications are no longer true.  Failure to so inform the
+Commission will be deemed a material misrepresentation to the Commission.
+     (j)  A certification pursuant to Sections 1.2001 through 1.2003 of this chapter that
+no party to the application is subject to a denial of Federal benefits pursuant to Section 5301
+of the Anti-Drug Abuse Act of 1988.  See 21 U.S.C.  853a.
+     Note 1:  The word "control" as used in this section is not limited to majority stock
+ownership, but includes actual working control in whatever manner exercised.
+     Note 2:  The term "facilities-based carrier" as used in this section means one that
+holds an ownership, indefeasible-right-of-user, or leasehold interest in bare capacity in an
+international facility, regardless of whether the underlying facility is a common or non-
+common carrier submarine cable, or an INTELSAT or separate satellite system.
+     Note 3:  The assessment of "capital stock" ownership will be made under the
+standards developed in Commission case law for determining such ownership.  See, e.g., Fox
+Television Stations, Inc., 10 FCC Rcd 8452 (1995).  "Capital stock" includes all forms of
+equity ownership, including partnership interests.
+     Note 4:   In applying the provisions of this section, ownership and other interests in
+U.S. and foreign carriers will be attributed to their holders and deemed cognizable pursuant to
+the following criteria:
+     (a)   Attribution of ownership interests in a carrier that are held indirectly by any
+party through one or more intervening corporations will be determined by successive
+multiplication of the ownership percentages for each link in the vertical ownership chain and
+application of the relevant attribution benchmark to the resulting product, except that
+wherever the ownership percentage for any link in the chain exceeds 50 percent, it shall not
+be included for purposes of this multiplication.  For example, if A owns 30 percent of
+company X, which owns 60 percent of company Y, which owns 26 percent of "carrier," then
+X's interest in "carrier" would be 26 percent (the same as Y's interest because X's interest in
+Y exceeds 50 percent), and A's interest in "carrier" would be 7.8 percent (0.30 x 0.26). 
+Under the 25 percent attribution benchmark, X's interest in "carrier" would be cognizable,
+while A's interest would not be cognizable.
+
+     12.  A new Section 63.19 is added to read as follows: 
+
+ 63.19  Special procedures for discontinuances of international services.
+
+     (a)  Any non-dominant international carrier as this term is defined in Section 63.10
+that seeks to discontinue, reduce or impair service, including the retiring of international
+facilities, dismantling or removing of international trunk lines, shall be subject to the
+following procedures in lieu of those specified in Sections 63.61 through 63.601: 
+     (1)  The carrier shall notify all affected customers of the planned discontinuance,
+reduction or impairment at least 60 days prior to its planned action.  Notice shall be in
+writing to each affected customer unless the Commission authorizes in advance, for good
+cause shown, another form of notice.  
+     (2)  The carrier shall file with this Commission a copy of the notification on or
+after the date on which notice has been given to all affected customers. 
+     (b)  Any dominant international carrier as this term is defined in Section 63.10 that
+seeks to retire international facilities, dismantle or remove international trunk lines, and the
+services being provided through these facilities are not being discontinued, reduced or
+impaired, shall only be subject to the notification requirements of paragraph (a) of this
+section.  If such carrier discontinues, reduces or impairs service to a community or retires
+facilities that impair or reduce service to a community, the dominant carrier shall file an
+application pursuant to Sections 63.62 and 63.500.
+
+     13.  A new Section 63.20 is added to read as follows:
+
+ 63.20  Copies required; fees; and filing periods for international service providers. 
+
+     (a)  Unless otherwise specified the Commission shall be furnished with an original
+and five copies of applications filed for international facilities and services under Section 214
+of the Communications Act of 1934, as amended.  Provided, however, that where applications
+involve only the supplementation of existing international facilities, and the issuance of a
+certificate is not required, an original and two copies of the application shall be furnished. 
+Upon request by the Commission, additional copies of the application shall be furnished. 
+Each application shall be accompanied by the fee prescribed in Subpart G of Part 1 of this
+chapter.
+     (b)  No application accepted for filing and subject to the provisions of Sections
+63.02, 63.18, 63.62 or 63.505 shall be granted by the Commission earlier than 28 days
+following issuance of public notice by the Commission of the acceptance for filing of such
+application or any major amendment unless said public notice specifies another time period,
+or the application qualifies for streamlined processing pursuant to Section 63.12.
+     (c)  No application accepted for filing and subject to the streamlined processing
+provisions of Section 63.12 shall be granted by the Commission earlier than 21 days
+following issuance of public notice by the Commission of the acceptance for filing of such
+application or any major amendment unless said public notice specifies another time period.
+     (d)  Any interested party may file a petition to deny an application within the 21
+day or other time period specified in paragraphs (b) or (c) of this section.  The petitioner shall
+serve a copy of such petition on the applicant no later than the date of filing thereof with the
+Commission.  The petition shall contain specific allegations of fact sufficient to show that the
+petitioner is a party in interest and that a grant of the application would be prima facie
+inconsistent with the public interest, convenience and necessity.  Such allegations of fact
+shall, except for those of which official notice may be taken, be supported by affidavit of a
+person or persons with personal knowledge thereof.  The applicant may file an opposition to
+any petition to deny within 14 days after the original pleading is filed.  The petitioner may
+file a reply to such opposition within seven days after the time for filing oppositions has
+expired.  Allegations of facts or denials thereof shall similarly be supported by affidavit. 
+These responsive pleadings shall be served on the applicant or petitioner, as appropriate, and
+other parties to the proceeding.
+
+     14.  A new Section 63.21 is added to read as follows:
+
+ 63.21  Conditions applicable to international Section 214 authorizations. 
+
+International carriers authorized under Section 214 of the Communications Act of 1934, as
+amended, must follow the following requirements and prohibitions:  
+     (a)  Carriers may not resell private lines for the provision of international switched
+services unless the country at the foreign end of the private line is deemed equivalent.  See 
+ 63.18(e)(3) through (4). 
+     (b)  Carriers must file copies of operating agreements entered into with their foreign
+correspondents within 30 days of their execution, and shall otherwise comply with the filing
+requirements contained in Section 43.51 of this chapter.
+     (c)  Carriers must file tariffs pursuant to Section 203 of the Communications Act,
+47 U.S.C. 203, and Part 61 of this chapter.
+     (d)  Carriers must file annual reports of overseas telecommunications traffic as
+required by Section 43.61 of this chapter.
+     (e)  Carriers regulated as dominant must provide the Commission with the
+following information within 30 days after conveyance of transmission capacity on submarine
+cables to other U.S. carriers:
+     (1)  The name of the party to whom the capacity was conveyed;
+     (2)  The name of the facility in which capacity was conveyed;
+     (3)  The amount of capacity that was conveyed; and
+     (4)  The price of the capacity conveyed.
+
+     15.  Section 63.52 is amended by revising the section heading to read as follows:
+
+ 63.52 Copies required; fees; and filing periods for domestic authorizations.
+
+*****
+
+     16.  Section 63.53 is amended to read as follows:
+
+ 63.53 Form.
+
+     (a)  Applications under Section 214 of the Communications Act shall be submitted
+on paper not more than 21.6 cm (8.5 in) wide and not more than 35.6 cm (14 in) long with a
+left-hand margin of 4 cm (1.5 in).  This requirement shall not apply to original documents, or
+admissible copies thereof, offered as exhibits or to specially prepared exhibits.  The
+impression shall be on one side of the paper only and shall be double-spaced, except that long
+quotations shall be single-spaced and indented.  All papers, except charts and maps, shall be
+typewritten or prepared by mechanical processing methods, other than letter press, or printed. 
+The foregoing shall not apply to official publications. All copies must be clearly legible.
+     (b)  Applications submitted under Section 214 of the Communications Act for
+international services may be submitted on computer diskettes pursuant to a filing manual
+compiled by the International Bureau, but a paper copy of the application with the original
+signature must accompany the diskette.  The manual will specify the type and format of the
+computer diskettes and the reporting and procedural requirements for such applications.
+     (c)  Applications submitted under Section 214 of the Communications Act for
+international services and any related pleadings that are in a foreign language shall be
+accompanied by a certified translation in English.    
+
+     17.  Section 63.62 is amended by revising paragraph (a) to read as follows:
+
+ 63.62 Type of discontinuance, reduction, or impairment of telephone or telegraph
+service requiring formal application.
+
+*****
+     (a)  The dismantling or removal of a trunk line (for contents of application see       
+   63.500) for all domestic carriers and for dominant international carriers except as modified
+in Section 63.19; 
+
+*****
+
+     18.  Section 63.71 is amended by revising the section heading to read as follows:
+
+ 63.71 Special procedures for discontinuance, reduction or impairment of service by
+domestic non-dominant carriers.
+*****                                APPENDIX B
+                   FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+     Pursuant to Section 603 of Title 5, United States Code, 5 U.S.C.  603, an initial
+Regulatory Flexibility Analysis was incorporated in the Notice of Proposed Rule Making in
+IB Docket No. 95-118.  Written comments on the proposals in the Notice, including the
+Regulatory Flexibility Analysis, were requested.
+
+A.   NEED AND PURPOSE OF RULES.
+
+     This Report and Order streamlines the international Section 214 authorization process
+and tariff requirements in order to greatly lessen the regulatory burdens on applicants,
+authorized carriers, and the Commission to enable them to operate more efficiently and
+respond better to customers' needs in a timely manner. These rules allow international carriers
+to enter and exit the market more quickly with greater flexibility to meet the evolving needs
+of the global telecommunications market. 
+
+B.   ISSUES RAISED BY THE PUBLIC IN RESPONSE TO THE INITIAL
+     ANALYSIS.
+
+     We received one comment in response to the Initial Regulatory Flexibility Analysis.
+The America's Carriers Telecommunications Association (ACTA) completely supported the
+initiatives of the Commission in seeking to reduce unnecessary regulation and to streamline
+the regulation required to serve the interests of the public.  ACTA raised one area of concern
+as the Commission replaces traditional regulatory controls in favor of competition to regulate
+the marketplace.  ACTA states that effective enforcement of the remaining regulations, which
+is both prompt and effective, is critical to survival of the smaller competitors in the industry. 
+ACTA states that present complaint and tariff processes favor the established carriers, as does
+commercial arbitration and/or the Alternative Dispute Resolution proceedings of the
+Commission.  ACTA states that the Commission should provide small competitors a fair,
+unbiased and competent forum to air their grievances and to obtain justice.    
+
+C.   SIGNIFICANT ALTERNATIVES CONSIDERED.
+
+     We have attempted to balance all the commenters' concerns with our public interest
+mandate under the Act in order to adopt a clear and administratively feasible approach to
+processing international Section 214 applications and tariffs.  Where we have removed
+regulations, we have been careful to consider the implications on small businesses and the
+industry in general.  We have considered and addressed all of the alternatives offered.  We
+rejected proposals to streamline dominant carrier regulations where we believed such action
+would hinder our ability to regulate dominant carriers, and safeguard against market power
+abuses.

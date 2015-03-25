@@ -1,0 +1,305 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+ORIENT EXPRESS COMMUNICATIONS,       )
+L.L.C.                               )
+                                     ) File No. SCL-95-011
+Application for a license to land and operate)
+a submarine fiber optic cable extending)
+between the U.S. Territory of Guam and the)
+Philippines, Hong Kong, the People's )
+Republic of China, and the Republic of Korea)
+
+
+                          CABLE LANDING LICENSE
+
+
+      Adopted:  November 5, 1996              Released:  November 7, 1996
+
+By the Chief, Telecommunications Division:
+
+1.      In this Order, we grant the application of Orient Express Communications, L.L.C.,
+(Orient Express) under the Cable Landing License Act for authority to land and operate a digital
+fiber optic submarine cable to be called the "Orient Express Cable System" extending between
+the United States Territory of Guam and the Philippines, Hong Kong, the People's Republic of
+China, and the Republic of Korea.  The cable will be operated on a non common carrier basis. 
+We find that Orient Express has provided sufficient information under our rules to comply with
+the Cable Landing License Act and therefore grant the cable landing license subject to the
+conditions listed below.
+
+                              The Application
+
+2.      Orient Express is a limited liability company organized under the laws of the
+Commonwealth of Virginia.  All of its owners and officers are U.S. citizens.  The applicant
+proposes to land and operate the Orient Express Cable System as a non common carrier system
+in which capacity would be sold or leased to users on a non-tariffed, non common carrier basis. 
+The cable system would be owned by the applicant and by entities authorized to land and operate
+an international submarine fiber optic cable system in the Philippines, Hong Kong, the People's
+Republic of China, and the Republic of Korea.  All of the proposed cable system's plant and
+equipment located in the United States would be owned by Orient Express.  All plant and
+equipment located in the Philippines, Hong Kong, the People's Republic of China, and the
+Republic of Korea would be owned by entities authorized to land and operate an international
+submarine fiber optic cable system in those jurisdictions.  The precise landing points have yet
+to be selected.  Orient Express states that the landing points will be in conformity with plans
+approved by the Secretary of the Army and all necessary and appropriate agencies of the
+governments of the Philippines, Hong Kong, the People's Republic of China, and the Republic
+of Korea.  The proposed cable system is scheduled to be operational in the second quarter of
+1998.
+
+3.      The Orient Express Cable System will employ 1.55-micrometer wavelength
+technology operating on each of its fiber pairs at a minimum of 2.5 Gbps per fiber pair.  The
+capacity on each fiber pair will be provided in a minimum of sixteen 155-Mbps streams, with
+each 155-Mbps stream containing 63 Minimum Investment Units (MIUs).  Each MIU, the
+minimum unit of ownership investment in the cable system, consists of a 2.048-Mbps stream. 
+The applicant states that the planning and development of the Orient Express Cable System will
+be based upon the use of submarine fiber optic technology judged suitable for implementation
+at the projected ready for commercial service (RFCS) date, employing the appropriate
+transmission rate necessary to meet the capacity requirements of the users of the system.  Orient
+Express expects that the minimum system design capacity will be 10.0 Gbps.  Orient Express
+states that it will ensure system reliability through the deployment of the appropriate cable
+system design.
+
+4.      The proposed cable system will consist of twelve segments, designated A through L. 
+Segment A is the cable landing station to be located in the U.S. Territory of Guam.  Segment
+B is the cable landing station to be located in the northeastern portion of the Philippines. 
+Segment C is the cable landing station to be located in Hong Kong.  Segment D is the cable
+landing station to be located in or near Shanghai, the People's Republic of China.  Segment E
+is the cable landing station in the southeastern portion of the Republic of Korea.   Segment F
+consists of the whole of the submarine cable system between the system interface at Segment A
+and branching unit #1 (BU1).  Segment G consists of the whole of the submarine cable system
+between BU1 and branching unit #2 (BU2).  Segment H consists of the whole of the submarine
+cable system between BU2 and the system interface at Segment B.  Segment I consists of the
+whole of the submarine cable system between BU2 and the system interface at Segment C. 
+Segment J consists of the whole of the submarine cable system between BU1 and branching unit
+#3 (BU3).  Segment K consists of the whole of the submarine cable system between BU3 and
+the system interface at Segment D.  Segment L consists of the whole of the submarine cable
+system between BU3 and the system interface at Segment E.  Segment F will consist of four
+fiber pairs, Segment G three, Segment H three, Segment I two, Segment J three, Segment K
+three, and Segment L two.
+
+5.      Orient Express states that it intends to sell or lease, on a long-term basis, bulk
+capacity in the Orient Express Cable System to large users and telecommunications providers
+on a highly individualized basis.  It states that it will make "individualized decisions, in
+particular cases, whether and on what terms to deal" and does not intend to undertake "to carry
+for all people indifferently" and that there is no public-interest reason for the Commission to
+require that the proposed facilities be operated on a common carrier basis.  It asserts that we
+therefore have only to consider the requirements of the Cable Landing License Act to act on this
+application.
+
+6.      Orient Express states that the proposed cable system will provide needed additional
+voice, video and high-speed data transmission capacity between and among the United States via
+the Territory of Guam, the Philippines, Hong Kong, the People's Republic of China, the
+Republic of Korea, and points beyond.  It will also interconnect with the domestic and
+international interexchange telecommunications networks of the United States, the Philippines,
+Hong Kong, the People's Republic of China, the Republic of Korea, and points beyond.  Orient
+Express states that the cable system will also provide high reliability and low-cost capacity,
+redundancy, security, and restoration.
+
+                                 Comments
+
+7.      The Orient Express application was placed on public notice on October 13, 1995. 
+AT&T Submarine Systems, Inc., (AT&T-SSI) filed comments on November 13, 1995, and
+Orient Express filed Reply Comments on November 22.  Pursuant to Section 1.767(b) of the
+Commission's rules, the Cable Landing License Act, and Executive Order No. 10530, we
+informed the Department of State of Orient Express's application.  The Department of State,
+after coordinating with the National Telecommunications and Information Administration and
+the Department of Defense, stated that it has no objection to the issuance of the cable landing
+license.
+
+8.      In its comments, AT&T-SSI states that it favors a fully competitive private cable
+industry in which the market determines a private cable system's viability.  AT&T-SSI requests
+that if we grant this license, we make clear the Commission's pro-competition policy by stating
+that the grant does not preclude the licensing of future cable systems, whether common carrier
+or private, that could be competitive alternatives.  Orient Express responds that no clarification
+is necessary because the Commission has never considered private cable system applications to
+be mutually exclusive and has never precluded the licensing of such systems because of
+overcapacity on existing and future systems.
+
+                                Discussion
+
+9.      Orient Express requests a license under the Commission's private submarine cable
+policy to promote competition in the provision of international transmission facilities.  Pursuant
+to this policy, the Commission has authorized non common carrier cables where there is no
+legal compulsion to serve the public indifferently and where there are no reasons implicit in the
+nature of the operations to expect an indifferent holding-out to the eligible user public.
+
+10.     Because of the wide availability of common carrier circuits on existing and future
+cables and satellite circuits between the U.S. Territory of Guam, the Philippines, Hong Kong,
+the People's Republic of China, and the Republic of Korea, there is no public-interest reason
+to require that Orient Express's proposed cable facilities be provided on a common carrier
+basis.
+
+11.     In addition, since Orient Express will make "individualized decisions, whether and
+on what terms to deal" and does not undertake to "carry for all people indifferently," there is
+no reason to expect that the proposed cable circuits would be held out to the public by Orient
+Express indifferently.  We thus conclude that Orient Express will not in fact offer capacity in
+the Orient Express cable system to the public on a common carrier basis, and thus is not subject
+to regulation under Title II of the Communications Act.
+
+12.     In response to AT&T-SSI's comments, we reaffirm that our grant of a license for one
+non common carrier cable does not in any way preclude the grant of future licenses for
+potentially competing cables, whether non common carrier or common carrier.  The market,
+not our economic judgment, will determine the viability of potential cables along any given
+route.  As Orient Express stated, this has been the Commission's policy since Tel-Optik.
+
+13.     Consistent with prior decisions, we find that Orient Express's statement that the
+Orient Express Cable System will land in the U.S. Territory of Guam, the Philippines, Hong
+Kong, the People's Republic of China, and the Republic of Korea to be sufficient to determine
+whether the proposed cable would comply with the provisions of the Cable Landing License Act
+and Commission rules.  Since the time of the filing of Orient Express's application, the
+Commission has reduced the amount of information required in cable landing license
+applications.  Specifically, the Section 214 Streamlining Order permits applicants in their initial
+applications to provide a general geographic description of the landing points.  It requires that
+grant of cable landing license applications be conditioned on final approval of a specific
+description of landing points no later than ninety days prior to construction.  The Commission
+will give public notice of this description, and grant of the license will be considered final unless
+we issue a public notice to the contrary no later than sixty days after receipt of the specific
+description of the landing points.  
+
+14.     Based on the information provided by Orient Express and pursuant to the
+Commission's procedures implementing the National Environmental Policy Act of 1969, we
+conclude that the grant of the requested authorizations would not significantly affect the
+environment.  Consequently, Orient Express is not required to submit an environmental
+assessment, and this application is categorically excluded from environmental processing.
+ 
+15.     Accordingly, we conclude that U.S. interests under the Cable Landing License Act
+will be served by grant of the license to Orient Express, as conditioned below.
+
+                             Ordering Clauses
+
+16.     Consistent with the foregoing, we hereby GRANT AND ISSUE, under the provisions
+of the Cable Landing License Act and Executive Order 10530, Orient Express Communications,
+L.L.C., a license to land and operate a high-capacity fiber optic submarine cable system (with
+four fiber pairs operating at 2.5 Gbps per pair) extending between the U.S. Territory of Guam,
+the Philippines, Hong Kong, the People's Republic of China, and the Republic of Korea, with
+landing points in each of those areas.  This grant is subject to all rules and regulations of the
+Federal Communications Commission; any treaties or conventions relating to communications
+to which the United States is or may hereafter become a party; any action by the Commission
+or the Congress of the United States rescinding, changing, modifying or amending any rights
+accruing to any person hereunder; and the following conditions:
+
+ (1)The location of the cable system within the territorial waters of the United States
+ of America, its territories and possessions, and upon its shore shall be in conformity
+ with plans approved by the Secretary of the Army, and the cables shall be moved or
+ shifted by the Licensee at its expense upon the request of the Secretary of the Army
+ whenever he or she considers such course necessary in the public interest, for reasons
+ of national defense, or for the maintenance or improvement of harbors for navigational
+ purposes;
+
+ (2)The Licensee shall at all times comply with any requirements of United States
+ government authorities regarding the location and concealment of the cable facilities,
+ buildings, and apparatus with a view of protecting and safeguarding the cables from
+ injury or destruction by enemies of the United States of America;
+
+ (3)The Licensee or any persons or companies controlling it, controlled by it, or
+ under direct or indirect common control with it does not enjoy and shall not acquire
+ any right to handle traffic to or from the United States, its territories, or its possessions
+ unless such service be authorized by the Commission pursuant to section 214 of the
+ Communications Act, as amended;
+
+ (4)The Licensee or any persons or companies controlling it, controlled by it, or
+ under direct or indirect common control with it shall not acquire or enjoy any right for
+ the purpose of handling or interchanging traffic to or from the United States, its
+ territories, or its possessions to land, connect, or operate cables or landlines, to
+ construct or operate radio stations, or to interchange traffic, that is denied to any other
+ United States company by reason of any concession, contract, understanding, or
+ working arrangement to which the Licensee or any persons controlling it, controlled
+ by it, or under direct or indirect common control with it are parties;
+
+ (5)Neither this license nor the rights granted herein shall be transferred, assigned,
+ or in any manner either voluntarily or involuntarily disposed of or disposed of
+ indirectly by transfer of control of the Licensee to any persons, unless the Federal
+ Communications Commission shall give prior consent in writing;
+
+ (6)The Licensee shall notify the Commission in writing of the precise locations at
+ which the cables will land no later than ninety days prior to commencing construction
+ of cable landing stations at those locations.  The Commission will give public notice
+ of the filing of these descriptions, and grant of this license will be considered final
+ unless the Commission issues a notice to the contrary no later than sixty days after
+ receipt of the specific descriptions of landing points;
+
+ (7)The Commission reserves the right to require the Licensee to file an
+ environmental assessment or environmental impact statement should it determine that
+ the landing of the cables at those locations and construction of necessary cable landing
+ stations would significantly affect the environment within the meaning of
+ Section 1.1307 of the Commission's procedures implementing the National
+ Environmental Policy Act of 1969; this license is subject to modification by the
+ Commission upon its review of any environmental assessment or environmental impact
+ statement that it may require pursuant to its rules;
+
+ (8)The Licensee shall maintain no less than a 50-percent ownership interest and
+ voting control share in the cables, including 100-percent ownership in the cable stations
+ in the United States and in the U.S. land portion of the cables from the stations to the
+ U.S. beach joint of the submerged portion of the cables;
+
+ (9)The Licensee shall, by application, obtain Commission approval prior to the sale
+ or transfer to a foreign entity of five percent or more in the aggregate of U.S.-owned
+ and -controlled stock;
+
+ (10)This license is revocable by the Commission after due notice and opportunity for
+ hearing pursuant to section 2 of "An Act Relating to the Landing and Operation of
+ Submarine Cables in the United States," 47 U.S.C.  35, or for failure to comply with
+ the terms of the authorizations;
+
+ (11)The Licensee shall notify the Commission in writing of the date on which the
+ cable is placed in service, and this license shall expire 25 years from such date, unless
+ renewed or extended upon proper application, and, upon expiration of this license, all
+ rights granted under it shall be terminated; and
+
+ (12)The terms and conditions upon which this license is given shall be accepted by
+ the Licensee by filing a letter with the Secretary, Federal Communications
+ Commission, Washington, D.C. 20554, within 30 days of the release of the cable
+ landing license.
+
+17.     This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.
+ 0.261, and is effective upon release.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R.
+ 1.4(b)(2)).
+
+         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+         Diane Cornell
+         Chief, Telecommunications Division
+         International Bureau

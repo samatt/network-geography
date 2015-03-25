@@ -1,0 +1,296 @@
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+PROJECT OXYGEN (USA) LLC        )
+                                )
+Application for a license to land and operate in)      File No. SCL-LIC-19981014-00020
+the United States a private fiber optic submarine)
+cable system extending between the United States)
+and various overseas points     )
+
+                      CABLE LANDING LICENSE
+
+Adopted:  March 10, 1999                           Released:  March 15, 1999
+
+By the Chief, Telecommunications Division:
+
+                         I.  Introduction
+
+     1.   In this Order, we grant the application of Project Oxygen (USA) LLC (O2 (USA)) under
+the Cable Landing License Act for authority to land and operate a private fiber optic submarine cable
+system to be called the OXYGEN Network, extending between the United States and the overseas points
+listed in the attached Appendix.  This system will be operated on a non common carrier basis.  We find
+that O2 (USA) has provided sufficient information under our rules to comply with the Cable Landing
+License Act and that it would serve the public interest to grant the cable landing license subject to the
+conditions listed below.
+
+                        II.  Application 
+
+     2.   O2 (USA), a Delaware corporation, is a wholly owned subsidiary of Project Oxygen Ltd.,
+a Bermuda corporation that is wholly owned by CTR Holdings L.P. (CTR), a limited partnership registered
+in the State of Delaware.  CTR is owned by individuals and has no affiliation with any foreign
+communications carrier.  O2 (USA) will own all of the U.S. landing stations, the U.S. terrestrial facilities,
+and all cable segments between the U.S. landing stations and the limit of U.S. territorial waters.  Project
+Oxygen Ltd. will own the submarine cable segments in international waters and will act as the overall
+manager of the OXYGEN Network.  The application states that, to the extent possible, a party in each
+foreign country where the network lands will own the landing station(s) in that country and the cable
+segments between the landing station(s) and the limit of that country's territorial waters.
+
+     3.   The first phase of the proposed OXYGEN Network will comprise up to 168,000 km of
+fiber optic cable, including 14,000 km of terrestrial segments, linking together a total of 78 countries and
+locations on all continents except Antarctica (see Appendix).  This first phase will include 99 landing
+points around the world, including 10 in the United States and its territories.
+
+     4.   The basic link design capacity of the OXYGEN Network is 640 gigabits per second
+(Gbps).  The network's transmission capacity comprises (a) amplified submarine links of greater than 200
+km in length, consisting of four fiber pairs with a total transmission capacity of 640 Gbps; (b) unamplified
+submarine links of up to 200 km in length, consisting of 12 fiber pairs with a total transmission capacity of
+1.92 terabits per second (Tbps); (c) terrestrial transmission capacity of 1.92 Tbps; and (d) spur capacity of
+10 Gbps per wavelength dropped at the spur landing station.  Upon completion of phase one of the
+network, the total length of the system, excluding spare fibers, is anticipated to be 168,000 km.  All of the
+optical fibers used in the network will support sixteen-color wavelength division multiplexing, with each
+color operating at a transmission rate of 10 Gbps (STM-64).  Operation of the OXYGEN Network is
+expected to begin in the fourth quarter of 2000.
+
+                          III.  Comments
+
+     5.   The application was placed on public notice on October 23, 1998.  We received no
+comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License Act, and
+Executive Order No. 10530, we informed the Department of State of the application.  The Department of
+State, after coordinating with the National Telecommunications and Information Administration and the
+Department of Defense, stated that it has no objection to issuance of the cable landing license.
+
+                         IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     6.   O2 (USA) proposes to operate the OXYGEN Network as a non common carrier
+submarine cable system in which capacity will not be offered indifferently to the user public.  O2 (USA)
+requests a license under the Commission's private submarine cable policy, which is intended to promote
+competition in the provision of international transmission facilities.  Pursuant to this policy, the
+Commission has authorized non common carrier cables where (1) there is no legal compulsion to serve the
+public indifferently and (2) there are no reasons implicit in the nature of the operations to expect that the
+applicant would make capacity available to the public indifferently and indiscriminately.
+
+     7.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on whether an applicant will be able to exercise market power because of the lack of
+alternative facilities.  Where there are sufficient alternatives, the Commission has found that the licensee
+will lack market power and will not be able to charge monopoly rates for cable capacity.  The Commission
+has found that, in those circumstances, the public interest would be served by allowing a submarine cable
+to be offered on a non common carrier basis.
+
+     8.   No one has suggested that the public interest requires the OXYGEN Network to be
+operated on a common carrier basis.  O2 (USA) is not affiliated with any carriers and therefore does not
+control any bottleneck facilities in the markets the OXYGEN Network proposes to serve.  Furthermore, the
+applicant argues that the network's proposed operational and management approach effectively requires
+that it not be subject to common carrier regulation.  No commenter has disputed this argument, and we
+find that, in light of all the circumstances, it would not serve the public interest to impose common carrier
+regulation on the operations of the OXYGEN Network at this time.  We note, however, that we retain the
+authority to impose common carrier or common-carrier-like obligations on the operations of this or any
+other submarine cable system if the public interest so requires.  Furthermore, we have always maintained
+the authority to classify facilities as common carrier facilities subject to Title II of the Communications Act
+if the public interest requires that the facilities be offered to the public indifferently.
+
+     9.   Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently.  O2 (USA) states that it
+is not a common carrier, does not intend to operate as a common carrier in the future, will not offer service
+indiscriminately to the public, will not provide any service that is effectively available to the public, and
+will not endeavor to serve all people indifferently.  Rather, the applicant states, it will make individualized
+decisions in particular cases whether and on what terms to deal with prospective customers.  We therefore
+conclude that O2 (USA) will operate the OXYGEN Network on a non common carrier basis.
+
+     10.  We conclude that O2 (USA) will not offer capacity in the OXYGEN Network to the public
+on a common carrier basis and that the public interest does not require that they do so.  Accordingly, we
+conclude that it is appropriate to license the OXYGEN Network on a non common carrier basis.  We also
+find that the applicant will not provide a telecommunications service for a fee to such class of users as to be
+"effectively available directly to the public" and thus will not be "telecommunications carriers" under the
+1996 Act.  
+
+     B.   Ownership and Landing Points
+
+     11.  O2 (USA) has provided the ownership information required by Sections 1.767(a)(6),
+63.18(e)(6), and 63.18(h) of the Commission's rules.  O2 (USA), a Delaware corporation, is ultimately
+controlled by one family, through its ownership of CTR, a limited partnership, which, in turn, owns
+Project Oxygen Ltd., the Bermuda corporation.  O2 (USA) is not affiliated with any foreign
+communications carrier.  O2 (USA) will own the U.S. cable landing stations, the U.S. terrestrial facilities,
+and the cable segments between the U.S. landing stations and the limit of U.S. territorial waters.  Project
+Oxygen Ltd. will own the submarine cable segments in international waters.
+
+     12.  The application states that there will be 10 landing points in the United States, its
+territories and possessions: at Nedonna, Oregon; San Francisco, California; San Luis Obispo, California;
+Tuckerton, New Jersey; Boston, Massachusetts; West Palm Beach, Florida; Agana, Guam; Honolulu,
+Hawaii; San Juan, Puerto Rico; and Midway Islands.  The non-U.S. landing points are identified in the
+Appendix to this Order.  We find the applicant's description of the likely landing points to be sufficient to
+determine that the proposed cable system will comply with the provisions of the Cable Landing License Act
+and Commission rules.  Section 1.767(a) of the Commission's rules permits applicants in an initial
+application to provide a general description of the landing points.  The applicant must file a specific
+description of any landing point, including a map, no later than 90 days prior to construction at that landing
+point.  The Commission will give public notice of the filing of the specific description, and grant of the
+license will be considered final with respect to that landing point unless the Commission notifies the
+applicants to the contrary no later than 60 days after receipt of the specific description of the landing point.
+
+     C.   Environmental Impact
+
+     13.  Based on the information provided by the applicant and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we find that action on the
+present application would not significantly affect the environment according to Section 1.1307(a) or (b) of
+the Commission's rules.  Therefore, pursuant to Section 1.1306, we conclude that grant of the requested
+license would not significantly affect the environment.  Consequently, O2 (USA) is not required to submit
+an environmental assessment, and this application is categorically excluded from environmental processing. 
+As stated above, however, we condition this license upon final approval of each landing point.  If
+necessary, we will address environmental impacts after the applicant specifically identifies the landing
+points.
+
+                         IV.  Conclusion
+
+     14.  We grant O2 (USA)'s application for authority to land and operate a non common carrier
+fiber optic submarine cable extending between the United States and various overseas points, as described
+in the Appendix to this order, subject to the conditions listed below.
+
+                      V.  Ordering Clauses 
+
+     15.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE O2 (USA) a license to land and operate a
+non common carrier fiber optic cable system extending between the ten U.S. landing points and the
+overseas countries and locations listed in the Appendix hereto.  This grant is subject to all rules and
+regulations of the Federal Communications Commission; any treaties or conventions relating to
+communications to which the United States is or may hereafter become a party; any action by the
+Commission or the Congress of the United States rescinding, changing, modifying, or amending any rights
+accruing to any person hereunder; and the following conditions:
+
+          (1) The location of the cable system within the territorial waters of the United States, its territories
+     and possessions, and upon its shore shall be in conformity with plans approved by the Secretary of
+     the Army, and the cable shall be moved or shifted by the Licensee at its expense upon the request
+     of the Secretary of the Army whenever he or she considers such course necessary in the public
+     interest, for reasons of national defense, or for the maintenance or improvement of harbors for
+     navigational purposes;
+
+          (2) The Licensee shall at all times comply with any requirements of U.S. government authorities
+     regarding the location and concealment of the cable facilities, buildings, and apparatus for the
+     purpose of protecting and safeguarding the cable from injury or destruction by enemies of the
+     United States;
+
+          (3) The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it do not enjoy and shall not acquire any right to handle traffic to or
+     from the United States, its territories, or its possessions unless such service be authorized by the
+     Commission pursuant to Section 214 of the Communications Act, as amended;
+
+          (4) The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it shall not acquire or enjoy any right for the purpose of handling or
+     interchanging traffic to or from the United States, its territories, or its possessions to land, connect,
+     or operate cables or land lines, to construct or operate radio stations, or to interchange traffic, that
+     is denied to any other United States company by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it, controlled by it, or
+     under direct or indirect common control with it are parties;
+
+          (5) Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Commission shall give prior consent in writing;
+
+          (6) The Licensee shall notify the Commission in writing of the precise locations at which the cable
+     will land in the United States and in foreign countries.  Such notification with respect to any given
+     landing location shall occur no later than ninety days prior to commencing construction at that
+     landing location.  The Commission will give public notice of the filing of each description, and
+     grant of this license will be considered final with respect to that landing point unless the
+     Commission issues a notice to the contrary no later than sixty days after receipt of the specific
+     description;
+
+          (7) Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose additional common carrier or common-carrier-
+     like regulation on the operations of the cable system if it finds that the public interest so requires;  
+
+          (8) The Commission reserves the right to require the Licensee to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cable at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+
+          (9) The Licensees shall maintain de jure and de facto control of the U.S. portion of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+          (10) This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to comply
+     with the terms of the authorizations;
+
+          (11) The Licensee shall notify the Commission in writing of the date on which the cable is placed in
+     service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (12) The terms and conditions upon which this license is given shall be accepted by the Licensee by
+     filing a letter with the Secretary, Federal Communications Commission, Washington, D.C. 20554,
+     within 30 days of the release of the cable landing license.
+
+     16.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau                             Appendix
+                  OXYGEN NETWORK LANDING POINTS
+
+ Antigua & Barbuda, St. John's          Monaco
+ Argentina, Buenos Aires                Morocco, Casablanca
+ Australia, Perth                       Netherlands, IJmuiden
+ Australia, Sydney                      Norway, Arendal
+ Bahamas, New Providence                Oman, Muscat
+ Bahrain, Al Manamah                    Pakistan, Karachi
+ Barbados, Bridgetown                   Panama, Colon
+ Belgium, Oostende                      Panama, Panama City
+ Bermuda, Hamilton                      Papua New Guinea, Port Moresby
+ Brazil, Fortaleza                      Peru, Callao
+ Brazil, Rio de Janeiro                 Philippines, Batangas
+ Canary Islands, Las Palmas             Poland, Gdansk
+ Cape Verde Islands, Sao Tiago          Portugal, Sesimbra
+ Chile, Valparaiso                      Puerto Rico, San Juan
+ China, Shanghai                        Qatar, Doha
+ China, TianJin                         Russia, St. Petersburg
+ Colombia, Buenaventura                 Saudi Arabia, Ad Damman
+ Denmark, Copenhagen                    Saudi Arabia, Jeddah
+ Djibouti, Djibouti                     Singapore
+ Dominican Republic, Santo Domingo      South Korea, Inchon
+ Ecuador, Esmeraldas                    Spain, Barcelona
+ Egypt, Alexandria                      Spain, Conil
+ Egypt, Port Said                       Sri Lanka, Colombo
+ Egypt, Suez                            St. Vincent & Grenadines, Kingstown
+ Finland, Helsinki                      Suriname, Paramaribo
+ France, Antibes                        Sweden, Stockholm
+ France, Brest                          Syria, Tartus
+ France, St Valery-en-Caux              Taiwan, Sanchung
+ Germany, Brunsbuttel                   Thailand, Phetchaburi
+ Germany, Kiel                          Thailand, Satun
+ Greece, Athens                         Thailand, Songkhla
+ Guam, Agana                            Trinidad & Tobago, Port of Spain
+ Guatemala, San Jose                    Tunisia, Tunis
+ Hong Kong                              Turkey, Marmaris
+ India, Mangalore                       U.A.E., Dubai
+ India, Mumbai                          U.K., Brighton
+ Indonesia, Jakarta                     U.K., Gibraltar
+ Ireland, Dublin                        U.K., Winterton
+ Italy, Genoa                           Uruguay, Montevideo
+ Italy, Lido di Ostia                   U.S.A., Boston
+ Japan, Kitaibaraki                     U.S.A., Honolulu
+ Japan, Maruyama                        U.S.A., Nehonna
+ Kuwait, Al-Kuwayt                      U.S.A., San Francisco
+ Lebanon, Beirut                        U.S.A., San Luis Obispo
+ Malaysia, Kelang                       U.S.A., Tuckerton
+ Malta, Valletta                        U.S.A., West Palm Beach
+ Mexico, Acapulco                       Venezuela, Camuri
+ Mexico, Tijuana                        Vietnam, Ho Chi Minh City
+ Midway Islands                         Yemen, Aden

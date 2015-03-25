@@ -1,0 +1,99 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+SSI Atlantic Crossing LLC            )
+                                     )           File No. SCL-97-002
+Application for a license to land and operate)
+in the United States a digital submarine cable)
+system extending between the United States)
+and the United Kingdom and Germany   )
+
+
+                         ORDER ON RECONSIDERATION
+
+   Adopted:  October 21, 1997                                           Released:  October 22, 1997
+
+By the Chief, Telecommunications Division:
+
+      1.  In this Order on Reconsideration, we set aside, on our own motion pursuant to Section
+1.108 of the Commission's rules, one restriction that we imposed on a cable landing license recently
+granted to SSI Atlantic Crossing, LLC ("SSI").  Specifically, we set aside the requirement that SSI
+seek Commission approval prior to the sale or transfer to a foreign entity of five percent or more in
+the aggregate of indirect ownership in SSI.
+
+      2.  In the order granting the cable landing license, we acknowledged that the licensee would
+be indirectly wholly owned by Tyco International Limited ("Tyco"), which is a publicly traded
+corporation.  SSI would therefore be in violation of its license if foreign entities were to purchase in
+the aggregate five percent or more of Tyco stock on a stock exchange, an event over which SSI has
+no control and no ability to seek prior Commission approval.  SSI advises us that it therefore cannot
+accept the terms and conditions upon which the license was granted.
+
+      3.  We have not routinely imposed this restriction on indirect ownership in the past, nor did
+we intend the consequences envisioned here.  Upon further reflection, we are satisfied that the
+remaining restrictions in the cable landing license, as herein modified, are sufficient to protect the
+public interest in this case.  For example, there can be no transfer of control of SSI or Tyco without
+prior Commission consent, and any change in direct ownership of SSI of five percent or more
+requires prior Commission consent.  SSI is obligated to comply with any requirements of United
+States government authorities regarding the location and concealment of the cable facilities, and the
+license is revocable for failure to comply with those requirements or any other terms of the license.
+
+      4.  Accordingly, we remove the words "or indirect" from the eighth condition attached to the
+cable landing license.  That is, we will not require SSI to obtain Commission approval prior to the
+acquisition of five percent or more of Tyco shares by one or more foreign entities.  We will,
+however, maintain the requirement that SSI obtain Commission approval before the sale or transfer of
+five percent or more of the direct ownership of SSI.
+
+                             Ordering Clauses
+
+      5.  Consistent with the foregoing and pursuant to the Cable Landing License Act, Executive
+Order 10530, and Section 1.108 of the Commission's rules, we hereby set aside, in part, one
+condition imposed in the license granted to SSI Atlantic Crossing LLC to land and operate a
+non common carrier cable system, DA 97-2034.  We remove the words "or indirect" from the eighth
+condition attached to that license (as paragraph 15(8)).  That condition now provides as follows:
+
+      (8)  The Licensee shall, by application, obtain Commission approval prior to the sale or
+      transfer to a foreign entity of five percent or more in the aggregate of direct ownership in the
+      licensee;
+
+      6.  This Order on Reconsideration does not modify any other terms or conditions imposed in
+the license issued on September 23, 1997.
+
+      7.  This Order is issued under Sections 0.261 and 1.108 of the Commission's rules, 47
+C.F.R.  0.261, 1.108, and is effective upon release.  Petitions for reconsideration under Section
+1.106 or applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R. 
+1.4(b)(2)).
+
+              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+              Diane J. Cornell
+              Chief, Telecommunications Division
+              International Bureau

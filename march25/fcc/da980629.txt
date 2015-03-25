@@ -1,0 +1,124 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                                Before the
+                     Federal Communications Commission
+                          Washington, D.C. 20554
+
+In the Matter of                     )
+                                     )
+Pacific Telecom, Inc.                )
+Transferor,                          )
+                                     )           File No. SCL-86-002-M-TC-2
+and                                  )
+                                     )
+Neptune Pacific Holdings, Inc.       )
+Transferee                           )
+                                     )
+Joint Application for Approval of Transfer of)
+Control of Pacific Telecom Cable, Inc., a)
+Corporation Holding a License to Land )  
+and Operate in the United States a   )
+Submarine Fiber Optic Cable          )   
+Between the United States and Japan  )
+                                     )
+
+
+                      MEMORANDUM OPINION AND ORDER
+
+
+   Adopted:  April 1, 1998                                              Released:  April 2, 1998
+
+By the Chief, Telecommunications Division:
+
+                             I.  INTRODUCTION
+
+      1.      On January 23, 1998,  Neptune Pacific Holdings, Inc. ("Neptune Pacific") and Pacific
+Telecom, Inc. ("PTI") (collectively "the Applicants") filed an application for approval of the transfer of
+control of Pacific Telecom Cable, Inc. ("PTC") from PTI to Neptune Pacific.  The Applicants submitted
+the application pursuant to the Cable Landing License Act and Section 1.767 of the Commission's Rules. 
+For the following reasons we grant the Applicants' request. 
+                              II. BACKGROUND
+
+      2.      Neptune Pacific is a Delaware corporation whose officers and directors are all U.S.
+citizens.  It was formed by affiliates of a Washington, D.C.-based merchant banking firm, The Carlyle
+Group, with extensive experience in the design, construction, operation and maintenance of submarine
+fiber optic cable systems.  Although Neptune Pacific is indirectly majority-owned by foreign investors,
+it is not affiliated with a foreign telecommunications carrier.  All of the directors and officers of Neptune
+Pacific are U.S. citizens, and any entity that owns, directly or indirectly, greater than 10 percent interest
+in Neptune Pacific is controlled by U.S. citizens. 
+
+      3.      PTC, a Delaware corporation, holds the license for a non-common carrier submarine cable
+between Pacific City, Oregon, and Japan with a branching unit to Seward, Alaska.  PTC is 80 percent
+owned by PTI, a wholly-owned subsidiary of Century Telephone Enterprises.  Cable & Wireless, plc holds
+the remaining 20 percent of PTC.  PTI provides local exchange and mobile telecommunications services
+in rural communities across the United States.  All the owners and officers of PTC are a matter of record
+and are incorporated in this application.  PTC will continue to operate the North Pacific Cable on a non-
+common carrier basis.  
+
+      4.      Neptune Pacific and PTI request authority for Neptune Pacific to acquire all of the
+ownership interests in PTC.  PTC, however, will continue to exist and will remain the licensee following
+completion of the proposed transaction.  Neptune Pacific proposes to change the name of PTC to Neptune
+Pacific Cable, Inc.  The application was placed on public notice on February 11, 1998, and no parties
+filed comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable Landing License
+Act, and Executive Order No. 10530, we informed the Department of State of the application.  The
+Department of State, after coordinating with the National Telecommunications and Information
+Administration and the Department of Defense, approved of the proposed ownership change.
+
+                             III.  DISCUSSION
+
+      5.      The joint applicants state that consummation of the proposed transaction would serve the
+public interest for all the same reasons the Commission recognized in granting the cable landing license
+to PTC.  For example, the North Pacific Cable provides additional capacity in the Pacific Ocean region. 
+Also, as evidenced by the recent authorization to General Communications, Inc. authority for the Alaska
+United Cable System, and the recent transfer of the Alaska Northstar Cable System, there has been
+increased competition in the telecommunications market in Alaska.  The North Pacific Cable will further
+enhance competition.  The joint applicants state that granting their request would not undermine the
+beneficial aspects of the North Pacific Cable nor would it be novel or inconsistent with the Commission's
+rules.  
+
+      6.      Accordingly, we conclude that a grant of the application would be consistent with the
+Cable Landing License Act.  We therefore consent to the proposed transfer of control of Pacific Telecom
+Cable, Inc. to Neptune Pacific.   We modify the conditions of the initial authorization to reflect this
+transfer of control.  We do not modify the conditions of the authorization to address those issues raised
+in PTC's petition for review.
+
+                           IV.  ORDERING CLAUSES
+
+      7.      In consideration of the foregoing, IT IS ORDERED that the application, File No. SCL-86-
+002-M-TC-2 IS GRANTED, and the Applicants are authorized to transfer control of Pacific Telecom
+Cable, Inc. to Neptune Pacific Holdings, Inc.  The cable landing license, SCL-86-002, IS MODIFIED to
+reflect this transfer of control.  
+      8.      This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days
+of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+
+              Diane J. Cornell
+              Chief, Telecommunications Division
+              International Bureau
+

@@ -1,0 +1,290 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of
+                                   )
+ARCOS-1 USA, INC.                       )
+                                   )
+Application for a license to land and operate in  )    File No. SCL-LIC-19981222-00032
+the United States a private fiber optic submarine )              
+cable system extending between the United States  )
+mainland, The Bahamas, the Turks and Caicos Island,    )
+the Dominican Republic, Puerto Rico, Curacao,     )
+Venezuela, Colombia, Panama, Costa Rica,          )
+Nicaragua, Honduras, Guatemala, Belize and        )
+Mexico                             )
+                                   )
+
+
+                     CABLE LANDING LICENSE
+
+   Adopted: July 1, 1999                Released:  July 2, 1999
+
+By the Chief, Telecommunications Division:
+
+                        I.  Introduction
+
+     1.   In this Order, we grant the application of ARCOS-1 USA, INC. (ARCOS), under the
+Cable Landing License Act and Executive Order No. 10530, for authority to land and operate a fiber
+optic submarine telecommunications cable system to be called the "Americas Region Caribbean Ring
+System" or "ARCOS-1," extending between the U.S. Mainland, The Bahamas, the Turks and Caicos
+Island, the Dominican Republic, Puerto Rico, Curacao, Venezuela, Colombia, Panama, Costa Rica, 
+Nicaragua, Honduras, Guatemala, Belize and Mexico.  The system will be operated on a non-common
+carrier basis.  We find that ARCOS has provided sufficient information under our rules to comply with the
+Cable Landing License Act and that it would serve the public interest to grant the cable landing license
+subject to the conditions listed below.
+
+                        II.  Application
+
+     2.   ARCOS, a Delaware corporation, is a wholly-owned subsidiary of CEN-TA Telecom
+(CEN-TA), organized under the laws of the Grand Cayman Islands.  Fifty-one percent of CEN-TA is
+owned by Inversiones Jaafe S.A., organized under the laws of Panama, and 49 percent is owned by Sun
+Financial Corporation, organized under the laws of the Cayman Islands.  The majority owner of
+Inversiones Jaafe S.A. is a citizen of Colombia.  Sun Financial Corporation is owned equally by a citizen of
+Germany and a citizen of Colombia.  
+
+     3.   The proposed ARCOS-1 system, designed as a ring configuration, will connect:  (1)
+Hollywood, Florida; (2) Nassau, The Bahamas; (3) Cockburn Town, The Bahamas; (4) Acklins Island,
+The Bahamas; (5) Grand Turk, Turks and Caicos Island (U.K.); (6) Nagua, Dominican Republic; (7) El
+Macao, Dominican Republic; (8) San Juan, Puerto Rico; (9) Willemstad, Curacao; (10) Punto Fijo,
+Venezuela; (11) El Cabo de la Vela, Colombia; (12) Baranquilla, Colombia; (13) Mulatos, Colombia; (14)
+Col¢n (Maria Chica), Panama; (15) Puerto Lim¢n, Costa Rica; (16) Bluefields, Nicaragua; (17) Puerto
+Cabezas, Nicaragua; (18) Puerto Lempira, Honduras; (19) Trujillo, Honduras; (20) Puerto Cortez,
+Honduras; (21) Puerto Barrios, Guatemala; (22) Belize City, Belize; (23) Isla de Cozumel, Mexico; and
+(24) Cancun, Mexico.  According to the application, the 8,400 km ARCOS-1 system, consisting of 74
+percent unrepeatered cables and 26 percent repeatered cables, will be a state-of-the-art wavelength division
+multiplexing (WDM) optically amplified fiber system.  The system will initially consist of six STM-16 (2.5
+Gbps) optical channels for a combined capacity of 15 Gbps with an equal restoration capacity.  The cable
+segments between Curacao; Venezuela; Colombia; Panama; Costa Rica; Nicaragua; Honduras;
+Guatemala; Belize; and Mexico as well as the cable segments between Hollywood, Florida; The Bahamas;
+Turks and Caicos Island; Dominican Republic; and Puerto Rico will consist of 12 fiber pairs that are
+unrepeatered in a festooned configuration.  The cable segment between Cancun, Mexico and Hollywood,
+Florida and the cable segment between San Juan, Puerto Rico and Willemstad, Curacao will consist of four
+fiber pairs that are repeatered.  The entire wetplant of the system is designed for a maximum available
+capacity of 640 Gbps and will function with totally duplicated terminal equipment (1 + 1) in a self-healing
+protective ring via fiber-path/line switching.
+
+                         III.  Comments
+
+     4.   The application was placed on public notice on January 6, 1999 (Report No. TEL-
+00051NS).  We received no comments.  Pursuant to Section 1.767(b) of the Commission's rules, the Cable
+Landing License Act, and Executive Order No. 10530, we informed the Department of State of the
+Application.  The Department of State, after coordinating with the National Telecommunications and
+Information Administration and the Department of Defense, stated that it has no objection to the issuance
+of the cable landing license.
+
+                        IV.  Discussion
+
+     A.   Private Submarine Cable Policy
+
+     5.   ARCOS proposes to operate ARCOS-1 as a non common carrier submarine cable system
+in which capacity will not be offered indifferently to the public.  ARCOS requests a license under the
+Commission's private submarine cable policy, which is intended to promote competition in the provision of
+international transmission facilities.  Pursuant to this policy, the Commission has authorized non common
+carrier cables where: (1) there is no legal compulsion to serve the public indifferently; and (2) there are no
+reasons implicit in the nature of the operations to expect that the applicant would make capacity available
+to the public indifferently and indiscriminately.
+
+     6.   In applying the first prong of the test to submarine cable authorizations, the Commission
+has stated that there will be no legal compulsion to serve the public indifferently where there is no public
+interest reason to require facilities to be offered on a common carrier basis.  This public interest analysis
+has generally focused on whether an applicant will be able to exercise market power because of the lack of
+alternative facilities.  Where there are sufficient alternatives, the Commission has found that the licensee
+will lack market power and will not be able to charge monopoly rates for cable capacity.  The Commission
+has found that, in those circumstances, the public interest would be served by allowing a submarine cable
+to be offered on a non-common carrier basis.
+
+     7.   No one has suggested that the public interest requires ARCOS-1 to be operated on a
+common carrier basis.  ARCOS is not affiliated with any foreign carriers on the foreign ends of the cable
+system and therefore does not control any bottleneck facilities in the markets ARCOS-1 proposes to serve. 
+No commenter has disputed this fact, and we find that, in light of all the circumstances, it would not serve
+the public interest to impose common carrier regulation on the operations of ARCOS-1 at this time.  We
+note, however, that we retain the authority to impose common carrier or common-carrier-like obligations on
+the operations of this or any other submarine cable system if the public interest so requires.  Furthermore,
+we have always maintained the authority to classify facilities as common carrier facilities subject to Title II
+of the Communications Act if the public interest requires that the facilities be offered to the public
+indifferently.
+     8.   Regarding the second prong of the test, we conclude that there is no reason to expect that
+capacity in the proposed cable system would be held out to the public indifferently and indiscriminately. 
+ARCOS states that capacity will not be sold indifferently to the user public.  ARCOS will make
+"individualized decisions, in particular cases, [on] whether and on what terms to deal;" it will not hold
+itself out indifferently to serve the user public.  We therefore conclude that ARCOS will operate ARCOS-1
+on a non-common carrier basis. 
+
+     9.   We conclude that ARCOS will not offer capacity in ARCOS-1 to the public on a common
+carrier basis and that the public interest does not require that it does so.  Accordingly, we conclude that it is
+appropriate to license ARCOS-1 on a non-common carrier basis.  We also find that the applicant will not
+provide a telecommunications service for a fee to such class of users as to be "effectively available directly
+to the public" and thus will not be a "telecommunications carrier" under the Telecommunications Act of
+1996.  
+B.   Ownership and Landing Points
+
+     10.  ARCOS has provided the ownership information required by Section 63.18(e)(6),
+1.767(a)(6), and Section 63.18(h) of the Commission's rules.  ARCOS seeks to own or control ARCOS-1,
+including the portion of the transmission facilities located in the United States.  However, ARCOS states
+that the cable landing stations in Hollywood, Florida, and San Juan, Puerto Rico, may be owned by
+ARCOS or by another licensed U.S. carrier, depending upon the availability of such facilities.  ARCOS's
+parent company, CEN-TA, currently maintains a 100 percent voting interest in ARCOS-1.  ARCOS
+anticipates that it will solicit U.S. and foreign carriers, including foreign incumbent carriers, and other
+investors to obtain ownership interests in ARCOS-1.  ARCOS will also offer bulk capacity to a specific
+class of eligible users, including common carriers, on an original ownership, IRU or lease of capacity basis. 
+ARCOS has stated that it will, through its parent company CEN-TA, continue to maintain at least 51
+percent ownership in ARCOS-1, maintaining ultimate de jure and de facto control of ARCOS-1.  In the
+event ARCOS successfully solicits other investors to obtain original ownership in the U.S. segment of
+ARCOS-1, prior to the consummation of the sale of any original ownership interest in the U.S. segment of
+the cable system, it must file an amendment to the cable landing license granted by this order to update the
+ownership and voting interest in the subject license.
+
+     11.  ARCOS has stated that it will comply with Section 1.767(a)(5) of the Commission's rules
+by providing specific information on the cable landing locations 90 days prior to commencing construction.
+We find the applicant's description of the likely landing points to be sufficient to determine that the
+proposed cable system will comply with the provisions of the Commission rules.  Section 1.767(a) of the
+Commission's rules permits applicants in an initial application to provide a general description of the
+landing points.  The applicant must file a specific description of any landing point, including a map, no
+later than 90 days prior to construction at that landing point.  The Commission will give public notice of
+the filing of the specific description, and grant of the license will be considered final with respect to that
+landing point unless the Commission notifies the applicants to the contrary no later than 60 days after
+receipt of the specific description of the landing point.
+
+     C.   Environmental Impact
+
+     12.  Based on the information provided by the applicant and pursuant to the Commission's
+procedures implementing the National Environmental Policy Act of 1969, we find that action on the
+present application would not significantly affect the environment according to Section 1.1307(a) or (b) of
+the Commission's rules.  Therefore, pursuant to Section 1.1306 of the Commission's rules, we conclude
+that grant of the requested license would not significantly affect the environment.  Consequently, ARCOS is
+not required to submit an environmental assessment, and this application is categorically excluded from
+environmental processing.  As stated above, however, we condition this license upon final approval of each
+landing point.  If necessary, we will address environmental impacts after the applicant specifically identifies
+the landing points.
+
+
+                          V.  Conclusion
+
+     13.  We grant ARCOS's application for authority to land and operate a non-common carrier
+fiber optic submarine cable extending between the United States mainland, The Bahamas, the Turks and
+Caicos Island, the Dominican Republic, Puerto Rico, Curacao, Venezuela, Colombia, Panama, Costa Rica,
+Nicaragua, Honduras, Guatemala, Belize and Mexico, subject to the conditions listed below.
+
+                      VI.  Ordering Clauses 
+
+     14.  Consistent with the foregoing and pursuant to the Cable Landing License Act and
+Executive Order 10530, we hereby GRANT AND ISSUE ARCOS-1 USA, INC. a license to land and
+operate a non common carrier fiber optic cable system  (initially consisting of six STM-16 (2.5 Gbps)
+optical channels for a combined capacity of 15 Gbps, with a maximum availability of 640 Gbps) extending
+between the United States mainland, The Bahamas, the Turks and Caicos Island, the Dominican Republic,
+Puerto Rico, Curacao, Venezuela, Colombia, Panama, Costa Rica, Nicaragua, Honduras, Guatemala,
+Belize and Mexico.  This grant is subject to all rules and regulations of the Commission; any treaties or
+conventions relating to communications to which the United States is or may hereafter become a party; any
+action by the Commission or the Congress of the United States rescinding, changing, modifying, or
+amending any rights accruing to any person hereunder; and the following conditions:
+
+          (1)  The location of the cable system within the territorial waters of the United States, its territories
+     and possessions, and upon its shore shall be in conformity with plans approved by the Secretary of
+     the Army, and the cable shall be moved or shifted by the Licensee at its expense upon the request
+     of the Secretary of the Army whenever he or she considers such course necessary in the public
+     interest, for reasons of national defense, or for the maintenance or improvement of harbors for
+     navigational purposes;
+
+          (2)  The Licensee shall at all times comply with any requirements of U.S. government authorities
+     regarding the location and concealment of the cable facilities, buildings, and apparatus for the
+     purpose of protecting and safeguarding the cable from injury or destruction by enemies of the
+     United States;
+
+          (3)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it do not enjoy and shall not acquire any right to handle traffic on a
+     common carrier basis to or from the United States, its territories, or its possessions unless such
+     service be authorized by the Commission pursuant to Section 214 of the Communications Act, as
+     amended;
+
+          (4)  The Licensee or any persons or companies controlling it, controlled by it, or under direct or
+     indirect common control with it shall not acquire or enjoy any right for the purpose of handling or
+     interchanging traffic to or from the United States, its territories, or its possessions to land, connect,
+     or operate cables or land lines, to construct or operate radio stations, or to interchange traffic, that
+     is denied to any other United States company by reason of any concession, contract, understanding,
+     or working arrangement to which the Licensee or any persons controlling it, controlled by it, or
+     under direct or indirect common control with it are parties;
+
+          (5)  Neither this license nor the rights granted herein shall be transferred, assigned, or in any
+     manner either voluntarily or involuntarily disposed of or disposed of indirectly by transfer of
+     control of the Licensee to any persons, unless the Commission shall give prior consent in writing;
+
+          (6) The Licensee shall notify the Commission in writing of the precise locations at which the cable
+     will land in the United States and in foreign countries.  Such notification with respect to any given
+     landing location shall occur no later than 90 days prior to commencing construction at that landing
+     location.  The Commission will give public notice of the filing of each description, and grant of this
+     license will be considered final with respect to that landing point unless the Commission issues a
+     notice to the contrary no later than 60 days after receipt of the specific description;
+
+          (7)  Pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35; Executive Order No.
+     10530, as amended; and Section 214 of the Communications Act of 1934, as amended, 47 U.S.C.
+      214, the Commission reserves the right to impose additional common carrier or common-carrier-
+     like regulation on the operations of the cable system if it finds that the public interest so requires;  
+
+          (8)  The Commission reserves the right to require the Licensee to file an environmental assessment
+     or environmental impact statement should it determine that the landing of the cable at those
+     locations and construction of necessary cable landing stations would significantly affect the
+     environment within the meaning of Section 1.1307 of the Commission's procedures implementing
+     the National Environmental Policy Act of 1969; this license is subject to modification by the
+     Commission upon its review of any environmental assessment or environmental impact statement
+     that it may require pursuant to its rules;
+
+          (9)  The Licensee shall maintain de jure and de facto control of the U.S. segment of the cable
+     system, including the cable landing stations in the United States, sufficient to comply with the
+     requirements of this license;  
+
+                    (10)  In the event the Licensee successfully solicits other investors to obtain original ownership
+     interests in the U.S. segment of the cable system, it shall file, prior to the consummation of the sale
+     of any original ownership interest in the U.S. segment of the cable system, an amendment to the
+     cable landing license granted by this order to update the ownership and voting interests in the
+     subject license;
+
+          (11)  This license is revocable by the Commission after due notice and opportunity for hearing
+     pursuant to Section 2 of the Cable Landing License Act, 47 U.S.C.  35, or for failure to comply
+     with the terms of the authorizations;
+
+          (12)  The Licensee shall notify the Commission in writing of the date on which the cable is placed
+     in service, and this license shall expire 25 years from such date, unless renewed or extended upon
+     proper application, and, upon expiration of this license, all rights granted under it shall be
+     terminated; and
+
+          (13)  The terms and conditions upon which this license is given shall be accepted by the Licensee
+     by filing a letter with the Secretary, Federal Communications Commission, Washington, D.C.
+     20554, within 30 days of the release of the cable landing license.
+
+     15.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for review
+under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30 days of
+the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+
+
+                              Rebecca Arbogast
+                              Chief, Telecommunications Division
+                              International Bureau

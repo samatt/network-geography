@@ -1,0 +1,459 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+TELEFONICA LARGA DISTANCIA DE   )            
+PUERTO RICO, INC.               )                 
+                                )
+Review of Nondiscrimination Safeguards)      File Nos. I-T-C-92-116-AL
+Imposed                         )
+                                )
+Application for Submarine Cable Landing )                   S-C-L-93-001
+License for the COLUMBUS II     )
+Cable System                    )
+                                )
+Section 214 Application to Provide Service)                 I-T-C-93-029
+to Spain on the COLUMBUS II     )
+Cable System.                   )
+                                 
+                  MEMORANDUM OPINION AND ORDER
+
+
+   Adopted:  April 8, 1997              Released:  May 2, 1997
+
+By the Commission:
+
+                        Table of Contents
+                                                       Paragraphs
+
+I.   INTRODUCTION                                           1
+II.  BACKGROUND
+     A.   Nondiscrimination Safeguards Imposed on TLD                 3
+     B.   Submarine Cable Landing License Application                 7
+III. DISCUSSION
+     A.   Nondiscrimination Safeguards Imposed on TLD                 15
+     B.   Submarine Cable Landing License Application                 23
+     C.   Section 214 Application for Service to Spain                34
+IV.  ORDERING CLAUSES                                       40
+
+                         I.  INTRODUCTION
+
+     1.   In this Order, we review the nondiscrimination safeguards we imposed on
+Telefonica Larga Distancia de Puerto Rico, Inc. ("TLD") at the time we authorized Telefonica de
+Espa¤a, S.A. ("Telefonica de Espa¤a") to enter the U.S. market through the control of TLD.  In
+our initial Order authorizing Telefonica de Espa¤a's acquisition of TLD, we committed to review
+the nondiscrimination safeguards to ensure their effectiveness.  We find that the safeguards have
+been both adequate and necessary to guard against any unfair competitive advantages TLD might
+have through its affiliation with Telefonica de Espa¤a.  Therefore, we do not amend these
+safeguards.  
+
+     2.   We also consider in this Order TLD's pending applications to acquire ownership
+interests in the COLUMBUS II Cable System ("COLUMBUS II") and for Section 214 authority
+to provide service to Spain on COLUMBUS II.  We find that U.S. carriers are denied effective
+competitive opportunities to have ownership interests in cable facilities landing in Spain and to
+operate as facilities-based international service providers in Spain and therefore deny TLD's
+applications.
+
+                         II.  BACKGROUND
+
+     A.  Nondiscrimination Safeguards Imposed on TLD
+
+     3.   In 1992, the Commission authorized Telefonica Larga Distancia de Puerto Rico
+("Former TLD") to assign its international Section 214 authorizations and submarine cable
+landing license interests to LD Acquisition Corporation ("LD"), which was affiliated with
+Telefonica de Espa¤a, the monopoly provider of domestic and international communications
+services in Spain.  Upon completion of the transaction, LD changed its name to Telefonica
+Larga Distancia de Puerto Rico, Inc., which now provides facilities-based international switched
+services pursuant to Section 214 and the Submarine Cable Landing License Act. 
+
+     4.   At the time of the transfer, TLD acquired limited Section 214 authorization to
+provide service to several foreign points, including Spain, from Puerto Rico and the U.S. Virgin
+Islands.  Such authorization to Spain involved the leasing of satellite capacity and the leasing of
+eight circuits on the COLUMBUS I Cable System ("COLUMBUS I") from CANTV
+(Venezuela).  TLD also acquired ownership interests in the TCS-1 and TAINO-CARIB
+submarine cables, neither of which interconnected with cables under Spanish control or landing
+in Spain.
+
+     5.   In our initial Order we determined that the public interest would be served by
+allowing Telefonica de Espa¤a, subject to certain nondiscrimination safeguards, to enter the U.S.
+market.  Specifically, under the original TLD Order, TLD was required to: (1) seek additional
+Section 214 authority before adding or deleting circuits to certified points, or otherwise using the
+circuits listed in the initial Order in a manner other than specified originally; (2) file quarterly
+reports of revenue, number of messages, and number of minutes of both originating and
+terminating traffic for all international services between the United States and each country TLD
+is authorized to serve; (3) file cost support with its tariffs, which became effective on 45 days
+notice; (4) provide to competing U.S. carriers access on nondiscriminatory rates, terms and
+conditions to channels and communications circuits that may be made available by or to TLD;
+(5) not accept special concessions directly or indirectly from any foreign carrier or administration
+with respect to traffic or revenue flows between the United States and any country; (6) not route
+traffic to or from third countries for which it does not have authorization under Section 214; (7)
+not bargain for or agree to accept more than its proportionate share of return traffic from any
+country; (8) settle its international accounts in accordance with the nondiscriminatory accounting
+rate it is required to file with the Commission; (8) comply with any current and future
+Commission policies and requirements concerning international accounting and settlement rates;
+(9) file copies of any operating agreements entered into by TLD or its parent or affiliates that
+affect traffic or revenue flows to or from the United States within 30 days of its execution; and
+(10) operate as a separate corporate entity from Telefonica de Espa¤a and other affiliated foreign
+carriers, with separate books of account which are subject to audit by the Commission.
+
+     6.   To ensure that the nondiscrimination safeguards remained tailored to effectively
+protect against the potential for abuse of market power by TLD or its affiliate, we committed to
+review our approach and adjust the nondiscrimination safeguards as necessary.
+
+     B.  Submarine Cable Landing License Application
+
+     7.   On November 10, 1992, eight U.S. carriers, including TLD's predecessor, LD,
+filed joint Section 214 and submarine cable landing license applications for authority to construct
+and operate the COLUMBUS II and AMERICAS-1 Cable Systems.  The joint applications were
+placed on public notice on November 18, 1992.  On March 12, 1993, AT&T filed a letter
+requesting the Commission to bifurcate the proceeding and consider TLD's ownership interest
+apart from the other joint applicants.  TLD opposed AT&T's request, and AT&T responded.  On
+May 7, 1993, the Commission, in a Public Notice, requested additional comments on AT&T's
+request.  MCI International, Inc. ("MCII") and TLD filed comments, and AT&T and TLD filed
+reply comments.  
+
+     8.   In its pleadings, AT&T argued that TLD's acquisition by Telefonica de Espa¤a
+presented complex and novel issues that require careful analysis, such as unfair and unequal
+international market access, potential market abuse by a foreign monopoly carrier, self-
+correspondency, above-cost accounting rates, and violation of reciprocity requirements of the
+Cable Landing License Act.  AT&T also argued that granting the applications other than TLD's
+would avoid the risk of increases in the cable systems' costs that would accompany any delay.  
+
+     9.   MCII argued that if the Commission were to review the regulatory conditions
+imposed by the TLD Order or reciprocity issues such matters should be addressed in a separate
+proceeding.  In response to both AT&T and MCII, TLD stated that bifurcation is unnecessary
+and would harm TLD in relation to its competitors.  
+
+     10.  On June 30, 1993, pursuant to the Cable Landing License Act and accompanying
+Executive Order, the State Department after coordination with the Department of Defense
+("DoD") and the Department of Commerce's National Telecommunications and Information
+Administration ("NTIA"), stated that it approved TLD's ownership interests in COLUMBUS II
+and AMERICAS-1 cables on the condition that the Commission defer action on TLD's portions
+of the cable system designated for service to Spain and related Section 214 authority for
+providing service to Spain, pending further review by the State Department and the
+Commission.  
+
+     11.  The Common Carrier Bureau found that TLD's proposed ownership interest did
+raise complex and novel issues that required further Commission consideration.  Thus, on July
+26 and 28, 1993, the Common Carrier Bureau approved the Joint Applications for these cable
+systems for seven U.S. carriers but deferred action on TLD's application pending a determination
+by the full Commission. 
+
+     12.  In response to the Common Carrier Bureau's findings, TLD filed an Application
+for Review requesting that the Commission quickly grant its cable applications.  AT&T opposed
+TLD's application for review on the grounds that it was procedurally defective.  AT&T also
+argued that grant of additional facilities to TLD would not serve the public interest because
+Telefonica de Espa¤a, through TLD, would continue to receive more favorable treatment for
+providing service to U.S. customers than U.S. carriers are afforded in attempting to offer service
+to Spanish customers. AT&T contended that the nondiscrimination safeguards imposed in the
+TLD Order do not address this issue.  AT&T argued that the Commission must require Spain to
+provide comparable market access to U.S. carriers before granting TLD authority to participate in
+the COLUMBUS II and AMERICAS-1 cables.
+
+     13.  On April, 20, 1994, TLD filed a motion for expedited consideration of its cable
+applications, stating that the AMERICAS-1 and COLUMBUS II cables were scheduled to begin
+operation on September 1, 1994, and December 1, 1994, respectively and TLD needed a prompt
+grant of its applications to avoid irreparable harm.  AT&T supported TLD's request for prompt
+action, but reiterated its request that the Commission deny TLD's applications for the
+COLUMBUS II and AMERICAS-1 Cable Systems.  On June 27, 1994, in reply to AT&T, TLD
+submitted additional comments, including an economic analysis and letters from its customers, to
+support its position that grant of TLD's applications would greatly benefit both TLD and the
+residents of Puerto Rico.  
+
+     14.  On August 8, 1994, the Commission granted TLD's request for authority to
+participate in the construction, acquisition of capacity in, and operation of  COLUMBUS II, but
+deferred ruling on TLD's request for authority to acquire capacity in COLUMBUS II for service
+to Spain until the views of the State Department were received.  The Commission concluded
+that TLD's Application for Review was properly before it and found that the public interest
+would be served by granting all of the applications, except for TLD's cable facilities to Spain. 
+The Commission rejected AT&T's argument that the Cable Landing License Act required a
+reciprocity determination in this instance because, except for the service to Spain, TLD's
+participation in the cables was a limited expansion of its authority granted in the TLD Order and
+is fully subject to the safeguards established in that order.  
+
+                         III.  DISCUSSION
+
+     A.  Nondiscrimination Safeguards Imposed on TLD
+
+     15.  The primary issue presented in the TLD Order was whether the public interest
+would be served by approving Telefonica de Espa¤a's acquisition of LD.  Our public interest
+analysis in the TLD Order focused mainly on the issue of whether LD's foreign carrier affiliation
+made it possible for LD to engage in anticompetitive conduct that could cause harm to other U.S.
+carriers.  
+
+     16.  In granting the original applications, we concluded that properly designed
+safeguards could protect against TLD acting in concert with Telefonica de Espa¤a or any other
+foreign carrier to discriminate against U.S. carriers in the terms and conditions of access to
+foreign markets for the origination and termination of U.S. international traffic.  With regard to
+TLD's service to Spain, we determined that the facilities-based authorizations we approved to
+Spain were very limited and unlikely to serve as a vehicle for anticompetitive conduct. 
+Moreover, we stated that the potential for anticompetitive harm to U.S. carriers was mitigated by
+the underlying facts surrounding the assignment application (i.e., a limited number of circuits
+were involved, traffic would originate only from Puerto Rico and the U.S. Virgin Islands, and no
+interconnected private line service would be involved).  Other unique public interest factors also
+were critical to the decision such as the privatization of LD and the allocation of the proceeds of
+the sale of TLD to education reform in Puerto Rico.
+
+     17.  Subsequent to the initial TLD authorization in 1992, we adopted U.S. market
+entry rules and safeguards in the Foreign Carrier Entry Order that are consistent with our
+original TLD Order.  In the Foreign Carrier Entry Order, we determined that we will examine
+whether effective competitive opportunities ("ECO") exist for U.S. carriers in the destination
+markets of foreign carriers with market power seeking to enter the U.S. international services
+market under Section 214.  Under our ECO analysis for facilities-based entry, we examine first
+the legal or de jure ability of U.S. carriers to enter the destination foreign country and provide
+international facilities based service.  Next, we focus on the actual or de facto conditions of
+entry, including the terms and conditions of interconnection, competitive safeguards, and the
+regulatory framework.  We focus on the overall effect of these four elements on the opportunities
+for viable operation as a facilities-based carrier in the foreign market.  
+
+     18.  If a carrier is not affiliated with a foreign carrier with market power we will not
+conduct an ECO analysis because such carriers lack the ability to discriminate against
+unaffiliated U.S. carriers.  We also stated in the Foreign Carrier Entry Order that we will
+continue to consider other public interest factors that may weigh in favor of, or against, granting
+the application.  These factors include the general significance of the proposed entry to the
+promotion of competition in the U.S. communications market, any national security, law
+enforcement, foreign policy, or trade concerns raised by the Executive Branch, and the presence
+of cost-based accounting rates.  Thus, even if an affiliated market does not pass the ECO
+analysis, other countervailing reasons may exist for the Commission to grant an application. 
+
+     19.  In the Foreign Carrier Entry Order we also delineated and modified the
+safeguards we impose on foreign-affiliated carriers once we allow them to enter our markets. 
+Those modifications are consistent with the safeguards we imposed on TLD in 1992.  We note,
+however, two changes that we made in the Foreign Carrier Entry Order that impact our
+regulation of TLD.  TLD is subject to these regulatory requirements because, among other
+things, they were adopted in a proceeding of general applicability.  First, in the Foreign Carrier
+Entry Order we made changes in the tariffing requirements for foreign-affiliated carriers that
+supersede the original tariffing requirements imposed on TLD.  In the original TLD Order we
+required TLD to file cost support with its tariffs with those tariffs becoming effective on 45 days
+notice.  In the Foreign Carrier Entry Order we found that the benefits derived from requiring
+dominant foreign-affiliated carriers to file cost support with their tariffs are as a general rule
+outweighed by the burden imposed by this filing requirement.  Moreover, competition in the
+market for international services is a better constraint on unreasonable prices than our review of a
+foreign carrier's cost support showing.  In addition, we found that a 14-day notice period, as
+opposed to a 45-day notice period, is sufficient to permit interested parties and the Commission
+to assess the lawfulness of any filed tariffs.  Thus, as of the effective date of the Foreign
+Carrier Entry Order, on those routes where TLD is regulated as dominant it was no longer
+required to file cost support with its tariffs, and TLD's notice period for those routes was
+shortened from 45 to 14 days.
+
+     20.  Second, in the Foreign Carrier Entry Order we adopted a new requirement that
+all foreign-affiliated carriers maintain complete records of the provisioning and maintenance of
+network facilities and services they procure from a foreign carrier affiliate.  We found this
+requirement would constitute a minor burden and would be useful to the Commission in
+guarding against improper discrimination.  TLD, as a foreign-affiliated carrier, is now subject to
+this recordkeeping requirement on dominant routes.   
+
+     21.  To date, there have been no formal complaints filed by U.S. carriers alleging that
+TLD has engaged in anticompetitive behavior to the detriment of unaffiliated U.S. carriers on
+these authorized routes.  These safeguards, therefore, appear to have been both adequate and
+necessary to guard against any unfair competitive advantages TLD might have through its
+affiliation with Telefonica de Espa¤a.  Moreover, with the two modifications discussed above,
+the original TLD Order's safeguards are consistent with the safeguards we imposed in our
+Foreign Carrier Entry Order.  Thus, we find that the nondiscrimination safeguards we imposed
+on the original TLD applications do not need to be further modified at this time.    
+
+     22.  We are, however, quite concerned about the persistence of high accounting rates
+maintained by Telefonica de Espa¤a in Spain and its affiliates in Latin America.  The
+Commission has long supported cost-based, nondiscriminatory and transparent settlement rates
+for communications services between the United States and other countries.  As of April 1,
+1997, Spain's settlement rate with U.S. carriers for international message telephone service is
+0.22 SDR (30.5›).  In comparison, Germany's rate is 0.08 SDR (11.0›) and Sweden's rate is 0.06
+SDR (8.5›).  Thus, Spain's rate is approximately 175 percent higher than Germany's rate and
+262 percent higher than Sweden's rate.  The rates of Telefonica de Espa¤a's affiliates in Latin
+America are also high.  For example, the rate to Argentina is 46.0› and the rate to Peru is 60.0›. 
+In comparison, the current benchmark settlement range in Latin America is $.39-$.60.  Given
+these high accounting rates, we find that, if, in the future we adopt accounting rate conditions in a
+proceeding of general applicability, TLD could be subject to such conditions.
+
+     B.  Submarine Cable Landing License Application
+
+     23.  The Cable Landing License Act gives the President of the United States broad
+discretion to grant, withhold, condition or revoke cable landing licenses if the President
+determines "after due notice and hearing that such action will assist in securing rights for the
+landing or operation of cables in foreign countries or of maintaining the rights or interests of the
+United States or of its citizens in foreign countries . . . or will promote the security of the United
+States, or may grant such license upon such terms as shall be necessary to assure just and
+reasonable rates and service in the operation and use of cables so licensed . . . ."  By Executive
+Order, the Commission has been delegated the actual responsibility for issuing cable landing
+licenses.  This delegated authority is subject to the proviso, however, that "no such license shall
+be granted or revoked by the Commission except after obtaining approval of the Secretary of
+State and such advice from any executive department or establishment of the Government as the
+Commission may deem necessary."    
+
+     24.  The State Department, after coordinating with DoD, NTIA, and the Office of U.S.
+Trade Representative sent a letter stating that TLD's application requesting ownership interests in
+the COLUMBUS II cable designated for service to Spain should not be granted at this time. 
+Pursuant to the Cable Landing License Act, the State Department determined that such a grant
+"would give Telefonica de Espa¤a ownership interests at both ends of the cable, with monopoly
+control at the Spanish end.  In this situation, grant of the applications would be inconsistent with
+the rights and interests of U.S. companies that desire to compete in the Spanish
+telecommunications market."  The State Department also stated, however, that "[a]t such time as
+U.S. companies are permitted to land, own, and operate submarine cable facilities for the purpose
+of providing basic telecommunications service in Spain, the Department would be willing to
+reconsider the issue." 
+  
+     25.  We agree that this application should not be granted at this time.  As stated above,
+the Commission has been delegated the authority under the Cable Landing License Act to issue
+cable landing licenses.  In analyzing applications under the Cable Landing License Act, we
+consider whether granting a license will assist in securing the rights for U.S. companies to land
+or operate cables in foreign countries.
+
+     26.  In the Foreign Carrier Entry Order, we explained that as part of our public
+interest analysis under Section 214 of the Communications Act of 1934, as amended ("Act") we
+examine whether effective competitive opportunities exist for U.S. carriers to provide like
+services in the destination markets of foreign carriers seeking to enter the U.S. international
+services market through certain affiliations with a new or existing U.S. carrier.  Similarly, in
+deciding whether it is in the public interest to permit foreign investment in licensees of common
+carrier radio facilities in excess of the 25 percent benchmark contained in Section 310(b)(4) of
+Act, we examine whether the foreign country offers effective competitive opportunities to U.S.
+entities to acquire similar ownership interests in like radio facilities licensees.  In the Foreign
+Carrier Entry Order we did not address our market entry rules for applications under the Cable
+Landing License Act.  This order, however, gives us the opportunity to explain our historical
+approach to those types of applications, and how it relates to the effective competitive
+opportunities analysis adopted in the Foreign Carrier Entry Order.
+
+     27.  One of our goals in adopting our approach in the Foreign Carrier Entry Orderwas to promote effective competition in the U.S. telecommunications market by encouraging
+foreign governments to open their telecommunications markets.  Similarly, as outlined in the
+FTCC Order, one of Congress's purposes in enacting Section 2 of the Cable Landing License Act
+was to ensure that U.S. companies could have ownership and operation rights in the foreign
+country in the same manner as requested by the foreign company.  Thus, we have applied on a
+case-by-case basis an analysis similar to an effective competitive opportunities analysis to
+applications under the Cable Landing License Act.  We emphasize, however, that our analysis as
+it applies to applications under the Cable Landing License Act is similar but not identical to our
+analysis under Sections 214 and 310(b)(4) of the Act.   
+
+     28.  In examining the application of a foreign carrier or its affiliates to land and
+operate a submarine cable system under the Cable Landing License Act, we determine whether
+the applicant or its affiliate has market power in the destination market of the relevant cable. 
+The Foreign Carrier Entry Order defines "market power" as "the ability of the carrier to act
+anticompetitively against unaffiliated U.S. carriers through the control of bottleneck services or
+facilities on the foreign end."  "Bottleneck services or facilities" are "those that are necessary for
+the provision of international services, including inter-city or local access facilities on the foreign
+end." 
+
+     29.  If we determine that an applicant does have market power in the destination
+market, we examine the legal, or de jure, ability of U.S. carriers to have ownership interests in
+submarine cables landing in that market.  If no explicit legal restrictions on ownership exist, we
+will examine other factors to determine whether U.S. carriers have the practical or de factoability to have ownership interests in cable facilities in the destination market(s).  
+
+     30.  Finally, we will determine whether there are other factors that weigh in favor of,
+or against, granting this application under the Cable Landing License Act.  We will make this
+determination whether or not the applicant or its affiliate has market power in the destination
+market of the relevant cable.
+
+     31.  TLD, which is affiliated with Telefonica de Espa¤a, is applying to have ownership
+interests as a licensee in a submarine cable landing in both the United States and its home
+market, Spain.  The ownership interests consist of three minimum investment units ("MIUs")
+from the United States to Spain to be jointly owned with Telefonica de Espa¤a.   
+
+     32.  As discussed above, at present, U.S. carriers are forbidden from having ownership
+interests in the Spanish end of international submarine cable systems.  If we grant this
+application, Telefonica de Espa¤a, through its control of TLD, will have ownership interests at
+both ends of the cable with monopoly control at the Spanish end.  No equivalent rights exist for
+U.S. carriers to have ownership interests in submarine cables in Spain.  The Spanish market,
+therefore, does not pass the first prong of our analysis that looks at the legal, or de jure, ability of
+U.S. carriers to have ownership interests in submarine cables landing in Spain. 
+
+     33.  Even though the Spanish market does not pass the first prong of our analysis, we
+will examine whether other countervailing reasons exist for us to grant this application.  In its
+comments, TLD argued, among other things, that Puerto Rican consumers could enjoy
+considerable public interest benefits, including economic benefits, if TLD were to gain access to
+new facilities such as COLUMBUS II.  We do not believe that TLD has demonstrated that its
+ownership in COLUMBUS II facilities serving Spain, a single destination point of the cable,
+would yield significant economic benefits to Puerto Rican consumers that would outweigh our
+concerns about the lack of effective competitive opportunities for U.S. carriers to have ownership
+and operation rights in the Spanish market.  Therefore, we do not find sufficient countervailing
+reasons for us to grant this application. 
+
+     C.  Section 214 Application for Service to Spain
+
+     34.  In addition to applying for a submarine cable landing license TLD also proposes
+to provide service between the United States and Spain.  Therefore, under Section 214 we will
+examine this application in light of our ruling in the Foreign Carrier Entry Order.  
+
+     35.  As an initial matter, we note that in the Foreign Carrier Entry Order we stated
+that, although the analysis we adopted would not apply to existing Section 214 authorizations to
+provide international service held by foreign-affiliated carriers, all such carriers would have their
+future or pending applications subject to the standards adopted in the Foreign Carrier Entry
+Order.  Because TLD's Section 214 application was pending at the time of our ruling in the
+Foreign Carrier Entry Order, TLD's application is now subject to the analysis adopted in the
+Foreign Carrier Entry Order.
+
+     36.  In performing our ECO analysis on TLD's Section 214 application, we must
+examine the legal, or de jure, ability of U.S. carriers to offer international message telephone
+service ("IMTS") in Spain.  If no explicit legal restrictions on entry exist, we must examine the
+other factors of the ECO analysis to determine whether carriers have the practical or de factoability to enter.  Finally, we must determine whether there are other public interest factors that
+weigh in favor of, or against, granting the application.  
+
+     37.  At present, U.S. carriers are barred from providing IMTS service to Spanish
+customers.  If we were to grant this application Telefonica de Espa¤a would be permitted to
+provide service to U.S. customers using this facility.  No equivalent right exists for U.S. carriers
+to enter the communications market in Spain.  The Spanish market, therefore, does not pass the
+first prong of our ECO analysis that looks at the legal, or de jure, ability of U.S. carriers to enter
+the foreign market.
+  
+     38.  Even though the Spanish market does not pass our ECO analysis, under the
+analysis adopted in the Foreign Carrier Entry Order we must determine whether other
+countervailing reasons exist for us to grant this application.  As stated above, TLD has argued
+that granting this application would serve the public interest.  We find, however, that our
+concerns about the inability of U.S. carriers to enter the communications market in Spain
+outweigh the potential public interest benefits from granting this application.
+
+     39.  We are also very concerned about Telefonica de Espa¤a's high accounting rates
+for traffic between the United States and Spain.  As discussed above, these rates are much higher
+than other European countries' rates.  In addition, Telefonica de Espa¤a's affiliates' rates to the
+United States are also quite high.  We declined in the Foreign Carrier Entry Order to make
+cost-based accounting rates a precondition to entry.  Instead, we determined that we would
+consider the presence of cost-based accounting rates as part of our overall public interest
+analysis.  Accordingly, we view the above-cost accounting rate of Telefonica de Espa¤a as
+another negative factor in our overall public interest analysis.  Therefore, under our Section 214
+public interest analysis, we deny TLD's Section 214 application to provide service to Spain using
+circuits on COLUMBUS II.  
+                      IV.  ORDERING CLAUSES
+
+     40.  IT IS ORDERED that File No.  S-C-L-93-001 for TLD's proposed ownership
+interests in the COLUMBUS II Cable System for circuits to Spain is DENIED pursuant to the
+Submarine Cable Landing License Act, 47 U.S.C.  34-39 (1994) and Executive Order 10530,
+reprinted as amended in 3 U.S.C.A.  301 at 1052 (1985).
+
+     41.  IT IS FURTHER ORDERED that File No. I-T-C-93-029 for TLD's proposed
+Section 214 authorization for service to Spain on the COLUMBUS II Cable System is DENIED
+pursuant to the Communications Act of 1934, as amended, 47 U.S.C.  214.
+
+     42.  IT IS FURTHER ORDERED that any payments that TLD has made with regard
+to the capacity held in reserve for TLD in the COLUMBUS II Cable System for service to Spain
+shall be refunded to TLD with interest, and without financial penalties as provided in Telefonica
+Larga Distancia de Puerto Rico, Inc., 9 FCC Rcd 4041 at  25 (1994).
+
+
+                              FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+                              William F. Caton
+                              Acting Secretary

@@ -1,0 +1,866 @@
+                    
+
+
+
+
+
+                         NOTICE
+
+
+*************************************************************************
+             
+
+                         NOTICE
+
+
+*************************************************************************
+
+This document was originally prepared in Word Perfect.  
+
+If the original document contained--
+
+                    *  Footnotes
+                    *  Boldface & Italics
+
+--this information  is missing in this version
+
+The document format (spacing, margins, tabs, etc.) is changed too.
+
+If you need the complete document, download the Word Perfect version.
+
+For information about downloading documents (FTP) see file pnmc5021.
+
+File  pnmc5021 (.txt & .wp) is in directory \pub\Public_Notices\Miscellaneous.
+
+*************************************************************************
+     DA 96-0718
+
+                                Before the
+                     FEDERAL COMMUNICATIONS COMMISSION
+                          Washington, D.C. 20554
+
+In the Matter of)
+     )          
+AT&T SUBMARINE SYSTEMS, INC.     )
+     )
+Application for a License to Land and  )     File No. S-C-L-94-006
+Operate a Digital Submarine Cable System          )     
+Between St. Thomas and St. Croix in the           )
+U.S. Virgin Islands   )
+
+
+                          CABLE LANDING LICENSE  
+
+     Adopted:  May 8, 1996       Released:  May 8, 1996
+
+By the Chief, International Bureau:
+
+                             I.  Introduction
+
+     1.    In this Order, we grant the application of AT&T Submarine Systems, Inc.
+(AT&T-SSI) under the Cable Landing License Act for authority to land and operate a digital
+submarine cable system extending between St. Thomas and St. Croix in the U.S. Virgin
+Islands (St. Thomas-St. Croix system) on a non-common carrier basis.  We reject the
+contentions of Telefonica Larga Distancia de Puerto Rico, Inc. (TLD) and Virgin Islands
+Telephone Corporation (Vitelco) that AT&T-SSI must operate the cable system on a common
+carrier basis.
+
+     2.    We find that AT&T-SSI is not a "telecommunications carrier" under the
+Telecommunications Act of 1996 (1996 Act), and thus is not subject to the requirements
+imposed by the 1996 Act on such entities.  We also find that AT&T-SSI should not be
+required to operate the proposed cable facility on a common carrier basis under NARUC I. 
+There are alternative routes available to carriers such as TLD and Vitelco operating in the
+facilities markets AT&T-SSI seeks to serve, and thus the proposed system will not be a
+bottleneck facility.  Moreover, although the new cable will serve the public interest by
+enhancing route diversity and restoration functions for other cables in the region and
+establishing another Caribbean cable landing site at St. Croix, these functions do not mandate
+common carrier treatment of the facility.  In addition, AT&T-SSI will not in fact offer
+capacity on a common carrier basis.  Accordingly, we grant AT&T-SSI's application.  We
+retain, however, the right to change the regulatory status of the cable system to common
+carrier should conditions change in the future.
+
+                             II.  Application
+
+     3.    AT&T-SSI is a wholly-owned subsidiary of AT&T Corp. (AT&T), a common
+carrier.  AT&T-SSI, which is not a common carrier, proposes to land and operate the St.
+Thomas-St. Croix cable system as a non-common carrier system in which bulk capacity would
+be made available to purchasers on an indefeasible right of user (IRU) basis.    
+
+     4.    The proposed cable system would extend from a landing point at the existing
+cable station at St. Thomas, a major international cable landing site, to a new cable station at
+St. Croix.  It will be connected to facilities that will provide access to the domestic networks
+on the U.S. mainland.  In addition, the St. Thomas-St. Croix cable system would be extended
+by other facilities to the terminals of other international communications systems, including 
+cable terminals and satellite earth stations.  The proposed cable system would be used for
+services between and among St. Thomas, St. Croix and points beyond.
+
+     5.    AT&T-SSI states that the St. Thomas-St. Croix cable system is planned to
+accommodate future traffic growth, diversity and enhanced restoration capabilities. 
+According to AT&T-SSI, the existing St. Thomas cable station has reached its capacity and
+cannot physically accommodate future international cable systems.  AT&T-SSI states that the
+proposed cable system would provide a "virtual node" in St. Croix that would, in effect,
+expand the capacity of the existing St. Thomas cable station and provide a viable alternative
+point for interconnection with future international cable systems in the Caribbean region. 
+This system, AT&T-SSI asserts, also could be used by authorized carriers to provide
+alternative routing of inter-island traffic within the U.S. Virgin Islands.
+  
+      6.    In addition, AT&T-SSI asserts that the St. Thomas-St. Croix cable system
+would fulfill the needs of customers to purchase capacity in cable systems on an "as needed"
+basis, rather than on the traditional basis of paying all capital costs for long-term capacity
+needs at the outset.  AT&T-SSI states that it will offer IRU capacity to all carriers at then-
+current market prices, and on the same terms and conditions.  AT&T-SSI states that its
+common carrier affiliate does not now have any plans to use the proposed system. 
+
+      7.    Finally, AT&T-SSI states that, as a non-common carrier, it does not want to
+own and operate common carrier cables.  It asserts that, if the Commission were to require
+common carrier operation of the cable system, AT&T-SSI would not build the proposed cable
+system at all.    
+
+     8.    Vitelco, a provider of local exchange and interexchange services in the U.S.
+Virgin Islands, and TLD, an interexchange services provider in the U.S. Virgin Islands-Puerto
+Rico market, filed petitions to deny AT&T-SSI's application.  AT&T-SSI filed an opposition
+to the petitions, to which Vitelco and TLD replied.  On January 31, 1995, Vitelco filed a
+petition for declaratory ruling that the proposed facility should be operated on a common
+carrier basis.  AT&T-SSI filed an opposition to the petition.  Following a conference with
+Bureau staff, AT&T-SSI, TLD and Vitelco each filed supplemental comments and replies.    
+
+      9.    On April 6, 1995 at AT&T-SSI's request, the Bureau Chief met with all of the
+parties to consider additional factual information.  The next day, the Bureau sent a letter to
+the parties requesting additional written comments regarding issues relating to whether AT&T
+has the ability to unilaterally determine international cable landing points and whether other
+cables and stations provide viable, economic alternatives to the St. Croix cable and station. 
+Each of the parties filed a second set of supplemental comments in response.          
+
+      10.   On February 8, 1996, Congress enacted the 1996 Act.  Shortly thereafter, TLD
+filed a motion to accept supplemental comments regarding the effect of the 1996 Act on this
+proceeding.  In its third set of supplemental comments, TLD argues that the 1996 Act
+includes a new statutory definition of common carrier which requires that the proposed cable
+system be operated on a common carrier basis.  AT&T-SSI filed an opposition to TLD's
+motion and third set of supplemental comments, to which TLD replied.   
+
+      11.   Pursuant to our obligations under 47 U.S.C. Sections 34-39 and Executive
+Order No. 10530 (May 10, 1954), we informed the Department of State of AT&T-SSI's
+application.  The Department of State, in coordination with the National Telecommunications
+and Information Administration and the Defense Information Systems Agency, replied that it
+supports grant of the application.  
+
+                             III.  Discussion
+
+      12.   AT&T-SSI requests a license to land and operate a non-common carrier
+submarine cable system under the Cable Landing License Act and the Commission's private
+submarine cable policy.  In 1985, the Commission adopted its private submarine cable
+policy to promote competition in the provision of international transmission facilities.  The
+Commission has granted a number of licenses to land and operate private cable systems in the
+United States under this policy.     
+
+      13.   Since AT&T-SSI filed its application and the parties submitted their pleadings,
+the 1996 Act was enacted.  The 1996 Act amends the Communications Act of 1934 and
+imposes certain obligations, including the duty to interconnect with the facilities and
+equipment of other telecommunications carriers, on entities defined to be a
+"telecommunications carrier."  We thus first consider below whether AT&T-SSI falls within
+the definition of a "telecommunications carrier" under the 1996 Act in landing and operating
+the proposed cable system.  We find that AT&T-SSI is not a "telecommunications carrier"
+under the 1996 Act for purposes of this proceeding.   
+
+      14.   In their pleadings, TLD and Vitelco analyze AT&T-SSI's application by
+applying the NARUC I standard, which we traditionally have used to determine whether a
+proposed facility should be authorized to operate on a non-common carrier basis or should be
+classified as a common carrier system.  In the NARUC I decision, the court applied a two-part
+test to determine when an operation should be classified as common carrier:  "We must
+inquire, first, whether there will be any legal compulsion . . . to serve [the public]
+indifferently, and if not, second, whether there are reasons, implicit in the nature of . . . [the]
+operations to expect an indifferent holding out to the eligible user public."
+
+      15.   The Commission has not yet addressed the issue of how, if at all, the 1996
+Act's introduction of the concept of a "telecommunications carrier" affects the applicability of
+NARUC I standard, which traditionally has been used by the Commission to determine
+whether an entity is a "common carrier" subject to Title II regulation.  We need not decide
+the issue here, however, because even assuming NARUC I still applies, we find that, in
+analyzing both parts of the NARUC I standard, the AT&T-SSI system may be authorized as a
+non-common carrier system.  
+
+A.   The Telecommunications Act of 1996
+
+     16.   In its supplemental comments, TLD argues that the 1996 Act includes a new
+statutory definition of common carrier.  TLD notes that the 1996 Act defines
+"telecommunications carrier" as "any provider of telecommunications services. . . .  A
+telecommunications carrier shall be treated as a common carrier under this Act only to the
+extent that it is engaged in providing telecommunications services. . . ."  
+"Telecommunications services" is defined as "the offering of telecommunications for a fee
+directly to the public, or to such classes of users as to be effectively available directly to the
+public, regardless of the facilities used." 
+
+     17.   TLD argues that AT&T-SSI has made clear that the users of the proposed
+system will be at least one, and possibly more, common carrier consortia.  The U.S. common
+carriers in these consortia are required to serve the public, TLD states, and thus the proposed
+cable system will be "effectively available directly to the public" under the 1996 Act.
+
+     18.   In response, AT&T-SSI argues that TLD's motion should be denied because
+TLD has failed to show good cause in order to submit its additional pleading.  AT&T-SSI
+also contends that its conveyance of bulk capacity, i.e., a private and indefeasible transfer of
+facilities to other entities, to common carriers is not a "telecommunications service."  Like
+terrestrial fiber, AT&T-SSI asserts, submarine cables are network facilities and nowhere in the
+1996 Act is there any statement or reasonable implication that such facilities will now be
+classified as a common carrier function.
+
+      19.   AT&T-SSI further contends that the definition of "telecommunications carrier"
+is similar to the definition of "commercial mobile service" enacted by Congress in the 1993
+Budget Act and thus is instructive in this case.  AT&T-SSI asserts that its conveyance of bulk
+capacity is to a "significantly restricted class of eligible users," rather than "to such classes of
+eligible users as to be effectively available to a substantial portion of the public," using the
+language from the "commercial mobile service" definition and the Commission's interpretation
+of that language.  Finally, AT&T-SSI asserts that TLD's interpretation of the 1996 Act is
+contrary to Congress' deregulatory intent in enacting the statute.     
+
+      20.   TLD argues in response to AT&T-SSI's opposition that the language of the
+1996 Act covers AT&T-SSI's proposed cable system because the Commission only has the
+discretion to determine whether "the provision of fixed and mobile satellite services" should
+be treated as common carriage.  In addition, TLD contends that Congress broadened the
+class of common carrier by requiring common carrier regulation "regardless of the facilities
+used."  TLD states that since wireless services were captured by the 1993 Budget Act and
+satellite services are exempted, it is difficult to identify what facilities are covered by the new
+definition if not fiber optic cable services.  
+
+      21.   TLD further contends that, contrary to AT&T's assertions, the statutory
+broadening of common carriage is consistent with the purpose and structure of the legislation,
+which imposes new regulatory obligations.  Congress intended these obligations to be placed
+on all carriers that provide service directly to the public or indirectly to the public through
+other common carriers, according to TLD.  TLD agrees with AT&T-SSI's assertion that the
+1993 Budget Act includes a definition of commercial mobile service that is virtually identical
+the definition of "telecommunications service" in the 1996 Act.  But TLD contends that the
+Commission has interpreted the 1993 Budget Act language to require common carrier
+treatment of all services except those provided to internal users and services where the
+Commission's spectrum allocation rules restrict the class of end users.  TLD states that the
+class of eligible end users in this proceeding is virtually unlimited, and may include anyone in
+the United States making a call to Caribbean, European or South American locations.           
+
+      22.   We grant TLD's motion to accept its supplemental comments in order to ensure
+a complete record in this proceeding.  But we disagree with TLD that AT&T-SSI's landing
+and operation of the proposed cable system makes it a "telecommunications carrier" under the
+1996 Act. 
+
+      23.   The 1996 Telecom Act states that "a telecommunications carrier shall be
+treated as a common carrier under this Act only to the extent that it is engaged in providing
+telecommunications services. . . ."  "Telecommunications service" is defined as "the offering
+of telecommunications for a fee directly to the public, or to such classes of users as to be
+effectively available directly to the public, regardless of the facilities used."  At issue in this
+case is whether AT&T-SSI is offering telecommunications service for a fee to such class of
+users as to be effectively available directly to the public. 
+    
+      24.    In interpreting the plain language of the 1996 Act, we concur with AT&T-SSI
+and TLD that the 1993 Budget Act's definition of "commercial mobile service" is relevant to
+our analysis.  This service was defined by Congress as "any mobile service . . . that is
+provided for profit and makes interconnected service available (A) to the public or (B) to such
+classes of eligible users as to be effectively available to a substantial portion of the public, as
+specified by the Commission."  The Commission subsequently defined "to the public" as
+"any service that is offered without restriction on who may receive it."  The Commission
+also concluded that whether a service if offered to "such classes of eligible users as to be
+effectively available to a substantial portion of the public" depends on the type, nature, and
+scope of users for whom the service is intended.  If the service is provided only for internal
+use or only to a specified class of eligible users under the Commission's rules, the
+Commission found, the service will not meet the "public availability" prong of the CMRS
+definition.
+
+      25.   As in the CMRS context, we believe that whether a service is effectively
+available directly to the public depends on the type, nature, and scope of users for whom the
+service is intended and whether it is available to a "significant restricted class of users." 
+AT&T-SSI, as owner of the St. Thomas-St. Croix cable system, will make available bulk
+capacity in its system to a significantly restricted class of users, including common carrier
+cable consortia, common carriers, and large businesses.  Potential users are further limited
+because only consortia, common carriers, and large businesses with capacity in
+interconnecting cables or other facilities and, in many cases, operating agreements with
+foreign operators, will be able to make use of the cable as a practical matter.  
+
+      26.   We disagree with TLD that if AT&T-SSI's customers use the capacity obtained
+from AT&T-SSI to provide a service to the public, then AT&T-SSI is making a
+telecommunications service effectively available directly to the public.  Such an interpretation
+is contrary to the plain language of the statute by focusing on the service offerings AT&T-
+SSI's customers may make rather than what AT&T-SSI will offer.  Under the statute, the
+"telecommunications carrier" is the entity that offers a telecommunications service so as to be
+"effectively available directly to the public."  As we found above, AT&T-SSI, by conveying
+bulk cable capacity, is not providing a service that is effectively available to the public. 
+Moreover, AT&T-SSI has stated throughout this proceeding that it will make capacity
+available to large businesses, which would not use the capacity to provide service to the
+public.  Thus, even if we accepted TLD's interpretation that we should consider whether
+AT&T-SSI's customers are providing service to the public, some of AT&T-SSI's customers
+may not provide service to the public.      
+
+      27.   We also reject TLD's contention about the relevancy of the fact that Congress
+only gave the Commission explicit discretion to determine whether the provision of fixed and
+mobile satellite services -- and not fiber optic facilities -- should be treated as common
+carriage.  Congress simply made clear that the Commission has the discretion to determine
+whether the provision of fixed and mobile satellite services, which otherwise might be
+considered "telecommunications services," is common carriage.  We believe that there was no
+need for Congress to state that the Commission has discretion to determine whether the
+provision of fiber optic facilities is a common carrier activity because, as we found above, the
+plain language of the 1996 Act is clear that AT&T-SSI is not a "telecommunications carrier." 
+Moreover, Congress gave no indication that it intended that this activity, which would
+otherwise be considered a non-common carrier activity, be regulated as a "telecommunications
+service."  Nor is there any indication that Congress intended to completely reverse the
+Commission's private cable policies, which have been successful in promoting more flexibility
+and choices in the provision of U.S. international facilities.  
+
+      28.   Similarly, we disagree with TLD that the inclusion of the language "regardless
+of facilities used" in the definition of "telecommunications service" was intended to broaden
+the class of common carrier, except for satellite facilities.  Congress simply made clear that
+the type of facility involved should not be an issue as the Commission determines whether a
+particular entity is a "telecommunications carrier."  In response to TLD's claim that it is
+difficult to determine what the new definition covers if not "fiber optic cable services," we
+note that the conference report associated with the 1996 Act states that the definition of
+"telecommunications service" is intended to include "commercial mobile service ('CMS'),
+competitive access service, and alternative local telecommunications services to the extent
+they are offered to the public or to such classes of users as to be effectively available to the
+public."  Although this list is not exclusive, if Congress specifically intended to include the
+provision of cable capacity as a "telecommunications service," as TLD implies, it certainly
+had the opportunity to express this wish.        
+
+      29.   We thus find that in offering capacity in its proposed cable system, AT&T-SSI
+is not a "telecommunications carrier" providing "telecommunications service" under the 1996
+Act.             
+
+B.   First Part of NARUC I Test
+
+     30.   In applying the first part of the NARUC I test, the Commission must decide
+whether the public interest requires common carrier operation of a proposed facility.  In
+examining this issue, the Commission generally has focused on whether the applicant has
+sufficient market power to warrant common carrier regulation.  For example, in NorLight, the
+Commission found that the applicant, which was seeking to provide a fiber optic,
+interexchange network, did not possess sufficient market power to require common carrier
+regulation.  The Commission reached this finding because numerous interexchange carriers
+already provided communications service in NorLight's proposed area of operation.  Likewise,
+in the Domestic Transponder Sales decision, the Commission found that domestic satellite
+licensees did not possess the significant market power required to impair the reasonable
+availability of transponder supply.  Thus, the Commission decided not to impose common
+carrier regulation on the licensees.  In addition, the Commission found that there were
+sufficient alternative facilities so that satellite operators would not be able to charge monopoly
+rates in the absence of common carrier regulation.   
+
+      31.   In reviewing non-common carrier cable applications, the Commission has
+considered the availability of alternative common carrier facilities in assessing the likelihood
+that the applicant has market power.  For example, in granting a non-common carrier cable
+landing license in the Optel decision, the Commission noted the availability of numerous
+terrestrial, microwave and satellite common carrier facilities that provided cross-border
+services between the United States and Canada.
+
+      32.   TLD and Vitelco argue that, under NARUC I and subsequent Commission
+decisions, the public interest requires that the proposed AT&T-SSI system be operated as a
+common carrier facility because:  (1) there are no available common carrier substitutes for the
+proposed cable system; and (2) common carrier regulation is needed to prevent AT&T-SSI
+from favoring its common carrier affiliate, AT&T, over AT&T's common carrier competitors. 
+In addition, TLD states that AT&T has the ability to steer new international consortia cables
+to the proposed system over other available systems, contrary to the public interest and the
+interests of other common carriers.  Based on our review of the record, we will examine three
+issues:  (1) whether there are alternative common carrier facilities to the proposed cable
+system; (2) whether the provision of capacity in the proposed cable system to AT&T poses
+anticompetitive concerns; and (3) the potential effect of AT&T's activity in international cable
+consortia.  
+
+     1.    Availability of Alternative Common Carrier Facilities to the Proposed 
+           Cable System
+
+     33.   TLD and Vitelco agree with AT&T-SSI that the proposed new cable system
+would add necessary route diversity and facilities restoration capability for the existing cables
+that land in St. Thomas.  According to TLD, the proposed cable system would provide route
+diversity for international cable systems operating between the U.S. mainland and Europe,
+between the U.S. mainland and Latin America, and between Caribbean locations.  TLD also
+states that the proposed cable system would be the only alternative route for major
+international cable systems such as AMERICAS-1 and COLUMBUS II.  In addition, TLD
+and Vitelco argue that the proposed system is essential to enable future international cables to
+land in the U.S. Virgin Islands and interconnect with existing international cables at the St.
+Thomas cable station. 
+
+      34.   TLD and Vitelco state that Vitelco's existing microwave and planned fiber
+optic facilities are not viable alternative facilities to the St. Thomas-St. Croix system because
+they are designed solely for local Virgin Islands traffic.  According to TLD, the proposed
+Vitelco cable system would land at different cable stations in St. Thomas and St. Croix than
+the proposed AT&T-SSI system.  TLD states that the only interconnection of the proposed
+Vitelco system to the existing international cables at the St. Thomas cable station would be
+through local public switched network facilities.  TLD contends that the Vitelco facilities are
+not intended or designed to serve as a critical link for international trans-Atlantic traffic. 
+Therefore, these parties argue, these facilities cannot be used to interconnect international
+cables landing in St. Thomas and St. Croix, or to provide critical route diversity and facilities
+restoration for international cables. 
+      
+      35.   AT&T-SSI responds that the proposed system is not "essential," as argued by
+TLD and Vitelco, because denial of access to the cable would not adversely affect the
+abilities of TLD and Vitelco to compete as common carriers.  AT&T-SSI contends that, under
+the antitrust law essential facilities doctrine, a facility is "essential" only if control of it carries
+with it the power to eliminate competition permanently in the downstream market.  It claims
+the "downstream market" in this case is the market for facilities in the Atlantic and Caribbean
+Basin regions.  AT&T-SSI states that neither TLD nor Vitelco has demonstrated that their
+abilities to compete as common carriers would be handicapped severely by denial of access to
+the proposed system.  AT&T-SSI also asserts that Vitelco is considering building its own
+such facility, and TLD has diverse routing capabilities through satellite backup and its
+ownership interest in other cables, including AMERICAS-1 and COLUMBUS II.  Finally,
+AT&T-SSI claims even if its proposed facility is considered "essential," its offer of access to
+TLD and Vitelco on an IRU basis at market prices satisfies its obligations.  
+      
+      36.   TLD argues that the application of the essential facilities doctrine does not
+control in this case, and the applicable precedent is NARUC I and the Commission's private
+cable decisions.  It asserts that the essential facilities doctrine is narrower in scope than the
+Commission's public interest standard, and much more difficult to meet.  TLD also notes that
+the Commission has never applied the essential facilities doctrine to non-common carrier
+cable landing license applications.  Vitelco contends that if the essential facility doctrine is
+applied, the proposed facility is an essential facility because, according to Vitelco, no other
+existing facilities duplicate the quality and capacity of the proposed cable.
+
+     37.   TLD concedes, however, that the landing stations at Puerto Rico and Tortola,
+which connect through the TAINO-CARIB system to the St. Thomas stations, are viable,
+economic alternatives to the proposed system.  Nonetheless, it states that the Commission
+has a preference for U.S. landing sites, which eliminates Tortola (a British territory) as an
+alternative that should be considered.           
+
+      38.   AT&T-SSI asserts that common carriers have a number of alternatives for
+landing at St. Thomas.  First, like TLD, it states that the landing stations at Puerto Rico and
+Tortola, together with the TAINO-CARIB cable, provide competitive alternatives to the
+proposed system.  Second, AT&T-SSI states that a number of analog cables landing at St.
+Thomas are scheduled to be retired in the 1996-1997 timeframe.  This retirement, AT&T-SSI
+claims, would ultimately permit up to four new fiber optic common carrier facilities to land at
+St. Thomas.        
+
+      39.   We find that the NARUC I decision and the Commission's precedent provide
+ample guidance for resolution of the issues raised by AT&T-SSI's application.  We thus agree
+with TLD that the "essential facilities" doctrine as commonly invoked under Section 2 of the
+Sherman Act does not apply here and that our broader public interest standard must guide
+resolution of the question of whether the proposed cable should be treated as a common
+carrier cable.  But the factual question of whether the proposed cable system is a competitive
+"bottleneck" is relevant.  Under NARUC I and Commission precedent, our decision
+necessarily must consider whether the proposed cable system is a competitive "bottleneck"
+(i.e., whether there are no competitive substitutes, enabling the owner to restrict output or
+raise prices), or whether there are, in fact, competitive alternatives.
+
+     40.   Under the first prong of NARUC I, we must first identify the relevant markets
+and the potential competitive effects in those markets of the proposed facility.  Based on the
+record before us, we find two specific relevant markets:  (1) facilities providing access to the
+St. Thomas station; and (2) facilities operating between St. Thomas and St. Croix.  The first
+market is relevant because a major purpose of the St. Thomas-St. Croix system is to serve as
+a "virtual node" to interconnect with international cables landing in the U.S. Virgin Islands at
+the St. Thomas station.  The St. Thomas station currently is a major Caribbean landing point
+for international cables, and thus the ability to interconnect with these cables at the St.
+Thomas station is critical for common carriers.  The second market is relevant because the
+proposed facility will operate between St. Thomas and St. Croix and thus is potential route for
+U.S. Virgin Islands-originating or -terminating traffic.  Each market is discussed below.
+
+            a.    Common Carrier Facilities Accessing the St. Thomas Station       
+
+      41.   We first examine the market for common carrier facilities providing access to
+the St. Thomas station.  There are two types of cables that provide access to the St. Thomas
+station.  First, there is a U.S. Virgin Islands cable system, the TAINO-CARIB, that
+interconnects there.  Second, there are two international cable systems, AMERICAS-1 and
+COLUMBUS 2, that also interconnect at St. Thomas.  AMERICAS-1, one of the two major
+international cables that currently land at St. Thomas, also interconnects with the U.S.
+mainland, Trinidad, and points in South America.  In addition, COLUMBUS 2 connects to the
+U.S. mainland and Europe.
+
+      42.   The record indicates that there are at least two viable, economic means of
+accessing the St. Thomas station via the TAINO-CARIB cable system.  The options include: 
+(1) landing at Puerto Rico, interconnecting with the TAINO-CARIB cable system, and landing
+at the St. Thomas station; or (2) landing at Tortola, interconnecting with the TAINO-CARIB
+cable system, and landing at the St. Thomas station.  The TAINO-CARIB cable, a common
+carrier facility, currently has ample available capacity.  Thus, even in the event carriers are
+denied access to the St. Thomas-St. Croix system, they can use these existing routes to access
+the St. Thomas station.  Tortola is not a U.S. territory and the Commission traditionally has
+preferred to rely on the availability of alternative U.S. facilities.  Tortola, however, is only
+one of at least two alternatives to the proposed system.  The other alternative, Puerto Rico, is
+U.S. point.  Thus, notwithstanding the fact that Tortola is a foreign territory, we find that
+common carriers would have several alternatives -- including a common carrier cable
+connecting to a U.S. station -- to the proposed system. 
+
+      43.   In addition, given the availability of existing alternative facilities, we find it
+would be uneconomic for AT&T-SSI to deny access to the St. Thomas-St. Croix system or
+charge monopoly rates.  This is particularly true because the proposed system will be a high
+capacity system:  AT&T-SSI has an incentive to offer competitive prices to attract customers
+to use its capacity (and therefore protect its sunk capital investment).  Moreover, with the
+retirement of cables systems in the 1996-1997 timeframe, as projected by AT&T-SSI, new
+landing opportunities will become available at the St. Thomas station.  Thus, any new entry
+will act as a further constraint on AT&T-SSI's ability to restrict output or raise prices above
+competitive levels for a sustained period of time. 
+
+      44.     The St. Thomas-St. Croix system would provide route diversity and
+restoration functions for international cables such as AMERICAS-1 and COLUMBUS 2 and
+would allow new international cables to land at St. Thomas via St. Croix.  These important
+functions will improve network reliability.  The proposed system also will add an advanced
+fiber optic facility to the region, and provide a new landing point for international cables,
+increasing the options for potential users, common carriers, and common carrier consortia. 
+These functions will serve the public interest.  Nonetheless, we do not believe these factors
+require us to regulate the proposed system on a common carrier basis.  As we found above,
+carriers have access to other facilities to carry traffic in the first instance.  AT&T-SSI's
+proposed system will serve to enhance route diversity and restoration of these other facilities,
+but will not directly affect the ability of carriers to enter and compete in the marketplace. 
+Moreover, requiring current identical substitute common carrier facilities before non-common
+carrier facilities will be authorized would serve as a disincentive for entities to take risks and
+expend capital to expand and upgrade facilities.  If we were to require all cable systems that
+serve route diversity and restoration functions for other cable systems or increase the
+availability of advanced technology in a region to be common carrier, few cables would ever
+qualify as non-common carrier.  We thus find that there are sufficient competitive alternatives
+in the facilities market accessing the St. Thomas station.  
+
+            b.    Common Carrier Facilities Operating Between St. Thomas and St.
+                  Croix 
+
+      45.   We next examine the market for common carrier facilities operating between
+St. Thomas and St. Croix.  As we noted in paragraph 34 supra, TLD and Vitelco argue that
+Vitelco's existing microwave and planned fiber optic facilities are not viable alternatives to
+the St. Thomas-St. Croix system.  TLD contends that Vitelco's current facilities do not
+interconnect, and the proposed cable system would not interconnect at the St. Thomas cable
+station, and interconnection of the proposed Vitelco system to the existing international cables
+at the St. Thomas cable station would be through the inadequate existing local public
+switched network.  Therefore, these facilities allegedly cannot be used to interconnect
+international cables landing in St. Thomas and St. Croix, or to provide critical route diversity
+and facilities restoration for international cables.
+
+      46.   In addition, Vitelco argues that the proposed cable would confer upon AT&T
+market power over all U.S. Virgin Island originating and terminating domestic and
+international traffic.  It states that 41 percent of all U.S. Virgin Island interstate originating
+and terminating traffic passes between St. Thomas and St. Croix.  Vitelco thus asks us to
+require that the proposed system not be used to originate or terminate U.S. Virgin Island
+traffic.  It also asserts that as a non-contiguous area, the U.S. Virgin Islands is a separate
+relevant international market.  Vitelco further asserts that because the cable would be the only
+fiber optic cable between the islands, it would be an essential facility for U.S. Virgin Island  
+-originating and -terminating traffic.  
+ 
+      47.   AT&T-SSI initially argued that Vitelco's current microwave facilities could
+provide the same route diversity and restoration functions to be provided by the proposed
+cable.  In its second supplemental comments, AT&T-SSI emphasizes that any party also could
+build a facility that connects to the St. Thomas station.  AT&T-SSI asserts that creation of a
+Caribbean Basin cable system does not require the participation of AT&T or any other large
+carrier, and Vitelco already has proposed to build its own such facility. 
+
+      48.   It appears that Vitelco's current facilities are unsuitable to provide route
+diversity or restoration capabilities for major international cables because of fading problems
+and the fact that Vitelco's facilities do not directly interconnect to the St. Thomas station.  As
+we indicated in Section III.A.1.a above, however, we are not prepared to require common
+carrier treatment simply because the proposed cable system would provide these functions. 
+The route diversity and restoration functions offered by the AT&T-SSI cable would serve the
+public interest by increasing network reliability, but these functions do not mandate common
+carrier regulation.  The proposed cable system undoubtedly would enhance network reliability,
+but access to the system is not necessary to enter and provide service in the marketplace. 
+Moreover, carriers seeking to access the St. Thomas station to interconnect with international
+cables there would have several alternatives to the St. Thomas-St. Croix system, as we
+described in Section III.A.1.a.    
+
+      49.   We disagree with Vitelco's contention that the proposed system would confer
+AT&T with market power for the provision of U.S. Virgin Islands-originating or -terminating
+traffic.  The Commission recently reclassified AT&T as a non-dominant carrier for the
+provision of interstate, domestic, interexchange services.  In that decision, the Commission
+restated its longstanding view that the U.S. Virgin Islands is part of a "single national relevant
+geographic market."  We see no reason to deviate from that finding in this proceeding, and
+thus we decline to find that the U.S. Virgin Islands is a separate relevant international market. 
+Moreover, there is no record evidence to indicate that the construction and operation of the
+proposed cable system will confer market power on AT&T for the provision of these services.
+Indeed, the St. Thomas-St. Croix cable system likely will enhance competition in the
+provision of U.S. Virgin Islands-originated or -terminated interstate domestic interexchange
+services by increasing routing choices for common carriers and individual users.  We thus
+decline to prohibit the use of the proposed cable system for the provision of U.S. Virgin
+Islands-originated or -terminated domestic interexchange traffic.  
+
+      50.   We also deny Vitelco's request that the St. Thomas-St. Croix system be
+prohibited from carrying U.S. Virgin Islands-originating or -terminating international traffic. 
+Vitelco bases this request on its belief that the proposed cable system would confer market
+power on AT&T for the provision of these services.  But AT&T has not requested Section
+214 authority to use the proposed facility to provide such services.  Issues such as those
+raised by Vitelco are more properly addressed if they arise in the Section 214 application
+context.  As a general matter, we see no reason to limit unnecessarily the use of the cable by
+other carriers to provide competitive services in the U.S. Virgin Islands domestic
+interexchange and international markets, which are open to competition.  
+
+      51.   Finally, we decline to require common carrier treatment based on Vitelco's
+argument that the St. Thomas-St. Croix system would be the first fiber optic facilities to exist
+along this route.  Vitelco, the sole provider of U.S. Virgin Islands local exchange services,
+currently has its own, if technically inferior, facilities.  Thus, it would not be dependent upon
+AT&T-SSI in the first instance for the routing of traffic or the fulfillment of its local
+exchange service obligation.  Moreover, Vitelco remains free to build its own facility along
+this route, as it had planned.  Although this option may be less cost effective given AT&T-
+SSI's proposed high-capacity cable, it nonetheless remains an option that would become more
+viable if AT&T-SSI drives competitors of its common carrier affiliates from its cable system
+by engaging in anticompetitive conduct, as Vitelco fears.  Indeed, the possibility that Vitelco
+would build such a facility should serve as a further incentive to AT&T-SSI to provide
+competitive offerings.
+
+     2.   The Provision of Capacity in the Proposed System to AT&T 
+
+     52.   TLD and Vitelco contend that the proposed system should be operated on a
+common carrier basis to avoid any possibility of AT&T-SSI's discriminating in favor of
+AT&T.  They assert that AT&T's dominant position in cable manufacturing and in the long
+distance market would permit AT&T-SSI to discriminate against its affiliate's common carrier
+competitors.  Although AT&T-SSI has stated that it will offer capacity to all common
+carriers, including its common carrier affiliate, on a nondiscriminatory basis, TLD and Vitelco
+contend there is no legal compulsion for AT&T-SSI to do so.  They also argue that it would
+be difficult to determine whether such discrimination was occurring because the terms of
+AT&T-SSI's contract with its affiliate would not be public.  In addition, even if the terms are
+nondiscriminatory, they assert, AT&T-SSI could charge monopoly prices, since the payments
+by its common carrier affiliate would be merely an intracorporate transfer payment.
+ 
+      53.   In response to the assertions that it could discriminate in favor of its common
+carrier affiliates, AT&T-SSI reiterates that all customers, whether affiliated with AT&T-SSI or
+not, would be charged the current market price for capacity in the proposed system.  It states
+that failure to do so would violate the Commission's affiliate transaction and IRU rules. 
+AT&T states that the affiliate transaction rules require AT&T-SSI to sell capacity in the
+proposed system to its common carrier affiliates at then market prices.  In addition, AT&T
+asserts that the Commission's decisions regarding the sale of IRU interests require U.S.
+carriers to sell such interests at market prices.
+
+      54.   AT&T-SSI also claims that it is likely that future cable systems landing at St.
+Croix and connecting to the St. Thomas cable station would be consortium-owned cable
+systems.  If AT&T-SSI is the supplier for such a consortium-owned cable system, capacity in
+the St. Thomas-St. Croix link would be sold to the consortium.  AT&T-SSI states that under
+current practices, an AT&T common carrier affiliate, as a member of the consortium, would
+pay the supplier, AT&T-SSI, its pro rata share of the supply contract, the same as other
+consortium owners like TLD.
+
+      55.   We note that as the owner of a non-common carrier cable system, AT&T-SSI
+would be free to tailor its capacity offerings to individual purchasers.  Notwithstanding this
+ability to discriminate among customers, we do not believe there is sufficient incentive for
+anticompetitive conduct to arise given our findings in Section III.A.1 above about the
+availability of competitive alternatives to the proposed cable system.  Potential users of the St.
+Thomas-St. Croix cable system, including TLD and Vitelco, have access to alternative
+facilities that land at the St. Thomas station.  If AT&T-SSI discriminates in favor of its
+common carrier affiliate, these customers can go elsewhere.  Also, since the proposed system
+will be high capacity, AT&T-SSI will have an incentive to attract -- rather than rebuff --
+potential customers in order to use capacity and cover sunk costs.  In addition, given the
+decreasing cost of constructing cables, the short length of the system, and the increasing
+number of entrepreneurial non-common carrier cable ventures, it is likely that another party
+(perhaps even Vitelco) would respond to this type of conduct by building additional
+alternative facilities on this route.  Thus, we question AT&T-SSI's incentive to engage in such
+anticompetitive conduct.  Nonetheless, we retain the right to change the regulatory status of
+the cable to common carrier if the public interest so requires in the future, including, for
+example, if market conditions change and anticompetitive conduct occurs.
+
+      3.    Potential Effect of AT&T Activity in International Cable Consortia
+
+      56.   TLD asserts, as an additional consideration in our public interest analysis, that
+AT&T will tie its participation in common carrier consortia that construct and operate
+international cables to the use of the proposed cable system by those consortia.  This steering
+of cables to its own facilities or those of its affiliate, AT&T-SSI, TLD asserts, is detrimental
+to AT&T's competitors, who would prefer that these cables land elsewhere.  According to
+TLD, AT&T controls two-thirds of U.S. outbound traffic, and thus has a significant voice in
+international common carrier cable consortia.  In addition, TLD asserts, AT&T often is the
+only U.S. carrier that is an initial party in international common carrier cable consortia and,
+therefore, has major influence in the choice of landing sites.  TLD argues that landing points
+are well established before the initial agreement among the parties to the consortia is even
+drafted.  TLD also states that AT&T owns most of the U.S. cables stations in the Caribbean
+(including Miramar in Puerto Rico and the St. Thomas station).  TLD claims that AT&T has
+offered capacity in the proposed system for free to the Pan American cable system, a major
+multi-continent cable, that currently is seeking a landing site in the Caribbean.     
+
+      57.   On August 5, 1995, Vitelco filed a motion to accept a third supplemental filing
+on the issue of AT&T's ability to determine landing points for fiber optic cables in the
+Caribbean region.  In support of its request, Vitelco states that AT&T has distributed a
+"white paper" in the U.S. Virgin Islands in support of its request of U.S. Virgin Islands
+government authorities that confirms AT&T's ability to control the landing sites of major
+international cables.  Vitelco includes a copy of the white paper with its third supplemental
+filing.  In its filing, Vitelco asserts that AT&T-SSI has admitted in the white paper that the
+proposed system will be a major hub for international cables and that, contrary to its
+assertions in this proceeding, AT&T-SSI will build the proposed system whether or not the
+Commission authorizes the facility to be non-common carrier.
+
+      58.   In response to TLD's claims, AT&T-SSI asserts that consortia make decisions
+about cable landing sites based on, at minimum, a majority vote.  AT&T-SSI states that
+AT&T has had significantly less than a majority vote in Caribbean Basin cables.  In addition,
+AT&T-SSI denies TLD's claims that it has offered free capacity to the Pan American cable
+consortia to land their cable at St. Croix.   
+
+      59.   AT&T-SSI argues that Vitelco's motion to accept supplemental comments
+should be denied because Vitelco has failed to show good cause for permitting additional
+pleadings.  AT&T-SSI also asserts that the white paper contains no new factual information
+that is relevant to this proceeding.
+
+      60.   We grant Vitelco's motion in the interest of developing a full record in this
+proceeding.  But we are unpersuaded by the record evidence that AT&T has the ability to
+control where international common carrier consortia cables land.  It certainly has significant
+influence in the process.  AT&T has the resources -- that other U.S. carriers may not have --
+to participate in the consortia process in the initial phases.  In addition, AT&T's sizable traffic
+flow is likely to be a consideration.  These factors indicate that AT&T likely has a significant
+voice in the determination of the cable landing sites.  AT&T's bargaining position on these
+matters, however, has existed for other cables and will continue to exist notwithstanding
+whether we impose common carrier regulation on the proposed facility.  Moreover,
+classification of the proposed facility as common carrier would not necessarily remove
+AT&T's incentive and ability to steer common carrier consortia cables to the St. Croix station. 
+
+
+     61.   The most relevant question for this proceeding is, if AT&T can influence the
+choice of landing sites, will this situation diminish the availability of alternative facilities to
+St. Thomas-St. Croix system?  AT&T owns a number of common carrier cable stations in the
+Caribbean.  Nonetheless, the Puerto Rico Telecommunications Authority (a 19 percent owner
+of TLD) and Cable & Wireless own competitive cable stations in Puerto Rico and Tortola,
+respectively.  Facilities landing at these stations and connecting at St. Thomas currently offer
+viable alternatives to the St. Croix station.  Although the proposed system is likely to become
+an attractive new link for major international cables, there is no indication that this situation
+will change.  
+ 
+C.   Second Part of NARUC I Test
+
+     62.   Under the second part of the NARUC I test, we must determine whether
+AT&T-SSI will make capacity available to the public indifferently.  If so, the proposed
+facility should be provided on a common carrier basis.  In this case, AT&T-SSI has stated its
+intent to offer capacity on an IRU basis at then-current market prices.  It also has offered to
+make capacity available to common carriers on the same terms and conditions at market
+prices.  TLD and Vitelco argue that this proposal implies an indiscriminate offering. 
+
+     63.   In reviewing previous non-common carrier cable applications, the Commission
+also has found the availability of individualized offerings to users to be a public interest
+benefit.  We note that this factor has not been a prerequisite for non-common carrier
+treatment.  Rather, it is an additional public interest benefit of many non-common carrier
+cable systems.  In this case, as a practical matter, AT&T-SSI's proposed cable likely would be
+used more by common carriers through consortia or individually to link international facilities. 
+In addition, none of the parties has argued that the proposed cable system would create
+significant overcapacity so as to threaten the economic viability of existing common carrier
+cables and satellite facilities, a potential consideration noted in other non-common carrier
+cable decisions.  Thus, we will not address these factors in our public interest analysis
+below.  
+
+      64.   We find that AT&T-SSI's offer of access, nondiscriminatory terms and
+conditions and market pricing of IRUs does not rise to the level of an "indiscriminate"
+offering.  In the Tel-Optik decision, the Commission found that selling bulk cable capacity
+through individual negotiations with potential customers in order to meet the customers'
+particular technological or marketing needs did not constitute common carrier activity. 
+Similarly, in the Transponder Sales decision, the Commission concluded that the sale or long-
+term lease of domestic satellite transponders by satellite owners was not common carrier
+activity because the sellers of transponders did not hold themselves out indifferently to the
+public.  As in Tel-Optik, AT&T-SSI will be selling bulk capacity tailored to meets
+customers' particular needs.  Similarly, notwithstanding its offer of IRU capacity at market
+prices, AT&T-SSI must engage in individual negotiations with customers to reach agreement
+regarding the market price of the particular amount of capacity needed for the certain time
+period of usage sought.  In addition, AT&T-SSI will negotiate for the cost of maintenance
+and repairs.  The end result is an offering that is tailored to meet the needs of the particular
+customer.  
+
+      65.   Moreover, AT&T-SSI's offer of capacity at market prices conforms with the
+practices employed by other non-common carrier cable owners.  Like AT&T-SSI, other high
+capacity non-common carrier cable owners offer capacity at market prices.  And, in practice,
+other non-common carrier cable owners (particularly those owned by entities not affiliated
+with carriers) make their capacity available to all interested carriers, as AT&T-SSI has
+suggested it will, to ensure that sunk costs are recovered.  But the Commission has never
+found, and we do not believe, that these practices constitute indiscriminate offerings.
+
+      66.   Finally, we reject Vitelco's contention that the proposed cable system will in
+fact be a common carrier system because it will be carrying common carrier traffic.  Vitelco
+overlooks the fact the Commission has long authorized non-common carrier facilities to carry
+common carrier traffic in order to enhance facilities competition.  The Commission retains
+jurisdiction through the Section 214 authorization process over the use of these facilities to
+provide common carrier services.  We thus find that AT&T-SSI will not be acting in fact as a
+common carrier.       
+
+D.    Possible Conditions
+
+     67.   We decline to impose the conditions proposed by TLD to prevent
+anticompetitive conduct.  We do not believe such conditions are necessary or justified.  If we
+did, we would be ruling, in effect, that the cable system should be operated on a common
+carrier basis, which is contrary to the conclusions we have reached above.  With respect to its
+use of the cable to provide interstate domestic interexchange services, AT&T is a non-
+dominant carrier and we have found no record evidence to indicate that the existence of the
+proposed cable should change this status in any way.  We will examine issues that may arise
+regarding AT&T's use of the cable for the provision of U.S. international services in the
+context of an appropriate Section 214 application.  
+
+E.    Environmental Impact
+
+     68.   AT&T-SSI has provided the information required by Section 1.767 of the
+Commission's rules.  Based on this information, we conclude that grant of the requested
+authorization will not have a significant effect on the environment as defined in Section
+1.1307 of the Commission's Rules and Regulations implementing the National Environmental
+Policy Act of 1969.  Consequently, no environmental assessment is required to be submitted
+with this application under Section 1.1311 of the Commission's rules.
+
+                              IV.  Conclusion
+     
+     69.   We conclude that AT&T-SSI is not a "telecommunications carrier" as defined
+by the 1996 Act.  In applying the NARUC I standard, we conclude that the public interest
+does not require common carrier regulatory treatment of the St. Thomas-St. Croix cable
+system.  There are sufficient alternative facilities in the relevant markets that the proposed
+cable system should have a procompetitive, rather than anticompetitive, effect.  Finally, we
+conclude that AT&T-SSI will not be offering capacity on a common carrier, or indiscriminate,
+basis.  Therefore, we grant AT&T-SSI's application.
+
+     70.   Accordingly, in view of the above, we conclude that U.S. interests under the
+Cable Landing License Act will be served by grant of a license to AT&T-SSI, as conditioned
+below.
+
+                           V.  Ordering Clauses
+
+     71.   Consistent with the foregoing, we hereby GRANT AND ISSUE, under the
+provisions of the Cable Landing License Act and Executive Order 10530, to AT&T
+Submarine Systems, Inc. a license to land and operate a high-capacity fiber optic digital
+submarine cable (622 Mbps on each of 12 fiber pairs), associated regenerators and supervisory
+circuits extending between the island of St. Thomas and the island of St. Croix in the
+Caribbean.  This grant is subject to all rules and regulations of the Federal Communications
+Commission; any treaties or conventions relating to communications to which the United
+States of America is or may hereafter become a party; any action by the Commission or the
+Congress of the United States of America rescinding, changing, modifying or amending any
+rights accruing to any person hereunder; and the following conditions:
+
+     (1) The location of the cable within the territorial waters of the United States of
+     America, its territories and possessions, and upon the foreshore thereof, shall be in
+     conformity with plans approved by the Secretary of the Army, and the cable shall be
+     moved or shifted by the Licensee at its expense upon the request of the Secretary of
+     the Army whenever he or she considers such course necessary in the public interest,
+     for reasons of national defense, or for the maintenance or improvement of harbors for
+     navigational purposes;
+
+     (2)  The Licensee shall at all times comply with any requirements of United States
+     Government authorities regarding the location and concealment of the cable facilities,
+     buildings, and apparatus with a view to protecting and safeguarding the cable from
+     injury or destruction by enemies of the United States of America;
+
+     (3)  The Licensee or any persons or companies directly or indirectly controlling it or
+     controlled by it, or under direct or indirect common control with it, shall not acquire
+     or enjoy any right, for the purpose of handling or interchanging traffic to or from the
+     United States of America, its territories or possessions, to land, connect or operate
+     cables or landlines, to construct or operate radio stations, or to interchange traffic,
+     which is denied to any other U.S. carrier by reason of any concession, contract,
+     understanding, or working arrangement to which the Licensee or any persons
+     controlling it or controlled by it are parties;    
+
+     (4)  Neither this license, nor the rights granted herein, shall be transferred, assigned, or
+     in any manner either voluntarily or involuntarily disposed of or disposed of indirectly
+     by transfer of control of the Licensee to any persons, unless the Federal
+     Communications Commission shall give prior consent in writing;
+
+     (5)  The Commission reserves the right to require the Licensee to file an
+     environmental impact statement should it determine that the landing of the cable at
+     those locations and construction of necessary cable landing stations would have a
+     significant impact upon the environment within the meaning of Sections 1.1305-1.1307
+     of the Commission's Rules and Regulations implementing the National Environmental
+     Policy Act of 1969, 42 U.S.C. Sections 4321-4335 (1995); this license is subject to
+     modification by the Commission upon its review of any environmental impact
+     statement that it may require pursuant to its Rules;  
+
+     (6)  The Commission reserves the right to change the regulatory status of the cable
+     system to common carrier in the future if it finds the public interest so requires.
+
+     (7)  This license is revocable after due notice and opportunity for hearing by the
+     Federal Communications Commission in the event of breach or nonfulfillment of any
+     requirement specified in Section 2 of the Cable Landing License Act, 47 U.S.C.  34-
+     39, or for failure to comply with the terms of this authorization;
+
+     (8)  The Licensee shall, by application, obtain Commission approval prior to the sale
+     or transfer to a foreign entity of five percent or more in the aggregate of U.S.-owned
+     and -controlled AT&T-SSI stock;
+
+     (9)  The Licensee shall notify the Federal Communications Commission in writing of
+     the date on which the cable is placed in service; and this license shall expire 25 years
+     from that date, unless renewed or extended upon proper applications duly filed no less
+     than six months prior to the expiration date; and, upon expiration of the license, all
+     rights granted under it shall be terminated; and
+
+     (10)  The terms and conditions upon which this license is given shall be accepted by
+     the Licensee by filing a letter with the Secretary, Federal Communications
+     Commission, Washington, D.C. 20554, within 30 days of the release of this order.
+
+     72.   Accordingly, IT IS HEREBY ORDERED that the petitions to deny filed by
+TLD and Vitelco ARE DENIED.
+
+     73.   IT IS FURTHER ORDERED that the petition for declaratory ruling filed by
+Vitelco IS DENIED.  
+
+     74.   This Order is issued under Section 0.261 of the Commission's Rules and is
+effective upon adoption.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's Rules may be filed within 30 days of the
+date of public notice of this Order (see Section 1.4(b)(2)).
+
+     FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+     Scott Blake Harris
+     Chief, International Bureau

@@ -1,0 +1,224 @@
+  ********************************************************    
+                                         NOTICE
+    ********************************************************
+                                
+                This document was converted from
+               WordPerfect to ASCII Text format.
+                                
+   Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+             will not show up in this text version.
+                                
+All text attributes such as bold, italic, underlining, etc. from the
+    original document will not show up in this text version.
+                                
+        Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+           will not be preserved in the text version.
+                                
+        If you need the complete document, download the
+  WordPerfect version or Adobe Acrobat version, if available.
+                                
+*****************************************************************
+                                                          Before the 
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+In the Matter of                        )
+                                   )         File No.  ITC-98-342
+AT&T CORP.                              )                ITC-98-342A  
+                                        )
+MCI INTERNATIONAL, INC.            )
+                                   )
+PACIFIC GATEWAY EXCHANGE           )
+   (BERMUDA) LIMITED                    )
+                                   )
+SPRINT COMMUNICATIONS COMPANY L.P. )
+                                   )
+LC COMMUNICATIONS                  )                        
+                                        )
+THE ST. THOMAS AND SAN JUAN             )
+     TELEPHONE COMPANY, INC.       )
+                                   )
+TELECOMMUNICACIONES ULTRAMARINAS   )
+     DE PUERTO RICO                )
+                                   )
+TELEFONICA LARGE DISTANCIA DE      )
+     PUERTO RICO, INC.                  )
+                                   )
+TRICOM USA, INC.                        )
+                                   )
+TELEGLOBE USA, INC.                )
+                                   )
+IMPSAT USA, INC.                        )
+                                   )
+GTE COMMUNICATIONS CORPORATION          )
+                                   )
+IDB WORLDCOM SERVICES, INC.             )
+                                   )
+STAR TELECOMMUNICATIONS, INC.      )
+                                   )
+WORLDxCHANGE COMMUNICATIONS        )
+                                   )
+LAMBDA OPERATIONS CORP.            )
+                                   )
+IDT CORPORATION                         )
+                                   )
+TELIA NORTH AMERICA, INC.               )
+Joint application for Authorization               )    
+Pursuant to Section 214 of  the              )              
+Communications Act of 1934, as Amended,      )
+to Construct, Acquire, and Operate           )
+Capacity in a Digital Submarine Cable             )
+System, the AMERICAS-II Cable System         )
+
+          MEMORANDUM OPINION, ORDER AND AUTHORIZATION
+                                
+Adopted:  November 3, 1998                                Released: November 10, 1998
+                                
+By the Chief, Telecommunications Division:
+
+                         I. Introduction
+
+     1.   In this Order, we grant the joint application of the participating parties (Joint
+Applicants) for authority, pursuant to Section 214 of the Communications Act of 1934, as amended, 47
+U.S.C.  214, to (1) construct, acquire, and operate capacity in a digital submarine cable system, the
+AMERICAS-II Cable System (AMERICAS-II), among Florida, Puerto Rico, the U.S. Virgin Islands
+(USVI), Martinique, Curacao, Trinidad, Venezuela, Trinidad, French Guiana and Brazil; (2) acquire by
+lease or other comparable means such extension facilities as may be required to extend the capacity of
+AMERICAS-II; and (3) activate capacity in AMERICAS-II and in the aforementioned facilities for the
+provision of the Joint Applicants' authorized services.  We find that the Joint Applicants have provided
+sufficient information to comply with Section 214 of the Communications Act and therefore grant the
+authority to construct, acquire, and operate capacity in AMERICAS-II, subject to the conditions
+discussed below.
+
+                         II. Application
+
+     2.   On April 30, 1998, the Joint Applicants filed this application for Section 214
+Authorization.  Their application was placed on public notice on May 13, 1998, and an amended
+application was placed on public notice on August 5, 1998.  No comments were received.  
+
+     3.   AT&T is a corporation organized under the laws of New York.  MCII, TRICOM,
+TELEGLOBE, IMPSAT, GTECC, WORLDCOM, STAR, CENTENNIAL, IDT and TELIA are
+corporations organized under the laws of Delaware.  PGE is a corporation organized and existing under
+the laws of Bermuda.  STSJ is a corporation organized under the laws of the USVI.  TUPR and TLDI are
+corporations organized and existing under the laws of the Commonwealth of Puerto Rico.  Sprint is a
+limited partnership organized under the laws of Delaware and LCC is a trade name for International
+Telecom, Inc., a corporation organized and existing under the laws of Delaware.  WORLDxCHANGE is
+the doing business name of Communication TeleSystems International, a corporation organized and
+existing under the laws of the state of California.  Each of the Joint Applicants is a common carrier
+subject to the Communications Act of 1934, as amended.
+
+     4.   The Joint Applicants propose to land and operate AMERICAS-II as a common carrier
+system owned by the Joint Applicants and by entities authorized to land and operate an international
+submarine fiber optic cable system in Martinique, Curacao, Trinidad, Venezuela, French Guiana, and
+Brazil.  AMERICAS-II will consist of two or four optical fiber pairs operating at 2.5 Gbps per
+wavelength.  Each fiber pair operating at 2.5 Gbps with one wavelength will have a capacity of 1008
+Minimum Investment Units (MIUs).  The proposed AMERICAS-II system will extend among landing
+points at cable stations in Hollywood, Florida; St. Croix, USVI; Miramar, Puerto Rico; Le Lamentin,
+Martinique; Willemstad, Curacao; Chaguaramas, Trinidad; Camuri, Venezuela; Cayenne, French
+Guiana; and Fortaleza, Brazil and will be connected with the domestic networks in those countries or
+territories.  Shareholder voting interest in AMERICAS-II will be divided among the Joint Applicants. 
+The Joint Applicants expect to activate AMERICAS-II by September 15, 1999.
+
+     5.   The Joint Applicants plan to use AMERICAS-II in providing their already-existing
+authorized services.  Applicants state that other carriers, including non-owners, may acquire capacity in
+AMERICAS-II by lease, IRU, or other arrangements.  The minimum investment unit (MIU) assignments
+for each segment and subsegment of AMERICAS-II are included in the attachments to this Order.
+
+     6.   The Joint Applicants state that the facilities covered by this application will be used to
+supplement their existing cable and satellite facilities in providing the services that they are presently
+furnishing or may subsequently furnish.  These include satellite circuits between United States earth
+stations and the INTELSAT Atlantic Ocean Region satellites acquired by the Joint Applicants from the
+COMSAT Corporation ("COMSAT") pursuant to COMSAT's applicable tariffs and are used in
+conjunction with connecting circuits between the satellites and foreign earth stations provided by the
+Joint Applicants' foreign correspondents, or, in some instances, other telecommunications entities.  The
+existing cable facilities used to provide service between the United States and those locations proposed
+to be served by AMERICAS-II consist of circuits in the AMERICAS-1 cable system.  In addition, the
+Joint Applicants state that not all of them may be certified to directly serve all territories that
+AMERICAS-II facilities are capable of serving.  The Joint Applicants state, however, that individual
+applicants proposing future extensions into such territories by means of AMERICAS-II facilities will
+seek the required authorization as necessary.  
+
+                         III. Discussion
+
+     7.   The Joint Applicants have all certified that they have not agreed and will not agree to
+accept special concessions from any foreign carrier.  The Joint Applicants, with the exception of MCII
+and GTECC, further certify that any affiliated foreign carriers do not have market power or the ability to
+discriminate against unaffiliated carriers through control of bottleneck services and facilities on any of
+the routes served by Americas-II.  To the extent that MCII and GTECC or any of the Joint Applicants
+provide common carrier service over AMERICAS-II between the United States and a market for which
+they are regulated as a dominant carrier under Section 63.10 of the Commission's rules, their use of
+AMERICAS-II on those routes will be subject to the Commission's dominant carrier safeguards of
+Section 63.10.  Accordingly, we find that the Joint Applicants' foreign affiliations do not raise concerns
+that could persuade us to deny the application under Section 2 of the Cable Landing License Act.  
+
+     8.   Section 214 of the Communications Act requires the Commission to determine that the
+authorization of the AMERICAS-II facilities will serve the public interest, convenience and necessity. 
+The proposed Section 214 authorization will improve the telecommunications infrastructure and enhance
+services on the routes served by AMERICAS-II.  The Commission has previously stressed the
+importance of making advanced telecommunications available to further economic development of the
+Caribbean region.  The improvement in telecommunications systems would also improve services to
+areas in South and Central America.  The Joint Applicants have also stated that other carriers, including
+non-owners, may acquire capacity in AMERICAS-II, so the pro-competitive goals of the Commission
+are met by granting the Section 214 authorization.
+
+     9.   Accordingly, we conclude that the public interest will be served by granting the Joint
+Applicants authority to construct, acquire and operate capacity in AMERICAS-II.  Therefore, we find
+that the present and future public convenience and necessity require a grant of the application, as
+conditioned below.
+
+                       IV. Ordering Clauses
+
+     10.  IT IS ORDERED that application File Nos. ITC-98-342 and ITC-98-342A ARE
+GRANTED and the Joint Applicants, AT&T, MCII, PGE, Sprint, LCC, STSJ, TUPR, TLDI, TRICOM,
+TELEGLOBE, IMPSAT, GTECC, WORLDCOM, STAR, WORLDxCHANGE, CENTENNIAL, IDT,
+and TELIA are authorized, pursuant to Section 214 of the Communications Act, as amended, to (1)
+construct, acquire, and operate capacity in a digital submarine cable system known as the AMERICAS-II
+Cable System among Florida, Puerto Rico, the U.S. Virgin Islands, Martinique, Curacao, Venezuela,
+Trinidad, French Guiana, and Brazil in accordance with the interests indicated in the Attachments; (2)
+acquire by lease or other comparable means such extension facilities as may be required to extend the
+capacity of AMERICAS-II; and (3) activate capacity in AMERICAS-II and in the aforementioned
+facilities for the provision of their authorized services. 
+
+     11.  IT IS FURTHER ORDERED that Joint Applicants' tariffs must state that their customers
+may not resell international private lines or connect them to the public switched network for the
+provision of international basic telecommunications services, unless authorized to do so by the
+Commission upon a country-specific finding that the Commission will permit the provision of switched
+services over private lines between the United States and that country.  See Market Entry and Regulation
+of Foreign-Affiliated Entities, IB Docket No. 95-22, Report and Order, 11 FCC Rcd 3873 (1995); Rules
+and Policies on Foreign Participation in the U.S. Telecommunications Market, IB Docket Nos. 97-142,
+95-22, Report and Order and Order on Reconsideration, FCC 97-398 (rel. Nov. 26, 1997), recon.
+pending.  The limitations in this paragraph are subject to the exceptions contained in Section
+63.18(e)(4)(ii) of the Commission's rules, 47 C.F.R. 63.18(e)(4)(ii) (1996).
+
+     12.  IT IS FURTHER ORDERED that the Joint Applicants shall make available half-interests
+in AMERICAS-II capacity to such present and future U.S. carriers as may be authorized by the
+Commission to acquire such capacity.
+
+     13.  IT IS FURTHER ORDERED that the Commission retains jurisdiction to reallocate U.S.
+carriers' interests in capacity herein authorized, as the public interest may require and with any requisite
+concurrence of the foreign administration or carriers concerned, in order to accommodate additional
+carriers or for other reasons.
+
+     14.  IT IS FURTHER ORDERED that the Commission retains jurisdiction over all matters
+relating to the Joint Applicants' ownership, management, maintenance, and operation of the cable system
+as authorized herein to ensure the most efficient use not only of this cable system but of all means of
+communications between the United States and the Caribbean Region. 
+
+     15.  IT IS FURTHER ORDERED that the Joint Applicants shall include AMERICAS-II
+facility use in all circuit reports that may be required by the Commission's rules.
+
+     16.  This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R.  0.261,
+and is effective upon release.  Petitions for reconsideration under Section 1.106 or applications for
+review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106, 1.115, may be filed within 30
+days of the date of public notice of this order (see 47 C.F.R.  1.4(b)(2)).
+
+
+                                                            FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+                                                            Diane J. Cornell
+                                                            Chief, Telecommunications Division
+                                                            International Bureau

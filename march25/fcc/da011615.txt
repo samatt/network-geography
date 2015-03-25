@@ -1,0 +1,96 @@
+  ********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect or Word to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+ Before the
+               Federal Communications Commission
+                     Washington, D.C. 20554
+
+In the Matter of                        )
+                                        )
+CABLE & WIRELESS USA, INC.              )
+                                   )
+Application for a License to Land and Operate               )    File No.  SCL-LIC-20010122-00002
+a Private Fiber-Optic Cable System                               )
+Between the United States,              )
+the United Kingdom, and France          )
+                                        )
+
+
+                                   ORDER
+
+     Adopted:      July 6, 2001                                       Released:  July 9, 2001
+
+By the Chief, Telecommunications Division, International Bureau:
+
+
+1.     Pursuant to the Cable Landing License Act and Executive Order No. 10530, on June
+8, 2001, we granted authority to Cable & Wireless USA, Inc. (C&W USA) to land and operate a
+private fiber-optic submarine cable system to be called the Apollo Submarine Cable System
+(Apollo Cable) between the United States, the United Kingdom, and France.  In this Order, at
+the request of C&W USA, we amend the License Order to reflect a change in the location of the
+landing station site in New York.
+2.        On July 3, 2001, C&W USA notified us that for commercial reasons they had to
+move the New York landing site for the Apollo Cable to a plot adjacent to the one cited in the
+License Order, and requested that we correct the License Order to reflect this new location. 
+According to C&W USA, they encountered difficulties in purchasing the Tritec Park property,
+the landing site location set forth in the License Order. C&W USA was, however, able to
+purchase a plot in the same industrial subdivision   Brookhaven Technology Center, Shirely,
+New York -- which is adjacent to the original landing site location.  The coordinates for this
+plot, the Parr Property, are  40§ 50 minutes 30 seconds north and 72§ 53 minutes 4 seconds west. 
+C&W USA states that this change does not affect the environmental approvals necessary for
+permission to build the landing station.
+3.     We find that this change in the location of the New York landing station, to an
+adjacent plot in the same industrial subdivision, does not affect our analysis in authorizing C&W
+to land and operate the Apollo Cable.  Consequently, we grant C&W's request and amend the
+License Order to show the Parr Property as the New York landing station for the Apollo Cable.  
+4.     ACCORDINGLY, paragraph 12 of  License Order is amended to read as follows:
+          12.  C&W USA states that the Apollo Cable landing stations in the
+     United States will be located in New York and New Jersey.  In New York, the
+     cable landing station will be located on Parr Property, Brookhaven Technology
+     Center, Shirley, New York, at coordinates 40§ 50 minutes 30 seconds north and
+     72§ 53 minutes 4 seconds west.  In New Jersey, the cable landing station will be
+     located in an eleven acre site in Wall Township, Manasquan, New Jersey, at
+     coordinates 40§ 9 minutes 30.4 seconds north and 74§ 6 minutes 5.8 seconds west. 
+     The Apollo Cable will land in Creathorne Farm, Bude, United Kingdom, at
+     coordinates 50§ 47.47 minutes north and 4§ 32.17 minutes west.  In France, the
+     Apollo Cable will land in Keradrivin, Ville de Lannion, at coordinates 48§ 45
+     minutes 4 seconds north and 3§ 30 minutes 25 seconds west.  C&W USA has
+     complied with Section 1.767(a) of the Commission's rules, which requires
+     applicants to file a specific description of any landing point, including a map.46 
+     The license therefore is not subject to any further public notice or Commission
+     approval of the cable system's landing points pursuant to the procedure in Section
+     1.767(a). 
+     Further, footnote 46 of the License Order is amended to read as follows:
+     46   Application at Exhibits B, C, D, E, and F.  See also C&W April 26 Letter; Letter from
+     Joanna S. Lowry, Cable & Wireless USA, Inc., to Magalie Roman Salas, FCC, filed in File No. 
+     SCL-LIC-20010122-00002 (dated July 3, 2001).
+     5.   This Order is issued under Section 0.261 of the Commission's rules, 47 C.F.R. 
+0.261(5), and is effective upon adoption.  Petitions for reconsideration under Section 1.106 or
+applications for review under Section 1.115 of the Commission's rules, 47 C.F.R.  1.106,
+1.115, may be filed within 30 days of the date of public notice of this order (see 47 C.F.R. 
+1.4(b)(2)).
+
+                              FEDERAL COMMUNICATIONS COMMISSION 
+
+                              Rebecca Arbogast, Chief
+                              Telecommunications Division
+                              International Bureau
