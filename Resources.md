@@ -9,7 +9,12 @@ Work in progress...
 ##References, Reading
 ---
 [Critical Engineering](http://criticalengineering.org/)
-[A Mathematical Theory Of Communication - Claude Shannon](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
+
+In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf) Claude Shannon laid forth the idea that once information became digital, it could be transmitted without error. 
+
+[A Symbolic Analysis Of Relays and Switching Circuits](https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf) This paper point out the identity between the two "truth values" of symbolic logic and the binary values 1 and 0 of electronic circuits. Shannon showed how a "logic machine" could be built using switching circuits corresponding to the propositions of Boolean algebra
+
+
 
 <!--
 [Delivery For Mr. Assange](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/)
@@ -28,6 +33,7 @@ Work in progress...
 [GnuRadio](http://gnuradio.org/redmine/projects/gnuradio/wiki)
 
 ###Networking
+[Wire Edit](https://wireedit.com/) : Text editor for network stuff
 
 [WireShark](https://www.wireshark.org/) : Classic network protocol analyser
 
