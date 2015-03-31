@@ -88,9 +88,10 @@ In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/
 [geojson.io](http://geojson.io) : useful service for quickly visualizing, editing, and storing data in geojson format
 
 ###Converting File Formats
-[gpsbabel](www.gpsbabel.org) : tool for converting geodata file formats, has a GUI and command line utility; there are a few wrappers for other languages out there also
+[gpsbabel](www.gpsbabel.org) : tool for converting geodata file formats, has a GUI and command line utility; there are a few wrappers for other languages out there also. 
 
 [ogr2ogr](http://www.gdal.org/ogr2ogr.html) : a command line tool that's part of GDAL, possibly the most versatile and useful geospatial library ever. ogr2ogr is specifically useful for converting file formats
 
 [togeojson](http://mapbox.github.io/togeojson/): converts KML and GPX to geojson
 
+[joiner](https://github.com/mhkeller/joiner) : node module for doing equivalent of table joins between json and geojson data. 
