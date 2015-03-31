@@ -6,22 +6,21 @@ Work in progress...
 
 
 
-##References
+##References, Reading
 ---
-<!--[Critical Engineering](http://criticalengineering.org/)
+[Critical Engineering](http://criticalengineering.org/)
 
+In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf) Claude Shannon laid forth the idea that once information became digital, it could be transmitted without error. 
+
+[A Symbolic Analysis Of Relays and Switching Circuits](https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf) This paper point out the identity between the two "truth values" of symbolic logic and the binary values 1 and 0 of electronic circuits. Shannon showed how a "logic machine" could be built using switching circuits corresponding to the propositions of Boolean algebra
+
+
+
+<!--
 [Delivery For Mr. Assange](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/)
 
 [Newstweek](http://newstweek.com/)
 
-
-Ping Rudgoldberg machine
-Resources
-File structures
-Slides
-Example Code
-
-Setup parsers for NSHeyy logs 
 
 -->
 ##Tutorials, Software
@@ -34,6 +33,7 @@ Setup parsers for NSHeyy logs
 [GnuRadio](http://gnuradio.org/redmine/projects/gnuradio/wiki)
 
 ###Networking
+[Wire Edit](https://wireedit.com/) : Text editor for network stuff
 
 [WireShark](https://www.wireshark.org/) : Classic network protocol analyser
 
@@ -53,6 +53,7 @@ Setup parsers for NSHeyy logs
 [YateBTS with BladeRF](http://scriptogr.am/samatt/post/running-yate-bts)
 
 ##Submarine Cables
+---
 [Telegeography's Submarine Cable Map](http://submarinecablemap.com)
 
 [geojson of the Telegeography data](/march25/submarine_cables.geojson) : converted from a Google Fusion Table, which, I can't even
@@ -64,6 +65,9 @@ Setup parsers for NSHeyy logs
 [Submarine Cable Taps](http://lifewinning.com/submarine-cable-taps)
 
 ##Other Cable/Physical Infrastructure Resources
+---
+[325 Hudson](https://gumroad.com/l/325Hudson)
+
 [Seeing Networks in New York](http://seeingnetworks.in/nyc)
 
 [Level 3 Cable Map](http://maps.level3.com)
@@ -72,3 +76,22 @@ Setup parsers for NSHeyy logs
 
 [Slightly dated guide to major carrier hotels and telecommunications infrastructure in New York](http://cromwell-intl.com/travel/usa/new-york-internet/)
 
+##Geodata and Mapmaking Resources
+---
+
+###General Educational Resources
+[mapschool.io](http://mapschool.io) : a good overview for understanding conceptual basics of mapping, especially for the web.
+
+[Maptime](http://maptime.io) : worldwide network of groups creating educational content about mapmaking, have a ton of [educational resources](http://maptime.io/lessons-resources/) online
+
+###Editing Resources/Make a map hella fast
+[geojson.io](http://geojson.io) : useful service for quickly visualizing, editing, and storing data in geojson format
+
+###Converting File Formats
+[gpsbabel](www.gpsbabel.org) : tool for converting geodata file formats, has a GUI and command line utility; there are a few wrappers for other languages out there also. 
+
+[ogr2ogr](http://www.gdal.org/ogr2ogr.html) : a command line tool that's part of GDAL, possibly the most versatile and useful geospatial library ever. ogr2ogr is specifically useful for converting file formats
+
+[togeojson](http://mapbox.github.io/togeojson/): converts KML and GPX to geojson
+
+[joiner](https://github.com/mhkeller/joiner) : node module for doing equivalent of table joins between json and geojson data. 
