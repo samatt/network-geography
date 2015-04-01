@@ -47,16 +47,24 @@ img {
 
 }
 
-.payload{
-  font-size:80px;
+/*.payload{
+  font-size:70px;
   letter-spacing:-5px;
-}
+}*/
 .small {
-  min-height:75vh;
-  max-height: 75vh;
+  min-height:50vh;
+  max-height: 50vh;
   display:inline-block;
   vertical-align: middle;
 }
+.xsmall {
+  min-height:25vh;
+  max-height: 25vh;
+  /*display:inline-/*block*/;*/
+  vertical-align: middle;
+  /*align: middle;*/
+}
+
 
 div {
   cursor:pointer;

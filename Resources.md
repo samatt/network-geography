@@ -8,32 +8,21 @@ Work in progress...
 
 ##References, Reading
 ---
-[Critical Engineering](http://criticalengineering.org/)
 
 In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf) Claude Shannon laid forth the idea that once information became digital, it could be transmitted without error. 
 
 [A Symbolic Analysis Of Relays and Switching Circuits](https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf) This paper point out the identity between the two "truth values" of symbolic logic and the binary values 1 and 0 of electronic circuits. Shannon showed how a "logic machine" could be built using switching circuits corresponding to the propositions of Boolean algebra
 
+[Uncovering Social relationships through smartphone probes](http://conferences.sigcomm.org/imc/2013/papers/imc148-barberaSP106.pdf) This paper does some good analysis on social groups based on networks their phones are probing for.
 
-
-<!--
-[Delivery For Mr. Assange](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/)
-
-[Newstweek](http://newstweek.com/)
-
-
--->
 ##Tutorials, Software
 ---
 [Wigle DB](https://wigle.net) : Crowdsourced war driving
 
-###Software Defined Radios	
-[Primer](https://github.com/samatt/ArtSec-SDR)
 
-[GnuRadio](http://gnuradio.org/redmine/projects/gnuradio/wiki)
 
 ###Networking
-[Wire Edit](https://wireedit.com/) : Text editor for network stuff
+[Wire Edit](https://wireedit.com/) : Text editor for network stuf
 
 [WireShark](https://www.wireshark.org/) : Classic network protocol analyser
 
@@ -47,6 +36,11 @@ In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/
 
 [N.S.Heyyy](https://github.com/antiboredom/nsheyy_gui/releases): Wi-Fi Sniffer
 
+###Software Defined Radios	
+[Primer](https://github.com/samatt/ArtSec-SDR)
+
+[GnuRadio](http://gnuradio.org/redmine/projects/gnuradio/wiki)
+	
 ###GSM
 [OsmoBTS with USRP1](http://scriptogr.am/samatt/post/running-osmobts-with)
 
