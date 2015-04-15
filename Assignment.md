@@ -6,7 +6,7 @@
 - Add links to the repo or website where you end up documenting your work
 - Format for adding contribution below 
 
----
+
 
 ##Sample Contribution Format:
 
