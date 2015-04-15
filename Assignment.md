@@ -10,6 +10,13 @@
 
 ##Sample Contribution Format:
 
-**Student(s) Name(s)/Github Handle**
-**Link to Project**
-**1-2 sentences saying what it is**
+##Project Name
+ * Student(s) Name(s)/Github Handle
+
+ * Link to Project
+
+ * 1-2 sentences saying what it is
+
+
+
+
