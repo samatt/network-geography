@@ -1,6 +1,6 @@
 body {
   font-family: 'Helvetica';
-  letter-spacing:-1px;
+  letter-spacing:-5px;
   background:#000;
   background-size:100%;
   color:#fff;
@@ -17,22 +17,6 @@ em, a {
   font-style:normal;
   color:#8dbd0c;
 }
-.mac{
-  color:#66cc00;
-}
-
-.ip{
-  color:#ff0033;
-  
-}
-
-.tcp{
-  color:#ff6600;
-}
-
-.http{
-  color:#009999;
-}
 
 a {
   background: #34d0e7;
@@ -46,25 +30,6 @@ img {
   display:inline-block;
 
 }
-
-/*.payload{
-  font-size:70px;
-  letter-spacing:-5px;
-}*/
-.small {
-  min-height:50vh;
-  max-height: 50vh;
-  display:inline-block;
-  vertical-align: middle;
-}
-.xsmall {
-  min-height:25vh;
-  max-height: 25vh;
-  /*display:inline-/*block*/;*/
-  vertical-align: middle;
-  /*align: middle;*/
-}
-
 
 div {
   cursor:pointer;

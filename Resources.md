@@ -47,6 +47,7 @@ In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/
 [YateBTS with BladeRF](http://scriptogr.am/samatt/post/running-yate-bts)
 
 ##Submarine Cables
+---
 [Telegeography's Submarine Cable Map](http://submarinecablemap.com)
 
 [geojson of the Telegeography data](/march25/submarine_cables.geojson) : converted from a Google Fusion Table, which, I can't even
@@ -58,6 +59,7 @@ In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/
 [Submarine Cable Taps](http://lifewinning.com/submarine-cable-taps)
 
 ##Other Cable/Physical Infrastructure Resources
+---
 [325 Hudson](https://gumroad.com/l/325Hudson)
 
 [Seeing Networks in New York](http://seeingnetworks.in/nyc)
@@ -68,3 +70,22 @@ In [A Mathematical Theory Of Communication ](http://cm.bell-labs.com/cm/ms/what/
 
 [Slightly dated guide to major carrier hotels and telecommunications infrastructure in New York](http://cromwell-intl.com/travel/usa/new-york-internet/)
 
+##Geodata and Mapmaking Resources
+---
+
+###General Educational Resources
+[mapschool.io](http://mapschool.io) : a good overview for understanding conceptual basics of mapping, especially for the web.
+
+[Maptime](http://maptime.io) : worldwide network of groups creating educational content about mapmaking, have a ton of [educational resources](http://maptime.io/lessons-resources/) online
+
+###Editing Resources/Make a map hella fast
+[geojson.io](http://geojson.io) : useful service for quickly visualizing, editing, and storing data in geojson format
+
+###Converting File Formats
+[gpsbabel](www.gpsbabel.org) : tool for converting geodata file formats, has a GUI and command line utility; there are a few wrappers for other languages out there also. 
+
+[ogr2ogr](http://www.gdal.org/ogr2ogr.html) : a command line tool that's part of GDAL, possibly the most versatile and useful geospatial library ever. ogr2ogr is specifically useful for converting file formats
+
+[togeojson](http://mapbox.github.io/togeojson/): converts KML and GPX to geojson
+
+[joiner](https://github.com/mhkeller/joiner) : node module for doing equivalent of table joins between json and geojson data. 
